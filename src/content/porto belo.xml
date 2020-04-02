@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Porto Belo</title>
+        <author>Harry Laus</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication statement.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>“Porto Belo”, de Harry Laus. In: <title>Ao juiz dos ausentes</title>. Organização de R. Laus. Tijucas, SC: Centro Cultural Harry Laus, 2002.</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+              <lg>
+                <l>Começa, no ar da antemanhã,</l>
+                <l>A haver o que vai ser o dia.</l>
+                <l>E uma sombra entre as sombras vã.</l>
+                <l>Mais tarde, quando é a manhã</l>
+                <l>Agora é nada, noite fria.</l>
+              </lg>
+              <lg>
+                <l>É nada, mas é diferente</l>
+                <l>Da sombra em que a noite está;</l>
+                <l>E há nela já a nostalgia</l>
+                <l>Não do passado, mas do dia</l>
+                <l>Que é afinal o que será.<note>In: PESSOA, Fernando. Poesias coligidas: Inéditas (1919-1935). In: ______. Obra Poética. Rio de Janeiro: Nova Aguilar, 1965. p. 579-580.</note></l>
+              </lg>
+              
+              
+
+      <p>Na primeira antemanhã, acendi a luz da cabeceira, afastei as cobertas, e o lençol vermelho coloriu vagamente as paredes de madeira crua do quarto. Fernando Pessoa, aberto ao acaso, antecipou-me o sentido da paisagem que a janela ia mostrar. No céu ainda escuro, estrias de nuvens lentamente mutantes, mais lentamente se iluminavam em tons de verde-azulado. Uma sombra vã não se modificava. Escura e reta, permaneceu alheia ao movimento e à coloração do que afinal será o dia. Mais alguns segundos e o traço negro definiu-se: eram os fios de alta-tensão cortando o céu emoldurado no terço inferior da janela.</p>
+
+      <p>Levantei-me. Tinha-se ido a nostalgia, e a claridade mostrava tudo: à esquerda, uma fileira de hibiscos floridos de vermelho; no outro lado, o bambual; na frente, os dois salgueiros do pátio, a cerca branca, a estrada, uma casa rosa e outra azul-turquesa; um pedaço da ilha coberto de mata verde-escura, o mar parado na linha do horizonte.</p>
+
+      <p>De repente, ruído crescente de um motor. O primeiro ônibus para Florianópolis corta o antigo espaço reservado às sombras, e a realidade se impõe. São seis e meia da manhã, pouco mais.</p>
+
+      <p>A casa? Fica a uns trinta metros da estrada de terra batida, sobre uma pequena elevação, meio oculta pelas árvores. Avenida Governador Celso Ramos é o pomposo nome da estrada, talvez, por constrangimento, abreviado para Av. G. Ramos. A casa chama-se Recanto de Luciana, presente de Ruth a uma sobrinha, escrito numa discreta placa presa à fachada rosa e branco. Uma varanda estreita ocupa dois terços da fachada e dá acesso ao interior: sala e quarto de frente, mais dois pequenos quartos, cozinha, banheiro. Junto ao banheiro, uma estreita e misteriosa escada leva a um quarto superior, quase sempre vazio, construído para as eventuais vindas de Ruth.</p>
+
+      <p>É maio. Os veranistas foram-se com o início da Quaresma; quase todas as casas fechadas e assim permanecerão até o fim do ano, com pequenas interrupções nos feriados maiores. Então, aparecem carros do Paraná, de São Paulo, do Rio Grande, muitos de Blumenau, Itajaí, outras cidades de Santa Catarina. No mais, como no poema de Cecília Meireles, “é tudo horizontal silêncio”. Para quebrá-lo, nem os passos dos humildes nativos que cruzam a estrada. Apenas, vez por outra, uma lenta carroça ou um automóvel em disparada. E pássaros anônimos, cantando por todos os lados. Abelhas e beija-flores estão ao alcance de minha mão, tirando mel das flores vermelhas junto à janela.</p>
+
+      <p>Os habitantes da casa? Uma cachorra dálmata muito meiga, de nome Águia, circula suas pintas negras sobre o pelo branco em franca disparada pelo jardim. Lauro, olhar triste de dezoito anos, constrói uma garagem para o carro que dirige. Aqui desta mesa, companheira solícita de muitas mudanças, um solteirão de 54 anos acompanha os movimentos de ambos. Nada de comum entre os três personagens.</p>
+
+      <p>E o drama? Do Rio para São Paulo, de São Paulo para Bom Abrigo, de Florianópolis em direção a Porto Belo. Em que recanto desta casa vou internar o drama? E depois?</p>
+
+      <p>O maior sucesso da mudança foi o cavalo malhado. No topo do caminhão, sobre móveis, painéis de compensado e almofadas coloridas, chamava a atenção de todos, ao longo da manhã de domingo na BR-101. Crina e cauda louras esvoaçando a 80 quilômetros por hora, Malhado venceu todos os páreos que nunca disputou. De pau e enchimento, mas coberto com a pele e o pelo naturais, o cavalinho abriu o sorriso de crianças e gente grande endomingada, que ia para a missa ou voltava da igreja, pensando em Deus, nos pecados e na absolvição – nunca no arremedo de um nobre animal, estático e sobranceiro como uma figura de proa das barcaças do rio São Francisco.</p>
+
+      <p>A visão inesperada e veloz terá ficado um marco na lembrança de alguns: “Aquele domingo que o cavalo passou a 80 por hora”.</p>
+
+      <p>— São ciganos.</p>
+
+      <p>— Ciganos, nada! A placa é de São José.</p>
+
+      <p>— E daí? São José não pode ter ciganos? Cigano tem placa de todo o mundo.</p>
+
+      <p>— É um parque de diversões.</p>
+
+      <p>— Para onde irá?</p>
+
+      <p>Carrossel de um só cavalo, sem música de realejo, sem movimento circular, deslocado no meio da sala, parte de uma decoração absurda sobre tapetes de Marrocos, na presença de ex-votos e crochê do Ceará, uma ovelha de Paris, a guitarra portuguesa e muitos quadros pelas paredes.</p>
+
+      <p>Cigano, de certa forma. Sem nostalgia do passado nem do dia que afinal será.</p>
+
+    </body>
+  </text>
+</TEI>

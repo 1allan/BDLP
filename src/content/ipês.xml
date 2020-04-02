@@ -1,0 +1,1098 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication statement.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Source description.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <l/>
+      <l>RICARDO GONÇALVES</l>
+      <l>I P E S</l>
+      <l>VERSOS</l>
+      <l/>
+      <l>MONTEIRO LOBATO &amp; Cia. editores RUA BOA VISTA, 52 — S. PAULO</l>
+      <l>*</l>
+      <l/>
+      <l>PREFACIO</l>
+      <l rend="indent"><hi>Na lama da estrada, ao pé da porteira, uma orla de pétalas côr de ouro </hi>— <hi>flores de ipê ? — engrinaldam as pôcinhas d’agua côr de telha.</hi></l>
+      <l rend="indent"><hi>Mas ao chape-chape do cavalio que se appro- xima, ó linda revoada de borboletas amarellas dentro de cujo arabescar eu passo !</hi></l>
+      <l rend="indent"><hi>Tontinhas !...</hi></l>
+      <l rend="indent"><hi>Como me vêem afastar socegam, e uma a uma pousam de novo, asas a prumo, immoveis, como -flores de ipê dispostas em grinalda.</hi></l>
+      <l rend="indent"><hi>A saudade commenta dentro em mim :</hi></l>
+      <l rend="indent">—Um soneto de Ricardo . . .</l>
+      <head>** *</head>
+      <l rend="indent"><hi>De bruços no remanso de um pôço d sombra de ingazeiros, de cuja galhaça pendem bainhas retorcidas — peludos escrinios duma polpa que fiir-</hi></l>
+      <l><hi>6</hi></l>
+      <l><hi>Prefacio</hi></l>
+      <l><hi>tou á neve a côr e ao velludo o macio — contemplo um grupo de guarás espiando, resabiados, uma “vaquinha” de elytros verde gaio, que cahiu na agua e bóia pernejando.</hi></l>
+      <l rend="indent"><hi>Um João-bôbo tocaia-me de perto, inclinando a cábeciia.</hi></l>
+      <l rend="indent"><hi>Rumoreja longe o rio, na corredeira.</hi></l>
+      <l rend="indent"><hi>Bisbilhos, cicics, tentativas de som grgpham o silencio sombrio da grota.</hi></l>
+      <l rend="indent"><hi>E a saudade “pensa" dentro em mim :</hi></l>
+      <l rend="indent">—<hi>Versos de Ricardo . . ,</hi></l>
+      <head>** *</head>
+      <l rend="indent"><hi>Bordejando a ilha das Palmas desliza a canôa no berylo liquido da costeira.</hi></l>
+      <l rend="indent"><hi>Manuel rema á popa, Juvenal d prôa.</hi></l>
+      <l rend="indent"><hi>Como é loquaz o Manuel!</hi></l>
+      <l rend="indent"><hi>Não tem fim a historia da tintureira que em- bicheirou um dia, lá pelas alturas da Moéla.</hi></l>
+      <l rend="indent"><hi>Afia o mar como um seio de menina agitado dos primeiros sustos de amor.</hi></l>
+      <l rend="indent"><hi>Está calmo, está macio.</hi></l>
+      <l rend="indent"><hi>Sopram brisas de sudoeste.</hi></l>
+      <l rend="indent"><hi>Duas gaivotas, immoveis, na lage do Major, longe, descansam juntinhas, como pombas . . .</hi></l>
+      <l rend="indent"><hi>Só uma nuvem no céo ... E a diluir-se, estirada em frouxel de paina . . .</hi></l>
+      <l rend="indent"><hi>Prefacio'</hi></l>
+      <l rend="indent">—tainhas !</l>
+      <l rend="indent"><hi>Vólto o rosto.</hi></l>
+      <l rend="indent"><hi>A boreste, linguas de prata, ás dezenas, emergem do liquido, scintillam, instantaneas, á luz do sol, num salto, e caem de chapa na agua azul.</hi></l>
+      <l rend="indent">—Que lindo !</l>
+      <l rend="indent"><hi>Não tarda muito, rebóla um bdto na esteira do peixe.</hi></l>
+      <l rend="indent"><hi>E outro bolo.</hi></l>
+      <l rend="indent"><hi>E outro.</hi></l>
+      <l rend="indent"><hi>Somem-se as tainhas.</hi></l>
+      <l rend="indent"><hi>Somem-se os botos.</hi></l>
+      <l rend="indent"><hi>E o mar fecha aos nossos olhos a chacina sangrenta que lhe vae no bojo.</hi></l>
+      <l rend="indent"><hi>Fementido !</hi></l>
+      <l rend="indent"><hi>Todo plágios do céo por fóra, todo dramas de carnagem por dentro . . .</hi></l>
+      <l rend="indent">—<hi>Manuel, Manuel, diz a minha saudade, está faltando aqui um companheiro, o Ricardo...</hi></l>
+      <l rend="indent">—0 Ricardo Pequeno, da praia do Góes ?</l>
+      <l rend="indent"><hi>—Não, o outro, o grande — Ricardito... {‘)</hi></l>
+      <head>*•» *</head>
+      <l>A casa onde móra aquella Menina côr de açucena E’ unia casinha pequena,</l>
+      <l>Casa de porta e janella.</l>
+      <l rend="indent"><hi>Ricardo mede versos na mesinlia ém desordem,</hi></l>
+      <head>/</head>
+      <l><hi>I</hi></l>
+      <l><hi>8</hi></l>
+      <l><hi>P r ef a c i o</hi></l>
+      <l rend="indent">Jls janellas enquadram a paineira -florescida do Minarete. (2)</l>
+      <l rend="indent"><hi>A espaços, tuna fiôr se destaca e cae, girante. Godofredo Rangel, ás voltas cora a machina de café, resmunga contra o Nogueira. (3) Não é que o patife passára a noite a lêr um Zola á luz azul da chamma do alcool, depois de consumido o ultimo coto de vela ?</hi></l>
+      <l>A-ca-son-de-mó- ra-qué...</l>
+      <l rend="indent">—<hi>Não ha combustível, senhor poeta !</hi></l>
+      <l rend="indent">—Accende estes “Dez Contos(4)</l>
+      <l rend="indent">—<hi>Pegarão fogo t</hi></l>
+      <l rend="indent">—<hi>Experimenta. A-ca-son-de-mó </hi>. . .</l>
+      <l><hi>E as flores, uma a uma, cahiam, girantes...</hi></l>
+      <l rend="indent"><hi>E as rimas, uma a uma, ageitavam-se no verso...</hi>'</l>
+      <l rend="indent"><hi>E os contos, um a um, ardiam sob a cafeteira . . .</hi></l>
+      <l rend="indent"><hi>Passos na escada. Um grito.</hi></l>
+      <l rend="indent">—<hi>Ricardo ! Rangel !</hi></l>
+      <l rend="indent">—<hi>Vé, Bompard! (</hi>5) respondem de cima.</l>
+      <l><hi>Era o Cândido (</hi>6) que chegava, e o Raul (7)</l>
+      <l><hi>e o Arthur. (</hi>s) A cainçalha (8) integrava-se e a uma voz estrugia, num desafio a Baucaire (10) o nosso hymno de guerra :</l>
+      <l>Dé brin o dé bran Cabussaran ... (")</l>
+      <l><hi>Prefacio</hi></l>
+      <l rend="indent"><hi>Mal agonizavam as ultimas notas do “hymno do Minarete” (</hi>12), da mesinha em desordem evo- lava -se um novo :</l>
+      <l>A-ca-son-de-mó-ra-qué...</l>
+      <l rend="indent"><hi>Porque nunca mais deixaram de associar-se, em meu espirito e em minha saudade, a Poesia e o Poeta, taes os conheci um dia, no Minarete — elle medindo versos na mesinha em desordem, ella a revelar-se nas flores côr de rosa que, aos beijos da brisa, cahiam. girantes, da nossa grande paineira florescida, . . .</hi></l>
+      <l>MONTEIRO LOBATO</l>
+      <head>(1)Ricardito, era como o tratavam na intimidade a fa- milia e os amigos.</head>
+      <head>(2)O Minarete... Quantas saudades !...</head>
+      <head>Um pequeno chalé amarelio, no Belemzinlio, fronteiro</head>
+      <head>á rua Oezario Alvim.</head>
+      <head>Inda existe, conservando bastante do caracter primi</head>
+      <head>tivo ; é a casa numero B72 da rua 21 de Abril.</head>
+      <head>Occupavamos o andar superior, composto de dois compartimentos apenas, e como das janellas se dominasse a cidade de todos os lados, baptizamol-o — o Minarete. Os «muezzins» eram Ricardo, eu e Godofredo Rangel, autor, mais tarde, dessa obra prima que é «Vida Ociosa».</head>
+      <head>Muezzins, porque «offioiavamos nas aras da arte» e</head>
+      <head>prégavamos aos povos a «verdade esthetica»... Os povos</head>
+      <head>não nos ouviam, nem sabiam da nossa existencia, mas tudo era sonho em nossa vida.</head>
+      <head>No quintal da casa, muito amplo, visto que naquelle tempo a cidade morria alli e as ruas, hoje construídas,</head>
+      <head>nüo passavam de simples arruamentos, cobertos de mato, com trilhos de vaccas e sebes marginaes de roseira silvestre, erguia-se a «nossa* paineira. Objecto de perenne contemplação para Ricardo, ora núa de folhas e apen-</head>
+      <head>1</head>
+      <l>/</l>
+      <l><hi>10</hi></l>
+      <l><hi>Prefacio</hi></l>
+      <head>doada de fructos oblongos, ora recamada de flores ro- seas quo attrahiam todos os colihris da vizinhança, era essa paineira a nossa arvore querida, a rausa vegetal do poeta.</head>
+      <head>(8)José Antonio Nogueira, esse a quem hoje devem nossas letras o «Amor Immortal» e o «Paiz de Ouro e Esmeralda», formosíssimos compêndios de idéas soh fórma de romance.</head>
+      <head>Nogueira adherira ao nosso grupo, logo após á crise mental que o arrancou ao seminário mineiro onde estudava para padre. A eterna historia. Cahira-llie nas mãos um Voltaire, um Renan, um raio de raeionalista qualquer e toda a igrejinha da crença, haurida no berço e «escholastizada» no seminário, desmoronara fragorosa- mente.</head>
+      <head>Incapaz de mentir a si proprio, deixou a theologia e veiu espiar do Miuerete o mundo. Tudo em S. Paulo era para elle novidade e assombro, o borborinho das ruas, as mulheres galantes, a electricidade, o sorvete... Jamais sahido de Minas, com a meninice e a juventude axphyxiadas no «in-pace» da educação jesuitica, estrenho espectáculo offerecia esse resurrecto, alto, magro, anguloso, cheio de braços, cabellos em desalinho, olhos de espanto, roupas inda dos «Pools» de Tres Corações do Rio Verde, especie de propheta biblico posto de súbito em plena Cosmopolis. Ura Nogueira um montão de escombros em procura dum novo systema de equilíbrio mental.</head>
+      <head>Reconstruia-se, restaurava as idéas devastadas pelo tufão da critica. Lia furiosamente, exgottava a lista inteira dos sublimes excommungados do «Index».</head>
+      <head>Nao conseguia, porem, vencer o vinco do mysticismo e sob a obsessão das causas primarias chamava-nos de continuo á liça.</head>
+      <head>Cortavamos-lhe a phrase com risadas scepticas, e pia- vamos :</head>
+      <head>—Inda estás em Volney, homem ? Que rabada ! Olha que já todos aqui vogamos em alto Nietzsche . . .</head>
+      <head>—Mas a verdade já brilhava no Ramayana. Valmiliy...</head>
+      <head>Novas gargalhadas.</head>
+      <head>—A verdade ! Só aqui no Minarete ha tres — as «nossas» verdadezinlias...</head>
+      <head>Nogueira não se affazia ao espectáculo da população da Paulicéa borborinhante na labuta mundana ; queria-a contemplativa, na meditação diurna e nocturna das cau</head>
+      <l><hi>Prefacio</hi></l>
+      <l><hi>11</hi></l>
+      <head>sas primarias (não dizia Deus), e chegou a pensar na fundação de um credo novo, mixto de catholicismo e sciencia. Ricardo cochichava para os visitantes espantados que o viam assim fatal e soturno :</head>
+      <head>—Caluda ! Está, incubando o decalogo da religião nova que vae fundar no Braz...</head>
+      <head>Nessa epoca travára Nogueira relações com Zola. Atirado a cama, a grenha desfeita pela testa abaixo, o ar feroz, taciturno, devorava um Zola por dia, .lançando as brochuras sugadas pura debaixo da cama. As vezes entrava a leitura pela noite a dentro, até consumir-se o ultimo toco de vela. E se o lance empolgava, á falta de vela recorria elle á garrafa de espirito de vinho que Rangel trazia sempre ao lado da cafeteira e continuava a ler á luz vacillante da chamma azul do fogareiro...</head>
+      <head>(4)Livro mediocre de um literato de barbica no queixo muito popular em S. Paulo naquella época de pobreza literaria.</head>
+      <head>(5)Houve um periodo em que Ricardo e seus companheiros de minarete «viveram» o «Tartarin de Tarascou», de Daudet. Sabiam de cór o livro e como levavam a vida ao ar livre, em intermináveis passeios pelos campos dos arredores, tudo propiciava essa estranha maluquice. Ricardo era o Tartarin ; Rangel, Bezouquet; Cândido Ne- greiros, Bompard ; Arthur Ramos, Pascalon. Havia até o «chameau» — aquelle camello que acompanhara Tartarin á Fr&amp;nça ; era um meninão frangote, filho do inquilino do andar terreo, que tinha a mania de rentar a Ricardo, sem dizer palavra. Viver um romance, um romance d’aquelles... Pois vivemol-o, mezes a fio. Muitos annos mais tarde, da ultima ver. que perambnlei com elle em S. Paulo, antes de dobrar uma esquina, lá nas Perdizes, Ricardo, recordando-se do tempo feliz, en- treparou, na attitude defensiva de Tartarin e exclamou olhi.ndo para mim com o olhar truculento :</head>
+      <head>—« Eux »</head>
+      <head>E pela ultima vez nos rimos, com uma saudade infinita do periodo de ouro da nossa vida...</head>
+      <head>(5)«Vé! Té»! Ainda reminiscencias do Tartarin. Sempre que nos encontravamos a saudação era essa.</head>
+      <head>—Vé, Bompard !</head>
+      <head>—Té, Bezouquet!</head>
+      <head>Quando algum dos companheiros que moravam na cidade vinha ao Minarete, mal transpunha o portão do</head>
+      <l><hi>12</hi></l>
+      <l><hi>Prefacio</hi></l>
+      <head>jardim já levava a mão á bocca, em porta-voz, e desferia o «Vé* ! Surgia logo á janella um dos muezins, que retrucava com solemnissimo «Té» !</head>
+      <head>(6)Cândido Negreiros, o primeiro desertor da rodinha de Ricardo. Falieceu na Suissa em 1909 deixando no grupo um vazio imprehenohivel.</head>
+      <head>(7j Raul de Freitas, companheiro inseparavel de Ricardo cujos versos sabia todos de cór. Muitas vezes, em nossos passeios, quando o poeta, a recitar, perdia o fio, Raul retomava-o, como memória de sobresalente que era de Ricardo.</head>
+      <head>(8)Arfchur Ramos, outro companheiro de Ricardo, por quem tinha um verdadeiro fanatismo. Companheiro liei de todas as horas, sobretudo das dolorosas e das perigosas.</head>
+      <head>(9)O grupo de Ricardo denominou-se vim dia — «a cain- çalha&gt;. Ricardo era o cao que ladra á lua; Raul, cão de collo, cachorrinho de estimação ; Lobato, «bull-dog»; Lino Moreira, cão que ladra e não morde ; Tito Brasil, cachorro ; Nogueira, cão de frade ; Albino de Camargo, o Cunegundes (um cão de rua, vagabundo, que nessa época vivia em S. Paulo pelos cafés), e por ahi além.</head>
+      <head>(10)Como no romance de Daudet havia a rivalidade vellia entre Tarascon e Baucaire, os vivedores do romance crearam tambem uma Baucaire : o Braz, cidade infame onde pontificava o literato de barbica e mais uma caterva de «incompreliendidos» cuja imbecilidade corria parelha com a presumpç.ão.</head>
+      <head>(11)G-rita de guerra dos tarascouezes, que quer dizer, sup- ponlio eu : — por bem ou por mal serão despejados da janella de Tarascon para dentro do Rhodano.</head>
+      <head>(12)Rangel compoz uma toada para o hymno do Minarete, o qual outra cousa não era senão a grita de Tarascon com love alteração no fim.</head>
+      <head>Dé brin o dé bran Cabussaran Dou fenestroun de Tarascoun Dedins lou Rose</head>
+      <head>Em vez «dou fenestroun de Tarascon dedins lou Rose»</head>
+      <l><hi>Prefacio</hi></l>
+      <l><hi>13</hi></l>
+      <head>o nosso hymno resava : «dou fenestroun. de Minaroun dedins lou Tetiose».</head>
+      <head>Em vez de Rose entrava o Tetiose, provençalizaçao do Tietê, em cujas aguas sujas a eainçalha junira afogar a pandilha intoira dos vat.es do Braz...</head>
+      <l>M. L.</l>
+      <l><hi>Ipês</hi></l>
+      <l><hi>15</hi></l>
+      <l>AQUARELLA</l>
+      <l>A casa onde mora aquella Menina côr de açucena,</l>
+      <l>É uma casinha pequena, Casa de porta e janella.</l>
+      <l>Tão pequenina e singella! Ao vel-a, a idéa ine acena De quebrar o bico á penna E fazer uma aquarella.</l>
+      <l><hi>16</hi></l>
+      <l><hi>Ricardo Gonçalves</hi></l>
+      <l>Pintar a casa, a collina, Mas sobretudo a menina, O ar socegado e feliz,</l>
+      <l>Dando relevo á pintura, Numa ridente moldura De cravos e bogaris.</l>
+      <l><hi>Ipês</hi></l>
+      <l><hi>17</hi></l>
+      <l>NHA CAROLA</l>
+      <l><hi>A d. Olga</hi></l>
+      <l>Arrepanhando o vestido De chita azul, nha Carola, Põe feijão na caçarola Para o almoço do marido.</l>
+      <l>Dorme um cachorro extendido Á poria da casinhola;</l>
+      <l>Gritam gallinhas de Angola No terreiro bem varrido.</l>
+      <head>2 - I p É 8</head>
+      <l><hi>18</hi></l>
+      <l><hi>Ricardo Gonçalves</hi></l>
+      <l>Emquanto chia a paneila, A moça vae á janella,</l>
+      <l>A ver si o marido vem.</l>
+      <l>Mas entra logo zangada Porque na volta da estrada Não apparece ninguém.</l>
+      <l><hi>Ipês</hi></l>
+      <l><hi>19</hi></l>
+      <l>MEIO DIA</l>
+      <l>Preso á cintura o vestido, Mostrando a perna trigueira, Junto de um ipê florido,</l>
+      <l>Bate roupa a lavadeira.</l>
+      <l>Sol de braza; ouve-se o ruido Cantante da corredeira;</l>
+      <l>Vozes ao longe, um latido... O baque de uma porteira.</l>
+      <l><hi>20</hi></l>
+      <head><hi>Ricardo Gonçalves</hi></head>
+      <l>Subito, em côro, as gallinhas Cacarejam nas visinhas Moitas de macega, em baixo.</l>
+      <l>E ouve-se o guincho estridente Que 110 ar socegado e quente Solta um gavião de pennacho.</l>
+      <l><hi>Ipês</hi></l>
+      <l><hi>21</hi></l>
+      <l>ZÉ DA PONTE</l>
+      <l><hi>Ao Monteiro Lobato</hi></l>
+      <l>Em doce transparência côr de opala, Expira a tardesinha; o sol descamba, E o Zé da Ponte enfia-se num pala, Monta a cavallo e toca para o samba.</l>
+      <l>Toca depressa, mas um lóro estala,</l>
+      <l>Foge-lhe o pé direito da caçamba,</l>
+      <l>E o socado, com a silha um pouco bamba, Pelas ancas, precipite, resvala.</l>
+      <head>22</head>
+      <l><hi>Ricardo Gonçalves</hi></l>
+      <l>E o Zé da Ponte, cabra destorcido, Pião macóta, segundo a voz do povo, Para longe da sella foi cuspido.</l>
+      <l>'Dianho de sorte má! ” Cahiu setn fala, Perdeu a pagodeira e um ponche novo, Naquella tardesinha côr de opala.</l>
+      <l><hi>Ipês</hi></l>
+      <l><hi>23</hi></l>
+      <l>SERÃO</l>
+      <l>Noite; silencio lugubre e completo.</l>
+      <l>No rancho de paredes barreadas,</l>
+      <l>Uma velha caipira conta ao neto Coisas de assombração e almas penadas.</l>
+      <l>Correm as lagartixas pelo tecto,</l>
+      <l>E o pequeno, as pupillas dilatadas, Ouve a historia macabra do esqueleto, Que foi visto a dansar pelas estradas.</l>
+      <l><hi>24</hi></l>
+      <l><hi>Ricardo Gonçalves</hi></l>
+      <l>Na rêde, os olhos fitos na fogueira, Uma bella morena feiticeira Sonha com sapateados e fandangos.</l>
+      <l>Mas a velha se cala de repente, Porque lá fóra ouviu, distinctamente, Um soturno queixume de curiangos.</l>
+      <l>O BATUQUE</l>
+      <l>Vagas constellações de pyrilampos Ponteiam de oiro a densa noite escura.</l>
+      <l>Ha um trágico silencio na espessura Dos mattagaes e na amplidão dos campos.</l>
+      <l>O batuque dos negros apavora.</l>
+      <l>Anda o sacy nas moitas, vagabundo,</l>
+      <l>E almas penadas, almas do outro mundo, Passam gemendo pela noite em fóra.</l>
+      <l><hi>26</hi></l>
+      <head><hi>Ricardo Gonçalves</hi></head>
+      <l>Só, 110 ranchinho de sapé coberto,</l>
+      <l>Encosto o ouvido á taipa esburacada,</l>
+      <l>E ouço um curiango que soluça, perto...</l>
+      <l>Lambe a fogueira os últimos gravetos, E pela noite rola, maguada,</l>
+      <l>A cantiga nostalgica dos pretos.</l>
+      <l/>
+      <l><hi>0</hi></l>
+      <l>O RANCHO</l>
+      <l>No trecho em que a estrada vira, Junto ao matto que farfalha, Existe um rancho de palha,</l>
+      <l>Tosca habitação caipira.</l>
+      <l>Dentro, as panellas, a rêde De dois ganchos pendurada, Uma espingarda troxada E santos pela parede ...</l>
+      <l><hi>28</hi></l>
+      <l><hi>Ricardo Gonçalves</hi></l>
+      <l>Ao fundo, a macega esconde O ribeirão de aguas claras, Onde bebem veados, e onde Ha lontras e capivaras.</l>
+      <l>É noite. O fogo flammeja No rancho, espancando a treva, E o caboclo a voz eleva,</l>
+      <l>Numa trova sertaneja.</l>
+      <l>E de uma edade já morta Aspira todo o perfume,</l>
+      <l>Sentado junto da porta, Olhando as chispas do lume ...</l>
+      <l><hi>Ipês</hi></l>
+      <l><hi>29</hi></l>
+      <l>DE MANHA</l>
+      <l><hi>A Godofredo Rangel</hi></l>
+      <l>Atiro para os hombros um capote, Alonto a cavallo e sigo estrada afóra. Ri-se, corando meigamente, a aurora, Entre nuvens de fogo e chamalote.</l>
+      <l>Anda por tudo um phrenesi de festa. Scindindo a bruma leve dos espaços, Vão-se trefegos bandos de sanhaços Para o Te-Denm Laudamua da floresta.</l>
+      <l><hi>30</hi></l>
+      <l><hi>Ricardo Gonçalves</hi></l>
+      <l>Descem as caipirinhas para a fonte, Vão-se para a capina os camaradas,</l>
+      <l>E ha cantigas de amor, doces toadas, Num cafezal que sobe pelo monte.</l>
+      <l>Penetro numa rústica vereda</l>
+      <l>Junto ás límpidas aguas de um regato,</l>
+      <l rend="indent">—Tremula fita rútila de seda —</l>
+      <l>Que vae torcicollando pelo matto.</l>
+      <l>O céu azul parece de velludo,</l>
+      <l>A relva tem cambiantes de amethysta, E o rio, a ponte, as perobeiras, tudo, Que pábulo divino para a vista!</l>
+      <l>Encontro um caçador junto ao caminho Negaceando os “nambús”: má catadura, A tiracollo a bolsa e o polvarinho, Chapéu de palha e faca 11a cintura.</l>
+      <l rend="indent"><hi>Ipês31</hi></l>
+      <l>Agora é uma paineira resoante Da garrulice matinal dos ninhos,</l>
+      <l>Em cuja fronde enorme e vicejante Ha flores, borboletas, passarinhos.</l>
+      <l>Aqui, por uma aberta da espessura,</l>
+      <l>Vejo dos tangarás a alegre dansa,</l>
+      <l>Uma orchidea de um tronco se pendura, Um picapau num galho se balança.</l>
+      <l>Depois de uma porteira é um descampado; Sobe aos ares o fumo de uma choça ;</l>
+      <l>Passa um homem por mim: vae para a roça, Pés descalços, camisa de riscado.</l>
+      <l>Caminho mais. O sol abre a pupilla No alto dos céus, e já bem perto avulta, Entre paineiras altas, semi-occulta,</l>
+      <l>A branca torre da matriz da villa.</l>
+      <l><hi>32</hi></l>
+      <l><hi>Ricardo Gonçalves</hi></l>
+      <l>Vêm para a missa grupos campezinos, Rincha um carro moroso pela estrada, Emquanto vibra na manhã doirada O festival repinicar dos sinos.</l>
+      <l><hi>Ipês</hi></l>
+      <l><hi>33</hi></l>
+      <l>MANHÃS DE OUTRORA</l>
+      <l>Antes que o sol, em pleno céu, mais quente, Esgarçasse da bruma a leve trama,</l>
+      <l>Eu me quedava preguiçosamente Sob os lençóes, na tepidez da cama.</l>
+      <l>Invadiam-me o quarto, pelas frestas, A doce luz pulverizada e loura,</l>
+      <l>O matinal sussurro das florestas,</l>
+      <l>O bulicio das terras de lavoura;</l>
+      <head>3 - I p ê s</head>
+      <l><hi>34</hi></l>
+      <l><hi>Ricardo Gonçalves</hi></l>
+      <l>Gritos de appello em prolongado entono, Carros de bois rinchando nos caminhos, A cantiga singela de um colono,</l>
+      <l>A matinada estridula dos ninhos;</l>
+      <l>Ladrar de cães e vozes abafadas, Coinchos, berros, balidos, cacarejos,</l>
+      <l>E, acompanhando o rythmo das enxadas, Uma triste canção de sertanejos...</l>
+      <l>Depois, o sol limpava os céus nevoentos,</l>
+      <l>E então, fugindo á ardencia dos seus raios, Passavam para a serra, barulhentos, Taralhando febris, os papagaios.</l>
+      <l>E eu pensava nas formas tão perfeitas Daquella esquiva moça veneziana,</l>
+      <l>Que vira na labuta das colheitas,</l>
+      <l>E amava, como um doido, ha uma semana.</l>
+      <l><hi>Ipês</hi></l>
+      <l><hi>35</hi></l>
+      <l>Olhos tristes, saudosos de outros climas, A bocca pequenina — uma framboeza, Voz de crystal a debulhar-se em rimas,</l>
+      <l rend="indent">—Colona, parecia uma princeza !</l>
+      <l>Não tinha mais frescura a madrugada Nem mais vivo explendor que o riso delia Quando, esbelta, fugia, arrebatada Na vertigem veloz da tarantella 1</l>
+      <l>E eu punha-me a sonhar: “VentUra a minha, Si por acaso um dia lhe beijasse O til vermelho vivo da boquinha,</l>
+      <l>A setinosa purpura da face.”</l>
+      <l>Mas batiam á porta: — <hi>“O sol vae alto ! Acorda, preguiçoso” ! E, á voz amiga, Eu, resoluto, erguia-me de um salto, Gorgeiando alegremente uma cantiga.</hi></l>
+      <l/>
+      <head><hi>/pés</hi></head>
+      <l><hi>37</hi></l>
+      <l>FAZENDA VELHA</l>
+      <l>Neste retiro os longos dias passo,</l>
+      <l>Sem alegrias e sem dissabores,</l>
+      <l>Vendo as aves cruzarem-se no espaço E as paineiras vestirem-se de flores.</l>
+      <l>Habito, solitário, uma vivenda De amplos salões, phantastica e sombria. Em redór, as senzalas da fazenda;</l>
+      <l>Ao fundo, o vulto azul da serrania.</l>
+      <l><hi>38</hi></l>
+      <l><hi>Ricardo Gonçalves</hi></l>
+      <l><hi>)</hi></l>
+      <l>A’ orla do matto virgem mysterioso, No silencio das tardes pensativas, Gemem as juritys de volta ao pouso E trillam docemente as patativas.</l>
+      <l>Eu vejo, debruçando-me ás janellas, Sobre a monotonia das capoeiras, Altos ipês de frondes amarellas E adustas, retorcidas perobeiras.</l>
+      <l>Depois, no céu de opala se encastoa A lua merencorea. E pelos campos, Por sobre as aguas mortas da lagoa, Tremeluzem, bailando, os pyrilampos,</l>
+      <l>Ha sussurros extranhos pela brenha. Fóra, a noite estivai fulge, tão clara Que, como em prata fôsca, se desenha No pincaro de um monte uma jissara.</l>
+      <l><hi>Ipês</hi></l>
+      <l><hi>39</hi></l>
+      <l>E eu entro. Atiço o lume de gravetos.</l>
+      <l>E, ouvindo ao longe uns pavidos rumores, Evoco a dansa tragica dos pretos,</l>
+      <l>Num rufo de atabaques e tambores.</l>
+      <l/>
+      <head><hi>/pés</hi></head>
+      <l><hi>41</hi></l>
+      <l>A DANSA DOS TANGARAS</l>
+      <l>Na matta aromai, que é um templo, Cheio de sombra e de paz,</l>
+      <l>Horas perdidas comtemplo,</l>
+      <l>Sobre um relvoso tapete,</l>
+      <l>Esse engraçado minuete Que dansam os tangarás.</l>
+      <l><hi>42</hi></l>
+      <l><hi>Ricardo Gonçalves</hi></l>
+      <l>Canta um sabiá na espessura A merencorea canção.</l>
+      <l>Limpo de nuvens, fulgura, Entre o rendilhado crivo Das arvores, o festivo Azul de um céu de verão.</l>
+      <l>E, sob um tecto odorante,</l>
+      <l>Se aduna o bando jovial:</l>
+      <l>Tem um pennacho o marcante; O corrego somnolento Murmura o acompanhamento Com trinclidos de crystal.</l>
+      <l>Na matta umbrosa, que é um templo, Cheio de aroma e de paz,</l>
+      <l>Horas perdidas contemplo,</l>
+      <l>Sobre o tapete da relva A maravilha da selva,</l>
+      <l>A dansa dos tangarás.</l>
+      <l><hi>ipês</hi></l>
+      <l><hi>43</hi></l>
+      <l>A SCISMA DO CABOCLO</l>
+      <l><hi>A Valdomiro Silveira</hi></l>
+      <l>Scisma o caboclo a porta da cabana. Declina o sol, mas, rúbido, espadana Ondas fuivas de luz.</l>
+      <l>No terreiro, entre espigas debulhadas, Arrulham, perseguindo-se a bicadas, Dois casaes de pombinhos parirús.</l>
+      <l><hi>44</hi></l>
+      <head><hi>Ricardo Gonçalves</hi></head>
+      <l>A criação de pennas se empoleira; Come a ração no cocho da mangueira Um velho pangaré.</l>
+      <l>E uma vacca leiteira e bois de carro Pastam junto á casinha, que é de barro, Coberta de sapé.</l>
+      <l>Longe, uma tropa trota pela estrada.</l>
+      <l>E a viração das mattas, impregnada De perfumes subtis,</l>
+      <l>Traz dos grotões, que a sombra, lenta, invade O soturno queixume de saudade Das pombas juritys.</l>
+      <l>Scisma o caboclo. Pensa na morena Que vira numa noite de novena Orando ao pé do altar.</l>
+      <l>Que vira... e que, por mal de seus peccados, Tinha os olhos profundos e rasgados E um; riso de matar.</l>
+      <l><hi>Ipês</hi></l>
+      <l>Branco, de fôfos, era o seu vestido. E elle, ao vêl-a, sentindo-se ferido Em pleno coração, Baixinho suspirou : “Nossa Senhora ! Ai, meu São Bom Jesus de Pirapóra Da minha devoção ! ”</l>
+      <l>Depois não se conteve e, num fandango, Furtou-lhe um beijo aos labios de morango O diabo do rapaz.</l>
+      <l>E ella volveu zangada: “Malcriado!</l>
+      <l>Seu vigário já disse que é peccado.</l>
+      <l>Aquillo não se faz 1... ”</l>
+      <l>E o caboclo medita. O sol em chanim.t Como agora ha pouquinho não derrama Ondas fulvas de luz.</l>
+      <l>O corrego soluça, a noite desce,</l>
+      <l>E vem dos capoeirões onde anoitece</l>
+      <l>O trilo vesperal dos inambús.</l>
+      <l>A’ GEGÊ</l>
+      <l>Ouve essa voz de mystica doçura,</l>
+      <l>A doce voz do sonho em que te agitas; Beija a legião de loiras cabecitas Que te circumda a face branca e pura.</l>
+      <l>Sorri, longe da humana desventura!</l>
+      <l>O berço azul-celeste em que dormitas,</l>
+      <l rend="indent">—Esse ninho de rendas e de fitas — É o paraiso, ó fragil creatura!</l>
+      <l><hi>48</hi></l>
+      <l><hi>Ricardo Gonçalves</hi></l>
+      <l>Dorme! Não chega ao berço em que adormeces O éco da nossa vida, entrecortada De grandes maguas e paixões refeces.</l>
+      <l>Assim, dorme feliz, longe dos gritos, Longe dos ais que solta na jornada A caravana immensa dos afflictos!</l>
+      <l><hi>J p ê s</hi></l>
+      <l><hi>49</hi></l>
+      <l>INNOCENCIA</l>
+      <l><hi>Ao Roberto Moreira</hi></l>
+      <l>(Para o teu filhinho)</l>
+      <l>Eu sei de certos senhores Que desdenham, serios, graves, O doce aroma das flores E o terno canto das aves.</l>
+      <l>Rudes, a alma empedernida,</l>
+      <l>Não sei de emoção que os vença: Desconhecem — dôr immensa! — O que ha de melhor na vida.</l>
+      <head>4 - I p ê s</head>
+      <l><hi>50</hi></l>
+      <l><hi>Ricardo Gonçalves</hi></l>
+      <l>Não sabem que ás vezes cura Desalentos, desenganos A buliçosa ternura De um cherubim de dois annos,</l>
+      <l>Nem quanta meiguice espelha O doce riso innocente De uma boquinha vermelha Que espera o primeiro dente.</l>
+      <l><hi>/pês</hi></l>
+      <l><hi>61</hi></l>
+      <l>AS AVES</l>
+      <l><hi>A uma menina</hi></l>
+      <l>Não fugira da gaiola O sabiá, si adivinhasse Todo o pranto que te rola Pelas covinhas da face.</l>
+      <l>E comtudo as aves... pensa Que ellas têm filhos e ninhos . .. Imagina a dôr immensa Dos miseros passarinhos !</l>
+      <l rend="indent"><hi>52Ricardo Gonçalves</hi></l>
+      <l>Imagina que supplício Quando ouvem, por uma fresta Da prisão, todo o bulicio Das alvoradas em festa!</l>
+      <l>Prendel-as... que crueldade! As avesinhas, querida, Precisam de liberdade, Porque a liberdade é a vida.</l>
+      <l>Precisam voar pelos ares, Como eu, creança, preciso Do sol desses teus olhares, Do mel desse teu sorriso.</l>
+      <l>Prendel-as ? Ora, avalia Si teu pae por um momento Tem a louca phantasia De encerrar-te num convento.</l>
+      <l><hi>Ipês</hi></l>
+      <l><hi>53</hi></l>
+      <l>Vamos, querida, liberta As aves ! Coragem ! Vamos ! Deixa a portinhola aberta, Solta aquelles gaturamos;</l>
+      <l>Solta esse cana rio esquivo Que já não sáe do poleiro. E’ tão triste ser captivo! Tão penoso é o captiveiro !</l>
+      <l>Tira a corrente de prata Dos pés desse periquito. Que nostalgia da matta Não tem elle, o pobresito!</l>
+      <l>Assim; agora é preciso Que tambem tu soltes, louca, As patativas do riso Da gaiolinha da bocca.</l>
+      <l/>
+      <l><hi>I p é s</hi></l>
+      <l><hi>55</hi></l>
+      <l>UMA CREANÇA</l>
+      <l rend="indent">Graciosa e pequenina,</l>
+      <l>Que lindo o seu cabello ondeado e loiro ! A mãe beija-lhe a bocca purpurina,</l>
+      <l rend="indent">Que a filha, essa menina,</l>
+      <l rend="indent">E' todo o seu thesoiro.</l>
+      <l rend="indent">A graça que tem ella Unida a uma expressão mimosa e casta! Olhar em que a bondade se revela;</l>
+      <l>E a meiguice, pois que para ser bella A perfeição não basta!</l>
+      <l><hi>56</hi></l>
+      <l><hi>Ricardo Gonçalves</hi></l>
+      <l rend="indent">No absconso pardieiro Triste, que a luz do sol jamais procura, A pobresinha canta o dia inteiro.</l>
+      <l>E’ como um passarito prisioneiro Numa gaiola escura.</l>
+      <l>Como um canario canta,</l>
+      <l>A sua doce voz beija e consola E á cantiga que sáe dessa garganta, O sol, um sol piedoso se levanta, Aquecendo a modesta casinhola.</l>
+      <l>A santa mãe, que fervorosa prece, Costurando, solicita, murmura,</l>
+      <l>Ante a voz infantil que anima e aquece, Fica extática a ouvir e até se esquece De que a persegue immensa desventura.</l>
+      <l>Absorta, os olhos húmidos de pranto, Escuta a meiga e tremula bailada: Ergue-se então e, interrompendo o canto, Fecha-lhe a bocca rubra e delicada Num beijo sacrosanto.</l>
+      <head><hi>Ipês</hi></head>
+      <l><hi>57</hi></l>
+      <l>Mas ah! si ella soubesse O destino da ingênua creatura Que os seus dias tristíssimos aquece, Com que fervor alevantara a prece Que seu labio murmura!</l>
+      <l>E tu, si num olhar doce e profundo Desses teus olhos — húmidas saphiras — Pudesses ter num rapido segundo A visão das misérias deste mundo, Decerto não sorriras 1</l>
+      <l>O pae que fôra expulso da officina Vivendo na taberna,</l>
+      <l>A velha mãe tão doente, tão franzina! Ai! que será de ti, pobre menina, Quando te falte a protecção materna!</l>
+      <l/>
+      <l><hi>Ipês</hi></l>
+      <l><hi>59</hi></l>
+      <l>A ARVORE</l>
+      <l><hi>Para as creanças das escolas</hi></l>
+      <l>Salta do leito e vem cá fóra, Vem ver esta arvore, sonora De murmurinhos e canções.</l>
+      <l>O sol nascente a afaga e beija, E as suas frondes purpureja Com seus vivíssimos clarões.</l>
+      <l><hi>60</hi></l>
+      <l><hi>Ricardo Gonçalves</hi></l>
+      <l>Anda-lhe em torno, alacre, um vivo Zumbir de insectos ; pelo crivo Das folhas verdes fulge o sol;</l>
+      <l>E entre cortinas viridentes,</l>
+      <l>Zinem cigarras estridentes,</l>
+      <l>Tecem aranhas o aranhol.</l>
+      <l>Depois, a pino, o sol escalda,</l>
+      <l>E a sua copa de esmeralda E’ como um pallio protector,</l>
+      <l>A cuja sombra, ampla e divina, Cantam as aves, em surdina, Cantos dulcissimos de amor.</l>
+      <l>Ama-a ! — toda a arvore é sagrada — Ama esta esplendida morada De abelhas de oiro e aves gentis 1 Busca entender tanta poesia,</l>
+      <l>E faze côro á symphonia Da natureza, que a bemdíz !</l>
+      <l>/ p é s</l>
+      <l><hi>61</hi></l>
+      <l>Ama-a, na gloria matutina,</l>
+      <l>Entre os vapores da neblina,</l>
+      <l>Que toda a envolvem, como véus, Cheia dos prantos da alvorada, Ou melancólica, estampada No oiro e na purpura dos céus...</l>
+      <l>E reza então : &lt;Bemdita sejas Por tuas írondes bemfazejas, Pelos teus cânticos triumphaes, Por tuas flores e perfumes, Pelos teus passaros implumes, Por tuas sombras maternaes»</l>
+      <l><hi>1 p ô s</hi></l>
+      <l><hi>63</hi></l>
+      <l>O RIO</l>
+      <l><hi>Fara as creanças das escolas</hi></l>
+      <l>Rio sonoro que as planícies banha E enche de rumorejos a floresta —</l>
+      <l>Foi seu berço uma rocha na montanha, Teve uma origem simples e modesta.</l>
+      <l>Era, em começo, um tirnido regato De meiga voz e de agua crystallina : Desalterava os passaros no matto, Beijava o caule ás flores 11a campina.</l>
+      <l><hi>64</hi></l>
+      <l><hi>Ricardo Gonçalves</hi></l>
+      <l>As andorinhas leves e graciosas Molhavam na corrente as asas pretas E roçavam por elle, buliçosas,</l>
+      <l>Numa doce caricia, as borboletas.</l>
+      <l>Vez em vez, uma inquieta saracura, Sahindo, cautelosa, do brejal,</l>
+      <l>Da sua face luminosa e pura Mirava-se no limpido crystal.</l>
+      <l>Assim cresceu, e agora, sem descanço, Rega os campos, fecunda as plantações E ora colleia preguiçoso e manso,</l>
+      <l>Ora estronda em profundos boqueirões.</l>
+      <l>E rubro — quando o sol tinge o horizonte Alvo — do plenilúnio á luz tranquilla, Marulha sob os arcos de uma ponte,</l>
+      <l>Reflecte as casas brancas de uma villa.</l>
+      <l><hi>Ipês</hi></l>
+      <l><hi>65</hi></l>
+      <l>Leva a abundancia ao lar dos pescadores, Move engenhos, carrega embarcações E deslisa entre bênçãos e louvores, Através de cidades e sertões.</l>
+      <head>5 - Ipês</head>
+      <l>A CHUVA</l>
+      <l><hi>Para as creanças das escolas</hi></l>
+      <l>Estamos em Janeiro.</l>
+      <l>É todo um atoleiro O leito das estradas.</l>
+      <l>E a chuva cáe violenta, Na terra lamacenta,</l>
+      <l>Em bátegas pesadas.</l>
+      <l><hi>68</hi></l>
+      <l><hi>Ricardo Gonçalves</hi></l>
+      <l>Ha lima tristeza immensa Por tudo — e a gente pensa Que o sol não torna mais, Após dias inteiros De rijos aguaceiros,</l>
+      <l>De rudes temporaes.</l>
+      <l>O olhar pelas alturas Só vê nuvens escuras ... Exulta o lavrador: Correi pelas chapadas, Fecundas enxurradas, Dilúvio bemfeitor!</l>
+      <l>Justo é que a chuva amiga O lavrador bemdiga:</l>
+      <l>A chuva lhe vem dar Mais viço ao arvoredo, Mais flores ao balsedo, Mais pomos ao pomar.</l>
+      <l>/ p é s</l>
+      <l><hi>69</hi></l>
+      <l>Rouco sibile o vento,</l>
+      <l>Caia do firmamento A chuva em borbotões;</l>
+      <l>E desde o valle á serra Encharque, alague a terra, Fecunde as plantações.</l>
+      <l>Nestas rechãs. que agora A agua avassaladora Cobre como um lençol, Verdes e farfalhantes,</l>
+      <l>Os milharaes pujantes Hão de sorrir ao sol.</l>
+      <l>Justo é que a chuva amiga O lavrador bemdiga:</l>
+      <l>A chuva lhe vem dar Mais viço ao arvoredo, Mais flores ao balsedo, Mais pomos ao pomar.</l>
+      <l/>
+      <l/>
+      <l/>
+      <l><hi>Ipês</hi></l>
+      <l><hi>71</hi></l>
+      <l>MIMO DE CAÇADOR</l>
+      <l>Á hora em que a treva aos poucos se adelgaça, Naquelle dia, de manhã, bem cedo,</l>
+      <l>Buscando as fortes emoções da caça,</l>
+      <l>Rumo da céva entrei pelo arvoredo.</l>
+      <l>E, antes que o sol rompesse a bruma escassa, Fui pôr-me de tocaia, ancioso e quedo,</l>
+      <l>Alli onde o córrego, ondulando, passa Entre o massambará. quasi em segredo.</l>
+      <head>72</head>
+      <l><hi>Ricardo Gonçalves</hi></l>
+      <l>Em breve um ruflo, um galho que estalida, Um tiro... e após, de uma arvore visinha, Cáe nas folhas um passaro sem vida.</l>
+      <l>E é assim que agora posso dar-te, ufano,</l>
+      <l rend="indent">—Mimo de caçador, senhora minha 1 — Este vermelho papo de tucano.</l>
+      <l><hi>Ipês</hi></l>
+      <l><hi>73</hi></l>
+      <l>UMA VELA QUE PASSA...</l>
+      <head>I</head>
+      <l>Longe, um barco de pesca á vi ração desfralda A vela, e singra ao sol que rompe a escassa brumar Rumo desses ilhéus que o maroiço engrinalda Com seus flocos de espuma ...</l>
+      <l>Foge... graciosamente enfunada, palpita No horizonte lilaz, como um passaro exul... Depois se afasta e é uma asa branca na infinita Curva do mar azul.</l>
+      <head><hi>74</hi></head>
+      <head><hi>Ricardo Gonçalves</hi></head>
+      <l>Primeiro amor! sonho formoso de creança, Cheio de luz, cheio de uncção, cheio de graça! Es tu na curva azul de um mar todo bonança Uma vela que passa...</l>
+      <head><hi>Ipês</hi></head>
+      <l>75</l>
+      <l>FUMANDO...</l>
+      <l>Sobe em volutas a fumaça.</l>
+      <l>Em torno a mim tudo descança. Tinhas na voz tamanha graça... Era tão fulva a tua trança... Porque será que esta lembrança</l>
+      <l rend="indent">Ocoração me despedaça?</l>
+      <head><hi>6</hi></head>
+      <head><hi>Ricardo Gonçalves</hi></head>
+      <l>Branca, aromai, trajando luto,</l>
+      <l>Vens do passado. Em brandas queixas, A tua voz, que treme, escuto.</l>
+      <l>Beijo-te as fúlgidas madeixas...</l>
+      <l>Mas porque vens, porque não deixas Minh’alma em paz, um só minuto?</l>
+      <l>Sonhos, delirios... a doçura De uma affeição correspondida ... Raios de sol e noite escura,</l>
+      <l>Assim passava a nossa vida;</l>
+      <l>Ora, uma lagrima dorida,</l>
+      <l>Ora, um sorriso de ventura ...</l>
+      <l>Crepuscular melancolia...</l>
+      <l>Um vago aroma de verbeiia.</l>
+      <l>Ao longe, um sino, que plangia, Dava o signal para a novena... E eu te beijava a mão pequena, E o teu olhar esmorecia...</l>
+      <head><hi>Ipês</hi></head>
+      <l>Onde esse andar cheio de graça ? Onde o torsal dos teus cabellos ? Como a tenuissima fumaça,</l>
+      <l>Que sobe aos ares em novellos, Os sonhos bons, os pesadelos, Tudo passou ... pois tudo passa.</l>
+      <l/>
+      <head><hi>Ipês</hi></head>
+      <head><hi>79</hi></head>
+      <l>NAVEGANTES</l>
+      <l>Ha homens, doce amada que rne escutas) Que se vão para longe de seus lares, Através de tormentas e de luctas,</l>
+      <l>Através de florestas e de mares.</l>
+      <l>Partem-se elles em busca de riquezas, Embarcados em frágeis caravelas,</l>
+      <l>Sem temerem do mar as incertezas, Sem temerem a furia das procellas.</l>
+      <head><hi>80</hi></head>
+      <head><hi>Ricardo Gonçalves</hi></head>
+      <l>Uns levam dentro d’alma angustiada Em que soluça o adeus da despedida, A lembrança da noiva idolatrada,</l>
+      <l>A saudade da esposa estremecida.</l>
+      <l>Um, que riquezas e thesouros sonha, Mesmo através do sonho que o domina, A paizagem natal bella e risonha Leva constantemente na retina.</l>
+      <l>Outros, sem que uma lagrima saudosa Lhes humideça a face endurecida, Deixam por uma vida aventurosa Uma tranquilla e venturosa vida.</l>
+      <l>E todos têm de rútilas chimeras A alma povoada; e, aguas em fóra, Vão-se as veleiras naus, vao-se as galeras Para um desconhecido que apavora.</l>
+      <l>/ p ê s</l>
+      <head><hi>81</hi></head>
+      <l>Mares innavegados e bravios, —</l>
+      <l>A inclemencia dos ventos e das vagas, A principio; depois... climas doentios E perniciosos de longínquas plagas;</l>
+      <l>Fome e sêde, calores suffocantes, Emanações de brejos deleterias,</l>
+      <l>E a seguir-lhes os passos vacillantes Um cortejo de dores e misérias...</l>
+      <l>E vao-se... e um vento fresco de bonança Tral-os de volta, um dia, á verde enseada, A’ verde enseada conhecida e mansa, Donde partiu a frota empavezada.</l>
+      <l>E os loucos Argonautas atrevidos,</l>
+      <l>Que se foram em busca de um thesouro, Voltam desanimados e vencidos,</l>
+      <l>A alma vasia, as mãos vasias de ouro.</l>
+      <head>ti - I f f; s</head>
+      <head><hi>82</hi></head>
+      <head><hi>Ricardo Gonçalves</hi></head>
+      <l>Tambcm eu fiz-me ao largo, assim como elles, Na minha escuna pelo mar da vida...</l>
+      <l>Volto... mas onde os sonhos? onde aquelles Extraordinários sonhos da partida ?</l>
+      <l>Onde as montanhas de ouro refulgente, E os bosques de coral e de saphira ? Essa região ideada pela mente ' Do poeta sonhador que tudo aspira ?</l>
+      <l>Volto, exanime e triste, á bella enseada, A’ abra feliz donde parti creança,</l>
+      <l>E trago a minha nau desarvorada,</l>
+      <l>Sem a flammula verde da esperança.</l>
+      <l>TRADUCÇÕES</l>
+      <l/>
+      <l>I</l>
+      <head><hi>ipês</hi></head>
+      <head><hi>85</hi></head>
+      <l>DO “1NTERMEZZO”</l>
+      <l>HENRI HEINFj</l>
+      <l>I</l>
+      <l>Tu tens o estio na face,</l>
+      <l>O inverno no coração ;</l>
+      <l>Na face, a estação do riso, No peito, a negra estação.</l>
+      <l>Mas não tarda que isso mude. Mudada serás... e então,</l>
+      <l>O inverno terás na face,</l>
+      <l>Terás no peito o verão.</l>
+      <head><hi>86Ricardo Gonçalves</hi></head>
+      <l>I I</l>
+      <l>As violetas do olhar, a deliciosa Papoula da boquinha perfumosa,</l>
+      <l>Da face illuminada as açucenas E o suavíssimo lyrio transparente Das mãosinhas fidalgas e pequenas,</l>
+      <l>Esses vicejam prodigiosamente,</l>
+      <l>Pois secco e murcho é o coração apenas.</l>
+      <head><hi>Ipês</hi></head>
+      <head><hi>87</hi></head>
+      <l>III</l>
+      <l>Procurei, minha amada, no jardim, O logar em que um dia Teu mentiroso labio repetia Que o nosso amor jamais teiia fim.</l>
+      <l>O peito apunhalado pela dôr,</l>
+      <l rend="indent">Quiz ver esse recanto Em que desfiaste as pérolas do pranto E me deste, creança, o teu amor.</l>
+      <head><hi>88</hi></head>
+      <head><hi>Ricardo Gonçalves</hi></head>
+      <l>Dona dos olhos grandes côr do mar, Dona dos grandes olhos penitentes : Venenosas serpentes Achei nesse logar.</l>
+      <l>DOENTE</l>
+      <l>(I. STECCHETTI)</l>
+      <l>O craneo se me estala. Estou doente. Força e vigor já os musculos não têm. Magro, febril, padeço horrivelmente,</l>
+      <l>Mas quando penso em ti me sinto bem.</l>
+      <l>Mas quando penso em ti, doce creança, Foge-me a dôr e volve-me a esperança. Quizera a morte para não soffrer,</l>
+      <l>Mas quando penso em ti, quero viver.</l>
+      <l>i</l>
+      <head><hi>Ipês</hi></head>
+      <head><hi>91</hi></head>
+      <l>SERENATA</l>
+      <l>(FRANÇOIS COPPÉE)</l>
+      <l>Pronietteste-me, pequena, Para esta noite serena Um beijo da bocca tua, Por isso bem devagar Acabo de escorregar Do céu num raio de lua.</l>
+      <head><hi>92</hi></head>
+      <head><hi>Ricardo Gonçalves</hi></head>
+      <l>Iremos sem fazer ruido Pelo atalho percorrido Tantas vezes — que prazer! Iremos pelo caminho Escutando o borborinho Das correntes, sem as ver.</l>
+      <l>E para termos um guia Através da ramaria,</l>
+      <l>Na paz nocturna dos campos Onde tudo é triste e bello,</l>
+      <l rend="indent">—Na noite do teu cabello Collocarás pyrilampos.</l>
+      <l>«</l>
+      <head><hi>Ipês</hi></head>
+      <head><hi>93</hi></head>
+      <l>FRÊMITOS DE AMOR</l>
+      <head>(JEAN RICHEP1N)</head>
+      <l>Na sombra, junto a mim, ha frêmitos de amor.</l>
+      <l>Traz-me a brisa, entontecedor,</l>
+      <l>Um bafejo aromai de jasmins e de rosas. Plangem de manso, no ar, musicas mysteriosas, Cheias de um cálido langor.</l>
+      <l>Na sombra, junto a mim, ha frêmitos de amor.</l>
+      <head><hi>94</hi></head>
+      <head><hi>Ricardo Gonçalves</hi></head>
+      <l>E ai ! é tão longe a terra, as praias tão distantes !</l>
+      <l>Adeus, adeus, lindas amantes !</l>
+      <l>Trança em que me prendi — laço cheiroso e brando— Bocca de onde arranquei meu coração sangrando, Tão longe ! Adeus, carnes em flor !</l>
+      <l>Na sombra, junto a mim, ha frêmitos de amor.</l>
+      <l>A estas recordações meu sangue moço estúa. Aromas, compaixão ! Desapparece, ó lua ! Ventre alvo, seios nús, sustae vossa vingança ! Adeus, ó bocca ! adeus, ó trança!</l>
+      <l>Adeus, adeus, carnes em flor!</l>
+      <l>Na sombra, junto a mim, ha frêmitos de amor.</l>
+      <head><hi>Ipês</hi></head>
+      <head><hi>95</hi></head>
+      <l>DO “CYRANO DE BERGERAC”</l>
+      <head>(EDMOND ROSTAND)</head>
+      <head>ACTO I, SCENA IV</head>
+      <head>Cyrano</head>
+      <l>Elegancias? também as tenho... moralmente.</l>
+      <l>Si não me enfeito como um fôfo peralvilho,</l>
+      <l>Sou mais limpo, apesar de ser menos casquilho. Nunca ninguém me viu, tendo, por negligencia, O coração manchado ou manchada a consciência Levando a Dignidade andrajosa e rasgada,</l>
+      <l>Ou alguma affronta que não fosse bem lavada. Sim. Tudo em mim reluz, refulge. Intemerato,</l>
+      <head><hi>96</hi></head>
+      <head><hi>Ricardo Gonçalves</hi></head>
+      <l>A Fianqueza e a Lealdade, eis as plumas de oruato Que ostento no chapéu. Não é um talhe bem feito: t mmh’alma que eu trago esbelta, que endireito 1- aprumo como quem aprumasse a estatura;</l>
+      <l>Em vez de laços, tenho acções de alta bravura;</l>
+      <l>E, assim como o bigode, o espirito cofiando,</l>
+      <l>Os grupos atravesso e, entre elles, agitando ’</l>
+      <l>As verdades brutaes que tinem como esporas.</l>
+      <head><hi>J p ê s</hi></head>
+      <head><hi>97</hi></head>
+      <l>11</l>
+      <l>ACTO I, SCENA V</l>
+      <l>Cyrano</l>
+      <l>Oh! dize que esperança eu posso ter com tal Super-desmesurado appendice nazal?</l>
+      <l>Não me illudo. A minh’alma, ás vezes, se enternece Na hora azul em que a tarde expira e a noite desce... Penetro num jardim: que perfumes subtis Haure este malfadado, este pobre nariz !</l>
+      <l>E’ Abril, o doce mez... passam dois namorados,</l>
+      <l>Um casal, junto a mim... eu os vejo enlaçados</l>
+      <head>7 - I p ê s</head>
+      <head><hi>98</hi></head>
+      <head><hi>Ricardo Gonçalves</hi></head>
+      <l>E penso que também poderia trazer Suspenso de meu braço 11111 corpo de mulher...</l>
+      <l>Um vulto feminil que em meu braço descança...</l>
+      <l>Um beijo... uma caricia... o aroma de uma trança... E esqueço-me de tudo, e não sei o que penso,</l>
+      <l>E, de repente, vejo estampar-se, ai de mim!</l>
+      <l>A sombra colossal do meu nariz immenso No muro do jardim.</l>
+      <head>Lrc Bret (<hi>commovido)</hi></head>
+      <l>Meu pobre amigo !...</l>
+      <l rend="indent">Cyrano</l>
+      <l rend="indent">Sim! sou bem digno de dó. Sentindo-me tão feio, ás vezes, e tão só !</l>
+      <l>Tu não podes saber quanto soffro... que de horas Amargas e crueis ! que supplicio !</l>
+      <l rend="indent">Le Bret</l>
+      <l>T11 choras?</l>
+      <head>Cyrano</head>
+      <l>Não, chorar, isso não! seria tão grotesco A lagrima a rolar 110 dorso gigantesco Do meu pobre nariz!... Jamais consentiria Essa enorme abjecção, tamanha grosseria!</l>
+      <l>A lagrima! não ha nada mais bello, nada,</l>
+      <l>E eu não quero que em mim provoque a gargalhada.</l>
+      <head><hi>Ipês</hi></head>
+      <head><hi>99</hi></head>
+      <l>111</l>
+      <head>ACTO II, SCENA IV</head>
+      <l>Ragueneau</l>
+      <head>Tortasinhas de amêndoa e modo de as formar</head>
+      <l>Batam-se bem alguns ovos</l>
+      <l rend="indent">—Inda novos;</l>
+      <l>Nas ondas que a espuma trouxe De cidra o summo se deite, Grosso leite,</l>
+      <l>Bom leite de amêndoa doce.</l>
+      <head><hi>100</hi></head>
+      <head><hi>Ricardo Gonçalves</hi></head>
+      <l>Passe-se dentro da lata Fresca nata Em fôrmas de bom-boccado; De damasco a borda peje-se;</l>
+      <l rend="indent">E despeje-se Ootta a gotta, com cuidado,</l>
+      <l>Tudo na fôrma, de fórma Que essa fôrma Vá para o forno; e, rendendo-a, Sigam-se as outras; sahindo, Venham vindo As tortasinhas de amêndoa.</l>
+      <l>/ i&gt; c s</l>
+      <head><hi>101</hi></head>
+      <l>IV</l>
+      <head>ACTO III, SCENA VIII</head>
+      <head>Cyrano</head>
+      <l rend="indent">Mas que fazer então ? Buscar um protector poderoso, um patrão?</l>
+      <l>Ser como a hera que enlaça o carvalho robusto,</l>
+      <l>E lambe-lhe a cortiça e trepa então sem custo ?</l>
+      <l>Usar, para attingir o cimo desejado,</l>
+      <l>De astúcia em vez de força ? Oh ! não, muito obrigado. Entrar para o canil dos poetas rafeiros,</l>
+      <l>Como elles dedicar versos aos financeiros</l>
+      <head><hi>102</hi></head>
+      <head><hi>Ricardo Gonçalves</hi></head>
+      <l>E fazer de bufão para que um potentado Haja por bem servir ? Oh! não, muito obrigado. Almoçar cada dia um sapo sem ter nojo,</l>
+      <l>Rustir o ventre por andar sempre de rojo,</l>
+      <l>Ter a rótula suja e fazer menos mal Prornptas deslocações da columna dorsal ?</l>
+      <l>Obrigado. Trazer o incensorio suspenso A um idolo que viva entre nuvens de incenso, Ganhar celebridade, applausos e corôas Num circulo de trinta 011 quarenta pessoas ? Navegar, tendo em vez de remos madrigaes E, a tufarem-me a vela, os suspiros fataes Das velhas, num derriço ? Obrigado, obrigado. Ganhar fama de autor por haver publicado Meus versos, mas pagando o livro aos editores, Obrigado. Viver de esmolas e favores,]</l>
+      <l>Ser papa nas reuniões que, em baiúcas sem nome, Fazem alguns sandeus? Ver si alcanço renome Com um soneto, si tanto, em vez de fazer mil, Achar muito talento em qualquer imbecil ?</l>
+      <l>Obrigado. Ter medo aos jornaes, ser amigo De elogios, dizer de mim para commigo :</l>
+      <l>«Ah ! si o meu nome vier 110 Mercúrio francez !... ■&gt; Calcular, ter na face impressa a pallidez Dos poltrões, preferir fazer uma visita A bordar, carinhoso, uma estrophe bonita,</l>
+      <l>Ser da matilha, hedionda e vil, dos pretendentes,</l>
+      <head><hi>Ipês</hi></head>
+      <head><hi>103</hi></head>
+      <l>Redigir petições e mendigar presentes ?</l>
+      <l>Obrigado. Obrigado. Obrigado. Obrigado.</l>
+      <l>Mas... cantar, mas viver num sonho alcandorado, Calmo e feliz, o olhar seguro, a voz vibrante,</l>
+      <l>De quando em vez, e, por capricho, petulante,</l>
+      <l>Por de través o feltro, e, por um quasi nada,</l>
+      <l>Dar um beijo na Musa ou dar uma estocada.</l>
+      <l>Nem um verso escrever que a mim me não pertença, E, apesar disso tudo, uma modéstia immensa: Pagar-me com uma flor, ou um fructo appetecido, Comtanto que no meu pomar seja colhido.</l>
+      <l>E, emsumma, desdenhando a hera vil que se esconde, Não conseguindo ser o roble, cuja fronde Mora perto do Azul e distante do pó,</l>
+      <l>Subir pouco, mas só, completamente só.</l>
+      <head><hi>104</hi></head>
+      <head><hi>Ricardo Gonçalves.</hi></head>
+      <l>V</l>
+      <head>ACTO III, SCENA X</head>
+      <head>Cyrano</head>
+      <l>Um beijo? Mas que vem a ser um beijo ao certo? E’ um juramento feito um pouco mais de perto,</l>
+      <l>E’ uma confissão de amor, que bem depressa Queremos confirmada. O beijo é uma promessa,</l>
+      <l>E’ um segredo que toma a bocca pelo ouvido, Momento divinal, que faz como um zumbido Caridoso de abelha. O beijo, meu amor,</l>
+      <l>E’ uma communhão, tendo gosto de flor,</l>
+      <l>Maneira deliciosa e maneira inebriante</l>
+      <l>De haurir-se todo o aroma a um coração amante,</l>
+      <l>E de gosar-se uma alma, á flor de uns labios quentes.</l>
+      <head><hi>Ipês</hi></head>
+      <l><hi>10*&gt;</hi></l>
+      <l>SONHOS MORTOS</l>
+      <l>(LECONTl Dl I l .i l</l>
+      <l>Olha, amigo : este mar, que ora assim vês tão manso, Bateu, como um ariete, um dia, sem descanso,</l>
+      <l>Os promontorios ; foi aos saltos, em cachõcs, Escalando, subindo as rochas e sobre ellas Extendeu a bramir, no fragor das procellas,</l>
+      <l>O espumoso lençol dos negros vagalhões.</l>
+      <head><hi>106</hi></head>
+      <head><hi>Ricardo Gonçalves</hi></head>
+      <l>Agora o encrespa a fresca brisa matutina.</l>
+      <l>A belleza do sol as aguas illumina E longe, em direcção desse horizonte infindo, Onde passam, nadando, embarcações remotas, Vae-se da costa azul, o páramo scindindo,</l>
+      <l>Em tremula revoada, um bando de gaivotas...</l>
+      <l>Alli boiam, porem, contornando os ilhéus, Destroços de naufragio; e esses que os escarcéus Assassinaram vão, sob as ondas pesadas,</l>
+      <l>Lividos, a sangrar, de costas ou de bruços,</l>
+      <l>A bocca aberta transbordante de soluços,</l>
+      <l>Olhos vitreos, olhando as aguas socegadas.</l>
+      <l>Meu coração é como esse mar que, tranquiüo, Beija as praias agora em doce murmurillo.</l>
+      <head><hi>ipês</hi></head>
+      <head><hi>107</hi></head>
+      <l>Tambem chorou, rugiu como elle... Sem descanso Contra as rochas lançou-se em tremendos embates, Todo um dia cruel de insania e de combates.</l>
+      <l>Vês ? — Agora reflue apaziguado e manso ;</l>
+      <l>Sem desejo ou temor de nova tempestade,</l>
+      <l>A’ caricia do sol a voz mal se lhe escuta,</l>
+      <l>Mas o genio, a esperança, a força, a mocidade, Eil-os mortos na espuma e no sangue da litcta.</l>
+      <l>%</l>
+      <l/>
+      <head><hi>Ipês</hi></head>
+      <head><hi>109</hi></head>
+      <l>OS ELEPHANTES</l>
+      <head>íLECONTE DE LISLE)</head>
+      <l>O areial infinito é como um rubro oceano,</l>
+      <l>Que resplandece, mudo, em seu leito espraiado. Ondula, immoto, o céu côr de cobre, do lado Do horizonte em que habita o formigueiro humano.</l>
+      <l>Nem rumor e nem vida... O leão, farto, descansa No antro afastado, em meio aos mattagaes infindos. Vae beber a girafa esguia á fonte mansa,</l>
+      <l>Que a panthera conhece, ao pé dos tamarindos.</l>
+      <head><hi>110</hi></head>
+      <head><hi>Ricardo Gonçalves</hi></head>
+      <l>Dorme tudo. Siquer um passaro no ar quente,</l>
+      <l>No ar em que gira um sol de fogo, um sol em chamma... A’s vezes, com volúpia, adormida serpente Faz ondular, morosa, a rutilante escama.</l>
+      <l>O ar inflammado queima. O calor é mais denso. E, bamboleando a massa — intrépidos viajantes, Rumo do ermo natal, pelo deserto immenso, Vão-se, num bando escuro, os tardos elephantes.</l>
+      <l>Vêm elles do horizonte ensangüentado e quieto, Vêm levantando o pó, que em nuvem grossa ondeia, E, para não sahir do caminho mais recto, Desmoronam com a pata os comoros de areia.</l>
+      <l>Velho chefe, talvez, é o que á frente caminha :</l>
+      <l>Rugosa como um tronco a pelle do seu dorso ;</l>
+      <l>E’ um rochedo a cabeça ... O arco immenso 'da espinha Dobra-se, com violência, ao mais pequeno esforço.</l>
+      <head><hi>Ipês</hi></head>
+      <head><hi>111</hi></head>
+      <l>Os passos não estuga e também não lerdeia Que os passos pelos delle o bando inteiro marca. E, deixando após si fundos sulcos na areia, Seguem todos, atraz do velho patriarcha.</l>
+      <l>Seguem, levando a tromba apertada entre os dentes, As orelhas em leque. O ventre bate e fuma...</l>
+      <l>E o suor delles produz uma ligeira bruma No ar cheio de tavões e de insectos ardentes.</l>
+      <l>Mas, que importam a sêde e o calor suffocante ? Que lhes importa o enxame importuno que esvoaça? Vae o bando a pensar numa selva distante</l>
+      <l rend="indent">—Primeira habitação da primitiva raça.</l>
+      <l>Vae rever uma selva umbrosa o escuro bando...</l>
+      <l>E a caudal em que nada o hippopotamo enorme, E onde, brancos de luar, iam beber, quebrando Os juncos marginaes com a grande pata informe.</l>
+      <head><hi>112</hi></head>
+      <head><hi>Ricardo Gonçalves</hi></head>
+      <l>La vão... E a linha escura e phantastica ondeia... La vão elles, molgando as juntas, lentamente, Mas passam... e depois fica immovel a areia, Passam... e depois fica o deserto somente.</l>
+      <l>APPENDICE</l>
+      <head>NOTA</head>
+      <head>Ricardo Gonçalves nasceu em 1883 e muito cedo revelou-se poeta, Aos quatorze annos já. deu fortes mostras da sua sensibilidade esthetica em versos imperfeitos quanto á forma embora dos mais ricos em poesia espontanea. As pro- dueções reunidas neste appendice sffio dessa epoca e para ellas chamamos a attenção sympathica do leitor que poderá adquirir uma idéa perfeita da sua evolução poética.</head>
+      <head><hi>8 - I </hi>p A s</head>
+      <l>MANHÃ</l>
+      <l>Densa neblina envolve a serrania.</l>
+      <l>Vem nascendo a manhã. Debeis rumores Partem da matta em férvida alegria, Partem da matta a transbordar de flores.</l>
+      <l>Canta na roça, onde a araponga pia,</l>
+      <l>A alegre turma dos capinadores.</l>
+      <l>O sol de Maio, rútilo, irradia,</l>
+      <l>E faz da terra um prisma de mil côres.</l>
+      <head><hi>116</hi></head>
+      <head><hi>Ricardo Gonçalves</hi></head>
+      <l>Gorgeiam aves, sacudindo o orvalho, Cortam do espaço o limpido arrebol,</l>
+      <l>E vão pousar bem longe, noutro galho.</l>
+      <l>Da nevoa o manto dissipou-se agora ; Cheio da messe a lourejar ao sol, Rechina um carro pela estrada afóra.</l>
+      <l>1903.</l>
+      <head><hi>1 p éS</hi></head>
+      <head><hi>117</hi></head>
+      <l>PASSEIO</l>
+      <l>Vamos pelos atalhos divagando.</l>
+      <l>Vamos bem devagar, tão de mansinho Que, em nos vendo passar, a ave do ninho Ponha a cabeça fóra e fique olhando.</l>
+      <l>Que as borboletas, num iriado bando, E o buliçoso e arisco passarinho,</l>
+      <l>Em nos vendo passar pelo caminho, Continuem nas moitas adejando.</l>
+      <head><hi>118</hi></head>
+      <head><hi>Ricardo Gonçalves</hi></head>
+      <l>Iremos, passo a passo, olhar perdido, Tu, segurando a cauda do vestido,. Eu, aparando a palha de um cigarro.</l>
+      <l>E na volta, si virmos casualmente Com seu carro de bois o tio Vicente, Voltaremos de pandega no carro.</l>
+      <l>1901.</l>
+      <l>JEQU1T1BÁ</l>
+      <l>Nesta chapada verde em que teu vulto impera, Hoje de cada moita uma voz se levanta Para cantar a vida ; e a vida em cada planta, A vida em cada arbusto, esplendida, exhubera.</l>
+      <l>Porem, tu já morreste. Embalde a primavera Volta e, para saudal-a, a natureza canta.</l>
+      <l>Que importa si teu vulto a passarada espanta !</l>
+      <l>Que importa, velho rei, si o machado te espera ? !</l>
+      <head><hi>120</hi></head>
+      <head><hi>Ricardo Gonçalves</hi></head>
+      <l>Moi reste ! Nunca mais, como nos tempos idos, Verás na primavera os teus galhos floridos, ’ Terás como tiveste arvoredo copado.</l>
+      <l>E tu já fosíe rei de uma antiga floresta,</l>
+      <l>E hoje, invalido e só, nem ao menos te resta Um sabiá que te cante as canções do passado.</l>
+      <l>1900.</l>
+      <head><hi>Ipês</hi></head>
+      <head><hi>121</hi></head>
+      <l>ALVURAS</l>
+      <l>Os colonos na faina da capina Cantam além, num cafezal formado.</l>
+      <l>Rincha um carro de bois. Vem do intrincado Seio da matta o som de uma buzina.</l>
+      <l>Com virginaes alvuras ae noivado, Na encosta pittoresca da collina, Fulgem ao sol, que a todas illumina, As casinholas braticas do povoado.</l>
+      <head><hi>122</hi></head>
+      <head><hi>Ricardo Gonçalves</hi></head>
+      <l>Bimbalham sinos religiosamente Na capellinha branca. Ha muita gente De rosto compungido em cada porta.</l>
+      <l>E, á luz do sol, que rútilo scintilla,</l>
+      <l>Vae pela rua principal da villa O esquife branco de uma noiva morta.</l>
+      <l>1 900.</l>
+      <l>O POMBO</l>
+      <l>O sabiá titubeante e a jurity plangente A rola e o tangará, no seio redolente Da matta secular, em prazenteiro bando,</l>
+      <l>Cantam ao vir do sol ou quando o sol no poente Vae aos poucos tombando.</l>
+      <l>Depois, si a noite chega, e ao longo dos caminhos Soluçam noitibós, as aves de seus ninhos Vão buscar o aconchego e a tepidez macia, Sem ver que a chuva cáe... felizes passarinhos! E que a noite é sombria.</l>
+      <head><hi>124</hi></head>
+      <head><hi>Ricardo Gonçalves</hi></head>
+      <l>Lá fóra o vento agita as franças do arvoredo,</l>
+      <l>E a matta é silenciosa e o céu é torvo e tredo ; A rola está em seu ninho, os filhotes lá estão, ' Pode a chuva cahir, que as aves não têm medo Da chuva e do tufão.</l>
+      <l>Nasce o dia porem e acordam na floresta Mil rumores subtis num frêmito de festa.</l>
+      <l>O sol aponta ao longe, além da serra, além... E o grito dos anuns e os da araponga mesta Annuncial-o vem.</l>
+      <l>Rumores de cascata á sombra hospitaleira De alto jequitibá, de frondosa mangueira,</l>
+      <l>A irescura da matta e o livre espaço infindo, Que existencia feliz... que existencia fagueira, Ai que viver tão lindo!</l>
+      <l>Mas o pequeno mundo de pequenos entes,</l>
+      <l>De avezinhas gentis que vivem tão contentes,</l>
+      <l>Vê afinal com terror chegar á matta um dia De caçadores vis — monstros surprehendentes — Luzida companhia.</l>
+      <head><hi>Ipês</hi></head>
+      <head><hi>125</hi></head>
+      <l>Soluça a jurity, canta a araponga mesta,</l>
+      <l>Cheias da inspiração que a luz do sol empresta. Saltitando gentil e sacudindo o orvalho,</l>
+      <l>Uma pobre viuvinha, uma viuvinha lesta Vôa de galho em galho.</l>
+      <l>Mas, subito, o arrulhar tão doce e apaixonado Da jurity, que chama o companheiro amado Para as luctas do amor, resôa além ... distante ... E o pombinho feliz, gentil Romeu alado,</l>
+      <l>Parte no mesmo instante.</l>
+      <l>Parte, bem longe paira. O doce arrulho cala. Rebôa "de*;repente um estampido e a bala, Que parte do fuzil, vae rispida esfusiando, Folhas derruba ao ramo e rapida resvala Num corpo miserando.</l>
+      <l>E agora do pombinho inanimado jaz O delicado vulto. E nunca... oh! nunca mais, A floresta ha de ouvir o seu cantar saudoso Quando, á tardinha, vão as aves, aos casaes, Em busca do seu pouso.</l>
+      <l>1900.</l>
+      <head><hi>Ipês</hi></head>
+      <head><hi>127</hi></head>
+      <l>AVES DE ARRIBAÇÃO</l>
+      <l>Um dia, pelo inverno, os passarinhos Aos primeiros pallores da alvorada, Abandonam em doida revoada A tepidez plumosa de seus ninhos.</l>
+      <l>Deixam a antiga habitação, de arminhos E de pennas finíssimas forrada,</l>
+      <l>E vão-se para longe dos caminhos, Através da floresta embalsamada.</l>
+      <head><hi>128</hi></head>
+      <head><hi>Ricardo Gonçalves</hi></head>
+      <l>O’ aves descuidosas e felizes Que o benefico sol da primavera Demandaes noutros climas e paizes,</l>
+      <l>Aves de arribação, trefego bando,</l>
+      <l>Eu tambem vou partir... mas quem me dera, Mas quem me dera ir como vós cantando !</l>
+      <l>1904.</l>
+      <head><hi>Ipês</hi></head>
+      <head><hi>129</hi></head>
+      <l>NO “MINARETE"</l>
+      <l>*</l>
+      <l>Pela janella um céu de Maio. Leve Perfume de jasmins. Rechina um carro. Contemplo o rendilhado que descreve No espaço o fumo azul do meu cigarro.</l>
+      <l>Lá fóra, aos bambuaes segreda o vento Uma doce bailada commovida.</l>
+      <l>Oh! repousa afinal meu pensamento: Não penso em cousa alguma desta vida.</l>
+      <head><hi>130</hi></head>
+      <head><hi>Ricardo Gonçalves</hi></head>
+      <l>Tenho uma idéa negra ? Logo a vario Do cerebro e de subito ella passa Como passam as nuvens do cigarro.</l>
+      <head><hi>Dolce far nienie! O pensamento agora E’ leve como as nuvens de fumaça, Como as nuvens do fumo se evapora.</hi></head>
+      <l>1903.</l>
+      <head><hi>Ipês</hi></head>
+      <head><hi>131</hi></head>
+      <l>“TESORO MIO” ...</l>
+      <head>(Valsa de Besucci)</head>
+      <l>Porque será que as doces melodias Que brotam do teclado,</l>
+      <l>Levam minh’alma aos venturosos dias, Aos venturosos dias do passado ?</l>
+      <l>Vem-me de longe magica fragrancia Que a um tempo venturoso me transporta, Doce illusão da minha doce infancia,</l>
+      <l>Doce illusão ha tanto tempo morta 1</l>
+      <head><hi>132</hi></head>
+      <head><hi>Ricardo Gonçalves</hi></head>
+      <l>Ouço na igreja o bimbalhar do sino. Perseguem-se andorinhas no telhado, O meus dias felizes de menino,</l>
+      <l>O santas illusões do meu passado !</l>
+      <l>Para onde foi esse viver risonho,</l>
+      <l>Essa ave de oiro que em meu peito havia, A repetir baixinho, noite e dia,</l>
+      <l>A cavatina módula do sonho ?</l>
+      <l>De amores tive o peito constellado: Eu era pequenino, ella pequena;</l>
+      <l>Ó santinha do altar do meu passado, Ó perfume das noites de novena !</l>
+      <l>E as lembranças dulcissimas da infância Para minha saudade redivivas,</l>
+      <l>Surgem nos horizontes, á distancia, Como um bando de pombas fugitivas.</l>
+      <l>1900.</l>
+      <l>OLHOS PRETOS</l>
+      <l>Teus grandes olhos pretos e formosos, Teus grandes olhos são como dois lagos, Onde nadam desejos voluptuosos,</l>
+      <l>Onde boiam volupicos afagos.</l>
+      <l>Na travessia destes procellosos Mares da vida, escuros e presagos,</l>
+      <l>Teus grandes olhos pretos e formosos São para mim a estrella dos Reis Magos.</l>
+      <head><hi>134</hi></head>
+      <head><hi>Ricardo Gonçalves</hi></head>
+      <l>Sol, auroras, crepusculos e luares Recebem sua luz dos teus olhares,</l>
+      <l>Que são a luz dos meus febris sonetos.</l>
+      <l>E eu, si ainda tenho risos para a vida, E’ que eu a vejo, doce flor querida, Pela pupilla dos teus olhos pretos !</l>
+      <l>1900.</l>
+      <l>1</l>
+      <head><hi>ipês</hi></head>
+      <head><hi>135</hi></head>
+      <l>PRIMEIRO AMOR</l>
+      <l>A asa que passa, num celeste arpejo, O nome teu repete, ó linda fior!</l>
+      <l>E conta a historia do primeiro beijo A’ luz do sol, ao doce aroma e á côr.</l>
+      <l>Primeiro beijo do primeiro amor,</l>
+      <l>Que acalentar as nossas almas veio,</l>
+      <l>Mas, que partiu depois, partiu ... Maldade Maldoso amor! deixando-nos no seio O áspide venenoso, que é a saudade.</l>
+      <head><hi>136</hi></head>
+      <head><hi>Ricardo Gonçalves</hi></head>
+      <l>A serpe venenosa e trahidora Abandonou-se em lânguido repouso.</l>
+      <l>Dorme agora Em nossos corações fartos de goso.</l>
+      <l>Porem, oh sim! ha de acordar um dia, Quando sentirmos a asa do desejo Cantar numa celeste melodia A doce historia do primeiro beijo.</l>
+      <l>E então, nesse momento, a asa que passa, E a luz do sol, e o doce aroma, e a côr, Repetirão talvez com terna graça A louca historia do primeiro amor.</l>
+      <l>1898.</l>
+      <head><hi>Ipês</hi></head>
+      <head><hi>137</hi></head>
+      <l>SÓ</l>
+      <l>Que noite, santo Deus ! A espaços relampeja,</l>
+      <l>E retumbam trovões. Collo o rosto á vidraça : Na rua cenagosa e triste ninguém passa,</l>
+      <l>Atra melancolia o céu plúmbeo poreja.</l>
+      <l>E eu, tão longe de ti... sósinho, no remanso Da alcova, em quanto fóra estronda a tempestade, Sinto dentro do peito, a soluçar, de manso, Queixoso, o bandolim de uma extranha saudade!...</l>
+      <l>1904.</l>
+      <head><hi>f</hi></head>
+      <l/>
+      <l>/ pêS</l>
+      <head><hi>139</hi></head>
+      <l>VISÃO</l>
+      <l>Na rosea nuvem de um sonho, Chegas. Minh’alma te vê...</l>
+      <l>Mas, a visão doce e casta Rapidamente se afasta,</l>
+      <l>Sem que tu saibas porque...</l>
+      <l>Foge... e logo sobre a alma Pesado manto de treva A dôr extende minaz.</l>
+      <l>E essa nuvem que te traz,</l>
+      <l>A mesma nuvem te leva...</l>
+      <head><hi>140</hi></head>
+      <head><hi>Ricardo Gonçalves</hi></head>
+      <l>Não quero que me visites, Meu descorado jasmim, Quando nesta lucta insana, Feroz alcatéa humana, Vocifera junto a mim...</l>
+      <l>Mas só, no meu quarto, á noite, Fico instantes que nem sei...</l>
+      <l>Hau rindo o aroma celeste Das flores que tu me deste E dos beijos que te dei.</l>
+      <l>1899.</l>
+      <head><hi>J p € s</hi></head>
+      <head><hi>141</hi></head>
+      <l>HISTORIETA</l>
+      <l>Quando a alma é todo um thesouro De illusões, de sonhos bellos, Erguendo airosos castellos,</l>
+      <l>Amaste um principe louro !</l>
+      <l>Como um pagem das bailadas Era esbelto e sobranceiro,</l>
+      <l>Tinha a altivez de um guerreiro E usava esporas douradas.</l>
+      <head><hi>142</hi></head>
+      <head><hi>Ricardo Gonçalves</hi></head>
+      <l>Mas tu, radiosa creança,</l>
+      <l>Com elle não foste á igreja, Pois que nunca a gente alcança Aqui 11o que mais deseja.</l>
+      <l>E eu disse num tom profundo :</l>
+      <l rend="indent">—«Oh ! devaneios crueis !</l>
+      <l>São muito raros 110 mundo Os principes e os donzeis.</l>
+      <l>Donzel do louro cabello, Aureo sonho de menina, Que nunca a sorte mofina Te converta em pesadelo!*</l>
+      <l>Depois, tendo o peito em lavas, Amaste furiosamente Um dandy bem differente Do principe que sonhavas.</l>
+      <head><hi>Ipês</hi></head>
+      <head><hi>143</hi></head>
+      <l>Mas o «leão&gt; que era o mais lindo Mancebo da fina roda,</l>
+      <l>Morreu mais tarde vestindo Um fato fóra da moda.</l>
+      <l>E eu disse num tom profundo : «Amae, amae, corações !</l>
+      <l>Ao mundo das illusões Não chegam vozes do mundo.</l>
+      <l>O’ peralvilho modelo,</l>
+      <l>Sonho de moça e menina, Que nunca a sorte mofina Te converta em pesadelo !»</l>
+      <l>Passou-se algum tempo. Os fados Levaram-te, flor querida.</l>
+      <l>Hontem meus olhos pasmados Encontraram-te na vida.</l>
+      <head><hi>144</hi></head>
+      <head><hi>Ricardo Gonçalves</hi></head>
+      <l>Não vinhas só. Compassado, Um sujeito narigudo,</l>
+      <l>Qiboso, torto, ventrudo,</l>
+      <l>Vi caminhando a teu lado.</l>
+      <l>Era uma figura suina,</l>
+      <l>Um monstro informe, um camello, O teu sonho de menina Convertido em pesadelo.</l>
+      <l>O CIGARRO</l>
+      <l>Fumo um cigarro, acompanhando attento As espiraes macabras da fumaça,</l>
+      <l>Que sobe para o tecto, e se adelgaça,</l>
+      <l>E perde-se afinal pelo aposento.</l>
+      <l>E emquanto ulula, fóra, a voz do vento, Seguindo o rendilhado que ella traça,</l>
+      <l>No coração não sei o que se passa,</l>
+      <l>Mas adormeço as maguas um momento.</l>
+      <head><hi>146</hi></head>
+      <head><hi>Ricardo Gonçalves</hi></head>
+      <l>Oh ! quantos sonhos, quantas maravilhas O perfumado fumo das Antilhas Faz-me sonhar em noites hibernaes !</l>
+      <l>Dá-me de novo o que eu perdido havia, Dá-me de novo os sonhos e a poesia Daquelles tempos que não voltam mais.</l>
+      <l>1902.</l>
+      <head><hi>Ipê s</hi></head>
+      <head><hi>147</hi></head>
+      <l>TUMULO</l>
+      <l>Modesta cruz de pau numa clareira, Onde pipilem trefegos sanhaços; Modesta, sim, mas que uma trepadeira, Para enfeital-a, cinja-lhe os dois braços.</l>
+      <l>E que eu repouse alli, na hospitaleira Sombra do bosque, livre de cansaços, Como quem, pelas horas da soalheira, Foge da estrada aos cálidos mormaços.</l>
+      <head><hi>148</hi></head>
+      <head><hi>Ricardo Gonçalves.</hi></head>
+      <l>Ei!-o o tumulo simples que ambiciono Para deitar a carne fatigada,</l>
+      <l>Para dormir o derradeiro somno.</l>
+      <l>Como serei feliz 110 meu jazigo!</l>
+      <l>Aves, flores, a matta embalsamada,</l>
+      <l>E eu a dormir, eu a sonhar comtigo...</l>
+      <l>1905.</l>
+      <head><hi>índice</hi></head>
+      <head><hi>149</hi></head>
+      <l>INDICE</l>
+      <l>IPÊS</l>
+      <head>Prefacio5</head>
+      <head>Aquarella15</head>
+      <head>Nha Carola17</head>
+      <head>Meio dia19</head>
+      <head>Zé da Ponte . . . ■21</head>
+      <head>Serão23</head>
+      <head>O batuque25</head>
+      <head>Orancho27</head>
+      <head>De manhã29</head>
+      <head>Manhãs de outrora33</head>
+      <head>Fazenda velha37</head>
+      <head>A dansa dos tangarás41</head>
+      <head>A scisma do caboclo43</head>
+      <head>A’ Oêgê47</head>
+      <head>Innocencia49</head>
+      <head>As aves51</head>
+      <head>Uma creança55</head>
+      <head>A arvore59</head>
+      <head><hi>150</hi></head>
+      <head><hi>Índice</hi></head>
+      <head>o rio63</head>
+      <head>A chuva67</head>
+      <head>Mimo de caçador ... *71</head>
+      <head>Uma vela que passa73</head>
+      <head>Fumando75</head>
+      <head>Navegantes 79</head>
+      <l>TRADUCÇÕES</l>
+      <head>Do “Intermezzo”: 185</head>
+      <head>II86</head>
+      <head>III.. .87</head>
+      <head>Doente. . . . *89</head>
+      <head>Serenata91</head>
+      <head>Frêmitos de amor93</head>
+      <head>Do “Cyrano de Bergerac” I 95</head>
+      <head>II97</head>
+      <head>III99</head>
+      <head>IV101</head>
+      <head>V104</head>
+      <head>Sonhos mortos105</head>
+      <head>Os elephantes109</head>
+      <l>APPENDICE</l>
+      <head>Manhã•115</head>
+      <head>Passeio 117</head>
+      <head>] jquitibá119</head>
+      <head>Alvuras121</head>
+      <head>O pombo ..."123</head>
+      <head>Aves de arribação•127</head>
+      <head>No “Minarete”129</head>
+      <head>“Tesoro mio”</head>
+      <head>Olhos pretos•133</head>
+      <head><hi>índice151</hi></head>
+      <head>Primeiro amor135</head>
+      <head>Só137</head>
+      <head>Visão139</head>
+      <head>Historieta* ....141</head>
+      <head>O cigarro145</head>
+      <head>Tumulo147</head>
+      <head>Typ. Soc. Edit. Olegario Ribeiro - R, Abranches, 43 - S* PAULO</head>
+      <l rend="indent">r</l>
+
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>O Santo Mágico</title>
+        <author>Harry Laus</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication statement.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>“O santo mágico”, de Harry Laus. In: <title>Ao juiz dos ausentes.</title> Organização de R. Laus. Tijucas, SC: Centro Cultural Harry Laus, 2002.</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+
+    <front>
+
+      <div type="epigraph">
+        <cit>
+          <quote>Não procures nem creias: tudo é oculto.</quote>
+          <bibl>
+            <author>
+              <persName>Fernando Pessoa</persName>
+            </author>
+          </bibl>
+        </cit>
+      </div>
+
+    </front>
+
+    <body>
+
+      <p>A ponta-seca de um compasso cravada no ponto onde fica a casa do Altair, na carta topográfica de Porto Belo; a abertura do compasso num ângulo correspondente a duzentos metros de raio; o grafite traçando um círculo. Esta a área insignificante por onde se deslocam os personagens desafiados a compreender os fatos que transtornaram a pequena cidade à beira-mar, começando na madrugada de um sábado quando:</p>
+      
+      <milestone unit="space"/>
+
+      <p>Luca repara nas abstrações que as pequenas ondas desenham na areia clara da praia. Com mais interesse analisa a superfície das águas, à espera de sinais do cardume para deitar a rede em volta desse crispar esverdeado que esconde os peixes. O sol ainda não estrala estrelas apagadas por blocos de espuma, porém clareia tudo: a ilha defendendo a enseada, as montanhas separando Porto Belo do Araçá, de Bombas, Bombinhas, Sepultura, Retiro dos Padres, Quatro Ilhas, Zimbros, Mariscal, Canto Grande.</p>
+
+      <p>Sentado nas pedras junto ao mar, Luca imita com os pés as curvas marcadas na areia pelo movimento contínuo das ondas. A extensa praia de Itapema está do lado oposto, com o Morro do Boi limitando o vasto panorama, a BR-101 cavalgando o monte que revela Camboriú dos grandes edifícios. De noite Luca e sua mulher Elfrida, Frida, acompanham os fios de luzes vermelha e branca dos automóveis subindo ou descendo o Morro do Boi. Mas agora, carros e caminhões se valem da claridade, se apagam na distância. O que vale são os peixes, alimentação oculta pelas águas, um grande elenco de formas, dimensões e cores: tainha, corvina, canhanha, cocoroca, parati, peixe-rei, peixe-espada, arraia, sororoca, bagre, escrivão, baiacu, manjuba, cardoso, cação, miragoia, borriquete, viola, treme-treme, badejo, pescada, pescadinha, robalo, garopa, garopeta, enxova, peixe-agulha, peixe-boi, peixe-martelo, bigarela, linguado.</p>
+
+      <p>Uma onda um pouco maior apaga os desenhos de Luca, imóvel prolongamento das pedras. Pés de cinquenta anos apoiam o corpo rijo de pouca imaginação mas muito tino marítimo, transmitido a ele pelo pai que aprendeu do pai que aprendeu do pai que aprendeu de alguém emigrado de Portugal. Nada tem perturbado sua paz vinda dos peixes que o mar lhe garante. Frida lava roupa para fora, o filho Raimundo, Mundo, Mundinho, estuda contabilidade em Florianópolis. Resolveu interromper a tradição familiar da pesca, tornar-se contador, depois cursar Economia. O pai opôs-se, de início, depois compreendeu que hoje em dia só vale quem tem diploma, quem é doutor.</p>
+
+      <p>Luca contenta-se em namorar o mar todas as manhãs sem a intenção de conquistá-lo, apenas para fazer-lhe agrado recebendo em troca alguns peixes para comer, vender as sobras com o pensamento nas roupas de Frida, nos estudos de Mundinho, o indispensável para casa. Quanto a si, nada de postiço além de um calção azul desbotado, um dente-pivô trocado pelo verdadeiro num acidente de ônibus, quando a boca chocou-se contra o cano frio do banco dianteiro numa viagem Porto Belo – Tijucas. Dente pago pelo seguro, calção pelos peixes, o pensamento gratuito solto pelos desvãos do pouco saber, que demais não é necessário à obrigação de viver em paz, morrer em paz, renascer em algum lugar que independe da gente.</p>
+
+      <p>Os pés estão ali sobre a areia morna, um grão se mete entre o dedão e o seguinte – que nome terá? – um movimento desfaz o leque dos dedos para forçar a fuga do grãozinho que se perde entre tantos outros como deve ser a multidão de peixes respirando água na imensidão dos mares. As pernas, as mãos queimadas de sol esfregando as coxas, juntando-se em concha no bolo vivo que o calção resguarda. Frida. Conhecera outras mulheres antes de Frida, depois nenhuma porque ela era tudo e sempre nova a seus desejos, até que apareceu Mundinho para completar o quase nada que faltasse.</p>
+
+      <p> Luca prende o olhar num pedaço de mar que as nuvens sombreiam de verde-escuro, levemente crispado pelo cardume.</p>
+      
+      <milestone unit="space"/>
+
+      <p>Altair espera o dia esquentar um pouco para a longa caminhada pela praia. Na cadeira de balanço da varanda, centro do círculo traçado na carta de Porto Belo, ele puxa uma tragada no cigarro de palha que acabara de fazer, cortando o fumo de rolo com seu punhal de prata. Olha para a linha longe, de uma tranquilidade apenas aparente, onde o céu encontra as águas. Tudo o que está longe parece tranquilo. Quando a gente se aproxima, o horizonte se afasta como se afastam os homens de um contato maior para um melhor entendimento. Resta o agir isolado, da melhor maneira possível. Do conjunto de ações isoladas pode resultar um todo homogêneo. Talvez resulte uma tranquilidade não muito sólida, apenas aparente, uma tranquilidade-horizonte, sem nuvens até que venha uma tempestade e carregue também a ilusão desta imagem.</p>
+
+      <p>Bela a figura de Altair louro, balançando os pensamentos e o corpo na cadeira da varanda, os olhos azuis presos num beija-flor sugando água açucarada, posta num cilindro de plástico pendurado ao vão de duas colunas. Para o colibri de plumagem dourada, Altair não conta, não existe, apenas faz parte do amanhecer. Estabilizado no ar, as asas num desenho esfumado pela velocidade que o mantém parado, introduz certeiro o longo bico no falso néctar da flor vermelha de plástico. Com tanta flor verdadeira na cerca-viva do jardim, por que escolher logo esta? Altair leva o cigarro apagado aos lábios, faz uma careta e o atira por terra, espantando o beija- flor. Dane-se o mundo! De que me adiantou correr este Brasil inteiro, se uma possível felicidade está aqui em Porto Belo, junto a Maria e meu filho Argo? Ele terá um navio e vai nos trazer o Velocino de Ouro. Não há horizonte que o segure.</p>
+
+      <p>Aos vinte e dois anos, Altair já transferiu quase todos os sonhos para o filho. Antes dos vinte, chegou a se convencer de que Jesus Cristo apareceria na Serra do Roncador. Começou a organizar uma expedição, conseguiu um adepto, foram para a BR-101 pegar carona. O caminhoneiro riu muito deles, deixou-os num posto de gasolina em Itapema, batendo forte no peito.</p>
+
+      <p>— A Serra do Roncador é aqui dentro. Cristo está dentro de mim.</p>
+
+      <p>Os dois voltaram a pé por Meia Praia, Perequê, até Porto Belo, desanuviando a mente do muito fumo puxado.</p>
+
+      <p>O choro de Argo leva Altair para dentro de casa, para o quarto onde Maria aconchega o filho ao peito.</p>
+
+      <p> — Dormiu de novo.</p>
+
+      <p>— Deixa eu levar o bichinho para passear na praia.</p>
+
+      <p>— Não enche, Estrela pirada. Deixa a gente dormir mais um pouco.</p>
+
+      <p>Altair passa a mão nos cabelos longos de Maria, nos cabelos ralos do menino.</p>
+
+      <p>— Seu careca de uma figa.</p>
+
+      <p>Outro beija-flor – talvez o mesmo – está sorvendo a água doce do potinho pendurado à varanda. Altair começa a enrolar outro cigarro.</p>
+      
+      <milestone unit="space"/>
+
+      <p>A mão pequena, branca, de uma gordura flácida, leva pela primeira vez o batom arroxeado aos lábios, numa operação cuidadosa que se repete todas as madrugadas. Quase no limite do círculo dos acontecimentos de Porto Belo, começa o ritual da maquiagem. Sobre a mesinha do quarto, o estojo aberto com a profusão de cosméticos: lápis de sobrancelhas, sombras de diversas cores para rejuvenescer os olhos, esmalte incolor para as unhas – pena não poder usar uma cor combinando com o batom – acetona, rímel, tesourinha, lixa, um espelho de mão ovalado em moldura de praia, o lencinho rosa de finíssima cambraia bordado a mão. Seu tesouro é aquele estojo em laca sangue coalhado, com discretas flores mínimas em madrepérola, cheirando a sândalo, encontrado ao acaso num antiquário do Rio de Janeiro. Não se separa dele, viaje para onde viajar, sempre chaveado e escondido no fundo da mala, num embrulho em papel para presentes com laços de fita, semelhante a três outros pacotes que completam o segredo: as sapatilhas; o traje de balé em tule branco, babados bem fartos, corpete justo; a peruca de cachos castanho-claro, cuidadosamente dobrada num saco plástico, por fora o papel colorido. Vai mais além o cuidado da farsa, para o caso de morte súbita ou descoberta do conteúdo por alguma camareira indiscreta, algum auxiliar de pouca confiança; em cada volume, um cartão com dedicatórias às sobrinhas Magda, Mafalda, Margarida e Solange.</p>
+
+      <p>Já vestiu a saia repolhuda, sofreu um pouco até conseguir abotoar o corpete, cada vez mais apertado com a insistente gordura que torna o corpo roliço, de contornos imprecisos. Dedica-se à maquiagem com extrema atenção, aproximando e afastando o espelho até encontrar o efeito desejado nos lábios, na sombra azulada dos olhos negros, no negro das sobrancelhas grossas, afinadas nas pontas. Um pintor não usaria os pincéis com maior cuidado. Falta agora ajustar a peruca e, por último, calçar as sapatilhas número quarenta, pontas duras para dançar o solo frente a uma sofisticada plateia inexistente. Para não amassar demais os babados, senta-se na ponta da cadeira, cruza as pernas grossas, estica a direita, começa a trançar os cordões da sapatilha na posição idêntica a uma bailarina de Degas.</p>
+
+      <p>Tudo pronto. No centro do quarto, em pontas na segunda posição de balé, agita a cintura para acomodar a saia, braços em curvas suaves na altura do colo, só falta a música. Três curtos passos gentis, o rápido girar de um botão e uma insolente música caipira invade o quarto, substituindo Tchaikowsky no radinho de pilha.</p>
+
+      <p>— Merda. Em Brusque meu som tocaria o <title>Lago dos Cisnes</title>.</p>
+
+      <p>Como se não bastasse essa decepção, batidas na porta arrebatam o resto daquela atmosfera de sonho. A voz rouca do sacristão chamando:</p>
+
+      <p>— Seu padre, seu padre, padre Anatole.</p>
+
+      <p>Assustado, Anatole desliga o rádio, desaparece a música muito diferente do som que o pescador Luca começou a escutar. Um zumbido que parece vir dos próprios ouvidos. Atento ao ponto crispado das águas do mar, não dá importância ao ruído contínuo, mas leva as mãos em concha à cabeça, comprime as orelhas fazendo pressão diversas vezes. O zuído aumenta, igual ao de um rádio mal sintonizado, uma turbina em alta rotação. Insuportável. Luca aperta as mãos contra os ouvidos e volta a cabeça para trás. Levanta-se de um salto e fica paralisado. As vistas se embaralham, um tremor começa a lhe subir pelas pernas, invade o corpo inteiro, os dentes batem uns contra os outros, ele tenta reagir, comprime os maxilares, cerra as mãos, perde o equilíbrio, cai sentado na areia.</p>
+
+      <p>Sobre o marco da Marinha, uma coluna de concreto chumbada nas pedras, qualquer coisa luminosa gira com tanta velocidade que não pode ser identificada. A forma luzente pode ter uns quarenta centímetros, menos, pouco mais que um litro de pinga. Sem conseguir desviar os olhos do fenômeno, Luca percebe que a velocidade está caindo, o zumbido enfraquece, os limites vão-se definindo e ele tenta se levantar. Não consegue. Sobre o marco tão conhecido de Luca, levitando a uns quatro dedos do disco de bronze onde leu diversas vezes Marinha do Brasil – Referência de Nível, mais uma palavra interrompida Hidr...afia, a imagem transparente como água-viva emite raios de luz azulada, com um auréola incandescente na parte superior.</p>
+
+      <p>Luca se benze, encolhe as pernas, firma os pés na areia até conseguir se pôr de joelhos. Olha para um lado e outro da praia, ninguém para ver o que está vendo, nem um cachorro para sair latindo e acordando gente, vão dizer que estou maluco, não vi, não vejo nada, mas vejo, está a menos de três metros de mim, recomeça a girar mais rápido outra vez, vai perdendo os contornos. Talvez até tenha parado do rodar, tenha-se revelado enquanto olhei à procura de alguém, agora me volta a dúvida. Disco voador? Pequeno demais, pelo que dizem por aí. Fogo-fátuo? Não é hora nem há cemitério ou pântano por perto. Algum parente morto querendo falar comigo? Bobagem, teria falado quando quase parou de girar ou parou e não vi? Mas falar, não falou. Não sou surdo. Nem aleijado.</p>
+
+      <p>Para provar o que pensa, Luca faz novo esforço e levanta-se, ainda trêmulo com a aparição diante dos olhos. Um aviso de Deus... Um milagre, quem sabe um santo... Um santo! Mas que santo? Quase parando, não tinha as barbas de São Pedro, as flechas de São Sebastião, não carregava Jesus como Santo Antônio nem a palma de Bom Jesus de Iguape, coroado de espinhos e manto roxo. Santo novo, desconhecido, desses que o Papa volta e meia santifica pela televisão. Ou um santo com outras promessas, novas esperanças para a gente? Mas um santo que não fala, apenas zumbe, que esperanças pode trazer? É verdade que pode falar de uma hora para outra, de certo quer me dizer que chame gente, traga o povo. Santo é, pois tem luz sobre a cabeça, em forma de disco, como nas revistas coloridas. Mas por que aparecer para mim, um simples pescador?</p>
+
+      <p>Luca se benze outra vez porque pensa em Cristo e nos apóstolos pescadores. Deve ser uma alucinação. Afasta-se devagar deixando a marca dos pés na areia da praia, até que o zumbido fica suave, igual ao eco prolongado da última badalada do sino da igreja. Volta-se. Ainda está lá a aparição. De longe fica mais compacta, girando sem pousar no marco, entre azul e dourada. A solução é procurar o padre que Luca nem conhece porque chegou de Brusque há poucos dias, para substituir o vigário que ficou doente logo agora, na véspera da Festa de Senhor dos Passos.</p>
+      
+      <milestone unit="space"/>
+
+      <p>A igreja, as casas de Altair e Luca, três pontos delimitando uma linha quase reta do ciclo de acontecimentos em Porto Belo.</p>
+      
+      <milestone unit="space"/>
+
+      <p>Em suas cozinhas, Frida e Maria preparam a refeição da manhã. Na casa de Luca, o café num boião de barro, leite no fervedor de alumínio, pão e margarina, xícaras com um ramo de flores cor de laranja. Maria cobre a mesa com uma toalha bem alva, dispõe o aparelho de porcelana cuidando na perfeição do arranjo. Café, leite, manteiga, pão, doces, biscoitos, frutas. Maria basta chamar Altair, perdido em cismas na varanda. Frida nunca sabe a hora da chegada de Luca. Depende dos peixes, do preparo da rede na canoa, seu lançamento em arco envolvendo o local assinalado pelas águas crispadas. Por isto, o café espera em banho-maria sobre a chapa de ferro do fogão a lenha.</p>
+
+      <p> — Frida.</p>
+
+      <p>A mulher se espanta com a chegada brusca do marido.</p>
+
+      <p>— Não deu peixe?</p>
+
+      <p>Trôpego e pálido, Luca apoia-se na cadeira de palha.</p>
+
+      <p>— O que foi? Que palidez é esta? Fala, homem. Senta e toma um gole de café, anda. Parece que viu lobisomem.</p>
+
+      <p>— Vi um santo.</p>
+
+      <p>— E daí? Na igreja tem uma porção.</p>
+
+      <p>— Não é igual. É transparente. Na praia, em cima do marco da Marinha.</p>
+
+      <p>— Estás variando, homem de Deus.</p>
+
+      <p>Frida espalma a mão na testa de Luca, suor frio, tremura no corpo:</p>
+
+      <p>— Será maleita?</p>
+
+      <p>— Maleita nada, mulher. Vi um santo, está lá para quem quiser ver. Gira como um pião e brilha feito chama de querosene.</p>
+
+      <p>— Onde é que se viu santo girar e brilhar. Tu estás mas é doente.</p>
+
+      <p>A mulher vai ao quarto, volta com um cobertor de flanela mas não encontra o marido. Corre à janela da sala. Ainda trôpego, Luca segue devagar, para em frente à casa de Altair.</p>
+
+      <p>— Um santo, seu Altair, um santo na praia. Um pião de luz no marco da Marinha.</p>
+
+      <p>Na varanda, a uns vinte metros da rua, Altair confunde a voz trêmula de Luca com o chamado de Maria.</p>
+
+      <p>— Vem logo, o café esfria.</p>
+
+      <p>Frida veste apressada um casaco, troca os chinelos por sapatos baixos, sai ao alcance do marido que continua a marcha indecisa em direção à igreja.</p>
+
+      <p>— Que foi, dona Frida?</p>
+
+      <p>— Sei lá, seu Altair. O Luca diz que viu um santo, vai falar com o padre. Que vergonha, a uma hora dessas...</p>
+
+      <p>Maria enche a xícara de Altair.</p>
+
+      <p>— Acho que o Luca endoidou. Viu um pião de luz na praia, e pensa que é um santo.</p>
+
+      <p>— E pião de luz aparece sem mais nem menos na praia? Quem está biruta és tu.</p>
+
+      <p>O choro de Argo interrompe o café de Maria. A passos rápidos, vai ao quarto, trazendo o menino ao colo para junto do pai que o segura desajeitado. Ela sorri, os olhos claros encontram os de Altair. Como pudera deixar família, conforto, os estudos no Rio para vir atrás deste homem que nem sabe o que quer? Um apelo tão forte como a necessidade de atar uma veia por onde o sangue se esvai. Longe dele, não podia dar sentido a um simples pensamento, não comia, dormia mal, a mãe acabou consentindo. Quando chegou a Porto Belo, desceu em frente à igreja, perguntou pela casa de Altair no armazém da Dilma. Ele estava fumando um palheiro na varanda, não demonstrou surpresa. Depois do beijo que ela esperava mais intenso, a ordem ríspida.</p>
+
+      <p>— Vai fazer um café. Está tudo na cozinha.</p>
+
+      <p>Mais de um ano de convivência em que a frieza e o alheiamento de Altair vão-se tornando cada vez mais insuportáveis e ofensivos. Quando Maria terá coragem para confessar a impossibilidade de manter aquele relacionamento equívoco, o distanciamento sentimental que acabou por liquidar o que sobrava de ternura entre os dois? Por que continuar recebendo uma palavra ou outra do companheiro, como se ele quisesse apenas mostrar que nada existe contra ela, que deixá-lo só é o melhor a fazer? Maria afastou todas as lembranças e o conforto do Rio para entregar-se a esse amor descompassado, iludida pelo delírio e a exaltação dos primeiros encontros cariocas com Altair; em Porto Belo, sobram-lhe as mãos feias e maltratadas de tanto lavar roupa no tanque e o olhar vago de Altair preso ao céu, às estrelas, ao horizonte... Ou, como agora, brincando com o filho a cavaleiro de sua perna direita. Então surgiu Raimundo, Mundo, Mundinho, correndo pela praia como um cavalo xucro, cabelos negros ondeando ao vento. A cor de sua pele retesada de músculos, castanha como o tronco da goiabeira, o sorriso um lírio, os carinhos uma bênção. Mundinho substitui o que foi Altair; Maria trocou-o por Argo. Se só o filho interessa, que fique com ele, para orgulho e alegria dos avós.</p>
+
+      <p>— Vai ser forte como um astronauta. Vai à lua, sabes, Maria? Mas antes vou lhe dar um navio de velas brancas... Segura ele. Vou ver a reação do gorducho.</p>
+
+      <p>— Que gorducho?</p>
+
+      <p>— O padre novo. Parece um tatu-bola.</p>
+      
+      <milestone unit="space"/>
+
+      <p>Luca para e Frida consegue alcançá-lo. Uma dúvida começou a perturbar o pescador. Se foi apenas uma alucinação momentânea, uma ilusão já desaparecida? Ia fazer um papel ridículo acordando o padre, serviria de riso em todo Porto Belo – Cadê o santo? – A Marinha quer o santo que apareceu nas terras dela, vai mandar a esquadra te prender. – Santo que se preza não desaparece. – É um santo mágico que vai e volta. – O Luca ficou rico de tanto pescar. – Rico nada, só pobre vê o que não existe. – Ficou mas é maluco de tanto puxar rede vazia.</p>
+
+      <p>— Vamos para casa, Luca.</p>
+
+      <p>— Não. Quero contar para o padre.</p>
+
+      <p>— Contar o quê?</p>
+
+      <p>Parado frente à igreja, Luca segura a mulher pelo braço.</p>
+
+      <p>— Preciso de ti, preciso de uma testemunha.</p>
+
+      <p>Ela tenta desvencilhar-se mas a mão do marido é uma garra.</p>
+
+      <p>— Para, seu doido, larga meu braço.</p>
+
+      <p>— Vamos até a praia. Acho que dá para ver. São menos de duzentos metros.</p>
+
+      <p>Frida se deixa levar, atemorizada com o tom grave da voz do marido, os olhos brilhando nas faces pálidas, a mão suada e fria envolvendo-lhe o braço.</p>
+
+      <p>— Olha, está lá a luz, o santo girando azulado.</p>
+
+      <p>— Só vejo uma luz fraca, parece de vela...</p>
+
+      <p>— O vento já tinha apagado.</p>
+
+      <p>— ...uma lâmpada elétrica.</p>
+
+      <p>— Lâmpada coisa nenhuma, mulher. Eu vi de perto. Gira e tem uma roda de ouro na cabeça. Fica aqui. Se o santo desaparecer, vai correndo me avisar.</p>
+
+      <p>Luca sobe a rampa até a rua principal, deixa passar o ônibus das seis e meia para Florianópolis enquanto se vira para ver Frida. Imóvel, não olha para o marido, não faz sinal algum, a dúvida volta, ele grita, a mulher não ouve, grita mais alto, Frida se volta e afirma com a cabeça. Luca atravessa a rua apressado, um sorriso feliz com a revelação que vai fazer. Bate com a mão fechada na porta da sacristia.</p>
+
+      <p>Cessa o ruído da vassoura de piaçaba no chão de lajotas, o sacristão aparece.</p>
+
+      <p>— Quero falar com o padre.</p>
+
+      <p>— Está dormindo.</p>
+
+      <p>— Acorda ele, é urgente.</p>
+
+      <p>— Dona Frida está passando mal?</p>
+
+      <p>— Frida nada, seu azarento.</p>
+
+      <p>Afasta o sacristão da porta, entra em direção ao quarto do padre, o sacristão corre, chega primeiro, bate e chama o vigário.</p>
+
+      <p>Anatole nunca tirou sua fantasia com tal rapidez. Peruca, sapatilhas, corpete, saia, tudo cai ao chão como se tivesse ouvido um alarme de incêndio. Entra no banheiro, abre a torneira, não pode deixar vestígios da maquiagem.</p>
+
+      <p> Impaciente, temendo o desaparecimento do santo, Luca bate na porta com força.</p>
+
+      <p>— Depressa, seu padre.</p>
+
+      <p>Que fazer das coisas espalhadas pelo assoalho? Anatole recolhe às pressas cabeleira, saias fofas, sapatilhas de cetim, reúne num bolo, joga ao fundo do guarda-roupa. Veste uma calça, a camisa, abre a porta de chinelos.</p>
+
+      <p>— Que foi? Alguém precisa de extrema-unção? Quem é este homem?</p>
+
+      <p>— Seu Luca, um pescador. Eu não queria deixar ele entrar mas ele me empurrou.</p>
+
+      <p>— Apareceu um santo na praia, seu padre.</p>
+
+      <p>— Lugar de santo é no altar. Traz para cá.</p>
+
+      <p>— Não dá, seu padre, o santo é mágico, brilha em cima das pedras e não para de girar.</p>
+
+      <p>— Tu estás maluco, homem.</p>
+
+      <p>— Juro por tudo que é sagrado. O santo está lá, deixei minha mulher vigiando.</p>
+
+      <p>— Se está lá, santo não é. Deve ser coisa do demônio.</p>
+
+      <p>Luca se desespera, ajoelha-se, segura as mãos de Anatole, tenta beijá-las. O padre se afasta, amedrontado com a exaltação do pescador.</p>
+
+      <p>— Por favor, vamos lá, tem que ser verdade, sou um homem de bem, pergunte a seu Joca, nunca menti, nem roubei, nem matei. Vamos, seu padre.</p>
+
+      <p>— Joca, acompanha-o até a visão. Depois vem me contar tudo.</p>
+
+      <p>Anatole fecha a porta do quarto e estremece: indefesa sobre a mesinha, a profusão multicor dos cosméticos, junto ao estojo de laca. Ele guarda tudo com cuidado, procura o bolo de roupas no armário e trata de empacotá-las uma a uma. Ao enrolar as sapatilhas, sorri: imagine só a Mafalda com sapatilhas quarenta! E a Margarida, um alfineto de magreza, com estes babados em volta do corpo. Não, pecado isto não é, vão dizer que fui doido, posso pecar por desejos, serei absolvido por omissões, por minha timidez, por deixar meus desejos secarem dentro de mim – um rato envenenado. Para todos sou homem do bem, como o pescador: também nunca menti, nem roubei, nem matei. Tenho direito a meus sonhos, não me deixaram ser bailarino, pai e mãe acabaram me botando num seminário, restando-me apenas esta possibilidade de me mostrar a mim mesmo, escondido, gordo e balofo deste jeito.</p>
+
+      <p>Anatole senta-se à cama abatido. O grande silêncio do Porto Belo interrompido pelo motor de um caminhão passa. E agora essa história do santo na praia. Se for uma imagem comum, trazida pelas ondas, nada de mais. Afinal, não foram pescadores que encontraram Nossa Senhora Aparecida? E Cristo não escolheu os apóstolos entre pescadores ignorantes? Também podem ser restos de macumba, ontem foi sexta-feira. O melhor é ignorar, não tomar conhecimento, recolher-me em preces na igreja, ou me trancar no quarto, fingir de doente. Não, não posso, me comprometi a organizar a festa de Nosso Senhor dos Passos.</p>
+
+      <p>Anatole calça os sapatos, dá o laço nos cordões.</p>
+
+      <p>A aragem de fins de março em Porto Belo começa a esfriar. Não há mais turistas, quase todas as casas fechadas. Os naturais da terra, mais contentes: a cidade volta a ser só deles, sem a confusão de barcos e <foreign xml:lang="en">trailers</foreign> a reboque de carros emplacados em Curitiba, Porto Alegre, São Paulo, outros vindos da Argentina, do Uruguai e Paraguai. Bom para os comerciantes que exploram os turistas, mesmo para os pescadores que dobram o preço do camarão, do peixe fresco vendido pelas casas em cestos de vime e palha, para assados na brasa, frituras ou ensopados. Bom para dona Dilma, do pequeno armazém em frente à igreja, obrigada a ter mais carne em estoque para o churrasco dos gaúchos, mais pão, leite, frutas, uma porção de artigos diferentes só vendidos no verão. Bom até para dona Frida que até fins de fevereiro mal dá conta de atender os pedidos de empadinhas de camarão e palmito, vendidas quentinhas pelas barracas dos acampamentos. Houve um dia em que chegou a fazer mais de mil, no verão que se foi. Como o dinheiro dos peixes de Luca é bastante curto, as empadas que os turistas comeram lhe deixaram o suficiente para levantar um puxado atrás da casa e lavar roupa abrigada da chuva. Também sobrou um pouco para ajudar os estudos de Mundinho, seu maior orgulho. Como pode ter saído de si um ser tão grande e forte? De dentro de si, da barriga agora flácida, quieta, sem mais dores. Passaria por tudo novamente para ouvir outra vez os seus vagidos. Vai longe o tempo...</p>
+
+      <p>A imagem de Mundinho é cortada por Luca.</p>
+
+      <p>— Frida, vai na Dilma e compra umas velas.</p>
+
+      <p>— Quero ver o santo de perto.</p>
+
+      <p>— Compra as velas, avisa a Dilma e vem logo.</p>
+      
+      <milestone unit="space"/>
+
+      <p>Altair desce a rampa do jardim, descalço, chapéu de palha, calças de brim azul desbotado. Não vê mais Luca nem dona Frida. Não interessa a reação do Tatu-bola. Toma a direita para chegar ao marco da Marinha. Começam a chegar os operários que levantam o primeiro prédio em Porto Belo. Não param nem aos sábados. Daqui a pouco, a serra elétrica, a betoneira, adeus paz de Porto Belo. Está chegando a hora de se mudar para os Zimbros, cuidar melhor do sítio e da criação de abelhas. Lá poderá criar o filho em contato com a natureza, sem os vícios do sistema que repudia, não conseguindo armar outro melhor para substituí-lo. Estudou, leu, acredita em outro mundo no centro da Terra – a prova são os pássaros, troncos e árvores, restos de vida vegetal nas proximidades do Polo Norte. Mas, se lá estiver o santo do Luca em cima da pedra, que virada há de dar em suas crenças? Será a materialização de Cristo, como um dia se convenceu de que Ele estaria na Serra do Roncador?</p>
+
+      <p>A voz possante do caminhoneiro:</p>
+
+      <p>— É aqui dentro, está dentro de mim.</p>
+
+      <p>Ter Cristo dentro de si é um consolo, mas Altair quer vê-lo, conversar com ele, pedir explicações que não encontra em livros e teorias, saber como educar o filho num sentido novo e puro, sem maldade e competições mesquinhas. Ensiná-lo a ser livre, não a liberdade que tentou encontrar transportando cargas num caminhão até ao Nordeste, onde a miséria e a ignorância só fizeram aumentar sua descrença nos valores impostos e que Altair só tem podido afrontar com um comportamento falho, falso, ingênuo, resumido a pés descalços, barba e cabelos crespidos, maltratados, um comportamento contra si mesmo, refletindo uma imagem desagradável aos outros, sem nada de nobre, nada de uma essência de contestação vital, positiva, concreta.</p>
+
+      <p>Altair deixa o calçamento da rua e começa a subir a pequena elevação de onde avistará o marco da Marinha. Muitas vezes tem vindo àquele ponto, de onde se avista toda a enseada de Porto Belo, o mar, a ilha, barcos de pesca, baleeiras, canoas, bateiras no remanso do baixio, o recorte verde-azulado das montanhas contra o azul vibrante do céu. Caminha lento, afasta cuidadosamente os galhos das goiabeiras, abre caminho entre os arbustos orvalhados, começa a ver a copa da grande árvore que se debruça exatamente sobre o marco. Para. Não sabe se deseja ou não que o santo esteja ali. Se não estiver, vai zombar de Luca, como todos o irão fazer. Se estiver? Dá mais um passo o acredita ouvir um leve zumbido – ou será a lembrança das abelhas nas colmeias de sua criação? Aproxima-se mais. O marco está iluminado, o pião de luz com auréola dourada emite um som agudo quase insuportável, em seguida vai perdendo a intensidade e uma figura se delineia num giro lento, um pouco afastada do disco de bronze do marco.</p>
+
+      <p> Altair é tentado a aproximar-se mas sente as pernas pesadas, incapaz do dar mais um passo. Decepciona-se com as dimensões da visão, que imaginara de sua própria estatura. Quase estática, a aparição não revela roupas nem qualquer traço de comparação com seres e objetos conhecidos. A forma alongada pode lembrar um fuso de fiar, transparente, a cor cambiando do rosa ao lilás, passando ao azul, quase atingindo o roxo para terminar num círculo amarelo dourado.</p>
+
+      <p>Vozes abafadas acordam Altair da inútil tentativa de identificação do fenômeno. Luca e Joca se ajoelham na areia, se benzem, Frida chega correndo com as velas, os três procuram vãos entre as pedras para a proteção das chamas contra o vento fraco. Um sopro – nascido das próprias pedras? – apaga os humildes pontos de luz sobre os bastões de espermacete. Um arrepio percorre os corpos ajoelhados na praia. Frida aproxima-se das velas, vai deixando o rastro dos joelhos na areia e risca um fósforo. As chamas permanecem mas o espectro retoma a velocidade de rotação, um frio intenso obriga as três testemunhas a se encolherem, envolvendo o corpo com os próprios braços.</p>
+
+      <p>Frida pensa no filho que virá para o almoço. Que esta luz misteriosa seja divina e o proteja contra todas as maldades do mundo. Pode deixá-la com o Luca vivendo como sempre viveram, tendo o de comer e o de vestir, saúde e forças para o trabalho. Para Mundinho, ó Santo, peço mais. Que ilumine sua inteligência para ser um grande homem. Um homem que inspire respeito e confiança quando passa. Que seja sempre bom, reto, honesto, não tenha doenças nem sofra dor alguma, a não ser coisas pequenas que a natureza cobra. Por favor, meu Santo, não o deixe sonhar demais, limite seus sonhos a tudo aquilo que é possível realizar. Se isto não estiver a seu alcance, meu Santo, dê-lhe forças para suportar as desilusões sem muito sofrimento. Aceito sofrer em dobro, desde que Raimundo fique livre das aflições trazidas pela falta de humildade. Não o castigues demais... ele é tão belo! Foi um milagre que se fez em mim, e se é milagre o que vejo em ti, meu Santo, sei que minhas preces serão atendidas.</p>
+
+      <p>Altair vê as chamas das velas levitando sobre as figuras iluminadas de Joca, Frida e Luca, igual às línguas de fogo descidas aos apóstolos, no Pentecostes. Aturdido, consegue dar as costas ao mistério e retoma o caminho de casa. Desce a colina, chega ao calçamento, encontra uma vizinha esperando o ônibus das sete e meia para Florianópolis.</p>
+
+      <p>— Que palidez é esta, vizinho? Parece que viu assombração.</p>
+
+      <p>— O santo...</p>
+
+      <p> — É verdade? A Dilma contou mas ninguém queria acreditar.</p>
+
+      <p>Ajeita o lenço cobrindo os cabelos a serem penteados na Capital para a Festa de Senhor dos Passos, espia Altair andando meio abobalhado. Será que já está drogado a esta hora? Consulta o relógio de pulso: faltam ainda uns dez minutos para o ônibus passar. Não consegue reprimir a curiosidade, decide ver o santo, mesmo que seja apenas para ter assunto no cabeleireiro.</p>
+
+      <p>Altair encontra outras pessoas, não responde aos cumprimentos, chega à varanda e se derreia na cadeira de balanço. O mar, o horizonte, a ilha, as cercas-vivas de hibiscos vermelhos, pássaros cantando no bambual, na jaboticabeira em frente à casa, no matagal do terreno ao lado. Melhor teria sido ficar apreciando esta realidade de todas as manhãs, brincando com o filho. De que lhe adiantou ver o fenômeno se o medo foi o único sentimento que o abordou? Sempre desejou uma revelação sobrenatural, um aviso qualquer, algo – uma voz, por exemplo – com que pudesse manter um diálogo esclarecedor de suas dúvidas, das certezas que tem e das quais ninguém compartilha. E quando a revelação chega, não tem coragem de se aproximar, foge, não a compreende, furta-se a um confronto. Precisa voltar, não pode se acovardar, perder a possibilidade extraterrena de comunicação mm o mistério, o grande mistério de ser e de se prolongar além do filho, por pensamentos e atos, atos que ele não sabe quais sejam e cuja chave a etérea visão do marco há de lhe confiar.</p>
+
+      <p>Altair não percebe Maria chegar com Argo no colo. Alheio a tudo que o cerca, os olhos brilhantes fixam um ponto indefinido no meio das árvores. Um sorriso estranho, estático, dá a seu rosto pálido uma impressão de morte. Único sinal de vida, a água que escorre dos olhos pela face.</p>
+
+      <p>— Altair!</p>
+
+      <p>O grito de Maria não o desperta. Ela senta o menino no chão, sacode Altair que, sem palavras, deixa o pranto correr livremente. Maria puxa a blusa e vai enxugando com cuidado as lágrimas que não cessam de fluir.</p>
+
+      <p>— Fala!</p>
+
+      <p>Ele levanta-se, entra na sala, tira do armário o punhal de prata lavrada, um naco de fumo de rolo, uma palha para o cigarro. Volta a sentar-se em silêncio.</p>
+
+      <p>— Por que me olhas assim? Me deixa. Quero ficar sozinho.</p>
+
+      <p>Maria suspende a criança do chão e desaparece amedrontada.</p>
+
+      <p>Altair prende a palha entre os lábios, segura o toco de fumo e vai deixando cá na palma da mão em concha os pedações arredondados que o fio do punhal corta sem esforço. Larga a arma no braço da cadeira, esfrega as mãos com o fumo picado até que todas as voltas se soltem, lambe a aspereza da palma de milho, com atenção vai despejando o fumo na palha dobrada, por fim os dedos enrolam lentamente o cigarro.</p>
+      
+      <milestone unit="space"/>
+
+      <p>Padre Anatole, com indiferença fingida, ouve o relato do sacristão. Numa folha de papel almaço pautado, rascunha a lápis o sermão para a missa de domingo, ordenando ideias sobre o sentido da quaresma e da Páscoa. Costuma falar de improviso, mas habituou-se a preparar o discurso, relendo os versículos-base de sua oratória para não se perder em divagações inúteis. Seja claro, preciso, conciso; não divague sobre banalidades – ensinou-lhe o superior. Meça os gestos. Quanto a estes, Anatole estudou diversos, frente ao espelho, até se fixar numa mímica que às vezes nada tem com o tema. Em determinado momento, deixa a posição ereta dos braços pendidos ao longo do corpo, levanta-os devagar à altura do peito, aproxima as mãos espalmadas até o encontro dos polegares e indicadores. Uma borboleta. Um pássaro de asas abertas em pleno voo. Ao desfazer cuidadosamente a simetria das mãos, olha para uma e outra, fiscalizando a perfeição dos movimentos. Em Brusque e noutras cidades onde pregava, o gesto ficou popular. As crianças disfarçavam risos, se cutucando e, finda a missa, Anatole se divertia olhando, através das persianas, meninos o meninas imitando gesticulação e voz – Caríssimos cristãos... – com risos claros e sonoros. Depois vinham à sacristia pedir santinhos, ele metia a mão gorda na batina e, como um mágico, tirava santos e mais santos do bolso profundo.</p>
+
+      <p>O sacristão parou de falar, esperando alguma reação do padre que, em vez de escrever, desenha absorto bonecos no papel.</p>
+
+      <p>— Joca, tu não viste nada.</p>
+
+      <p>— Vi, seu padre. Vi, seu Luca viu, dona Frida viu...</p>
+
+      <p>— Mas tu não viste nada, entendes? Se os dois estão vendo miragem, o problema é deles. Tu <emph>não podes</emph> ter visto.</p>
+
+      <p>— Pois seu padre, está chegando gente, todo mundo leva flores e velas, parece o cemitério pelos Finados.</p>
+
+      <p>— Aí está. Cada um reverencia seus mortos como pode e onde quer. Por acaso aparece algum espírito no cemitério? Pois lá nas pedras também não. Trata-se de uma alucinação coletiva. Tu não viste e está acabado.</p>
+
+      <p>Anatole rabisca uma bailarina no papel, muda de tom.</p>
+
+      <p> — Temos muita coisa a fazer hoje. O vigário me disse que tu conheces os barraqueiros. Divide os espaços em frente à igreja, distribui pelos vendedores e não esquece de cobrar adiantado a cota de cada um. Por tamanho. A tabela está ali.</p>
+
+      <p>Joca procura a tabela na prateleira, chega-se à mesinha onde Anatole sorri: acaba de desenhar um palco, enquadrando a bailarina.</p>
+
+      <p>— Que é que eu vou dizer para o povo?</p>
+
+      <p>— Não podes dizer nada, porque não viste nada. É tudo mentira, fantasia diabólica. É pecado espalhar mentira. Fala na Festa de Senhor dos Passos. Diz que vai ser a maior de todos os tempos, que estou preparando o sermão e não posso atender ninguém.</p>
+
+      <p>A face enrugada de Joca reanima-se ao ouvir falar na festa. Mas não compreende por que deva ignorar a aparição da praia. Percebeu uma ordem na voz do padre - tu não viste, tu <emph>não podes</emph> ter visto – um comando ríspido, incomum no tratamento gentil e adocicado do sacerdote. Nos mais de cinquenta anos que serve à igreja de Porto Belo, nunca foi tratado assim. Viu a chegada e saída de dezenas de padres, habituou-se a respeitar as manias de cada um, se for para o bem da paróquia não lhe custa cumprir mais esta. Mas está magoado com Anatole, embora a promessa da “maior festa de todos os tempos” o tenha enchido de alegria.</p>
+
+      <p>Com a saída do sacristão, o padre rasga a folha cheia de garatujas, relê o rascunho do sermão, sem conseguir afastar a intranquilidade com o relato de Joca. Sabe que sua decisão em ignorar os fatos está correta, pelo menos por enquanto, embora ferva de curiosidade para ver o fenômeno luminoso. Não deve. Ver acarretaria a obrigação de explicar, interpretar, tentar impor tranquilidade aos fiéis mais exaltados, ou comprovar sua ignorância ante o sobrenatural, arranhando o prestígio da Igreja. Deve manter-se restrito à letra dos evangelhos, atento à evolução dos acontecimentos. Afinal, há os exemplos de Nossa Senhora de Lourdes, de Nossa Senhora do Fátima, mesmo de Nossa Senhora Aparecida. Seus santuários não acabaram se transformando em fonte de renda para a Santa Amada Igreja? Em último caso, o telefone está ali, é só ligar para a Cúria Metropolitana e pedir orientação.</p>
+
+      <p>Anatole liga o radinho de pilha e uma música suave o ajuda a formular as últimas argumentações para a prédica de amanhã. O locutor informa a hora certa, dez horas da manhã, passando a dar notícias de acidentes na BR-101, assaltos em Blumenau, enchente em Joinville, nenhuma nota alegre ou bem-humorada. De repente, o padre estremece.</p>
+
+      <p>— Informações chegadas de Porto Belo dão conta de um estranho fenômeno que vem ocorrendo desde a madrugada de hoje na praia do conhecido e pacato balneário catarinense, distante 65 quilômetros da Capital. Trata-se de uma luz em forma de fuso que emite ruídos de uma vibração quase insuportável ao ouvido humano. Parte da população local está atribuindo poderes divinos à aparição e já é grande o número de curiosos em torno das pedras onde a chama gira a alta velocidade. Nossa reportagem já se dirige ao local da ocorrência e a qualquer momento, em edição extraordinária, voltaremos a informar aos nossos ouvintes.</p>
+
+      <p>A notícia, ouvida em lares e bares da cidade, alertou os poucos que ainda não sabiam do caso e, vinda de Florianópolis através de uma emissora de rádio, dissolveu qualquer dúvida que ainda houvesse. De momento a momento, crescia o número de pessoas que se dirigiam ao marco da Marinha para ver o Santo Mágico, designação que passou a correr de boca em boca, não só em Porto Belo como em todos os povoados da redondeza, alertados pelo rádio como por passageiros dos ônibus e carros, divulgando a novidade com detalhes os mais absurdos e desencontrados. Para uns, o Santo Mágico era mágico porque aparecia e desaparecia, pregava a palavra de Cristo, ou era o próprio Jesus, vestindo um manto dourado. Outros, que nada haviam visto, inventam línguas de fogo varrendo a superfície do mar, cardumes inteiros de peixes mortos trazidos à praia pelas ondas. Um chegou a contar que as árvores se dobraram para proteger o Santo, formando uma gruta verde de folhagem por cuja abertura uma claridade azulada podia ser vista desde a descida do Morro do Boi, em Itapema.</p>
+
+      <p>Entre curiosos e devotos, pelo meio-dia já se contavam por centenas as pessoas disputando um lugar para melhor verem o Santo Mágico. Um improvisado comércio de frutas, doces e pastéis aparecera no descampado próximo à colina, meninos apregoando a mercadoria em cestos cobertos com toalhinhas bordadas.</p>
+
+      <p>Também ao meio-dia o telefone tocou mais uma vez na sacristia. Uma beata vem correndo chamar Anatole.</p>
+
+      <p>— Interurbano da Capital, seu padre.</p>
+
+      <p>Olhando pela janela do quarto o movimento crescente de gente que se dirige ao local da aparição, Anatole não consegue dissimular sua preocupação. Tentou diversas vezes falar com a Cúria. O telefone sempre ocupado. Não chega a fixar a ideia em nada, atende ríspido às pessoas, volta e meia chama o sacristão para lhe repetir as mesmas recomendações, negou-se a receber a reportagem da rádio e dos jornais, caminha meio tonto de um lado para o outro dentro do quarto, com medo de ver seu nome explorado negativamente pela imprensa. O medo cresce toda vez que a campainha do telefone soa como um alarme em sua cabeça dolorida. Vozes próximas e distantes, todas de gente que se diz importante, querem informações e mais notícias sobre o Santo Mágico, a posição da Igreja, se assim mesmo haverá a festa e a procissão do Senhor dos Passos. Anatole atende algumas chamadas com evasivas, depois orienta as beatas sobre o que devem responder e nega-se a falar com quem quer que seja.</p>
+
+      <p>— Já disse que não atendo ninguém. Tenta a Cúria novamente.</p>
+
+      <p>— Pois é da Cúria, seu padre.</p>
+
+      <p>Anatole se enche de ânimo e pega o fone. O secretário do próprio Arcebispo pede um relato completo dos acontecimentos, sem deixar de insinuar uma sutil reprimenda por não ter o padre se comunicado com a Arquidiocese. Explicações de um lado, curiosidade do outro, depois de uma longa descrição de tudo, Anatole se limita a responder sim, sim, é claro. Sua Eminência pode ficar tranquilo – para decepção da beata que, fingindo nada escutar enquanto tira o pó já tirado das estantes, não perde uma palavra do monólogo, imaginando o diálogo completo para começar a divulgar até que se espalhe pela cidade inteira.</p>
+
+      <p>O padre desliga o telefone.</p>
+
+      <p>— Um cafezinho, por favor.</p>
+
+      <p>Está mais calmo. As recomendações coincidem, de certa forma, com o que havia resolvido: tratar de ignorar os fatos ao máximo, evitar aparecimentos públicos, não tomar partido sobre esta ou aquela interpretação, não dar entrevistas. Outras coisas não lhe haviam ocorrido, como mandar de hora em hora uma pessoa de confiança espionar o movimento em torno da “alucinação coletiva” – o secretário havia adotado a expressão – para manter-se ao par de tudo; de posse de novas informações, transmiti-las à Cúria. Uma recomendação sonora iria dar mais trabalho a Anatole: divulgar músicas alegres pelo sistema de som da igreja, entremeando notas sobre a Festa de Senhor dos Passos e citações bíblicas sobre o perigo dos falsos profetas e dos anti-Cristos. Quanto à imprensa, ficasse o padre sossegado que a Cúria estava providenciando amenizar o impacto das notícias, subtraindo todo o efeito sensacionalista e mesmo, caso possível, evitar toda e qualquer divulgação a respeito. Também, para dar mais ênfase à procissão de amanhã e garantir a presença maciça do povo, o Arcebispo, pessoalmente, iria entrar em contato com o Senhor Governador do Estado para conseguir o deslocamento da banda da Polícia Militar para Porto Belo.</p>
+
+      <p>Esta última providência deixou Anatole em estado de graça. Nada lhe dá maior prazer na vida, depois dos ensaios ocultos de balé, do que ver e ouvir uma banda militar. Tudo lhe toca tão de perto que só lhe falta chorar. O rebrilhar dos instrumentos, a cadência certa dos soldados, a harmonia de sons escapando de formas metálicas completamente diversas, o ritmo marcado pelo surdo, o repique do tarol... O choque dos pratos sempre lhe deu a ideia de uma pilha de cristais se quebrando. Quando menino, Anatole acompanhava as bandas de música pelas ruas de Florianópolis, onde nasceu e estudou. Agora, apenas se lembra desse tempo com saudade. Oculta certa vergonha por dar preferência à bateria das bandas, onde desfilam os soldados mais jovens, a fanfarra, o bumbo, as caixas, o malabarismo indócil das baquetas, evoluindo elétricas e sensuais.</p>
+
+      <p>Afasta estes pensamentos, consulta o relógio, vai à copa verificar o andamento do almoço.</p>
+      
+      <milestone unit="space"/>
+
+      <p>Frida, esperando marido e filho. Feijão pronto, água fervendo para o pirão d’água, as postas de peixe passadas na farinha de trigo, aviadas para serem fritas no óleo quente. Deixou Luca exaltado com a presença do Santo, feliz com tanta gente em torno da luz azul – ninguém, nem mesmo o padre, poderá duvidar de sua palavra. Sente-se dono da revelação, importante com as entrevistas dadas à imprensa, pensando na repercussão do noticiário, o orgulho do filho ao saber de tudo em Florianópolis. A muito custo consegue afastar-se da visão para ir almoçar. Será que Mundinho já chegou? Frida começa a fritar o peixe, prepara o pirão e pede a Luca para chamar Mundinho.</p>
+
+      <p>— Deve estar lá, no meio do povo.</p>
+
+      <p>Enquanto o peixe vai corando na frigideira, Frida vê a figura do filho entre as bolhas da gordura, um rapagão forte, cada vez mais bonito, se ainda não chegou deve estar a caminho. Nunca perdeu uma Festa de Senhor dos Passos, imagina só esta com a novidade do Santo movimentando a cidade fora da temporada. Depois do almoço, irá ao armazém da Dilma comprar o necessário para fazer empadas e vendê-las aos romeiros.</p>
+
+      <p>A preocupação de Maria é de outra ordem. Altair não se afastou da varanda a manhã inteira, sentado à cadeira de balanço como um velho, proibindo a mulher de sair de casa.</p>
+
+      <p>— Vai amanhã. Hoje tem muita gente.</p>
+
+      <p>— Amanhã pode ter desaparecido.</p>
+
+      <p>— Cala a boca, mulher. Não vai desaparecer coisa nenhuma. Veio a meu pedido e tem de conversar comigo.</p>
+
+      <p> Maria se afasta, vai cuidar de Argo, engatinhando pela conzinha.</p>
+
+      <p>— Vamos lavar esta cara, seu porco.</p>
+
+      <p>Levanta o menino, entra no banheiro sem esquecer as últimas palavras do marido. Pelo que ele havia contado, a visão não fala, é apenas luz e movimento, como quer conversar com aquilo? Sempre achou que Altair não era muito certo da cabeça, com ideias de uma verdade posta além da verdade aceita por todos, embora servindo às conveniências de cada um. Ele vivia bastante atento alheio à realidade cotidiana, desprezando e ao mesmo tempo se valendo do auxílio do pai que sempre satisfez suas vontades, como se não tivesse pressa que o filho se encontrasse, encontrasse o único caminho que vê para todos, o do conformismo e da acomodação ao estabelecido por muitas gerações que o antecederam.</p>
+
+      <p>Com o nascimento de Argo, Altair parecia estar chegando ao ponto desejado pelo pai que, esperançoso o satisfeito, deu-lhe um terreno para a criação de abelhas. Quando tudo estava se encaminhando bem, aparece o Santo para perturbar a mente de Altair. Não quis ir ao sítio, ficará o dia inteiro nesta apatia, irritado com o movimento na rua, povo passando, carros e mais carros, Maria impaciente para encontrar Mundinho, acertar a palavra final para a fuga. Em vez disso, ficar ali impotente, lidando com o filho e a casa como se nada estivesse para acontecer. Impossível sair: Altair não arreda pé da varanda.</p>
+
+      <p>Pelas cinco da tarde, Maria tenta uma escapada:</p>
+
+      <p>— Vou na Dilma fazer umas compras.</p>
+
+      <p>— Vais nada, mulher. Fica aí. Tu queres mas é ver o santo. Já disse que só</p>
+
+      <p>amanhã.</p>
+
+      <p>— Sabe-se lá o que está acontecendo? Eu te conto tudo na volta.</p>
+
+      <p>Altair encara Maria.</p>
+
+      <p>— Está bem. Mas deixa o Argo comigo.</p>
+
+      <p>Ela desce a ladeira suave do jardim, desaparece entre as pessoas que passam, umas rindo e brincando, outras sem disfarçar um certo temor no olhar, enquanto se desviam dos carros que são forçados a trafegar em marcha lenta, nos dois sentidos, como se a Festa do Senhor dos Passos tivesse sido antecipada.</p>
+
+      <p>A colina e a esplanada estão repletas. Alguns barraqueiros deixaram o espaço reservado em frente à igreja, improvisando tendas para vender sanduíches, cachorros-quentes, refrigerantes, churrasquinhos. Até cerveja em lata. Os vasilhames atirados ao chão dificultam ainda mais a caminhada por entre a multidão.</p>
+
+      <p> — Não vi nada. É pura embromação.</p>
+
+      <p>— A luz parece um farol.</p>
+
+      <p>— O marco está vazio.</p>
+
+      <p>— Vou buscar meu filho entrevado.</p>
+
+      <p>— Um bando de idiotas adorando uma pedra.</p>
+
+      <p>— Meu Deus. Será um aviso do céu?</p>
+
+      <p>Maria, empurrada de um lado para outro, consegue chegar à praia mas vê apenas um clarão sobre a multidão que fala, grita, chora, entoa hinos, uma mulher cai a seus pés com um ataque histérico, outras a socorrem, improvisando leques  com as mãos abertas. Não podendo avançar mais, Maria tenta voltar, sente falta de ar, é jogada contra corpos suados, sente-se agarrada pelo braço.</p>
+
+      <p>— Segura minha cintura, vou te tirar deste entrevero.</p>
+
+      <p>Mundinho vara a confusão com dificuldade, abrindo caminho de punhos cerrados. Maria, mãos entrelaçadas no peito do rapaz, sente no rosto o calor dos músculos das costas onde se abriga e o escuta perguntar:</p>
+
+      <p>— Pronto?</p>
+
+      <p>— Tudo.</p>
+
+      <p>— E o menino?</p>
+
+      <p>— Fica com a avó.</p>
+
+      <p>De tão alegres, parecem dançar no meio da multidão alvoroçada. Sorrindo um para o outro, exclamam quase ao mesmo tempo:</p>
+
+      <p>— Feito!</p>
+
+      <p>Despenteada, alça do vestido arrebentada, Maria chega à varanda e se derreia numa cadeira de palha, ainda sentindo nas mãos e no rosto o calor e a vibração do corpo de Mundinho.</p>
+
+      <p>Altair ouve a narração da mulher com atenção, sem interromper. Ela observa o rosto contraindo-se aos poucos, um estranho fulgor no olhar. De repente, pulsos fechados, ele começa a esmurrar os braços da cadeira.</p>
+
+      <p>— Assim não pode.</p>
+
+      <p>— Calma, Altair, só vi um clarão, pode ser de velas.</p>
+
+      <p>— Ele está lá, eu vi. Como há de falar comigo?</p>
+
+      <p>— Precisas descansar.</p>
+
+      <p>— Merda de gente.</p>
+
+      <p>Maria abraça Altair, novamente tem de lhe enxugar as lágrimas.</p>
+
+      <p>Sentado ao chão, atento ao caminhar apressado de uma formiguinha, Argo não percebe o drama do pai, nem poderia entendê-lo, como não entende o murmúrio da mãe, tentando acalentar Altair, com o pensamento no sangue quente de Mundinho, correndo paralelo ao dela, apenas a pele impedindo sua total integração.</p>
+      
+      <milestone unit="space"/>
+
+      <p>Dos alto-falantes da igreja chega a música alegre que, como todos os anos nestes dias, alerta a população para a maior festa da cidade. A diferença está na quantidade de ouvintes e na programação. Das outras vezes, a mocidade vinha para o largo da igreja e, aos grupos, sentava-se na grama ou ia beber alguma coisa no varandão do armazém de Dilma, cheio de mesas para a costumeira freguesia, hoje bastante escassa. Mesmo assim, uma ou outra mesa se anima com a discussão obrigatória sobre o aparecimento do santo. Quanto à programação, Anatole passou a tarde debruçado sobre os evangelhos, selecionando textos para divulgá-los no decorrer da transmissão.</p>
+
+      <p>Muito comum, no passado, a dedicatória de músicas a noivos e noivas, namorados, namoradas, parentes, “com muito amor e carinho”, ou, simplesmente, “com ABC” – de que o forasteiro ria ao descobrir o ingênuo sentido: amor, bondade e carinho. Esta noite, a cada intervalo musical, o locutor fala na missa de amanhã, na procissão, nas rifas e prendas que durante todo o dia pretendem animar Porto Belo.</p>
+
+      <p>O ponto alto das festividades – como destaca o espíquer deslumbrado, em todos os intervalos – será a presença da banda da Polícia Militar que, além de acompanhar a procissão, fará uma retreta na parte da manhã. Mal percebido ou interpretado pela maioria das pessoas que passam pela praça, ou se detém em alguma barraca já montada, subitamente o tom da voz propagada pela aparelhagem sonora fica mais grave:</p>
+
+      <p>— “Levou-o ainda o diabo a um monte muito elevado, mostrou-lhe todos os reinos do mundo e seu esplendor, e lhe disse: ‘Todas estas coisas te darei se, prostrado, me adorares”. Respondeu-lhe Jesus: ‘Afasta-te. Satanás. Porque está escrito: adorarás ao Senhor, teu Deus, e só a Ele prestarás culto’.”</p>
+
+      <p>Anatole, de palavra tão fluente no púlpito, recebendo a emulação dos olhares atentos e crédulos dos fiéis, não encontra a mesma facilidade na escolha dos textos que devam atingir os ouvintes, insinuar que a aparição não passa de um embuste.</p>
+
+      <p>— “Acautelai-vos com os falsos profetas que vêm a vós sob a aparência de ovelhas, mas por dentro são lobos vorazes. Pelos seus frutos os haveis de reconhecer.”</p>
+
+      <p>Não estaria, com isto, pregando a paciência entre os que rezam na praia, a espera dos “frutos”, dos “milagres” da luz misteriosa, para então concluir se tudo aquilo é mistificação, falsidade, ou autêntica manifestação divina? Procura um trecho ameaçador:</p>
+
+      <p>— “O Filho do homem enviará os seus anjos, que tirarão do seu Reino todos os que causam escândalos e promovem a iniquidade, e os lançarão à fornalha acesa, onde haverá choro e ranger dos dentes. Então os justos resplandecerão como o sol no Reino de seu Pai.”</p>
+
+      <p>Consultando um e outro evangelista, compara trechos do mesmo ensinamento relatado por Mateus, Marcos ou Lucas. Talvez estes versículos de São Marcos contenham o impado desejado:</p>
+
+      <p>— “Então, se alguém vos disser: Eis que o Messias está aqui. Eis que está ali, não deis crédito. Surgirão, com efeito, falsos messias e falsos profetas que farão milagres e prodígios para enganar os eleitos, se possível. Estai, pois, de sobreaviso.” Novamente o sentido dúbio. Se a luz da praia – mais do que evidente, segundo todos contam – começar a operar milagres e prodígios, caberá a ele, Anatole, distinguir o falso do verdadeiro, o exato do imperfeito. Não poderá, simplesmente, negar o que todos venham a ver, taxar de ilusão de ótica uma cura realizada, por exemplo. O mínimo a acontecer será uma agressão, como se deu com o próprio Jesus, forçado a esconder-se no Templo – conforme São João – fugindo das pedras que lhe atiravam os judeus, quando afirmou: “Antes que Abraão nascesse, Eu sou”.</p>
+
+      <p>Melhor, sem dúvida, divulgar a diferença entre uma simples luz azulada aparecida na praia e a descrição de Mateus:</p>
+
+      <p>— “... o sol se obscurecerá, a lua perderá seu brilho, as estrelas cairão do céu e os poderes dos céus serão abalados. Então aparecerá no céu o sinal do Filho do homem; e todos os povos da terra baterão no peito, e verão o Filho do homem aparecer sobre as nuvens com poder e grande glória. E enviará os seus anjos com uma trombeta retumbante, a cujo sinal reunirão os eleitos dos quatro cantos da terra, de uma ponta a outra dos céus.”</p>
+
+      <p>Sem ter muito a ver com os sucessos de Porto Belo, mas por tocar-lhe particularmente – embora não soubesse bem explicar por quê – Anatole também mandou ler pelo microfone:</p>
+
+      <p>— “Entrai pela porta estreita. Pois larga é a porta e espaçosa a estrada que conduz à perdição, e muitos os que enveredam por ela. Mas estreita é a porta, e apertada a estrada que conduz à vida, e quão poucos são os que a encontram.”</p>
+
+      <p> Atento à ladainha trazida desde a igreja pelo ar quente da noite, Altair se comove com esta última citação. Será ele digno de entrar pela porta estreita? Considera as facilidades que tem tido – a estrada espaçosa – e como as tem desperdiçado. Quantos não tiveram nem a quinta parte de tudo o que já teve, abandonou ou deixou que se extraviasse. Em que parte de si há de encontrar a estrada e a porta estreita? Há de ser em si próprio, está convicto disto, mas como tarda... Se as facilidades conduzem à perdição, deverá abandonar todas as posses, os bens materiais, Maria, Argo, as abelhas, lançar-se numa caminhada infinita em busca da verdade íntima, indiscutível?</p>
+
+      <p>Não, nunca esteve tão próximo da solução destas dúvidas. O Santo poderá ter consigo a chave de sua angústia. Basta ter um pouco mais de paciência, aguardar a noite fechada, a madrugada, quando pouca gente ou ninguém esteja vigiando a aparição, prestando vigília a ela. Irá cheio de fé, sem medo, consultar o oráculo até agora mudo porque espera exatamente por ele, a quem veio atender, indicar a estrada que conduz à vida.</p>
+
+      <p>“... amarás o Senhor teu Deus de todo o coração, de toda a tua alma, de toda a tua mente e com todas as tuas forças.”</p>
+
+      <p>Sente fome, lembra-se vagamente de que Maria o havia chamado para jantar e a encontra dando sopa de verduras para o filho.</p>
+
+      <p>— Queres carne assada com batata e arroz? Esquento num instantinho.</p>
+
+      <p>— Não. Café preto com bolacha, um pouco de doce.</p>
+      
+      <milestone unit="space"/>
+
+      <p>Luca, Frida e Mundinho na pequena varanda da casa de madeira, à beira da rua, sobre o diâmetro que une o marco, a igreja, passando também pela casa de Altair.</p>
+
+      <p>Em pé, atrás da cadeira do filho, Frida mantém os braços em torno de seus ombros fortes, acariciando-lhe o peito. Mundinho baixa os olhos para as mãos enrugadas da mãe e sente o calor das carícias como se viessem dos dedos esguios de Maria comprimindo-lhe os músculos. Mais uma vez falta-lhe coragem para contar a fuga com Maria: como Frida poderia entender? Ela pergunta sobre os estudos, os passeios, as namoradas de Florianópolis, depois suspira:</p>
+
+      <p>— Vou arrumar a cozinha.</p>
+
+      <p>Luca teve um dia tão agitado, contando e recontando como o Santo lhe havia sido revelado, furando a multidão para atender às perguntas dos jornalistas e fotógrafos que se postavam nos lugares mais imprevistos, um dia tão inédito e cansativo que só pensa em dormir. Mas não quer abreviar o contato com o filho, ouvindo sua voz e as proezas que conta. Enquanto Frida falava com Raimundo, Mundo, Mundinho, não interrompeu, preferiu escutar em silêncio as palavras, os risos, imaginar as situações cômicas ou graves relatadas. Aquilo o excitava, trazendo-lhe à lembrança cenas de sua própria juventude, quando, em cenário menor e bem diferente – Porto Belo ainda sem luz nem água encanada – as aventuras continham a mesma importância e, no fundo, eram quase iguais. Mas a sonoridade das vozes, o calor da noite, o desfilar lento dos automóveis e do povo diminuíam a excitação, trazendo-lhe um gostoso relaxamento físico, uma sonolência que só a presença do filho impedia transformar-se em cochilo, a mão apoiando o queixo, braço no braço da cadeira.</p>
+
+      <p>Encontra um pretexto para continuar a conversa, com a saída de Frida.</p>
+
+      <p>— O céu está todo enfarruscado.</p>
+
+      <p>Raimundo se debruça no amurado do alpendre e olha para cima.</p>
+
+      <p>— Vem chuva da grossa.</p>
+
+      <p>Ambos pensaram ao mesmo tempo no Santo. Se não resistisse ao temporal – violento nesta época do ano, formando cachoeiras com as águas vindas dos morros, maltratando jardins e hortas, inundando a rua – pouca ou nenhuma diferença para Mundinho. O Santo chega mesmo a colaborar com os planos de levar Maria aquela noite, toda a atenção desviada para a movimentação em torno do acontecimento. Pelo menos ao pai devia contar. Mas o impulso perde-se na primeira frase:</p>
+
+      <p>— Pai... se o santo desaparecer com a tempestade...</p>
+
+      <p>— É porque não é santo.</p>
+
+      <p>— O senhor tem alguma dúvida?</p>
+
+      <p>— A gente sempre tem dúvida das coisas que não sabe explicar. A gente aceita porque não tem outro jeito.</p>
+
+      <p>— O senhor vai-se incomodar muito, vai sofrer se o Santo sumir?</p>
+
+      <p>Depois que a existência do mistério fora comprovada por tanta gente, Luca não havia mais pensado nessa possibilidade. De início, sim, porque tinha a certeza de haver visto a chama e tanto Frida como o padre duvidaram dele – “Estás variando, homem de Deus” – “Tu estás maluco, homem” – fazendo com que ele mesmo duvidasse e temesse o ridículo – “Cadê o santo?” – “A Marinha quer o santo” – “Ficou maluco de tanto puxar rede vazia” – “Santo que se preza não desaparece”...</p>
+
+      <p>— Santo que se preza não desaparece, é coisa do demônio, como disse o padre.</p>
+
+      <p> Um trovão seguiu-se rápido ao relâmpago que iluminou o rosto pensativo de Luca.</p>
+
+      <p>— Este caiu perto.</p>
+
+      <p>Mundo não quer que o pai sofra, um dia há de ter condições de lhe retribuir tudo que dele recebeu, para ter uma velhice tranquila. Com um gesto leve, insinua que ambos devem entrar.</p>
+
+      <p>— É gostoso dormir com o barulho da chuva.</p>
+
+      <p>— Sabe, meu filho, não vou me preocupar não. Se a luz for embora, ou se ficar, o jeito é eu continuar pescando...</p>
+
+      <p>Mas teve um sono agitado, acordando-se com os trovões, a violência dos ventos nas árvores, o barulho da cachoeira formada no fundo do quintal, as rajadas da chuva surrando o telhado, varrendo-o de um lado para outro.</p>
+
+      <p>Frida deixara acesa a luz da sala. Outras duas lâmpadas estavam alertas na alta e tensa madrugada de Porto Belo: na cabeceira de Altair e no quarto de Anatole, os dois se revolvendo nas camas à espera do sono recusado. Se Altair teme a deserção da súbita esperança, antes que possa conversar com ela, Anatole ora a Deus por seu desaparecimento, ou – se for divina – uma possibilidade de identificá-la com os mistérios da Igreja. O dia inteiro fora de catequese às beatas, aos feirantes, ligações com paróquias vizinhas, à Cúria, ao Prefeito pedindo a montagem de um coreto para a retreta, tudo a fim de garantir a realização e o sucesso da festa.</p>
+
+      <p>Joca, enrolado num cobertor ao lado da mulher. Para o sacristão, as chuvas haviam levado santo, flores e velas, o dia está claro, a banda toca no coreto armado junto aos coqueiros em frente à igreja. Rifas, tômbolas e sorteios, barracas animadas, a fumaceira e o cheiro do churrasco, seiscentos quilos de carne assados para a multidão flutuante e alegre que lota todos os espaços abertos, as pessoas se esbarrando, se desviando dos carros, dos ônibus com excursões de Brusque, Itajaí, Tijucas, Camboriú, Canelinha, São João Batista, outros lugares próximos e distantes.</p>
+
+      <p>Mesmo sonhando, Joca reconhece que grande parte da peregrinação se deve ao santo mágico. Nunca se viu tanta gente em Porto Bolo. O certo é que, cansado de esperar pela volta da visão, o povo foi desacreditando da propalada invencionice popular, foi-se convencendo de que tudo não passava de um golpe publicitário para maior destaque da Festa de Senhor dos Passos. Fosse como fosse, no sonho do Joca, realmente estava acontecendo “a maior festa de todos os tempos”, como havia dito padre Anatole.</p>
+
+      <p>Mas Anatole não sonha, sequer consegue dormir. Durante todos os entendimentos mantidos o dia inteiro, só em último caso admitia a existência do fenômeno luminoso, atendo-se apenas ao essencial, desviando o assunto como coisa pecaminosa – em cumprimento às ordens do Arcebispado, aliás de acordo com suas próprias deliberações. Caso o fenômeno não resistisse à tempestade, sendo lavados e varridos das pedras todos os vestígios incômodos dessa “alucinação coletiva”, tudo ficaria bem. No sermão, poderia glosar a palavra “mágico” em favor dos ensinamentos de Cristo, até esvaziar por completo a ligação entre “santo” e “mágico”, expressão absurda, além de desrespeitosa para com os preceitos de santidade, que nada têm de magia.</p>
+
+      <p>E se o mistério continuar evidente, aliciando o povo e pondo em jogo o prestígio da Igreja? Há de se encontrar uma fórmula de contemporização, uma espécie de convivência com a intrusão do espectro, até que a ciência a explique. A esta altura, Anatole já imaginava Porto Belo invadido por equipamentos sofisticadíssimos, que pudessem detectar as radiações sonoras e luminosas, desfazendo o mistério com uma fórmula simples de composição química dos elementos, uma explicação material de um banalismo ridículo. Em último caso, se nada pudesse ser comprovado cientificamente, sobrava-lhe dirigir o sermão no sentido vago de uma promessa: a edificação, em futuro próximo, de um santuário para a adoração do “Fogo Sagrado”, o fogo inextinguível de que fala a Bíblia.</p>
+
+      <p>Mas por ora, para se evitar o perigo de um confronto, com a imprevisível intromissão de agitadores, estimulados pela comoção popular ou os transes nervosos de possíveis fanáticos e “iluminados”, Anatole imagina alterar o percurso da procissão. Em vez de seguir até a praça central da cidade, passando obrigatoriamente pela esplanada repleta de gente, seria reduzida ao largo da igreja, sob o pretexto da intensa movimentação e impossibilidade de ordenar o cortejo.</p>
+
+      <p>Todas estas dúvidas e intenções foram transmitidas por telefone a Florianópolis, numa voz que não conseguia esconder o nervosismo.</p>
+
+      <p>— Fique calmo, padre Anatole. Amanhã cedo estará aí um emissário de Sua Eminência para orientá-lo em tudo.</p>
+
+      <p>Nem estas palavras conseguiram tranquilizar o padre. Pelas cinco da madrugada, a chuva ainda batendo forte no telhado, Anatole decidiu levantar-se. E se, para ajudar o tempo a passar e distrair seus pensamentos, repetisse o ritual da maquiagem e do bailado solitário? Entra no banheiro para lavar o rosto, escovar os dentes e se detém olhando as rugas, os olhos mortiços, cabelos escasseando no alto da cabeça. Onde deixou sua juventude? O tempo a consumiu, como ainda consome seus desejos. Não passa de um monte de carne medrosa, covarde, defendida pela batina e as conveniências que ela oferece. Fez dela o baluarte de sua hipocrisia, até transformar em impotência qualquer anelo sentimental. Reduziu sua liberdade a pecado; de tanto reprimir-se, perdeu o sentido espontâneo de viver. Repete fórmulas impostas e se distanciou de tal forma da sinceridade que se espanta quando ela lhe é revelada nos confessionários. Penitência, penitência a que obriga os outros. E para si, qual será a penitência?</p>
+
+      <p>Cobre o rosto com a toalha e se afasta do espelho.</p>
+
+      <p>A chuva cessou. Abre o guarda-roupa, olha os pacotes da única manifestação autêntica que ainda se permite. Mas um desejo que o assediou o dia inteiro incorpora-se, definitivo. Precisa ver a revelação, a chama azul sobre a pedra. Os restos da tempestade e da escuridão da noite poderão mantê-lo incógnito.</p>
+      
+      <milestone unit="space"/>
+
+      <p>Com diferença de segundos, as portas se fecham atrás de Luca, Altair e Anatole. Pela ordem da caminhada, os três personagens andam à cerca de cem metros um do outro. Se tivessem saído em sentido contrário, Anatole, Altair e Luca poderiam ter-se encontrado num mesmo ponto e seguido juntos ao destino comum, o marco da Marinha.</p>
+
+      <p>Fazendo caminho inverso, Mundinho sai pouco depois do pai para “roubar” Maria, acompanhando de longe o andar balanceado de Luca. A lâmpada do poste entre as casas do pescador e de Altair acende e apaga a intervalos nervosos e irregulares, clareando e escurecendo a rua. Mundinho para, de repente, ao ver surgir em sua frente a figura esguia do rival. Esconde-se na beira do caminho sombreado pelas árvores enquanto Altair, de cabeça erguida e olhar angustiado, passa apressado sem se dar conta de nada. Ninguém para perturbar a fuga. Depois de um tempo mais longo de escuridão, a luz do poste acende bruscamente, mal dando tempo a Mundinho de desviar-se de padre Anatole, que finge não vê-lo.</p>
+
+      <p>Imóvel entre o matagal, o pescador escuta passos cuidadosos, estalidos de gravetos, vê o lento movimentar-se dos arbustos. Apura ouvidos e olhar. Altair a seu lado, tão próximo que bastaria estender o braço para tocá-lo. Vestido de branco, no bolso da camisa rebrilha a lâmina do punhal à luz do santo. Luca não consegue distinguir palavras no murmúrio de Altair, um vulto claro na madrugada que mal começa a denunciar-se pelos lados do nascente, descendo pela colina em direção à imagem luminosa.</p>
+
+      <p> Os mesmos ruídos começam a repetir-se, de início bem fracos, depois mais fortes, uma sombra escura estaciona no lugar onde Altair estivera parado. Luca, habituado à escuridão, reconhece o padre e exulta: nunca mais poderá desmenti-lo, duvidar dele. Antes que Anatole possa fugir, assustado com o braço de Luca em seu ombro, escuta a voz abafada do pescador.</p>
+
+      <p>— Pode ser coisa do diabo, mas não é verdade?</p>
+
+      <p>— Cala a boca, não diz a ninguém que meu viu. Quem é aquele?</p>
+
+      <p>— Altair, um rapaz meio desmiolado.</p>
+
+      <p>A aceleração do girar do fuso e a intensidade do zumbido obrigam os dois a se calarem. Altair, punhal na mão, dá a volta nas pedras, coloca-se de costas para o mar, encarando a aparição, os cabelos louros iluminados pela intensa claridade levitando do marco.</p>
+
+      <p>Luca e Anatole percebem apenas o movimento dos lábios de Altair, sua mímica dramática, o luzir do punhal marcando ritmo selvagem dos braços, do balanço do corpo, como se a areia estivesse escaldante ou ele andasse sobre um chão movediço. De repente, como um autômato, imobiliza-se. Ódio no olhar, a luz azulada reforça-lhe a palidez. Num gesto grave e solene, levanta lentamente o braço esticado com o punhal em riste. Retesa os músculos da face, do corpo todo, lábios entreabertos, dentes cerrados num ricto de cólera.</p>
+
+      <p>— Fala.</p>
+
+      <p>O brado de Altair suplanta o zumbir do espectro, ecoando pelo espaço. Ele recolhe o corpo em posição de assalto e investe, enlouquecido, contra o marco, golpeando a luz, gritando em desespero ante a passividade da nebulosa.</p>
+
+      <p> — Fala.</p>
+
+      <p>Junto à luz que parece queimar-lhe os cabelos, Altair ensaia um gesto amplo e rápido com o punhal de prata, ferindo o vazio entre o marco e o clarão. Com um estrondo, a luz se transforma em fumaça. Um vento frio sacode as árvores, gela os corpos de Luca e Anatole. Segurando o cabo do punhal com força, Altair só encontra vestígios da lâmina derretida e cai de joelhos ante o altar deserto, soluçando.</p>
+
+      <p>Anatole impede Luca de aproximar-se.</p>
+
+      <p>Altair se levanta abraçado ao marco, cabeça erguida, o cabo do punhal suspenso pelo braço como uma tocha de jogos atléticos. Desce das pedras e segue pela areia cantando:</p>
+
+      <p>“O brilho do sol, o azul do firmamento, as ondas do mar crespado pelo vento...”</p>
+
+      <p> O padre segura a mão de Luca.</p>
+
+      <p>— Vamos embora.</p>
+
+      <p>— Mas Altair...</p>
+
+      <p>— Deixa o povo pensar que foi a chuva.</p>
+
+      <p>— E Altair?</p>
+
+      <p>— Ninguém vai acreditar nele.</p>
+      
+      <milestone unit="space"/>
+
+      <p>Às três horas da tarde, o sol forte ilumina todos os recantos do céu. O povo acompanha contrito o andor onde, ao peso da cruz, a imagem de Cristo vestido de roxo e coroado de espinhos volta a dominar a crença abalada pelo Santo Mágico.</p>
+
+      <p>Sobre Altair, aniquilado na cadeira de balanço, indiferente às rezas, aos cânticos e à banda de música, fecha-se o compasso, contrai-se o círculo e se diluem os fatos que transtornaram Porto Belo, desde a madrugada de sábado.</p>
+
+
+
+
+    </body>
+  </text>
+</TEI>
