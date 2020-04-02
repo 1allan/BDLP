@@ -54,6 +54,8 @@
 	<xsl:param name="theme.sleepytime" select="concat($filePrefix,'/css/sleepy.css')"/>
 	<xsl:param name="theme.terminal" select="concat($filePrefix,'/css/terminal.css')"/>
 	
+	<xsl:param name="indexMenu" select="concat($filePrefix,'/js/menu.js')"/>
+
 	<xd:doc xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
 		<xd:desc>
 			<xd:p>Match document root and create and html5 wrapper for the TEI document, which is
@@ -65,19 +67,35 @@
 
 	<xsl:template match="/" name="htmlShell" priority="99">
 		<html>
+			<header>
+			  <a href="https://www.literaturabrasileira.ufsc.br/?locale=pt_BR">BDLP</a>
+			  <div id="index-button"><img src="../images/list.svg"/></div>
+			</header>
 			<xsl:call-template name="htmlHead"/>
+			<div id="side-nav">
+				<span>Índex</span>
+				<xsl:for-each select="head[@*]">
+					<a>
+						<xsl:attribute name="href">
+							<xsl:value-of select="concat('#', @id)"/>
+						</xsl:attribute>
+						<xsl:value-of select="title"/>
+				</a>
+				</xsl:for-each>
+			</div>
 			<body>
 				<xsl:if test="$includeToolbox = true()">
 					<xsl:call-template name="teibpToolbox"/>
 				</xsl:if>
-                                <div id="fontebd">
-                                   <p>Fonte: <a href="https://www.literaturabrasileira.ufsc.br">Biblioteca Digital de Literaturas de Língua Portuguesa</a></p>
-                                </div>
+				<div id="fontebd">
+					<p>Fonte: <a href="https://www.literaturabrasileira.ufsc.br">Biblioteca Digital de Literaturas de Língua Portuguesa</a></p>
+				</div>
 				<div id="tei_wrapper">
 					<xsl:apply-templates/>
 				</div>
 				<xsl:copy-of select="$htmlFooter"/>
 				<script type="text/javascript" src="{$teibpJS}"></script>
+				<script type="text/javascript" src="{$indexMenu}"></script>
 			</body>
 		</html>
 	</xsl:template>
