@@ -1,0 +1,2680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication statement.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Source description.</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="">poetry</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+      <div type="sonnet">
+        <lg type="quatrain">
+          <l>A minha musa, a minha pobre musa,</l>
+          <l>De riso à boca e flores na cabeça,</l>
+          <l>Morena virgem, rústica e travessa,</l>
+          <l>Que um vestidinho dos mais simples usa.</l>
+        </lg>
+        <lg type="quatrain">
+          <l>A noiva alegre de um rapaz de blusa,</l>
+          <l>Que talvez muita gente não conheça,</l>
+          <l>De riso à boca e flores na cabeça</l>
+          <l>Vem visitar-vos, tímida e confusa.</l>
+        </lg>
+        <lg type="triplet">
+          <l>Não lhe aumenteis o rúbido embaraço,</l>
+          <l>Levando-o ao vosso lado e pelo braço</l>
+          <l>Com requintes fidalgos de condessa;</l>
+        </lg>
+        <lg type="triplet">
+          <l>Filha do campo, distinções recusa</l>
+          <l>A minha musa, a minha pobre musa</l>
+          <l>De riso à boca e flores na cabeça!</l>
+        </lg>
+        </div>
+        </div>
+        
+        
+        <div type="poem">
+        <lg>
+          <l>                O sol, príncipe aéreo</l>
+          <l>De olhar de fogo, o ensangüentado mouro,</l>
+          <l>Descansa por detrás daqueles montes,</l>
+          <l>Que recortam violáceos horizontes,</l>
+          <l>E dorme entre o lençol de nuvens de ouro</l>
+          <l>                No seu leito sidéreo:</l>
+          <l>                São horas... descansemos.</l>
+          <l>Conhece-me, senhora? Conversemos</l>
+          <l>                Neste quieto recinto,</l>
+          <l>Em que um perfume delicado sinto...</l>
+        </lg>
+        <lg>
+          <l>Eu sou o filho agreste das montanhas,</l>
+          <l>Pastor, talvez, de solidões estranhas!</l>
+          <l>O camponês que habita a serra oblonga,</l>
+          <l>               Louçã e prazenteira,</l>
+          <l>Onde, pousada ao ramo da fruteira,</l>
+          <l>               Em horas de verão,</l>
+          <l>Como ferro a bater grita a araponga,</l>
+          <l>Repercutindo os ecos no sertão,</l>
+          <l>                E o buriti serrano</l>
+          <l>Aos ventos do deserto enlaça as franças</l>
+          <l>Quando, estrídulo, clama algum tucano</l>
+          <l>Em sanguíneas manhãs, frescas e puras</l>
+          <l>Como o riso argentino das crianças</l>
+          <l>                Que brincam pela estrada...</l>
+          <l>                Terra que, nas planuras,</l>
+          <l>— Quando não há notívago planeta,</l>
+          <l>Silente a aldeia, e longe, pelos campos,</l>
+          <l>                Não passeia a toada</l>
+          <l>De uma amorosa e linda cançoneta —</l>
+          <l>                Bruxuleia, às escuras,</l>
+          <l>A lamparina azul dos pirilampos,</l>
+          </lg>
+          <lg>
+          <l>                Nos virentes cafés</l>
+          <l>De alguma encantadora e mansa plaga</l>
+          <l>— quando o coqueiro inclina o loiro cacho —</l>
+          <l>                Nas águas do riacho</l>
+          <l>Que marulha na grota e o campo alaga,</l>
+          <l>Banho-me todo da cabeça aos pés.</l>
+          <l>E como o marinheiro, O bom grumete,</l>
+          <l>                Saudoso ou descuidado,</l>
+          <l>Encordoa a guitarra e canta à lua</l>
+          <l>                Os olhos da menina,</l>
+          <l>Ao deslizar sereno da falua,</l>
+          <l>                Eu, ao pino, deitado</l>
+          <l>                Sobre o fofo tapete</l>
+          <l>Da emurchecida relva da campina,</l>
+          <l>Sob a copa amarela dos ipês</l>
+          <l>Faço chorar as cordas do machete!</l>
+        </lg>
+        <lg>
+          <l>Sento-me, às vezes, no alcantil quebrado</l>
+          <l>                À margem de algum rio,</l>
+          <l>Fugindo à calma, à sombra pitoresca</l>
+          <l>                De um festão debruçado</l>
+          <l>Que entre flores se deita em desvario</l>
+          <l>No leito mole da corrente fresca!</l>
+          <l>Aí me assento triste e solitário</l>
+          <l>                Ouvindo o murmúrio</l>
+          <l>Da corrente que desce em curso vário:</l>
+          <l>                Aqui, as claras águas</l>
+          <l>      Estendem-se dormentes</l>
+          <l>Como o sonho gentil dos inocentes!</l>
+          <l>Mais abaixo, despenham-se nas fráguas</l>
+          <l>                Em grandes borbotões;</l>
+          <l>Furtam-se mais além... e ronca, e ronca</l>
+          <l>Quando esbate, o cachão, na pedra bronca,</l>
+          <l>               Quebrando as solidões...</l>
+          <l>               E deixa após a espuma,</l>
+          <l>Que mais parece cerração de bruma!</l>
+          <l>                Senhora, em forte estio</l>
+          <l>Amo, enlevado, o marulhar do rio.</l>
+          <l>                Dias de primavera</l>
+          <l>Eu deixo-me ficar no campo, à espera</l>
+          <l>                Que o astro-rei se esconda</l>
+          <l>Entre as cortinas rubras do poente,</l>
+          <l>A confundir um raio moribundo</l>
+          <l>                No suspiro profundo</l>
+          <l>Que solta o mar; nas súplicas da onda</l>
+          <l>                Que se estorce na praia,</l>
+          <l>Qual em mole coxim de alva cambraia</l>
+          <l>                A odalisca gemente</l>
+          <l>Saudosa do Sultão, que foge ao mundo!</l>
+        </lg>
+        <lg>
+          <l>                Espero o sabiá</l>
+          <l>Que venha despedir-se em voz saudosa</l>
+          <l>                Dessa tarde formosa,</l>
+          <l>No verde ramo da cheirosa ingá.</l>
+          <l>Todo o meu ser nesta hora se extasia</l>
+          <l>Mergulhado, tristonho, em cisma funda!</l>
+          <l>                E, cheio de ternura,</l>
+          <l>Vejo a obra de Deus que me circunda.</l>
+          <l>Contemplo o encanto da ridente Flora</l>
+          <l>Neste céu de suavíssima poesia,</l>
+          <l>Onde passa de rosa a nuvem pura.</l>
+          <l>                Minha alma se enamora</l>
+          <l>Até da flor singela das campinas</l>
+          <l>                Que o encanto seu resume</l>
+          <l>                No célico perfume</l>
+          <l>Derramado nas auras vespertinas.</l>
+          <l>E mais ao longe a juriti suspira...</l>
+          <l>                Bem vejo:: um flébil rogo</l>
+          <l>De viúva na dor, que o companheiro</l>
+          <l>Carpe, e o filhinho que se foi primeiro</l>
+          <l>Na solitária e triste sucupira.</l>
+          <l>                Lavrada pelo fogo.</l>
+        </lg>
+        <lg>
+          <l>                E cá, se a noite é bela,</l>
+          <l>                Eu ponho-me a cismar</l>
+          <l>Debruço ao peitoril de uma janela</l>
+          <l>De guarida qualquer,amiga e franca...</l>
+          <l>Que eu nada tenho: minha casa branca,</l>
+          <l>Onde vivem meus pais, eu deixei-a,</l>
+          <l>Dentro de um bosque, na pequena aldeia!</l>
+          <l>                É bem pobre o meu lar:</l>
+          <l>O chão — socalco, e telha vã — o teto;</l>
+          <l>Roseiras nos moirões, flóreos matizes</l>
+          <l>Alastrando o cercado, um campo lindo,</l>
+          <l>Onde, a rir, meus irmãos brincam  felizes;</l>
+          <l>Ao fundo — um laranjal em flor se abrindo!.</l>
+          <l>                Eis o quadro completo.</l>
+          <l>... Envolve-me o luar na frouxidão</l>
+          <l>                De sua luz bacenta,</l>
+          <l>E a minha fronte um raio acaricia,</l>
+          <l>                Talvez que de poesia,</l>
+          <l>Que a comoção minha alma experimenta.</l>
+          <l>Então, senhora, eu sinto que é preciso</l>
+          <l>                Ao menos um sorriso</l>
+          <l>De mulher, que dê vida à inspiração</l>
+          <l>Do cantor infeliz, que mal suporta</l>
+          <l>A dor de ver, tão cedo, a noiva morta!</l>
+        </lg>
+        
+      </div>
+      <div type="poem">
+      <div type="sonnet">
+        <head>I</head>
+        <lg type="quatrain">
+          <l>Sou rapariga da aldeia;</l>
+          <l>Cercam-me os moços da moda,</l>
+          <l>— Zangões que giram à roda</l>
+          <l>De impenetrável colméia.</l>
+        </lg>
+        <lg type="quatrain">
+          <l>Sou loira, simplória e — creia!</l>
+          <l>Luva ou chapéu me incomoda:</l>
+          <l>Corro nos campo, a toda,</l>
+          <l>De chinelinhos sem meia.</l>
+        </lg>
+        <lg type="triplet">
+          <l>Ando de flor ao cabelo,</l>
+          <l>Cruz e verônica ao seio,</l>
+          <l>E de vestido singelo;</l>
+        </lg>
+        <lg type="triplet">
+          <l>Sou namorada de um moço,</l>
+          <l>Que anda na rua — ele é feio!</l>
+          <l>De cachê-nez ao pescoço.</l>
+        </lg>
+      </div>
+      </div>
+      
+      <div type="poem">
+       <div type="sonnet">
+        <head>II</head>
+        <lg type="quatrain">
+          <l>Caíra o sol no horizonte!</l>
+          <l>A rapariga travessa,</l>
+          <l>Vai, de cântaro à cabeça,</l>
+          <l>Pelo caminho da fonte.</l>
+        </lg>
+        <lg type="quatrain">
+          <l>Fumega o rancho. Defronte</l>
+          <l>Azula-se a mata espessa...</l>
+          <l>Antes, pois, que a noite desça,</l>
+          <l>Voam as aves ao monte.</l>
+        </lg>
+        <lg type="triplet">
+          <l>Aponta Vésper, brilhante;</l>
+          <l>E o largo silêncio corta</l>
+          <l>Uma toada distante...</l>
+        </lg>
+        <lg type="triplet">
+          <l>Irado, enxotando o galo,</l>
+          <l>Está um homem na porta</l>
+          <l>Dando ração ao cavalo.</l>
+        </lg>
+      </div>
+      </div>
+      
+      
+      <div type="poem">
+      <div type="sonnet">
+        <head>III</head>
+        <lg type="quatrain">
+          <l>Ontem, à porta sombria</l>
+          <l>De uma casinha fechada,</l>
+          <l>Bateu ligeira pancada</l>
+          <l>Mão que tremer parecia...</l>
+        </lg>
+        <lg type="quatrain">
+          <l>Ouvi... Dentro alguém gemia:</l>
+          <l>Era mulher desgraçada,</l>
+          <l>Uma visão desbotada</l>
+          <l>Quem no tugúrio vivia.</l>
+        </lg>
+        <lg type="triplet">
+          <l>Transpus a porta, assustado...</l>
+          <l>Virgem Maria! De um lado</l>
+          <l>Onde essa mãe tresloucava,</l>
+        </lg>
+        <lg type="triplet">
+          <l>Plácida, magra, amarela</l>
+          <l>Pelo reflexo da vela,</l>
+          <l>Uma criança expirava.</l>
+        </lg>
+       </div>
+      </div>
+      <div type="poem">
+      <div type="sonnet">
+        <head>IV</head>
+        <lg type="quatrain">
+          <l>Põe-se a merenda na mesa:</l>
+          <l>Um tosco móvel de pinho</l>
+          <l>Quer esconder a pobreza</l>
+          <l>Num guardanapo de linho.</l>
+        </lg>
+        <lg type="quatrain">
+          <l>Pouco pão, muita limpeza,</l>
+          <l>Um só talher; não há vinho!</l>
+          <l>Há de achar, porém, franqueza</l>
+          <l>Quem tiver fome em caminho.</l>
+        </lg>
+        <lg type="triplet">
+          <l>“Sem cerimônia, patrício;</l>
+          <l>“Não repare na choupana,</l>
+          <l>Disse-me o tio Simplício;</l>
+        </lg>
+        <lg type="triplet">
+          <l>E a boa dona da casa</l>
+          <l>Trouxe-me um gole de cana</l>
+          <l>Em canequinha sem asa!</l>
+        </lg>
+      </div>
+      </div>
+      
+      
+      <div type="poem">
+      <div type="sonnet">
+        <head>V</head>
+        <lg type="quatrain">
+          <l>Entra o luar na varanda,</l>
+          <l>Iluminando lá dentro</l>
+          <l>Um grupo, que tem no centro</l>
+          <l>Uma anciã veneranda;</l>
+        </lg>
+        <lg type="quatrain">
+          <l>Três rapazitos, em torno,</l>
+          <l>Vestidos de camisolo,</l>
+          <l>Loira menina no colo</l>
+          <l>Fazem do catre um adorno.</l>
+        </lg>
+        <lg type="triplet">
+          <l>E, para entreter os netos,</l>
+          <l>Conta a avozinha uma história,</l>
+          <l>Que ouvem atentos e quietos;</l>
+        </lg>
+        <lg type="triplet">
+          <l>Perto, a filha — o olhar caído,</l>
+          <l>Numa atitude simplória</l>
+          <l>Dá cafunés no marido.</l>
+        </lg>
+      </div>
+      </div>
+      
+      
+      <div type="poem">
+      <div type="sonnet">
+        <head>VI</head>
+        <lg type="quatrain">
+          <l>Foi à hora solene da alvorada</l>
+          <l>Quando o pálido amante, sonolento,</l>
+          <l>Resistindo às cadeias de um lamento,</l>
+          <l>Deixou a alcova da mulher amada.</l>
+        </lg>
+        <lg type="quatrain">
+          <l>Insinua-se,vago, pesa estrada,</l>
+          <l>Pensativo, calado e a passo lento...</l>
+          <l>Leva etérea visão no pensamento,</l>
+          <l>Nem ele sente o frio da orvalhada!</l>
+        </lg>
+        <lg type="triplet">
+          <l>E cantam, cantam lindos passarinhos</l>
+          <l>À débil sombra, em selva buliçosa,</l>
+          <l>Sobre a beirada rústica dos ninhos!</l>
+        </lg>
+        <lg type="triplet">
+          <l>Ergue-se tudo... E a dama voluptuosa</l>
+          <l>Estende-se outra vez nos alvos linhos,</l>
+          <l>E dorme, dorme, dorme, a preguiçosa!</l>
+        </lg>
+        </div>
+      </div>
+      
+      
+      <div type="poem">
+      <div type="sonnet">
+        <head>VII</head>
+        <lg type="quatrain">
+          <l>Quando o pai transpõe a entrada,</l>
+          <l>De guarda-sol e de embrulho,</l>
+          <l>Vem recebê-lo a criançada</l>
+          <l>Com grande festa e barulho.</l>
+        </lg>
+        <lg type="quatrain">
+          <l>E nas bocas impolutas</l>
+          <l>Daqueles sonhos corpóreos</l>
+          <l>O malandrim dos cartórios</l>
+          <l>Coloca beijos e frutas.</l>
+        </lg>
+        <lg type="triplet">
+          <l>E à mesa, em nuvens de fumo,</l>
+          <l>Enquanto faz-se o resumo</l>
+          <l>Das novidades, assombros!</l>
+        </lg>
+        <lg type="triplet">
+          <l>Aquelas boas crianças,</l>
+          <l>— Bando gazil de aves mansas —</l>
+          <l>Trepam-lhe em cima dos ombros!</l>
+        </lg>
+      </div>
+      </div>
+      
+      
+      <div type="poem">
+       <div type="sonnet">
+        <head>VIII</head>
+        <lg type="quatrain">
+          <l>São três gárrulas meninas,</l>
+          <l>Aves do ninho saltando</l>
+          <l>Para soltarem num bando</l>
+          <l>Doces canções peregrinas...</l>
+        </lg>
+        <lg type="quatrain">
+          <l>Alam-se às plantas divinas</l>
+          <l>Risadas, de quando em quando,</l>
+          <l>Daquelas bocas, lembrando</l>
+          <l>Três breves, rubras boninas.</l>
+        </lg>
+        <lg type="triplet">
+          <l>Eu, que, matando esperanças,</l>
+          <l>Da mocidade nos trilhos</l>
+          <l>Perdi os risos joviais,</l>
+        </lg>
+        <lg type="triplet">
+          <l>Sigo invejoso as crianças!</l>
+          <l>Que as alegrias dos filhos</l>
+          <l>São o tesouro dos pais!</l>
+        </lg>
+      </div>
+      </div>
+      
+      
+      <div type="poem">
+       <div type="sonnet">
+        <head>IX</head>
+         <lg type="quatrain">
+          <l>Amanhecera. O tropeiro</l>
+          <l>Passa, cantando, na estrada;</l>
+          <l>No seu casebre o roceiro</l>
+          <l>Prepara as foices e a enxada.</l>
+        </lg>
+         <lg type="quatrain">
+          <l>Ao rumor a luz casada</l>
+          <l>Enche de vida o terreiro</l>
+          <l>Parecem bruma cerrada</l>
+          <l>As flores, lá! do espinheiro...</l>
+        </lg>
+         <lg type="triplet">
+          <l>Aspira-se o olor suave</l>
+          <l>Do bom café... Alto e grave</l>
+          <l>Bate o pilão nas cozinhas.</l>
+        </lg>
+         <lg type="triplet">
+          <l>Há junto à horta uns barrancos,</l>
+          <l>Onde a mulher, de tamancos,</l>
+          <l>Distribui milho às galinhas.</l>
+        </lg>
+      </div>
+      </div>
+      
+      
+      <div type="poem">
+      <div type="sonnet">
+        <head>X</head>
+        <lg type="quatrain">
+          <l>Conversam ambos La sala</l>
+          <l>Juntos, sentados, em paz;</l>
+          <l>A moca, a rir quando fal</l>
+          <l>Diz querer bem ao rapaz.</l>
+        </lg>
+        <lg type="quatrain">
+          <l>Replica o noivo, a mira-la:</l>
+          <l>Dê-me um beijo, se é capaz...</l>
+          <l>Grave, de luto e sem gala</l>
+          <l>Olha-os a mãe por detrás.</l>
+        </lg>
+        <lg type="triplet">
+          <l>E treme a luz, que não presta!</l>
+          <l>A sala, pobre e modesta,</l>
+          <l>Quase que lôbrega está...</l>
+        </lg>
+        <lg type="triplet">
+          <l>Boca aberta, mão no queixo,</l>
+          <l>Em caprichoso desleixo</l>
+          <l>Dorme Nhonhô no sofá.</l>
+        </lg>
+      </div>
+      </div>
+      
+      
+      <div type="poem">
+      <div type="sonnet">
+        <head>XI</head>
+        <lg type="quatrain">
+          <l>O sol raios de oiro espalha</l>
+          <l>Como um fidalgo vadio!</l>
+          <l>Perto do rancho de palha</l>
+          <l>Fechado, há pouco; e vazio</l>
+        </lg>
+        <lg type="quatrain">
+          <l>Uma mulher com a toalha</l>
+          <l>De linho branco, alvadio,</l>
+          <l>Sobre a cabeça grisalha,</l>
+          <l>Lava na beira do rio.</l>
+        </lg>
+        <lg type="triplet">
+          <l>Fareja o cão; e ali perto,</l>
+          <l>Livre do sol, nos verdores,</l>
+          <l>Por umas frondes coberto,</l>
+        </lg>
+        <lg type="triplet">
+          <l>Gordo, risonho e despido,</l>
+          <l>Com borboletas e flores</l>
+          <l>Anda o filhinho entretido!</l>
+        </lg>
+      </div>
+      </div>
+      
+      
+      <div type="poem">
+      <div type="sonnet">
+        <head>XII</head>
+        <lg type="quatrain">
+          <l>No rancho a lenha se inflama;</l>
+          <l>Ao lado — posta uma esteira,</l>
+          <l>Onde crianças sem cama</l>
+          <l>Atiçam fogo à chaleira.</l>
+        </lg>
+        <lg type="quatrain">
+          <l>A rubra luz se derrama</l>
+          <l>Como um fuzil, de maneira</l>
+          <l>A deixar ver desse drama</l>
+          <l>A cena íntima inteira!</l>
+        </lg>
+        <lg type="triplet">
+          <l>Chega-se a mãe aos pequenos</l>
+          <l>Com certo dó:</l>
+          <l rend="indent">"... quando menos</l>
+          <l>Temos a graça de Deus..."</l>
+        </lg>
+        <lg type="triplet">
+          <l>Ia o fogo amortecendo...</l>
+          <l>Deu-lhes a bênção, dizendo:</l>
+          <l>— Vamos dormir, filhos meus!</l>
+        </lg>
+      </div>
+      </div>
+      
+      
+      <div type="poem">
+      <div type="sonnet">
+        <head>XIII</head>
+        <lg type="quatrain">
+          <l>Na estaca de uma parede</l>
+          <l>Dá pouca luz a candeia;</l>
+          <l>Um homem, depois da ceia,</l>
+          <l>Fuma, deitado na rede.</l>
+        </lg>
+        <lg type="quatrain">
+          <l>Do camponês rude, vede!</l>
+          <l>O pensamento vagueia...</l>
+          <l>Chora num berço de aldeia</l>
+          <l>O pequerrucho, com sede.</l>
+        </lg>
+        <lg type="triplet">
+          <l>"Maria! chama o pai, alto.</l>
+          <l>(Ergue-se a filha, de um salto)</l>
+          <l>"Anda ninar teu irmão...</l>
+        </lg>
+        <lg type="triplet">
+          <l>E enquanto a moçoila canta,</l>
+          <l>A mãe, trigueira, de manta,</l>
+          <l>Debulha guandos, no chão.</l>
+        </lg>
+      </div>
+      </div>
+      
+      
+      <div type="poem">
+      <div type="sonnet">
+        <head>XIV</head>
+        <lg type="quatrain">
+          <l>Eis o casebre antigo dos dois velhos,</l>
+          <l>Esposos camponeses, onde a filha</l>
+          <l>De noite sobre a mesa abre a cartilha,</l>
+          <l>Ouvindo ao ancião veros conselhos.</l>
+        </lg>
+        <lg type="quatrain">
+          <l>Lança os olhos à mãe — castos espelhos,</l>
+          <l>Morno raio do amor que em sua alma brilha;</l>
+          <l>Envolvendo-lhe o busto na mantilha,</l>
+          <l>Adormecia a moça em seus joelhos.</l>
+        </lg>
+        <lg type="triplet">
+          <l>Que de vezes, oh! filha destes lares!</l>
+          <l>Eu consolei-te os frívolos pesares,</l>
+          <l>Nessa ternura múltipla de irmão!...</l>
+        </lg>
+        <lg type="triplet">
+          <l>Eras  cercada, enfim, de um zelo terno,</l>
+          <l>Quando estávamos todos, pelo inverno,</l>
+          <l>Ao brazido cordial do teu fogão!</l>
+        </lg>
+      </div>
+      </div>
+      
+      
+      <div type="poem">
+      <div type="sonnet">
+        <head>XV</head>
+        <lg type="quatrain">
+          <l>Caiu a noite, erma e fria.</l>
+          <l>E aquela saleta, agora,</l>
+          <l>Caiada por dentro e fora,</l>
+          <l>A vela acesa alumia:</l>
+        </lg>
+        <lg type="quatrain">
+          <l>No antigo móvel de braços</l>
+          <l>Acha-se o pai recostado,</l>
+          <l>Para o filhinho pasmado</l>
+          <l>Lendo da Bíblia os pedaços;</l>
+        </lg>
+        <lg type="triplet">
+          <l>Na mesa, logo à direita,</l>
+          <l>Onde uma rosa desfeita</l>
+          <l>Perde o vigor na caneca,</l>
+        </lg>
+        <lg type="triplet">
+          <l>De joelhos na cadeira,</l>
+          <l>Loira, branca, feiticeira</l>
+          <l>Brinca Nenê com a boneca.</l>
+        </lg>
+      </div>
+      </div>
+      
+      
+      <div type="poem">
+      <div type="sonnet">
+        <head>XVI</head>
+        <lg type="quatrain">
+          <l>A filha, pálida e loura,</l>
+          <l>Faz seu serão de costura:</l>
+          <l>Às vezes pensa... ou procura</l>
+          <l>Dentro do cesto a tesoura.</l>
+        </lg>
+        <lg type="quatrain">
+          <l>Vive numa dobadoura</l>
+          <l>A singular criatura!</l>
+          <l>Ralha-lhe o pai com doçura,</l>
+          <l>Ao regressar da lavoura.</l>
+        </lg>
+        <lg type="triplet">
+          <l>Dá na varanda oito e meia...</l>
+          <l>Levanta-se logo a moça,</l>
+          <l>Pondo os morins no baú;</l>
+        </lg>
+        <lg type="triplet">
+          <l>Traz os preparos da ceia;</l>
+          <l>E, nas tigelas de louça,</l>
+          <l>Tomam café com beiju.</l>
+        </lg>
+      </div>
+      </div>
+      
+      
+      <div type="poem">
+      <div type="sonnet">
+        <head>XVII</head>
+         <lg type="quatrain">
+          <l>A criação satisfeita</l>
+          <l>Vai-se chegando ao poleiro;</l>
+          <l>Volta, suado e trigueiro,</l>
+          <l>O lavrador da colheita.</l>
+        </lg>
+         <lg type="quatrain">
+          <l>De cesto e trajo roceiro,</l>
+          <l>Aquela mulher mal feita</l>
+          <l>Que o xale aos ombros ajeita,</l>
+          <l>Junta o café no terreiro;</l>
+        </lg>
+         <lg type="triplet">
+          <l>E uma menina rosada</l>
+          <l>Recolhe a roupa lavada</l>
+          <l>De beira d’água... Entra o sol!</l>
+        </lg>
+         <lg type="triplet">
+          <l>Pelo rafeiro seguido,</l>
+          <l>O campônio aborrecido</l>
+          <l>Desce ao riacho, de anzol.</l>
+        </lg>
+      </div>
+      </div>
+      
+      
+      <div type="poem">
+      <div type="sonnet">
+        <head>XVIII</head>
+        <lg type="quatrain">
+          <l>Naquela casa do morro</l>
+          <l>Mora a viúva com as filhas,</l>
+          <l>Três singelas maravilhas,</l>
+          <l>Pupilas de um preto forro.</l>
+        </lg>
+        <lg type="quatrain">
+          <l>Quando eu passo, ele, de gorro,</l>
+          <l>Colhendo à horta as ervilhas</l>
+          <l>Trepadas pelas forquilhas,</l>
+          <l>Faz sossegar o cachorro...</l>
+        </lg>
+        <lg type="triplet">
+          <l>Elas vendo da ladeira</l>
+          <l>Com quem o Patusco laca,</l>
+          <l>Vão me esperar na tronqueira;</l>
+        </lg>
+        <lg type="triplet">
+          <l>E após um colóquio extenso,</l>
+          <l>Pedem-me versos em quadra</l>
+          <l>Para marcarem-me um lenço.</l>
+        </lg>
+      </div>
+      </div>
+      
+      
+      <div type="poem">
+      <div type="sonnet">
+        <head>XIX</head>
+        <lg type="quatrain">
+          <l>A casinha — o sol dobrando,</l>
+          <l>Projeta sombra na frente,</l>
+          <l>Onde o casal inocente</l>
+          <l>Está sorrindo e brincando.</l>
+        </lg>
+        <lg type="quatrain">
+          <l>Vai a menina cantando,</l>
+          <l>Medita o irmão... de repente</l>
+          <l>Safa-se aos pulos, contente</l>
+          <l>Como graúna de um bando.</l>
+        </lg>
+        <lg type="triplet">
+          <l>Chega ao portal pequenino</l>
+          <l>A mãe, que a olhar, quase cai,</l>
+          <l>Soltando, pálida, um grito...</l>
+        </lg>
+        <lg type="triplet">
+          <l>É que o travesso menino</l>
+          <l>Com as chilenas do pai</l>
+          <l>Tenta montar no cabrito.</l>
+        </lg>
+      </div>
+      </div>
+      
+      
+      <div type="poem">
+      <div type="sonnet">
+        <head>XX</head>
+         <lg type="quatrain">
+          <l>As alegrias, desertas</l>
+          <l>Daquele lar, desde quando!</l>
+          <l>Hoje voltaram, entrando</l>
+          <l>Peias janelas abertas.</l>
+        </lg>
+         <lg type="quatrain">
+          <l>E, como pombas em bando,</l>
+          <l>Rasteiras, brancas, espertas</l>
+          <l>As raparigas vão certas</l>
+          <l>Àquele síto chegando.</l>
+        </lg>
+         <lg type="triplet">
+          <l>Palmas lá dentro! E faz frio!</l>
+          <l>Tiranas e desafio...</l>
+          <l>Cá fora a lua descamba.</l>
+        </lg>
+         <lg type="triplet">
+          <l>Aos rasgados da viola</l>
+          <l>Quebra-se o corpo pachola</l>
+          <l>Nos bamboleios do samba.</l>
+        </lg>
+      </div>
+      </div>
+      
+      
+      <div type="poem">
+      <div type="sonnet">
+        <head>‘XXI</head>
+        <lg type="quatrain">
+          <l>Homens e moças, crianças,</l>
+          <l>Todos vêm fora, ao terreiro.</l>
+          <l>Um deles, chamando às danças,</l>
+          <l>Põe-se a rufar no pandeiro...</l>
+        </lg>
+        <lg type="quatrain">
+          <l>Principia a cantarola...</l>
+          <l>Um camponês de unha adunca</l>
+          <l>Ponteia alegre a viola.</l>
+          <l>Faz um luar como nunca!</l>
+        </lg>
+        <lg type="triplet">
+          <l>Salta una rapaz no fadïnho;</l>
+          <l>Uma mulher, de corpinho,</l>
+          <l>Vem requebrando de lá;</l>
+        </lg>
+        <lg type="triplet">
+          <l>E a meninada bizarra</l>
+          <l>Faz uma grande algazarra</l>
+          <l>Brincando o tempo-será.</l>
+        </lg>
+      </div>
+      </div>
+      
+      
+      <div type="poem">
+      <div type="sonnet">
+        <head>XXII</head>
+         <lg type="quatrain">
+          <l>Surge sereno e prazenteiro o dia,</l>
+          <l>Vai-se diluindo a transparência parda;</l>
+          <l>Entre os morros a luz, brincando, espia</l>
+          <l>Do camponês a rústica mansarda.</l>
+        </lg>
+         <lg type="quatrain">
+          <l>Freme o vergel, que plácido dormia,</l>
+          <l>E os jubilosos músicos aguarda...</l>
+          <l>Sacode a palma a trança úmida e fria</l>
+          <l>Dos suores da noite, e o sol não tarda!</l>
+        </lg>
+         <lg type="triplet">
+          <l>Olhai para a cabana: uma donzela</l>
+          <l>Que as madeixas lustrais trança, de pé,</l>
+          <l>Do pequenino quarto abre a janela...</l>
+        </lg>
+         <lg type="triplet">
+          <l>Nos braços leva a mãe o seu bebé</l>
+          <l>Ao jasmineiro em flor e, junto dela,</l>
+          <l>Uma menina ao velho traz café.</l>
+        </lg>
+      </div>
+      </div>
+      
+      
+      <div type="poem">
+      <div type="sonnet">
+        <head>XXIII</head>
+        <lg type="quatrain">
+          <l>Crepita a veia no quarto</l>
+          <l>Sobre uma cômoda antiga;</l>
+          <l>No leito — uma rapariga</l>
+          <l>Geme com as dores do parto.</l>
+        </lg>
+        <lg type="quatrain">
+          <l>Aos pés inclina-se o espelho,</l>
+          <l>Pende do teto uma rede,</l>
+          <l>E, no frontal da parede,</l>
+          <l>Há um crucifixo velho.</l>
+        </lg>
+        <lg type="triplet">
+          <l>Assiste-lhe outra pessoa,</l>
+          <l>A avó, cabelos brancos,</l>
+          <l>Que a infeliz neta perdoa.</l>
+        </lg>
+        <lg type="triplet">
+          <l>Mãe de Deus! E um maltrapilho</l>
+          <l>(Cedia a porta aos arrancos)</l>
+          <l>Toma nos braços o filho!</l>
+        </lg>
+      </div>
+      </div>
+      
+      
+      <div type="poem">
+      <div type="sonnet">
+        <head>XXIV</head>
+        <lg type="quatrain">
+          <l>A casa daquela gente</l>
+          <l>É branca como um jasmim!</l>
+          <l>Tem nas vidraças da frente</l>
+          <l>Forros azuis de metim.</l>
+        </lg>
+        <lg type="quatrain">
+          <l>Quando o sol tinge o poente,</l>
+          <l>Vai de bengala ao jardim</l>
+          <l>Um velhote impertinente,</l>
+          <l>De roupa clara, de brim.</l>
+        </lg>
+        <lg type="triplet">
+          <l>Enxcota os pintos e clama</l>
+          <l>Contra quem pisa na grama;</l>
+          <l>Xinga as crianças, cruel!</l>
+        </lg>
+        <lg type="triplet">
+          <l>Por encontrá-las adiante</l>
+          <l>Pondo no lago ondulante</l>
+          <l>Embarcações de papel.</l>
+        </lg>
+      </div>
+      </div>
+      
+      
+      <div type="poem">
+      <div type="sonnet">
+        <head>XXV</head>
+        <lg type="quatrain">
+          <l>Na alcova sombria e quente,</l>
+          <l>Pobre de mais, se não erro,</l>
+          <l>Repousa um moço doente</l>
+          <l>Sore uma cama de ferro.</l>
+        </lg>
+        <lg type="quatrain">
+          <l>Pede-lhe baixo, inclinada,</l>
+          <l>Sua mulher — que adormeça,</l>
+          <l>Em cuja perna curvada</l>
+          <l>Ele reclina a cabeça.</l>
+        </lg>
+        <lg type="triplet">
+          <l>Vem uma loira figura</l>
+          <l>Com a colher da tintura,</l>
+          <l>Que ele recusa, num ai!</l>
+        </lg>
+        <lg type="triplet">
+          <l>Mas o solícito anjinho</l>
+          <l>Diz-lhe com riso e carinho:</l>
+          <l>— Bebe que é doce, papai!</l>
+        </lg>
+      </div>
+      </div>
+      
+      
+      <div type="poem">
+      <div type="sonnet">
+        <head>XXVI</head>
+        <lg type="quatrain">
+          <l>O lampião sobre a mesa</l>
+          <l>Jorra o clarão na varanda;</l>
+          <l>Fora, o luar; meu pai anda</l>
+          <l>A apreciar-lhe a beleza...</l>
+        </lg>
+        <lg type="quatrain">
+          <l>Vede que é nua: a pobreza</l>
+          <l>Fez até lá propaganda;</l>
+          <l>É minha mãe veneranda</l>
+          <l>Quem se deitou na marquesa.</l>
+        </lg>
+        <lg type="triplet">
+          <l>Dormem-lhe aos pés três crianças,</l>
+          <l>Meus irmãos, três esperanças;</l>
+          <l>Chilram os grilos por cima...</l>
+        </lg>
+        <lg type="triplet">
+          <l>Riem-se os dois namorados!</l>
+          <l>Eu, atento para os lados,</l>
+          <l>Beijo uma flor, minha prima.</l>
+        </lg>
+      </div>
+      </div>
+      
+      
+      <div type="poem">
+      <div type="sonnet">
+        <head>XXVII</head>
+        <lg type="quatrain">
+          <l>Fria, a sala. A noite, fora,</l>
+          <l>Traja o sendal de viúva;</l>
+          <l>E o vento que à porta chora</l>
+          <l>Borrifa os vidros de chuva.</l>
+        </lg>
+        <lg type="quatrain">
+          <l>Estão no sofá sentadas</l>
+          <l>Três senhoras; mais adiante</l>
+          <l>Duas moças enlaçadas</l>
+          <l>Correm os livros da estante.</l>
+        </lg>
+        <lg type="triplet">
+          <l>Espraia-se a luz, em onda,</l>
+          <l>De um castiçal dos antigos</l>
+          <l>Sobre uma mesa redonda,</l>
+        </lg>
+        <lg type="triplet">
+          <l>Onde, de gorro e cachimbo,</l>
+          <l>Um velho com três amigos</l>
+          <l>Joga, em palestra, o marimbo.</l>
+        </lg>
+      </div>
+      </div>
+      
+      
+      <div type="poem">
+      <div type="sonnet">
+        <head>XXVIII</head>
+         <lg type="quatrain">
+          <l>Cheguei ao rancho, era tarde!</l>
+          <l>Disse ao dono, incontinente:</l>
+          <l>Careço que do sol quente</l>
+          <l>O vosso teto me guarde...</l>
+        </lg>
+         <lg type="quatrain">
+          <l>— Tire o selim do cavalo,</l>
+          <l>Que há de estar muito cansado..</l>
+          <l>Depois de tudo arrumado</l>
+          <l>Pus-me a fumar; que regalo!</l>
+        </lg>
+         <lg type="triplet">
+          <l>Deram-me leite e farinha;</l>
+          <l>Mas ao guasca, antes do almoço,</l>
+          <l>Faz a mulata um cochicho...</l>
+        </lg>
+         <lg type="triplet">
+          <l>Chegando-me a garrafinha,</l>
+          <l>Diz-me ela assim: antes, moço,</l>
+          <l>De petiscar, mate o bicho!</l>
+        </lg>
+      </div>
+      </div>
+      
+      
+      <div type="poem">
+      <div type="sonnet">
+        <head>XXIX</head>
+         <lg type="quatrain">
+          <l>Depois do jantar, pequena</l>
+          <l>Volve a família ao terraço;</l>
+          <l>Brinca um pimpolho no braço</l>
+          <l>De uma criada morena.</l>
+        </lg>
+         <lg type="quatrain">
+          <l>Ali, de verdura amena</l>
+          <l>Descortina-se um pedaço;</l>
+          <l>Sente-se o débil mormaço</l>
+          <l>Da tarde clara e serena.</l>
+        </lg>
+         <lg type="triplet">
+          <l>Lê um rapaz, distraído;</l>
+          <l>Sentam-se esposa e marido</l>
+          <l>Saboreando o café...</l>
+        </lg>
+         <lg type="triplet">
+          <l>A moça, a andar sem destino,</l>
+          <l>Faz para o irmão pequenino</l>
+          <l>Um babador de crochê.</l>
+        </lg>
+      </div>
+      </div>
+      
+      
+      <div type="poem">
+       <div type="sonnet">
+        <head>XXX</head>
+        <lg type="quatrain">
+          <l>Passeávamos cedo — eu, minha irmã</l>
+          <l>E a sua amiga, uma infeliz criança</l>
+          <l>Neta de um velho, ali, na vizinhança,</l>
+          <l>Órfã, talvez; chamavam-na Nhãnhã.</l>
+        </lg>
+        <lg type="quatrain">
+          <l>Quem mais sublime: a rosa da manhã</l>
+          <l>A se esfolhar no colo da bonança,</l>
+          <l>Ou ela, um silfo! a sua fronte mansa</l>
+          <l>Num lírio azul, a túnica de lã?</l>
+        </lg>
+        <lg type="triplet">
+          <l>Foi numa dessas ocasiões que a ela</l>
+          <l>Eu me animei dizer — amo-te, és bela...</l>
+          <l>E minha irmã me interrompeu: Nhonhô,</l>
+        </lg>
+        <lg type="triplet">
+          <l>Tu bem sabes que a órfã bem querida</l>
+          <l>Vive dos pais saudosa, e, agradecida,</l>
+          <l>Enxuga ainda as lágrimas do avô.</l>
+        </lg>
+      </div>
+      </div>
+      
+      
+      <div type="poem">
+      <div type="sonnet">
+        <head>XXXI</head>
+        <lg type="quatrain">
+          <l>Hera, musgo e parasita,</l>
+          <l>Desde o muro ao patamar,</l>
+          <l>Essa trindade esquisita</l>
+          <l>Faz o encanto do teu lar.</l>
+        </lg>
+        <lg type="quatrain">
+          <l>Das janelas vê-se o mar</l>
+          <l>Beijando a praia infinita...</l>
+          <l>De tua casa bonita</l>
+          <l>Veem-se — flores no pomar,</l>
+        </lg>
+        <lg type="triplet">
+          <l>Caramanchões pitorescos</l>
+          <l>E os pombos nos arabescos</l>
+          <l>Da frente de teu chalé;</l>
+        </lg>
+        <lg type="triplet">
+          <l>Uma ave mansa e travessa</l>
+          <l>Quase pousa-te à cabeça</l>
+          <l>Quando passeias a pé!</l>
+        </lg>
+      </div>
+      </div>
+      
+      
+      <div type="poem">
+      <div type="sonnet">
+        <head>XXXII</head>
+        <lg type="quatrain">
+          <l>Loiro galã — pelo lar</l>
+          <l>Entra o sol, sem dizer nada,</l>
+          <l>Alegre como a toada</l>
+          <l>De uma canção popular.</l>
+        </lg>
+        <lg type="quatrain">
+          <l>À janela brinca um par</l>
+          <l>Sob o docel da latada;</l>
+          <l>Preso, de um prego na entrada,</l>
+          <l>Põe-se o coleiro a cantar...</l>
+        </lg>
+        <lg type="triplet">
+          <l>Pombos, pombas batem asa</l>
+          <l>Sobre o telhado da casa;</l>
+          <l>Chamam de dentro — Iaiá...</l>
+        </lg>
+        <lg type="triplet">
+          <l>Puxando-a pelas mãozinhas,</l>
+          <l>Diz-lhe o moço: Mariquinhas,</l>
+          <l>Vem temperar-nos o chá...</l>
+        </lg>
+      </div>
+      </div>
+      
+      
+      <div type="poem">
+      <div type="sonnet">
+        <head>XXXIII</head>
+        <lg type="quatrain">
+          <l>Já vem surgindo a manhã,</l>
+          <l>Tão bela manhã de agosto,</l>
+          <l>Pois que a alegria do rosto</l>
+          <l>É à dos ares irmã.</l>
+        </lg>
+        <lg type="quatrain">
+          <l>Na pradaria louçã</l>
+          <l>Cantam as aves por gosto;</l>
+          <l>Nenhum sinal de desgosto</l>
+          <l>Tem o lundu da aldeã!</l>
+        </lg>
+        <lg type="triplet">
+          <l>Sobre a casinha de palha,</l>
+          <l>Que honrada gente agasalha,</l>
+          <l>Manda-me o sol um "bom dia”.</l>
+        </lg>
+        <lg type="triplet">
+          <l>Abre a janela do quarto,</l>
+          <l>Que eu já de saudades farto</l>
+          <l>Trouxe-te um beijo, Maria!</l>
+        </lg>
+      </div>
+      </div>
+      
+      
+      <div type="poem">
+        <head>XXXIV</head>
+        <lg>
+          <l>Chega Lulu do colégio</l>
+          <l>Rubro do sol, como um cardo:</l>
+          <l>Calça e boné de brim pardo,</l>
+          <l>Blusa do mesmo protege-o.</l>
+        </lg>
+        <lg>
+          <l>Entra, e nuns braços se some,</l>
+          <l>Deixando os livros na mesa.</l>
+          <l>Voltara em fraldas, surpresa!</l>
+          <l>Senta-se e diz: ai que fome!</l>
+        </lg>
+        <lg>
+          <l>E janta. O velho rafeiro</l>
+          <l>Vem festejá-lo, com o cheiro;</l>
+          <l>Lambe-o na face o gatinho.</l>
+        </lg>
+        <lg>
+          <l>A mãe, que os pratos ajunta,</l>
+          <l>Aberto o livro, pergunta:</l>
+          <l>— Que lição trazes, filhinho?</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>XXXV</head>
+        <lg>
+          <l>Eu vejo de passagem,</l>
+          <l>Daquela estrada à beira,</l>
+          <l>Debaixo da figueira</l>
+          <l>Vergando-se à ramagem,</l>
+        </lg>
+        <lg>
+          <l>A mãe, rústica imagem,</l>
+          <l>Sentada numa esteira.</l>
+          <l>Ao longo da soleira</l>
+          <l>De seu casai selvagem.</l>
+        </lg>
+        <lg>
+          <l>Ali — nada é desmancho:</l>
+          <l>Passai, gentes, e vede</l>
+          <l>Aquele pobre rancho:</l>
+        </lg>
+        <lg>
+          <l>Ao lado da parede</l>
+          <l>Um galho verde e um gancho</l>
+          <l>Sustêm do filho a rede.</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>XXXVI</head>
+        <lg>
+          <l>Domingo. A casa de palha</l>
+          <l>Abre as janelas ao sol;</l>
+          <l>Na horta o dono trabalha</l>
+          <l>Desde que veio o arrebol;</l>
+        </lg>
+        <lg>
+          <l>E a companheira, de grampo</l>
+          <l>No cabelo em caracol,</l>
+          <l>Na erva enxuta do campo</l>
+          <l>Estende um claro lençol...</l>
+        </lg>
+        <lg>
+          <l>No ribeiro cristalino</l>
+          <l>Bebem as aves; o sino</l>
+          <l>Chama os cristãos à matriz;</l>
+        </lg>
+        <lg>
+          <l>Entra a mulher... mas da porta</l>
+          <l>Fala, meiga, para a horta:</l>
+          <l>— Vamos à missa, Luiz?</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>XXXVII</head>
+        <lg>
+          <l>Ave Maria!... Alma, escuta</l>
+          <l>Os ecos dos campanários</l>
+          <l>Como gênios solitários</l>
+          <l>Alevantados da gruta.</l>
+        </lg>
+        <lg>
+          <l>Da laranjeira impoluta</l>
+          <l>Nos florescentes cenários,</l>
+          <l>O dueto dos canários</l>
+          <l>As horas tardas enluta;</l>
+        </lg>
+        <lg>
+          <l>Horas de paz e fragrância,</l>
+          <l>Em que releio a cartilha</l>
+          <l>Dos hinos sacros da infância!</l>
+        </lg>
+        <lg>
+          <l>Diz minha mãe, que a partilha</l>
+          <l>De bênçãos faz, a distância:</l>
+          <l>— Deus te abençoe, minha filha!</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>XXXVIII</head>
+        <lg>
+          <l>O casebre esburacado</l>
+          <l>É pobre como senzala;</l>
+          <l>Tem mesmo o fogo na sala</l>
+          <l>E a picumã no telhado.</l>
+        </lg>
+        <lg>
+          <l>Habita-o o casal de pretos...</l>
+          <l>Vê-se no canto metido</l>
+          <l>Um oratório encardido</l>
+          <l>E atrás da porta uns gravetos.</l>
+        </lg>
+        <lg>
+          <l>Reina o silêncio. Anoitece.</l>
+          <l>Reza a mulher, de mãos postas</l>
+          <l>O dia a um santo oferece...</l>
+        </lg>
+        <lg>
+          <l>Entre as ingás bem dispostas</l>
+          <l>O proletário aparece</l>
+          <l>Com a ferramenta nas costas.</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>XXXIX</head>
+        <lg>
+          <l>Levanta-se ela do leito</l>
+          <l>Logo ao romper da manhã,</l>
+          <l>Chegando aos ombros e ao peito</l>
+          <l>O chalezinho de lã...</l>
+        </lg>
+        <lg>
+          <l>Mas só a cama abandona</l>
+          <l>Depois do sinal da cruz,</l>
+          <l>Erguendo para a Madona</l>
+          <l>Os grandes olhos azuei!</l>
+        </lg>
+        <lg>
+          <l>Enfia o pé na chinela</l>
+          <l>E vai abrir a janela;</l>
+          <l>Solta os cabelos e sai...</l>
+        </lg>
+        <lg>
+          <l>Faz aos irmãos muita festa;</l>
+          <l>E por um beijo na testa</l>
+          <l>Recebe a bênção do pai.</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>XL</head>
+        <lg>
+          <l>Há umas noites violentas,</l>
+          <l>De muita agrura e sem brilho,</l>
+          <l>Que passam, como tormentas,</l>
+          <l>Pela alma de um pobre filho.</l>
+        </lg>
+        <lg>
+          <l>Não sei que nuvens são essas...</l>
+          <l>Aves sinistras! no entanto</l>
+          <l>Há um milhão de promessas</l>
+          <l>Na primavera que eu canto.</l>
+        </lg>
+        <lg>
+          <l>Quero esta luz de setembro!</l>
+          <l>Mas eu, sombrio, me lembro...</l>
+          <l>Sombras de luto, passai!</l>
+        </lg>
+        <lg>
+          <l>Trazei-me, brisas de rosa,</l>
+          <l>A cantilena saudosa</l>
+          <l>Do belga exul de meu pai!</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>XLI</head>
+        <lg>
+          <l>Nas noites de frio</l>
+          <l>Os astros chorando</l>
+          <l>E as folhas boiando</l>
+          <l>Nas águas do rio;</l>
+        </lg>
+        <lg>
+          <l>Da tépida aragem</l>
+          <l>O crebro farfalho</l>
+          <l>E o choro de orvalho</l>
+          <l>Que cai da ramagem;</l>
+        </lg>
+        <lg>
+          <l>A ave em conchego</l>
+          <l>Na riba que escora</l>
+          <l>Tão lânguida flor;</l>
+        </lg>
+        <lg>
+          <l>Do rancho o sossego</l>
+          <l>E as trovas lá fora</l>
+          <l>Me falam de amor!...</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>XLII</head>
+        <lg>
+          <l>Ergue-se a lua do nevoeiro escuro</l>
+          <l>Como noiva infeliz — úmida rosa!</l>
+          <l>E a flor da noite se entreabriu cheirosa</l>
+          <l>Sobre as ameias pálidas do muro.</l>
+        </lg>
+        <lg>
+          <l>Vai doce ofego pelo campo fora,</l>
+          <l>Palor na praia, esmaios na lagoa;</l>
+          <l>Vago murmúrio perfumado voa...</l>
+          <l>Ou são queixumes e ais de alguém que chora.</l>
+        </lg>
+        <lg>
+          <l>É que o verso pueril de umas cantigas</l>
+          <l>Sai da boca de ternas raparigas,</l>
+          <l>Todas sentadas ao redor da choça;</l>
+        </lg>
+        <lg>
+          <l>Vai sentar-se um rapaz no tamborete</l>
+          <l>A temperar o trêmulo machete,</l>
+          <l>Em lindas noites de luar, na roça!</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>XLIII</head>
+        <lg>
+          <l>É uma branca saleta</l>
+          <l>De tinhorões nas janelas;</l>
+          <l>Com o luar entram por elas</l>
+          <l>Auras de sonhe e violeta;</l>
+        </lg>
+        <lg>
+          <l>Alta e pequena; repleta</l>
+          <l>De riso e sol, bagatelas!</l>
+          <l>Uma porção de aquarelas</l>
+          <l>Esse El-Dorado completa.</l>
+        </lg>
+        <lg>
+          <l>Em meio da cantarola</l>
+          <l>Dos canários na gaiola,</l>
+          <l>Poeta sem saber como,</l>
+        </lg>
+        <lg>
+          <l>Metido em chambre de chita</l>
+          <l>Um moço à mesa da escrita</l>
+          <l>Rabisca, a lápis, um cromo.</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>XLIV</head>
+        <lg>
+          <l>Vermelha, a alcova em que eu entro,</l>
+          <l>Com cortinados de cassa,</l>
+          <l>Cheia de prismas por dentro</l>
+          <l>Quando o sol bate à vidraça.</l>
+        </lg>
+        <lg>
+          <l>Tem murcho o "bouquet" num vaso</l>
+          <l>Do par que adorna o toilete;</l>
+          <l>E o espelho, neste caso,</l>
+          <l>Cena mais linda reflete:</l>
+        </lg>
+        <lg>
+          <l>Dorme na cama francesa</l>
+          <l>Com natural singeleza</l>
+          <l>Loira mulher da Suíça;</l>
+        </lg>
+        <lg>
+          <l>Abre um rapaz estouvado</l>
+          <l>As franjas do cortinado...</l>
+          <l>Ela, a acordar, se espreguiça</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>XLV</head>
+        <lg>
+          <l>Entra do sol uma aresta</l>
+          <l>Pela janela fronteira,</l>
+          <l>Tendo a cortina modesta</l>
+          <l>De festões de trepadeira.</l>
+        </lg>
+        <lg>
+          <l>Sobre o banco de madeira</l>
+          <l>O camponês dorme a sesta;</l>
+          <l>De lenço branco na testa,</l>
+          <l>Cose a mulher numa esteira.</l>
+        </lg>
+        <lg>
+          <l>Um beija-flor esvoaça...</l>
+          <l>Sai do fogão moribundo</l>
+          <l>Uma espiral de fumaça...</l>
+        </lg>
+        <lg>
+          <l>De vestido ao tornozelo,</l>
+          <l>A moça que vem do fundo</l>
+          <l>Traz uma flor no cabelo!</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>XLVI</head>
+        <lg>
+          <l>Naquele quarto forrado</l>
+          <l>Há duas redes e um leito,</l>
+          <l>Onde um moço está deitado</l>
+          <l>— Livro aberto sobre o peito —</l>
+        </lg>
+        <lg>
+          <l>Pobremente amortalhado</l>
+          <l>O estudante de direito</l>
+          <l>Num camisolo encarnado,</l>
+          <l>De ramos brancos e estreito</l>
+        </lg>
+        <lg>
+          <l>Apesar da vela acesa,</l>
+          <l>Uma sombria tristeza</l>
+          <l>Paira ali dentro... Qualquer</l>
+        </lg>
+        <lg>
+          <l>Sente, ao primeiro momento,</l>
+          <l>Naquele frio aposento</l>
+          <l>A falta de uma mulher.</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>XLVII</head>
+        <lg>
+          <l>Desfruta por bom costume</l>
+          <l>Um rapaz, naquela casa,</l>
+          <l>A vida de uma ave implume</l>
+          <l>Sob o carinho de uma asa.</l>
+        </lg>
+        <lg>
+          <l>Panela a tempo no lume</l>
+          <l>Que de tão farta transvasa;</l>
+          <l>Envolve tudo o perfume</l>
+          <l>De umas resinas em brasa.</l>
+        </lg>
+        <lg>
+          <l>E que adorável pobreza!</l>
+          <l>Na tábua limpa da mesa</l>
+          <l>A louça enxuta e o talher...</l>
+        </lg>
+        <lg>
+          <l>Um quê de alegre e tranquilo;</l>
+          <l>Percebe-se em tudo aquilo</l>
+          <l>Q dedo de uma mulher,</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>XLVIII</head>
+        <lg>
+          <l>Quando vai sair da sala,</l>
+          <l>Para negócios, à rua,</l>
+          <l>Vê-se tonto o avo e sua...</l>
+          <l>Rancho de netos lhe fala.</l>
+        </lg>
+        <lg>
+          <l>E, ao pegar-lhe na bengala</l>
+          <l>Uma pequena alva e nua,</l>
+          <l>Promete (e nisto recua)</l>
+          <l>Trazer-lhe biscoito e bala.</l>
+        </lg>
+        <lg>
+          <l>Para safar-se com astúcia</l>
+          <l>Do meio daquela súcia</l>
+          <l>Ruidosa e loira, vê pancas!</l>
+        </lg>
+        <lg>
+          <l>Mas não vê, que cego é ele!</l>
+          <l>Os dedos sujos daquele</l>
+          <l>Mancharem-lhe as calças brancas!</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>XLIX</head>
+        <lg>
+          <l>A sua casa de pinho</l>
+          <l>É clara, pequena e limpa;</l>
+          <l>Anda um tiê a fazer ninho</l>
+          <l>De um angelim pela grimpa.</l>
+        </lg>
+        <lg>
+          <l>Ela, gorducha e rosada,</l>
+          <l>Senta-se cedo ao trabalho,</l>
+          <l>Com a merenda temperada</l>
+          <l>Sobre o calor do borralho.</l>
+        </lg>
+        <lg>
+          <l>Somente o dedal faz bulha...</l>
+          <l>É um gosto, nesse instante,</l>
+          <l>Vê-la a puxar pela agulha.</l>
+        </lg>
+        <lg>
+          <l>Eu entro... ela ri-se e cora.</l>
+          <l>É que apanhei-a em flan-ante</l>
+          <l>Com os tornozelos de fora..</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>L</head>
+        <lg>
+          <l>Fui ao quarto: intermitente</l>
+          <l>Projetava a lamparina</l>
+          <l>Uma luz verde, mofina.</l>
+          <l>Sabre as feições do doente.</l>
+        </lg>
+        <lg>
+          <l>Como cintila divina.</l>
+          <l>O seu olhar de demente</l>
+          <l>Ia pousar frouxamente</l>
+          <l>Numa chorosa menina.</l>
+        </lg>
+        <lg>
+          <l>Depois, à imagem de Cristo</l>
+          <l>Volve a cabeça e diz isto</l>
+          <l>Com lentidão: "mundo, mundo...”</l>
+        </lg>
+        <lg>
+          <l>E o Cristo, nu, lacrimoso</l>
+          <l>Descia o olhar piedoso</l>
+          <l>Àquele pai moribundo.</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>LI</head>
+        <lg>
+          <l>Abre-se ao romper do dia</l>
+          <l>A porta do novo templo,</l>
+          <l>E, num belíssimo exemplo,</l>
+          <l>A trabalhar principia</l>
+        </lg>
+        <lg>
+          <l>A classe bendita e honesta</l>
+          <l>Dos queimados proletários;</l>
+          <l>Às vezes, dos operários</l>
+          <l>Corre o suor pela testa...</l>
+        </lg>
+        <lg>
+          <l>Há pela fábrica o ar morno,</l>
+          <l>O tom violento, amarelo,</l>
+          <l>Da incandescência do forno...</l>
+        </lg>
+        <lg>
+          <l>Quem quiser entre e perlustre-a:</l>
+          <l>Parece a voz do martelo</l>
+          <l>Elevar hinos a Indústria.</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>LII</head>
+        <lg>
+          <l>Curiosa, toda gente</l>
+          <l>Mira um par nestas alturas.</l>
+          <l>Que fazem pelo sol quente</l>
+          <l>Tão fidalgas criaturas?</l>
+        </lg>
+        <lg>
+          <l>Esbeltos, pela cintura</l>
+          <l>Enlaçados docemente,</l>
+          <l>Vão eles, de galgo à frente,</l>
+          <l>Entre o verdor das culturas;</l>
+        </lg>
+        <lg>
+          <l>O senhor, de trajo leve,</l>
+          <l>E a dona, toda de neve,</l>
+          <l>Incertos ante o riacho...</l>
+        </lg>
+        <lg>
+          <l>Viver assim como é belo!</l>
+          <l>Cabeças juntas, debaixo</l>
+          <l>De um para-sol amarelo!</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>LIII</head>
+        <lg>
+          <l>"Dorme, dorme, meu filhinho,</l>
+          <l>"Não chores, oh! meu amor...</l>
+          <l>Macios como um arminho,</l>
+          <l>Fragrantes qual uma flor,</l>
+        </lg>
+        <lg>
+          <l>Eram os versos sem cor,</l>
+          <l>Cheios de mágoa e carinho,</l>
+          <l>Como o arrulho carpidor</l>
+          <l>Da pomba-rola sem ninho.</l>
+        </lg>
+        <lg>
+          <l>Ia-os a mãe entoando</l>
+          <l>Alta noite, acalentando</l>
+          <l>Seu alvo e loiro penhor...</l>
+        </lg>
+        <lg>
+          <l>E acabava semi-morta:</l>
+          <l>"A faca que muito corta</l>
+          <l>"Dá fundo golpe sem dor!</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>LIV</head>
+        <lg>
+          <l>Quando amanhece, a mucama</l>
+          <l>Traz-lhe o café na bandeja;</l>
+          <l>Ela inda rola e boceja</l>
+          <l>Sobre as alvuras da cama.</l>
+        </lg>
+        <lg>
+          <l>A lamparina derrama</l>
+          <l>Lácteo clarão, que branqueja</l>
+          <l>(Seja indiscreta ou não seja)</l>
+          <l>As formas nuas da dama.</l>
+        </lg>
+        <lg>
+          <l>O cachorrinho felpudo</l>
+          <l>Dorme-lhe aos pés, encolhido</l>
+          <l>Sobre um basquim de veludo;</l>
+        </lg>
+        <lg>
+          <l>Senta-se a loira Frineia...</l>
+          <l>E arqueia o dorso despido,</l>
+          <l>Pedindo um beijo à Tetéia.</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>LV</head>
+        <lg>
+          <l>O mesmo teto os abriga,</l>
+          <l>Casal de primos. O moço,</l>
+          <l>À mesa,  depois do almoço,</l>
+          <l>Vê coser a rapariga.</l>
+        </lg>
+        <lg>
+          <l>E dá-se o mesmo alvoroço</l>
+          <l>Do sangue, na cena, antiga:</l>
+          <l>Um beijo na fronte amiga</l>
+          <l>E os braços sobre o pescoço,</l>
+        </lg>
+        <lg>
+          <l>Quando entra alguém na varanda!</l>
+          <l>Ele volta-se de banda,</l>
+          <l>Ela, corada, disfarça</l>
+        </lg>
+        <lg>
+          <l>E põe-se, com faceirice,</l>
+          <l>A bordar uma tolice</l>
+          <l>No pano de talagarça.</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>LVI</head>
+        <lg>
+          <l>Neste chalé principesco</l>
+          <l>Velado de persianas,</l>
+          <l>Moram, há duas semanas,</l>
+          <l>Dois casadinhos de fresco.</l>
+        </lg>
+        <lg>
+          <l>Pelas ruas suburbanas,</l>
+          <l>Sózinho, madrigalesco,</l>
+          <l>Anda o casal romanesco</l>
+          <l>Como senhor de cabanas.</l>
+        </lg>
+        <lg>
+          <l>Encontro-o pelos caminhos</l>
+          <l>Tirando flores e ninhos,</l>
+          <l>A pé vagaroso e bambo...</l>
+        </lg>
+        <lg>
+          <l>E vão os dois não sei onde!</l>
+          <l>O moço parece um conde,</l>
+          <l>A moça parece um jambo!</l>
+        </lg>
+
+      </div>
+      <div type="poem">
+        <head>LVII</head>
+        <lg>
+          <l>Entremos nas oficinas,</l>
+          <l>O alegre lar do trabalho,</l>
+          <l>Onde até frágeis meninas</l>
+          <l>Encontram   doce agasalho.</l>
+        </lg>
+        <lg>
+          <l>Esta, de um simples retalho,</l>
+          <l>Faz coisas linda e finas;</l>
+          <l>Outra ao papel, talho a talho,</l>
+          <l>Tira um pendão de boninas.</l>
+        </lg>
+        <lg>
+          <l>À mesa trabalham umas</l>
+          <l>Em palha, cabelo e plumas,</l>
+          <l>Com invejável afã;</l>
+        </lg>
+        <lg>
+          <l>Invade todo o recinto,</l>
+          <l>Que a largos traços eu pinto,</l>
+          <l>A grande luz da manhã!</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>LVIII</head>
+        <lg>
+          <l>Cheguei ao lar, que alegria!</l>
+          <l>Que doudejante esperança!</l>
+          <l>Cá fora — a mesma bonança,</l>
+          <l>O mesmo sol de outro dia.</l>
+        </lg>
+        <lg>
+          <l>Mas quando entrei... que mudança!</l>
+          <l>Três anos... Quem tal diria?</l>
+          <l>Quase ninguém conhecia</l>
+          <l>A peregrina criança.</l>
+        </lg>
+        <lg>
+          <l>— Como estou velho! Estou morto!</l>
+          <l>Disse-me alguém, repetindo:</l>
+          <l>— Podia eu ser seu avô...</l>
+        </lg>
+        <lg>
+          <l>Ora vejam! Torna absorto.</l>
+          <l>Concluíam todos, rindo:</l>
+          <l>Como está grande o Nhonhô!</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>LIX</head>
+        <lg>
+          <l>Lembro-me bem: certo dia</l>
+          <l>Fui por alguém convidado</l>
+          <l>Para um jantar de noivado</l>
+          <l>Em casa de minha tia.</l>
+        </lg>
+        <lg>
+          <l>Aceitei. Na mesa havia</l>
+          <l>Muitos convivas; ao lado</l>
+          <l>Da noiva, o noivo sentado</l>
+          <l>Todo feliz; eu dizia,</l>
+        </lg>
+        <lg>
+          <l>Erguendo o copo: "Senhores,</l>
+          <l>Sobre a noiva a Divindade</l>
+          <l>Derrame graças e flores...”</l>
+        </lg>
+        <lg>
+          <l>Mas eu te confesso, prima,</l>
+          <l>Que era só minha vontade</l>
+          <l>Deitar-te vinho por cima!</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>LX</head>
+        <lg>
+          <l>Quando vou àquela casa</l>
+          <l>Fazem-me entrar na varanda;</l>
+          <l>A filha, a quem arrasto a asa,</l>
+          <l>O lampião trazer manda.</l>
+        </lg>
+        <lg>
+          <l>A mãe, mulher veneranda,</l>
+          <l>Para uma bisca me empraza,</l>
+          <l>E em gargalhadas desanda</l>
+          <l>Quando me corta uma vasa.</l>
+        </lg>
+        <lg>
+          <l>O pai, um calvo jarreta,</l>
+          <l>De suspensório e jaqueta,</l>
+          <l>Ri-se também da proeza...</l>
+        </lg>
+        <lg>
+          <l>De disfarçada  maneira,</l>
+          <l>Vão meus pés e os da parceira</l>
+          <l>Falando em baixo da mesa...</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>LXI</head>
+        <lg>
+          <l>Em torno à mesa: eu, a viúva</l>
+          <l>E as duas filhas de luto.</l>
+          <l>São nove da noite; a chuva</l>
+          <l>Rufar nos vidros escuto.</l>
+        </lg>
+        <lg>
+          <l>Elas puxando da agulha,</l>
+          <l>Pelo temor de um sequestro;</l>
+          <l>Eu, fazendo muita bulha,</l>
+          <l>Corro os jornais e palestro.</l>
+        </lg>
+        <lg>
+          <l>A escandalosa notícia</l>
+          <l>De dois  noivos na polícia</l>
+          <l>Encontro e leio-a, solene...</l>
+        </lg>
+        <lg>
+          <l>Olha-me a viúva, de esguelha...</l>
+          <l>E aumenta a flama vermelha</l>
+          <l>No globo de querosene.</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>LXII</head>
+        <lg>
+          <l>Retirada, esconsa e morta</l>
+          <l>A casa de minha prima;</l>
+          <l>Floresce de baixo a cima</l>
+          <l>O jasmineiro da porta.</l>
+        </lg>
+        <lg>
+          <l>Mas os canários exorta</l>
+          <l>O viço de um pé de lima,</l>
+          <l>Que, de pesado, se arrima</l>
+          <l>Aos moirões secos da horta.</l>
+        </lg>
+        <lg>
+          <l>De tarde cose à janela</l>
+          <l>Para, às horas do costume,</l>
+          <l>Ver-me apontar na cancela...</l>
+        </lg>
+        <lg>
+          <l>Guarda-me figos, ameixas;</l>
+          <l>E, trescalando a perfume,</l>
+          <l>O bogari das madeixas.</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>LXIII</head>
+        <lg>
+          <l>Arde na frente da casa</l>
+          <l>Uma animada fogueira;</l>
+          <l>Levanta-se ígnea poeira</l>
+          <l>Dos grossos toros em brasa.</l>
+        </lg>
+        <lg>
+          <l>É' noite de Santo Antônio</l>
+          <l>Naquele lar festejado;</l>
+          <l>As raparigas no fado</l>
+          <l>São tentações do demônio!</l>
+        </lg>
+        <lg>
+          <l>Palmas, vivas e foguetes.</l>
+          <l>De madrugada a folia</l>
+          <l>Põe-se, ruidosa, a cavalo...</l>
+        </lg>
+        <lg>
+          <l>Pelo caminho os machetes</l>
+          <l>Largam saudosa harmonia...</l>
+          <l>Além, além, canta o galo!</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>LXIV</head>
+        <lg>
+          <l>Na cadeira de balanço</l>
+          <l>Da sala morna e sombria,</l>
+          <l>Em posição de descanso</l>
+          <l>Senhora a ler passa o dia.</l>
+        </lg>
+        <lg>
+          <l>Tudo ali dentro é tão manso,</l>
+          <l>Tão tranquilo! que dir-se-ia</l>
+          <l>Pairar em torno o remanso</l>
+          <l>De uma choupana vazia...</l>
+        </lg>
+        <lg>
+          <l>Frisam-lhe a paz preguiçosa</l>
+          <l>Um tênue rumor infindo,</l>
+          <l>Como o de asas de um besouro,</l>
+        </lg>
+        <lg>
+          <l>E essa figura arminosa</l>
+          <l>Do angorá branco, dormindo</l>
+          <l>Sobre a poltrona de couro...</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>LXV</head>
+        <lg>
+          <l>— Pois é aqui nosso rancho,</l>
+          <l>Disse, mandando sentar-me;</l>
+          <l>E depois, com grande alarme,</l>
+          <l>Botando a rede no gancho,</l>
+        </lg>
+        <lg>
+          <l>Gritou, lá para a cozinha,</l>
+          <l>Que o café do meio-dia</l>
+          <l>A sua boa Maria</l>
+          <l>Mandado à sala não tinha...</l>
+        </lg>
+        <lg>
+          <l>E o trouxe em duas tigelas,</l>
+          <l>Das três filhas uma delas,</l>
+          <l>De ar faceiroso e pretenso...</l>
+        </lg>
+        <lg>
+          <l>"Deus salve, moço..." mais nada!</l>
+          <l>E rindo, tida corada,</l>
+          <l>Mordia a ponta do lenço!</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>LXVI</head>
+        <lg>
+          <l>"Viola, minha viola,</l>
+          <l>"Viola do coração,</l>
+          <l>Cantava um cabra pachola,</l>
+          <l>Tocando numa função.</l>
+        </lg>
+        <lg>
+          <l>Puxam fieira à castanhola,</l>
+          <l>Batendo com os pés no chão...</l>
+          <l>E o fado se desenrola</l>
+          <l>Na noite de S. João.</l>
+        </lg>
+        <lg>
+          <l>Pra pá pá... Cresce a alegria</l>
+          <l>Depois das palmas... Agora,</l>
+          <l>Com pausada entonação,</l>
+        </lg>
+        <lg>
+          <l>O trovador concluía</l>
+          <l>"Viola que geme e chora</l>
+          <l>"Debaixo da minha mão!</l>
+        </lg>
+        <lg>
+          <l>FIGURAS</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>DONGA</head>
+        <lg>
+          <l>A sombra de uma palmeira</l>
+          <l>No fundo claro de um rio</l>
+          <l>Tem a aparência ligeira</l>
+          <l>Daquele todo sombrio.</l>
+        </lg>
+        <lg>
+          <l>Possui o peito vazio</l>
+          <l>Das afeições, de maneira</l>
+          <l>A ter no olhar vago e frio</l>
+          <l>Umas tristezas de freira.</l>
+        </lg>
+        <lg>
+          <l>Pálida, magra e tão débil</l>
+          <l>Que parece uma doente,</l>
+          <l>Exausta, chorosa, flébil...</l>
+        </lg>
+        <lg>
+          <l>Pálpebras fundas, escuras,</l>
+          <l>Coando a lágrima quente</l>
+          <l>De umas perdidas venturas!</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>NINA</head>
+        <lg>
+          <l>Tão bela pode que exista,</l>
+          <l>Mais provocante não há!</l>
+          <l>O sonho de um panteísta,</l>
+          <l>A perdição de um paxá.</l>
+        </lg>
+        <lg>
+          <l>Luze-lhe o raio da vista</l>
+          <l>Como o alfanje de um rajá,</l>
+          <l>E vibra a nota de artista ,</l>
+          <l>Em toda parte onde esta.</l>
+        </lg>
+        <lg>
+          <l>É branca, mais que o luar,</l>
+          <l>Cabelos fartos, castanhos,</l>
+          <l>Olhos que lembram o mar...</l>
+        </lg>
+        <lg>
+          <l>Raio travesso de luz</l>
+          <l>Irradiando um rebanho</l>
+          <l>De fantasias azuis!</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>ANJINHA</head>
+        <lg>
+          <l>Há um mistério travesso</l>
+          <l>Naquelas negras pupilas;</l>
+          <l>Delicadezas de gesso</l>
+          <l>Nas suas feições tranquilas.</l>
+        </lg>
+        <lg>
+          <l>É sempre o olhar que nos lança</l>
+          <l>Moroso, súplice e bambo;</l>
+          <l>Tem vaga-lumes na trança,</l>
+          <l>Na pele coisas do jambo.</l>
+        </lg>
+        <lg>
+          <l>Desse ideal que ainda encanta,</l>
+          <l>Como a imagem de unia santa</l>
+          <l>Cercada de um resplendor.</l>
+        </lg>
+        <lg>
+          <l>Daquele corpo tressua</l>
+          <l>Um certo vago de lua,</l>
+          <l>Com um leve aroma de flor..</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>COTINHA</head>
+        <lg>
+          <l>Muito triste e delicada!</l>
+          <l>Suponham, para ideá-la,</l>
+          <l>Uma camélia dobrada</l>
+          <l>Sobre uma jarra da sala.</l>
+        </lg>
+        <lg>
+          <l>Vive cismando e, por nada,</l>
+          <l>Toda estremece e não fala!</l>
+          <l>Anda aquela alma de Atala</l>
+          <l>De funda mágoa ralada.</l>
+        </lg>
+        <lg>
+          <l>Adora o piano, que as notas,</l>
+          <l>Como saudosas gaivotas,</l>
+          <l>Alam-se às plagas marinhas...</l>
+        </lg>
+        <lg>
+          <l>Ah! Deus queira a nau que sondas</l>
+          <l>No plaino glauco das ondas</l>
+          <l>Traga-te o riso que tinhas!</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>XANDOCA</head>
+        <lg>
+          <l>Corpo delgado e franzino</l>
+          <l>Como o lírio do caminho</l>
+          <l>Que vergasse, de tão fino,</l>
+          <l>Ao peso de um passarinho.</l>
+        </lg>
+        <lg>
+          <l>Canário que solta um trino</l>
+          <l>Entre as pelúcias do ninho...</l>
+          <l>Olhar manso e cristalino,</l>
+          <l>Alvuras frescas de linho.</l>
+        </lg>
+        <lg>
+          <l>Rosetas vivas na face,</l>
+          <l>Lábios fechados, vermelhos</l>
+          <l>Como cravina que nasce...</l>
+        </lg>
+        <lg>
+          <l>Mãos finas, unhas rosadas,</l>
+          <l>Pequenos pés sem artelhos,</l>
+          <l>Tranças ao ombro atiradas!</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>NENEZINHA</head>
+        <lg>
+          <l>Moçoila de saia curta</l>
+          <l>Com ares de senhorita;</l>
+          <l>Borboleta que volita</l>
+          <l>Por sobre flores de murta.</l>
+        </lg>
+        <lg>
+          <l>É de uma graça infinita,</l>
+          <l>Quando os seus vôos encurta:</l>
+          <l>De cada rosa então furta</l>
+          <l>O encanto que nela habita.</l>
+        </lg>
+        <lg>
+          <l>Olhar de boa malícia;</l>
+          <l>Como que um sonho navega</l>
+          <l>Naquele mar de delícia...</l>
+        </lg>
+        <lg>
+          <l>Ave medindo o caminho,</l>
+          <l>Mas que nas plumas carrega</l>
+          <l>Ainda o aroma do ninho.</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>VOVÓ</head>
+        <lg>
+          <l>Dorme, infeliz criatura!</l>
+          <l>Depois da luta é bem doce...</l>
+          <l>Talvez a vida te fosse</l>
+          <l>Uma perene amargura.</l>
+        </lg>
+        <lg>
+          <l>Não é longe a sepultura,</l>
+          <l>Nem foi teu sono precoce;</l>
+          <l>Se o teu olhar apagou-se,</l>
+          <l>Uma lembrança perdura...</l>
+        </lg>
+        <lg>
+          <l>E lá, na Presença Augusta,</l>
+          <l>A mim a bênção renova,</l>
+          <l>Que a tua bênção não custa...</l>
+        </lg>
+        <lg>
+          <l>Tenho lágrimas na trova,</l>
+          <l>Depois que a imagem vetusta</l>
+          <l>Tombou de um século à cova!</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>CAROLA</head>
+        <lg>
+          <l>Coração de favo e nardo,</l>
+          <l>Alma de estrela e neblina,</l>
+          <l>Rócio em cálix de bonina,</l>
+          <l>Onda azul que amaina o cardo.</l>
+        </lg>
+        <lg>
+          <l>Luar sonâmbulo e tardo,</l>
+          <l>Íris de luz peregrina,</l>
+          <l>Nascida em plaga divina,</l>
+          <l>Aureola a fronte do bardo!</l>
+        </lg>
+        <lg>
+          <l>Ave, que ao éter se exalça,</l>
+          <l>Beijando o ninho da balsa</l>
+          <l>Onde pipila... Jesus!</l>
+        </lg>
+        <lg>
+          <l>Vive de aromas e orvalhos;</l>
+          <l>Oscila o corpo nos galhos,</l>
+          <l>Suspende as plumas à luz.</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>VIOLETA</head>
+        <lg>
+          <l>A sua linda pessoa</l>
+          <l>Ressumbra lírio e virtude;</l>
+          <l>Tem nos olhos a quietude</l>
+          <l>De uma profunda lagoa.</l>
+        </lg>
+        <lg>
+          <l>Calma, simpática e boa</l>
+          <l>Como os sons de um alaúde;</l>
+          <l>Dois mirtos da juventude</l>
+          <l>A mesta fronte coroa</l>
+        </lg>
+        <lg>
+          <l>Das paisagens pitorescas,</l>
+          <l>Um belo e fiel modelo</l>
+          <l>De castelãs romanescas,</l>
+        </lg>
+        <lg>
+          <l>Pintando-a de cesta ao braço</l>
+          <l>Madressilvas no cabelo,</l>
+          <l>Bordando no seu terraço.</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>ANA</head>
+        <lg>
+          <l>Um sonho vago, brilhante,</l>
+          <l>Um devaneio qualquer,</l>
+          <l>Não falam bem do semblante,</l>
+          <l>Da graça desta mulher.</l>
+        </lg>
+        <lg>
+          <l>É fragrância inebriante,</l>
+          <l>Num íris de rosicler;</l>
+          <l>Qualquer coisa deslumbrante</l>
+          <l>Com o coração de mulher.</l>
+        </lg>
+        <lg>
+          <l>Eu bebi, raio sedento,</l>
+          <l>Os teus aljofres, oh! flor!</l>
+          <l>Numa ilusão de momento...</l>
+        </lg>
+        <lg>
+          <l>Como lágrimas de amor,</l>
+          <l>Gotejam no meu tormento</l>
+          <l>Os teus aljofres, oh! flor!</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>NHÃNHA</head>
+        <lg>
+          <l>Cabelos com lantejoulas,</l>
+          <l>Como uma noite estrelada;</l>
+          <l>A bela fronte banhada</l>
+          <l>Na dúbia luz das papoulas.</l>
+        </lg>
+        <lg>
+          <l>Tem semelhança com as rolas</l>
+          <l>De pelúcia acaboclada,</l>
+          <l>Que bebem, de madrugada,</l>
+          <l>O róseo mel das caçoulas.</l>
+        </lg>
+        <lg>
+          <l>Traçando a curva opulenta,</l>
+          <l>O seio, que, preso, estua,</l>
+          <l>Quase o corpinho rebenta...</l>
+        </lg>
+        <lg>
+          <l>De carnação florescente;</l>
+          <l>Ama as janelas da rua</l>
+          <l>E um rapazola doente.</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>SINHÁ</head>
+        <lg>
+          <l>Fria estátua do abandono!</l>
+          <l>Inspiras trovas e pena;</l>
+          <l>Nasceste, moça morena,</l>
+          <l>Para os veludos de um trono.</l>
+        </lg>
+        <lg>
+          <l>Tens, vaporosa e serena,</l>
+          <l>As nostalgias do outono;</l>
+          <l>Nesse olhar, que pede e ordena,</l>
+          <l>Boia o fantasma do Sono!</l>
+        </lg>
+        <lg>
+          <l>Cismando, tuas mãos frias</l>
+          <l>São duas asas esguias</l>
+          <l>Entorpecidas no queixo...</l>
+        </lg>
+        <lg>
+          <l>Ao vago som que proferes</l>
+          <l>Solto o meu beijo, e não queres!</l>
+          <l>Quando quiseres, não deixo!</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>MADAME</head>
+        <lg>
+          <l>É o teu sorriso uma aurora</l>
+          <l>De cristalino sonido;</l>
+          <l>A boca — figo partido,</l>
+          <l>Que mel e aroma dessora.</l>
+        </lg>
+        <lg>
+          <l>São teus olhares assombros</l>
+          <l>De incandescente Vesúvio:</l>
+          <l>Desatam sobre meus ombros</l>
+          <l>Lúcido e quente dilúvio.</l>
+        </lg>
+        <lg>
+          <l>São teus pezinhos o metro</l>
+          <l>Dos bazares do meu plectro,</l>
+          <l>Para medir sonetilhos;</l>
+        </lg>
+        <lg>
+          <l>E hás de calçar muitas vezes</l>
+          <l>Nesses dois mignons franceses</l>
+          <l>O borzeguim de teus filhos.</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>"BABY"</head>
+        <lg>
+          <l>Fina e loira como um talo</l>
+          <l>Do melhor trigo maduro;</l>
+          <l>Do azul celeste mais puro</l>
+          <l>São os olhos de quem falo.</l>
+        </lg>
+        <lg>
+          <l>Quero prismáticas bolhas</l>
+          <l>Para ideá-la, e não acho;</l>
+          <l>Titilações de riacho</l>
+          <l>Com rumorejo de folhas...</l>
+        </lg>
+        <lg>
+          <l>"Miss" delicada, e tão alva</l>
+          <l>Como um botão de limeira</l>
+          <l>Sobre uma folha de malva;</l>
+        </lg>
+        <lg>
+          <l>Risos francos de alvorada,</l>
+          <l>Presos à graça ligeira</l>
+          <l>De uma menina estouvada!</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>LULU'</head>
+        <lg>
+          <l>Da coma brilhante e fina</l>
+          <l>Descem-lhe cachos à testa;</l>
+          <l>Muito delgada e franzina,</l>
+          <l>Mais senhoril que modesta.</l>
+        </lg>
+        <lg>
+          <l>Ruidosa, alegre e traquina</l>
+          <l>Nas expansões de uma festa</l>
+          <l>Há sempre um quê de menina</l>
+          <l>Numa mulher como esta.</l>
+        </lg>
+        <lg>
+          <l>Paixão por flores e fitas;</l>
+          <l>Vem ao salão de visitas</l>
+          <l>Com um malmequer no decote.</l>
+        </lg>
+        <lg>
+          <l>E, para mostrar esse anjo</l>
+          <l>Que não dá corda a marmanjo,</l>
+          <l>Pregou ao noivo calote!</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>ZIZINHA</head>
+        <lg>
+          <l>Lembra uma flor indiana</l>
+          <l>De emanação capitosa;</l>
+          <l>Estranha e brava liana,</l>
+          <l>Bela, porém venenosa.</l>
+        </lg>
+        <lg>
+          <l>Ares e olhos de cigana,</l>
+          <l>Cor verde-mar sulfurosa,</l>
+          <l>De cujo foco espadana</l>
+          <l>Certa luz tempestuosa...</l>
+        </lg>
+        <lg>
+          <l>Polpuda e quase escarlate,</l>
+          <l>A boca — ninho de estrelas —</l>
+          <l>Realça em moreno mate;</l>
+        </lg>
+        <lg>
+          <l>É de, quando ao gênio ardente</l>
+          <l>Fulge o raio das procelas,</l>
+          <l>Fazer tremer toda gente</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>FACEIRA</head>
+        <lg>
+          <l>Não sei que magia existe</l>
+          <l>No rosto desta menina,</l>
+          <l>Pois tem no olhar meigo e triste</l>
+          <l>Uma expressão que fascina.</l>
+        </lg>
+        <lg>
+          <l>Nas suas faces persiste</l>
+          <l>A palidez da bonina,</l>
+          <l>Que, se a enchente resiste,</l>
+          <l>Torna-se branca e mofina.</l>
+        </lg>
+        <lg>
+          <l>Sacra beleza de um cântico;</l>
+          <l>Ar pensativo e romântico</l>
+          <l>E um certo quê de senhora...</l>
+        </lg>
+        <lg>
+          <l>Corpo mimoso, e trabalha!</l>
+          <l>Sorriso manso, e retalha!</l>
+          <l>Sofre, talvez, e não chora!</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>NENE</head>
+        <lg>
+          <l>Dia, em rosadas quermesses,</l>
+          <l>Rompendo no áureo horizonte,</l>
+          <l>Com cigarras pelas fontes</l>
+          <l>E passarinhos nas messes,</l>
+        </lg>
+        <lg>
+          <l>Dá que a boca virgem conte</l>
+          <l>Os bons conselhos e as preces</l>
+          <l>Com que, rezando, adormeces</l>
+          <l>A um beijo de mãe na fronte.</l>
+        </lg>
+        <lg>
+          <l>E não, oh! pomba travessa!</l>
+          <l>Histórias de namorados</l>
+          <l>Que te andam pela cabeça...</l>
+        </lg>
+        <lg>
+          <l>Mas és criança e não pecas:</l>
+          <l>— Vamos lá ver teus bordados,</l>
+          <l>Mostra-me as tuas bonecas!...</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>DUDU'</head>
+        <lg>
+          <l>Silfo que voa e revoa</l>
+          <l>Por cima das açucenas,</l>
+          <l>Iria-lhe as áureas penas</l>
+          <l>A luz do sol que se escoa...</l>
+        </lg>
+        <lg>
+          <l>São quatorze anos à toa!</l>
+          <l>Travessos — como falenas,</l>
+          <l>Viçosos — como verbenas,</l>
+          <l>Tranquilos — como lagoa.</l>
+        </lg>
+        <lg>
+          <l>Os olhos — de fogo e lua,</l>
+          <l>O corpo — de lírio branco,</l>
+          <l>A boca — de romã crua;</l>
+        </lg>
+        <lg>
+          <l>E ela sorrindo — ora, bravo!</l>
+          <l>Atira a bala no flanco</l>
+          <l>Do rei das flores, o cravo!</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>ANTONICA</head>
+        <lg>
+          <l>Na palidez doentia</l>
+          <l>Daquela face morena</l>
+          <l>Vê-se que o mal de um só dia</l>
+          <l>Toda uma vida condena.</l>
+        </lg>
+        <lg>
+          <l>Fronte elegante e serena,</l>
+          <l>Sem expressões de alegria:</l>
+          <l>Traços doces de Maria,</l>
+          <l>Com erros de Madalena.</l>
+        </lg>
+        <lg>
+          <l>Ilude. Se a noite tomba,</l>
+          <l>Tem essa pálida rosa</l>
+          <l>Retraimentos de pomba;</l>
+        </lg>
+        <lg>
+          <l>Quebrou o leque das asas</l>
+          <l>Numa queda dolorosa</l>
+          <l>Sobre um terreno de brasas!</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>MANA</head>
+        <lg>
+          <l>Pálido rosto, acusado</l>
+          <l>Na cabeleira opulenta,</l>
+          <l>Como um astro que rebenta</l>
+          <l>No firmamento nublado.</l>
+        </lg>
+        <lg>
+          <l>Olhar manso e sossegado,</l>
+          <l>— Vôo de pomba que assenta...</l>
+          <l>Boca trêmula e sedenta</l>
+          <l>Aberta ao riso engraçado.</l>
+        </lg>
+        <lg>
+          <l>Esguio tronco, elegante,</l>
+          <l>De palmeira triunfante</l>
+          <l>Nos arrebóis da manhã...</l>
+        </lg>
+        <lg>
+          <l>Salgueiro do teu jazigo,</l>
+          <l>Aqui plantei-me, e, comigo,</l>
+          <l>Muitas saudades, irmã!</l>
+        </lg>
+        <lg>
+          <l>O CANÁRIO</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>I</head>
+        <lg>
+          <l>Na choupana de um velho proletário,</l>
+          <l>Entre a ramagem múrmure e sombria</l>
+          <l rend="indent">De virente pomar,</l>
+          <l>Apresentando um rústico cenário:</l>
+          <l>Às vezes em fragrante eflorescência,</l>
+          <l rend="indent">Vistoso e a balouçar,</l>
+          <l rend="indent">Outras — de fruto</l>
+          <l>Os ramos a pender no solo bruto,</l>
+          <l>Como quem cai em lânguida dormência,</l>
+          <l rend="indent">Cantava todo o dia.</l>
+          <l>Um aflautado e trêmulo canário.</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>II</head>
+        <lg>
+          <l>Quem toma, acaso, a travessia curta</l>
+          <l>Daquele sitio, esmeraldino prado</l>
+          <l rend="indent">De rescendente murta</l>
+          <l>E bananeira agreste, que a fragrância</l>
+          <l rend="indent">Percebe-se a distância</l>
+          <l>Do cachopo escarlate e azul-ferrete,</l>
+          <l>Na ribanceira hirsuta, entre gungis,</l>
+          <l>Que marchetam selvático tapete,</l>
+          <l rend="indent">Escuta-o, embevecido,</l>
+          <l>Sentado ao cepo do indaiá partido</l>
+          <l rend="indent">Do ribeirão ao lado,</l>
+          <l rend="indent">E mais, mais retirado,</l>
+          <l>O barulho de ariscas juritis.</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>III</head>
+        <lg>
+          <l>No caminho há festões de escura sombra,</l>
+          <l rend="indent">Com mil flores em cacho;</l>
+          <l rend="indent">E a água do riacho,</l>
+          <l>Que à superfície é como um claro espelho,</l>
+          <l>Atravessando o leito do caminho</l>
+          <l>Vai se esconder nos côncavos da alfombra</l>
+          <l rend="indent">Da chácara do velho.</l>
+          <l>Tão mole escorre e rumoreja a fonte</l>
+          <l rend="indent">Por debaixo da ponte,</l>
+          <l>Que a descansar convida-nos baixinho...</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>IV</head>
+        <lg>
+          <l>Tão fresca que ela é! Tons anilados</l>
+          <l>Na profundeza escura e transparente</l>
+          <l rend="indent">Da múrmure corrente;</l>
+          <l>Uma pétala curva, a flor de lima,</l>
+          <l>A folha verde e limpa do arvoredo</l>
+          <l rend="indent">Em delíquio e brinquedo</l>
+          <l rend="indent">Escorregando vai... </l>
+          <l>É um barquinho frágil que se anima...</l>
+          <l rend="indent">Some-se! a gente espera:</l>
+          <l>Dentre a sombra fantástica dos matos</l>
+          <l rend="indent">A veia d’água sai,</l>
+          <l>A deslizar-se-lhe, outra vez, por cima,</l>
+          <l rend="indent">Talvez... uma quimera!</l>
+          <l>Talvez que a pluma branca, alva dos patos,</l>
+          <l>Como uma nuvem na azulada esfera!</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>V</head>
+        <lg>
+          <l>E é tempo. O caminheiro o ponche enrola,</l>
+          <l>Depois que, o sol medindo, se levanta</l>
+          <l>                Para seguir viagem.</l>
+          <l>                 Mas o canário canta</l>
+          <l>No grubapê flexível da gaiola</l>
+          <l rend="indent">Ao lado do oitão</l>
+          <l>Da Sombria choupana, alegre, entanto,</l>
+          <l>Por trás dos ramos da limeira — oculta,</l>
+          <l>Ao dote requebrar daquele canto,</l>
+          <l>— Silvestre idílio de uma letra inculta —</l>
+          <l>Mas filho e pai entendem-lhe a linguagem,</l>
+          <l rend="indent">Como a bradar — coragem!!</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>VI</head>
+        <lg>
+          <l>Tinha um filho pequeno o proletário.</l>
+          <l>Era o gentil e trêfego Joãozinho,</l>
+          <l>Fruto do seu amor. No seu caminho</l>
+          <l rend="indent">Da vida transitória</l>
+          <l>Achara uma consorte e, solitário,</l>
+          <l>Deitava luto em si, dela em memória.</l>
+          <l rend="indent">Agora viúvo e pobre,</l>
+          <l>E triste como um funerário dobre,</l>
+          <l>Ama o pequeno e dá-lhe bons conselhos,</l>
+          <l>Quando assentado o tem sobre os joelhos.</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>VII</head>
+        <lg>
+          <l>Mandava o filho de manhã à escola.</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>VIII</head>
+        <lg>
+          <l>O que a este entretinha era a gaiola,</l>
+          <l rend="indent">De grubapê e cana,</l>
+          <l>Dependurada ao caibro da choupana,</l>
+          <l>Onde cantava alegre o seu canário.</l>
+          <l rend="indent">Era um pássaro belo,</l>
+          <l>Pequenino, gentil todo amarelo!</l>
+          <l>Quando voltava do arraial, sozinho,</l>
+          <l rend="indent">Com o cajado ao ombro,</l>
+          <l>Sem mostras de temor, sequer de assombro,</l>
+          <l>Pelo deserto e rústico caminho;</l>
+          <l>Na bolsa os livros, o calçado à mão,</l>
+          <l>Calça ao joelho, em desafio ao chão,</l>
+          <l>Despida a jaquetinha, o peito aberto,</l>
+          <l rend="indent">Cantando uma cantiga</l>
+          <l rend="indent">De sertanejo e antiga</l>
+          <l>E do velho casebre já bem perto,</l>
+          <l>Conhecia o canário a voz do amigo</l>
+          <l>E punha-se a cantar, cantar, cantar,</l>
+          <l>Com a cabacinha junto do postigo...</l>
+          <l>O menino corria pressuroso,</l>
+          <l rend="indent">Mal chegava no lar,</l>
+          <l>Do seu canário à rústica prisão...</l>
+          <l>Nadava em pranto o carinhoso olhar!</l>
+          <l rend="indent">De júbilo, coitado!</l>
+          <l rend="indent">E acariciava-o tanto,</l>
+          <l>Que o passarinho transformava o canto</l>
+          <l>Em torrente de célere trinado!</l>
+        </lg>
+
+      </div>
+      <div type="poem">
+        <head>X</head>
+        <lg>
+          <l>Embora fronte branca e veneranda</l>
+          <l rend="indent">Do trêmulo ancião</l>
+          <l>Pousasse, acabrunhada, sobre a mão</l>
+          <l rend="indent">Trigueira e descarnada,</l>
+          <l rend="indent">Assim como quem anda</l>
+          <l>A imaginar a morte muito perto,</l>
+          <l>Ele sorria sempre, — rir incerto!</l>
+          <l>Dando ao semblante uma expressão, um brilho,</l>
+          <l>Como luz de relâmpago em sudário,</l>
+          <l>Ao infantil espírito do filho,</l>
+          <l>Ao requebro mavioso do canário!</l>
+          <l>Tanto que, se achava na gaiola</l>
+          <l rend="indent">Mudo e arrepiado,</l>
+          <l>Quando voltava do labor diário,</l>
+          <l>Ia chorar o velho na viola</l>
+          <l rend="indent">Um lânguido estribilho...</l>
+          <l>E o bom cantor erguia o bico aberto!</l>
+          <l>Melancólico, então, era o concerto!</l>
+        </lg>
+        <lg>
+          <l>                          ________</l>
+        </lg>
+        <lg>
+          <l rend="indent">Depois de uma orfandade,</l>
+          <l>De álgida e lutulenta viuvez,</l>
+          <l rend="indent">Estava a f'licidade,</l>
+          <l>A alegria do albergue solitário,</l>
+          <l>Do bom filho, do honrado proletário,</l>
+          <l>Em rústica prisão de grubapês.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

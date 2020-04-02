@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Sondagens Literárias</title>
+                                <author>Altino Flores</author>
+			</titleStmt>
+			<publicationStmt>
+				<p>Publication statement.</p>
+			</publicationStmt>
+			<sourceDesc>
+                          <bibl><title>Sondagens Literárias</title> de Altino Flores. Florianópolis: EDEME, 1973.</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+	
+	<front>
+	<div type="dedication">
+	      <opener>
+				  Ao Senhor Professor CELESTINO SACHET
+				</opener>
+
+				<p>Por cuja espontânea e cativante iniciativa este livrinho vem a lume sob o honorífico patrocínio da benemerente UNIVERSIDADE PARA O DESENVOLVIMENTO DO ESTADO DE SANTA CATARINA, — da qual é indefesso Reitor, — a minha perene gratidão.</p>
+
+				<closer>
+				O Autor
+				</closer>
+				</div>
+				
+				   
+
+<div type="preface">
+				<head>No limiar</head>
+
+			<p>Sempre nos pareceu mais decente e construtivo pôr em público a nossa opinião acerca de uma obra literária, do que depreciá-la, à puridade, no decurso de eventuais palestras, muito embora esse menoscabar quase nunca se origine de prevenção pessoal contra o Autor, ou vise à gratuita demolição do seu trabalho.</p>
+
+			<p>Sob tal critério foram redigidos os artigos que, há tempos, publicamos pelas colunas da <title>GAZETA</title>, de Florianópolis, apreciando livros de dois novos galhardos espíritos catarinenses: <name>Almiro Caldeira de Andrada</name>, autor da novela <title>ROCAMARANHA</title>, e <name>Osvaldo Ferreira de Melo</name> (filho), autor da <title>INTRODUÇÃO À HISTORIA DA LITERATURA CATARINENSE</title>. Desde então, evolveram de maneira notável esses dois escritores: aquele, dando-nos um romance que lhe está assegurando a ascensão à galeria dos maiores ficcionistas de <placeName>Santa Catarina</placeName>; o segundo, versando temas pedagógicos, com inegável perspicácia, o que lhe há de granjear, por fim, merecida autoridade.</p>
+
+			<p>Por estarem exclusivamente animados do leal desejo de retificar nomes, corrigir datas, deslindar problemas bibliográficos e pesar com justo peso conceituações críticas e históricas deparadas nas páginas daqueles autores, os nossos artigos, primeiramente redigidos, como dissemos, para volantes folhas de jornal, agora se corporificam (incluindo um inédito: TAUNAY E GAMA ROSA) na forma crivelmente mais vivedoura de livro, melhor correspondendo, segundo a nossa desambiciosa expectativa, à possível curiosidade dos que se interessam em conhecer as origens, a evolução e a validez efetiva da Cultura catarinense, a respeito da qual, nestes últimos anos, têm vindo a lume algumas monografias, de valores desiguais, é verdade, mas todas merecedoras de cordial atenção por parte dos estudiosos do assunto.</p>
+
+			<p>Modestíssimas são as figuras que, no alvorecer da vida sócio-cultural catarinense, — ou fosse por autêntica inclinação literária, embora canhestra, ou por meros impulsos de vaidade, — entenderam de poetar ou prosar pelas colunas da incipiente Imprensa local. Nem por isso deveremos sepultá-las em perpétuo olvido. Longe estão de se poderem apontar como inspiradores modelos de Arte literária; são, contudo, na selva obscura da <q>velha antiguidade</q>, os primevos rebentos das nossas provincianas Letras. Do ponto de vista seletivo e qualificativo, bem o sabemos, quatro ou seis palavras bastariam para situar cada qual no devido nível da escala de valores; ao invés disso, julgamos preferível enquadrá-las no seu meio e no seu tempo, — o que talvez nos possibilite conhecê-las melhor e aquilatar aproximativamente o de que teriam sido capazes de realizar se outras foram as conjunturas e condições da época e do ambiente em que lhes foi dado viver.</p>
+
+			<p>Com isso, apraz-nos imitar ao Mestre João Ribeiro, quando aludia ao <q>gosto de refluir à modéstia das fontes, mais do que à soberba dos grandes rios que estão a desaparecer no mar...</q> (<title>FLORESTA DE EXEMPLOS</title>, 2a. ed. pág. 5).</p>
+
+			<p>Se por acaso este livrinho cair em mãos não-catarinenses, tomem elas nota de que o topónimo <q>Desterro</q>, que amiúde surge em suas páginas, é a abreviação de <q>Nossa Senhora do Desterro</q>, antigo nome da capital de Santa Catarina.</p>
+
+			<p>A.F.</p>
+			</div>
+			</front>
+			
+		<body>
+<div type="chapter">
+
+
+				<head> Taunay e Gama da Rosa </head>
+
+
+			<p><q>...Em 1876, <name>Visconde de Taunay</name>, então Presidente da Província, publicava, com o pseudônimo de <name>Sílvio Dinarte</name>, em <title>O Despertador</title>, várias de suas <title>Histórias Brasileiras</title> e mesmo <title>Inocência</title>, em Folhetim... Em que pese o fato de ser literatura de primeira ordem ob <title>Inocência</title> — é de notar-se que a publicação de obras ao sabor romântico e escritas pelo Presidente da Província iria influir na orientação do gosto e no espírito da época. Teria assim Taunay contribuído indiretamente para atrasar o evento de novas ideias literárias em <placeName>Santa Catarina</placeName>. Aqui jamais se referiu a literatos nacionais ou portugueses que não fossem românticos — e os mestres do realismo estavam com grande parte de sua obra publicada. <placeName>Santa Catarina</placeName> teria que esperar a vinda de um novo Presidente para sentir em suas artérias injeções de novas coisas. E este surgiu em 1883. Era <name>Gama Rosa</name></q>.</p>
+
+			<p>Esse trecho, textualmente transcrito da pág. 78 da <title>Introdução à História da Literatura Catarinense</title>, do Sr. <name>Osvaldo de Melo</name> (filho), presta-se a discussão de vária natureza. Examinaremos apenas os seus lados crítico e histórico.</p>
+
+			<p>O Dr. <name>Alfredo d’Escragnolle Taunay</name> — militar, político, historiador, romancista — nasceu na cidade do <placeName>Rio de Janeiro</placeName> em 22 de fevereiro de 1843 e ali faleceu em 25 de janeiro de 1899. Tinha, portanto, pouco mais de trinta e três anos, quando assumiu o cargo de Presidente da Província de <placeName>Santa Catarina</placeName>, em 7 de junho de 1876; e deixou-o em 15 de novembro do mesmo ano.</p>
+
+			<p>As suas supracitadas obras, reproduzidas em folhetim por <title>O Despertador</title>, do <placeName>Desterro</placeName>, não era a primeira vez que viam a luz da publicidade. O romance <title>Inocência</title> andava em volume desde 1872, e as <title>Histórias Brasileiras</title> desde 1874. Com boa dose de razão, inclui o Sr. <name>Osvaldo de Melo</name> (filho) esses dois livros no rol dos de <q>sabor romântico</q>; e, embora reconhecendo ser <title>Inocência</title> <q>literatura de primeira ordem</q>, culpa Taunay de haver <q>contribuído indiretamente para atrasar o evento de novas ideias literárias em <placeName>Santa Catarina</placeName></q> pelo fato de o ter publicado em folhetim no Desterro.</p>
+
+			<p>Como autor, devia Taunay ter interesse em que se lhe comprassem os livros, e não em republicá-los espontânea e graciosamente nas gazetas. Lícito é supor que o jornal, querendo, <hi>indiretamente</hi>, lisonjeá-lo, lhe tivesse solicitado permissão para reproduzir-lhe as referidas obras em folhetim.</p>
+
+			<p>Porém, admitamos (para argumentar) que a reprodução de <title>Inocência</title> e <title>Histórias Brasileiras</title>, nas páginas de <title>O Despertador</title>, tenha sido iniciativa do próprio Taunay. Como poderia isso retardar o <q>evento</q> (aliás, advento) de <q>novas ideias literárias em Santa Catarina”?</q>...</p>
+
+			<p>Em 1856, <title>O Argos</title> publicara, de <name>Joaquim Manoel de Macedo</name>, também em folhetim, <title>O Moço Loiro</title> (que era de 1845); e<title> O Despertador</title> publicara, de <name>José de Alencar</name>, em 1866,  As <title>Minas de Prata</title> (que era de 1862, ou, melhor, de 1865). Sem dúvida, as <title>Histórias Brasileiras</title> são de mérito inferior ao de <title>Inocência</title>; mas <title>Inocência</title> está muito acima de <title>As Minas de Prata</title> e muitíssimo mais, ainda, de <title>O Moço Loiro</title>. Sem insistir em diferenças, digamos que tudo isso é Romantismo. Incontestável é, todavia, que o romance de Taunay, por mais de um aspecto, se distingue dos processos de Alencar e de Macedo.</p>
+
+			<p>Observa <name>Ronald de Carvalho</name> que, <q>com <title>Inocência</title>, começou a perder o romance de amor aquele sainete sentimental dos de Macedo. Taunay introduziu na fábula um elemento de moderação, desenhando as paixões com menos violência e as figuras com mais naturalidade do que era comum. Houve quem o tachasse, por isso, de pobre de imaginação e seco de estilo, sem levar em consideração que o artista conhecia a justa medida das coisas e evitava, portanto, as digressões campanudas, a parolagem e as empolas inúteis, de que costumavam servir-se os escritores nacionais, por índole derramados, como os portugueses</q> (<title>Pequena História da Literatura Brasileira</title>, 11ª. ed., pág. 260), Em louvor da verdade, porém, conviria assinalar a falta de concisão de certas passagens descritivas do romance de Taunay (Cf. <title>Manual de Estilo</title>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         , por José Oiticica, 5a. edição, págs. 42-44).</p>
+
+			<p><name>Heron de Alencar</name>, estudando a evolução da ficção romântica no Brasil, opina que Taunay pode ser considerado <q>romancista de transição entre o Romantismo e o Realismo</q>; e incisivamente frisa: <q>Da obra de ficção de Taunay foi <title>Inocência</title> o romance que ficou... E não se pode dizer que a posteridade está sendo injusta; ela não faz senão ratificar o julgamento dos contemporâneos do Autor, distinguindo o melhor dos romances desse escritor, aquele que lhe conferiu lugar na história literária como um dos marcos entre o Romantismo e o Realismo</q> (in <title>A Literatura no Brasil</title>, vol. I, tomo 2º, págs. 931 e 907, da 1ª. edição).</p>
+
+			<p>A mais longa apreciação, que conhecemos, formulada acerca de <title>Inocência</title> , e da autoria de <name>José Veríssimo</name>, e encontra-se nos seus prestimosos <title>Estudos de Literatura Brasileira</title> (2a. série, págs. 265-277). Talvez se considere excessivo o entusiasmo do grande crítico perante aquele livro, o que, entretanto, não invalidará a sua opinião, por todos os títulos, sempre respeitável.</p>
+
+			<p>Depois de aludir a <title>O Guarani</title> e <title>Iracema</title>, <q>livros igualmente apreciados pelos espíritos literários e pelo leitor ingênuo</q>, e que, junto com <title>Inocência</title>, <q>são os romances mais queridos do povo brasileiro</q>, diz-nos Veríssimo a respeito deste último: <q>E a representação, na sua máxima exação, do mundo e da vida real, qual ela existe e é vivida, em uma determinada região da terra brasileira. E um quadro realista, na mais pura acepção do Realismo na arte; um quadro, uma pintura de mestre, — que todos foram de fato realistas, — não uma fotografia. Não pertence a esse Naturalismo, aliás só pelos medíocres de todo realizado, que pretendia não fazer mais que reproduzir, estreita e servilmente, a vida e o mundo. E realista, repito, no melhor sentido do vocábulo</q>. Acentua Veríssimo que, <q>na época do seu aparecimento, era o romance de Taunay uma perfeita novidade em a nossa literatura, uma obra distinta, pouco parecida com o que então tínhamos</q>; e conclui, acrescentando que <title>Inocência</title> <q>viverá em a nossa Literatura pela emoção verdadeira, simples e sincera do seu drama; pela sua exatidão como quadro da nossa vida e da nossa paisagem; e, ainda, pela língua correta, que não é a da moda de um dia, mas que na sua mesma simplicidade tem a melhor defesa contra as variações do tempo e os caprichos das escolas e estilos literários</q>. O grande crítico sintetiza o seu juízo nesta expressão consagradora: <q>livro imortal</q>. Diria mais tarde <name>Afrânio Peixoto</name>: <q>... Esse livro honrará sempre a ficção nacional</q> (<title>Pepita</title>, pág. 232).</p>
+
+			<p>E então? Que concluir daí?</p>
+
+			<p>Débil foi sempre a vida cultural da Província barriga-verde. Sem embargo de lhe haver tentado esboçar a história literária, o talentoso ensaísta a ela se refere com um quase supercilioso desdém, pondo-lhe em relevo a <q>estagnação</q> (pág. 4), o <q>marasmo</q> (pág. 17 e 82) o <q>anacronismo</q> (pág. 74), os <q>lugares comuns</q> (pág. 79), etc. etc. Acontece que, em meio a essa pasmaceira crônica, surge um escritor que, <hi>esponte sua</hi> ou por solicitação de outrem, realiza a republicação, em folhetim, num jornal da terra, de um seu romance que era, na época, <q>uma perfeita novidade</q>. Poderemos nós, acaso, em sã justiça, afirmar que esse homem, com tal gesto, veio, — direta ou indiretamente, — <q>atrasar o evento das novas ideias literárias em Santa Catarina</q>, visto que, como escreve o Sr. Osvaldo de Melo (filho), <q>os mestres do realismo já estavam com grande parte da sua obra publicada?</q> . . . Mas, quem ousaria esperar que as tíbias Letras catarinenses acompanhassem, isocronamente, a triunfal ascensão das Letras francesas, p. ex., a ponto de poder-se exigir ou desejar que aqueles que na Ilha dos Patos pensassem em escrever romances, em 1876, o fizessem nos moldes realistas ou naturalistas de <name>Flaubert</name>, de <name>Zola</name>, de <name>Daudet</name>, dos <name>Goncourt</name> <foreign xml:lang="la">et caterva</foreign>? ... Ninguém!</p>
+
+			<p>Porque, como ponderou <name>José Veríssimo</name>, <q>ao contrário do que superficialmente se pensa, as influências intelectuais europeias nunca demoraram menos de vinte anos a se fazerem aqui sentir</q> (<title>História da Literatura Brasileira</title>, 1ª. ed., pág. 361). Aliás, o próprio Sr. <name>Osvaldo de Melo</name> (filho), em seu livro (pág. 104), reconhece mui acertadamente: <q>As escolas e os períodos literários não podem ser estudados, quer sob o fator tempo, quer sob o fator espaço, em linhas paralelas nas literaturas de todos os povos</q>.</p>
+
+			<p>Ora, pois: dadas as condições de atraso da vida literária catarinense no dealbar do último quartel oitocentista e reconhecidas as estimáveis qualidades do romance <title>Inocência</title>, não regatearemos louvores ao Presidente Taunay por o haver divulgado em folhetim na capital da Província; e nunca dos nuncas nos atreveríamos a inculpá-lo de, com tal gesto, haver entravado a evolução literária barriga-verde.</p>
+
+			<p>Assim não pensa o distinto autor da <title>Introdução à História da Literatura Catarinense</title>, quando taxativamente afirma: <q>Santa Catarina teria que esperar a vinda de um novo Presidente para sentir em suas artérias, injeções de novas coisas. E este surgiu em 1883. Era Gama Rosa</q>.</p>
+
+			<p> <foreign xml:lang="fr">Enfin Malherbe vint...</foreign> </p>
+
+			<p><name>Francisco Luís da Gama Rosa</name> nasceu em 6 de janeiro de 1851 na cidade gaúcha de <placeName>Uruguaiana</placeName>, havendo estudado, no <placeName>Desterro</placeName>, no antigo <title>Liceu Provincial</title> (extinto em 1864) e, posteriormente, no <q>Colégio do Santíssimo Salvador</q> (aberto na capital catarinense pelos padres jesuítas em 1865), tendo-se doutorado em Medicina, em 1876, na Faculdade do Rio de Janeiro. Contava cerca de trinta e dois anos e meio, quando foi nomeado Presidente da Província de Santa Catarina, assumindo o cargo em 29 de agosto de 1883.</p>
+
+			<p>Segundo diz o Sr. <name>Osvaldo de Melo</name> (filho), desolador se apresentava o panorama da época, sendo clamorosa a <q>pobreza intelectual</q> da terra catarinense, que <q>jazia estagnada</q>, pois muitos dos Presidentes o que até então haviam feito era terem-se <q>rodeado de bajuladores, politiqueiros</q> (loc. cit.).</p>
+
+			<p>Tão grave afirmativa está desacompanhada de provas e, por conseguinte, fica sem nenhum alcance. E certo que as nomeações dos governantes das Províncias ocorriam, em geral, sob influência político-partidária; mas não é menos certo que muitos deles foram cidadãos honrados e capazes, alguns, mesmo, apreciavelmente cultos e sinceros patriotas, desejosos de algo fazer em benefício da coletividade. O que acontecia é que os seus bons propósitos se desvaneciam, com frequência, quando se tratava de uma Província pequena, pobre e obscura, como, no caso, era <placeName>Santa Catarina</placeName>, órfã de recursos econômicos e financeiros e, talvez por isso, sem prestígio junto ao Poder Central, discricionário distribuidor de benefícios.</p>
+
+			<p>Fácil nos seria mencionar alguns deles, se não receássemos alargar ainda mais as dimensões, já excessivas, deste escrito. Citaremos, todavia, o próprio Dr. <name>Alfredo d’Escragnolle Taunay</name> — o mesmo que o inteligente autor da Introdução está propenso a considerar como entravador da cultura literária barriga-verde. Folheie-se o Relatório por ele apresentado ao Dr. <name>Hermínio Francisco do Espírito Santo</name>, Primeiro Vice-Presidente da Província, a quem passou a administração. A penúria dos cofres provinciais é o ponto fraco por ele amiúde salientado (págs. 35, 56, 59, 60, 63, 69, 82, 86, 93, 94, passim) ao defrontar-se com as necessidades mais urgentes da terra catarinense. A sua perspicácia não escapava o que tinha de fazer. Mas, onde estavam os meios de que se pudesse valer, nos curtos meses do seu governo? Sem embargo disso, vemo-lo preocupar-se com as colônias estrangeiras, visitando-as quase todas; vemo-lo inspecionar até modestíssimas escolas como as do <placeName>Rio Vermelho</placeName> e <placeName>Canasvieiras</placeName>, na Ilha, e as de <placeName>São José</placeName>, <placeName>Garopaba</placeName> e <placeName>Santa Isabel</placeName>, no continente, além de outras, mais distantes, como a de <placeName>Joinville</placeName>, dirigida pelo Padre <name>Carlos Boergerhausen</name>, que tinha sob seus cuidados (com a ajuda de alguns professores pagos do seu magro bolso) cerca de 300 alunos; vemo-lo examinar as condições das estradas, tendo sido um dos governantes que mais se bateram pela melhoria e conclusão da rodovia entre a capital e a cidade de <placeName>Lajes</placeName>; vemo-lo desvelar-se na extinção da pavorosa epidemia de febre amarela que flagelava a Ilha desde a administração anterior; vemo-lo auxiliar a Câmara Municipal do Desterro a melhorar o aspecto da cidade, conseguindo que todos os edifícios públicos e residências fossem caiados; vemo-lo rematar, para resguardo do que já estava feito, o monumento em memória dos catarinenses tombados na guerra do Paraguai, o qual, iniciado no governo do Dr. <name>João Tomé da Silva</name> (1873-75) e tendo ficado inconcluso por falta de verba, entrava já a esboroar-se sob as intempéries; vemo-lo promover o levantamento topográfico da cidade do <placeName>Desterro</placeName>, etc. etc. Porém, o assunto digno de servir para se avaliar o seu critério de governante e, sobretudo, a sua afeição à terra catarinense foi a crise sobrevinda à <q>questão de limites</q> com o <placeName>Paraná</placeName> e que já se arrastava há longos anos. Governava a vizinha Província o Dr. <name>Adolfo Lamenha Lins</name>. Os paranaenses, abusivamente, criaram uma <q>barreira</q> no sítio da <placeName>Encruzilhada</placeName>, na linha da então projetada <placeName>Estrada de Dona Francisca</placeName>, onde puseram um grupo armado para extorquir dos viajantes e tropeiros o pagamento de taxas fiscais, numa zona <q>já nem sequer contestável</q>. Resultaram daí vários incidentes que poderiam ter <q>até dado lugar a sanguinolentos conflitos</q>, se não fora o <q>procedimento conciliatório</q> do chefe do Governo catarinense e a intervenção do Governo imperial, a quem, oportunamente, aquele recorrera. Estalou a aludida crise do início da administração de Taunay, isto é, em junho de 1876, e prolongou-se até outubro do mesmo ano, em que <placeName>Santa Catarina</placeName> tivera de atravessar um dos mais acalorados pleitos eleitorais. Do Relatório de Taunay, constituído, ao todo, de 95 páginas, 30 delas são dedicadas à exposição do conflito de limites e recheadas de substanciosas demonstrações históricas e jurídicas em favor dos direitos de <placeName>Santa Catarina</placeName>, — provas essas que o arguto Conselheiro <name>Manoel da Silva Mafra</name> soube aproveitar na sua monumental <hi>Exposição Histórico-jurídica por Parte de Santa Catarina sobre a Questão de Limites com o Estado do Paraná</hi> (Imprensa Nacional, Rio de Janeiro, 1899). De modo que, só por isso, — quando por algo mais não fosse, — lhe devem os catarinenses perpétua gratidão.</p>
+
+			<p>E o Dr. <name>Gama Rosa</name>?</p>
+
+			<p>Leia-se a <hi>Fala</hi> por ele dirigida à Assembleia Legislativa em 5 de fevereiro de 1884 e ver-se-á o ponto a que pode chegar a quase inaptidão administrativa mal disfarçada pela pomposa fraseologia pseudocientífica. De início, declara que seria franco, porque a Escola, a que tinha a honra de pertencer, uma única preocupação alimentava: <q>o rigor científico</q>. Mas o <q>rigor científico</q> estava... apenas na terminologia pretensiosa, como: <q>influência étnica</q>, <q>atavismo</q>, <q>impetuosidade dos movimentos passionais</q>, <q>princípios sociológicos</q>, <q>mesologia</q>, <q>condições psíquicas</q>, <q>procedência étnica</q>, <q>plasticidade social</q>, <q>época de crítica científica</q>, <q>fórmula científica da sociologia</q>, <q>germes morbíferos</q>, e por aí fora... Industriosamente, visava tudo a realçar <q>o <hi>Spencerismo </hi>, a doutrina mais orgânica e adiantada do século</q>, a qual impunha <q>que as teorias metafísicas, que tão funesta influência exerceram no mundo, cessem, com a nova orientação dada à mentalidade humana, de atuar e perturbar a organização social hodierna</q>. O tópico relativo à Instrução Pública provincial começa então com este inesperado conceito: <q>Nenhuma doutrina perturbou mais consideravelmente a mentalidade universal do que a metafísica. Essa teoria, constituída por paradoxos, visa sempre ao ideal, refere-se a concepções abstratas, lançando-se resolutamente na prática, sem preocupações de resultados</q>.</p>
+
+			<p>Estamos daqui a imaginar a cara dos pobres deputados de 1884 diante dessa parolagem pseudofilosófica, cheirando-a candeia da véspera, <foreign xml:lang="fr"> pour épater le bourgeois </foreign>. Isso, para lardear a comunicação de que os professores primários, que ele encontrara com seis meses de vencimentos atrasados, já haviam recebido cinco; mas sugeria, em face da grande despesa com a Instrução provincial, fossem as escolas públicas transformadas em subvencionadas, e os mestres, “além do auxílio oficial, ficariam com o pleno direito de ensinar mediante retribuição”. E o filósofo administrador (ou administrador filósofo) não hesitava em afirmar que seria isso <q>um elemento novo e um valioso estímulo para a difusão do ensino</q>, sem se lembrar de que o Diretor da Instrução, no <hi>Anexo</hi> apensado à <hi>Fala</hi>, o havia advertido de que <hi>uma das causas que mais influíam para a pouca frequência de alunos nas escolas públicas era a falta de meios pecuniários de grande parte da população</hi>.</p>
+
+			<p>É incrível que um homem esclarecido e presumivelmente disposto a vitalizar a cultura de uma Província, cuja população escolar, em grande parte, não dispunha de meios pecuniários sequer para “frequentar” as aulas públicas, ousasse, sob a capa da Ciência, preconizar a transformação dessas escolas <hi>públicas</hi>, isto é, <hi>gratuitas</hi>, em escolas <hi>pagas</hi>! Ensino pago é ensino para <hi>elite</hi>. <hi>Elite</hi> é sempre minoria. E, como no tempo do Dr. Gama Rosa essa elite seria insignificantíssima em Santa Catarina, pode-se imaginar a que trevoso abismo de ignorância não seria lançada a restante massa da juventude catarinense, caso a ideia dele se tornasse realidade!</p>
+
+			<p>Desleal, porém, seríamos se, debaixo da luxuriosa terminologia técnico-filosófica do Presidente não reconhecêssemos a existência de algumas observações justas e algumas ideias corretas. Mas, se governar não é simplesmente filosofar e teorizar e doutrinar, subsiste o direito de perguntar — onde ficaram as realizações administrativas de alcance coletivo.</p>
+
+			<p>Diz-nos o Sr. <name>Osvaldo de Melo</name> (filho) que o Dr. <name>Gama Rosa</name>, ao chegar ao <placeName>Desterro</placeName>, procurou gente com quem conversar, e, <q>na impossibilidade de encontrar com quem aprender, procurou a quem ensinar</q>, pois, na terra catarinense, <q>tudo era atrasado, vivia-se em um mundo de ideias marginais ao pensamento evolucionista</q> (pág. 82).</p>
+
+			<p>Cremos que isso é mero frasear, porquanto o Governo central não nomearia um Presidente para Santa Catarina a fim de que procurasse gente com quem conversar e a quem revelar as novidades do <q>pensamento evolucionista</q>. Antes e acima de tudo, necessitava a pobre Província de administração honesta, laboriosa, eficiente. A cultura literária (e filosófica, pois <name>Gama Rosa</name> se tinha na conta de filósofo) viria, talvez, por acréscimo.</p>
+
+			<p>Vejamos, porém, que tipo de conversador era o <hi>Presidente</hi>. Diz-nos <title>O Conservador</title>, de 2 de outubro de 1884, que, viajando ele a bordo do vapor <q>São Lourenço</q>, a fim de visitar <q>as colônias</q>, pôs-se, durante a refeição, a criticar o povo catarinense, qualificando-o de <q>imoral, sem patriotismo, sem civismo, sem hombridade</q>; e, após, saindo da mesa, tendo-se falado em uma família respeitável desta capital, dissera coisas tão imorais, que o Comandante do vapor, que levava pessoa de sua família a bordo, viu-se na necessidade de observar-lhe que não podia continuar numa conversa tão indecente, porque as senhoras estavam escutando.</p>
+
+			<p>Mas prossigamos. De fato, encontrara o Dr. <name>Gama Rosa</name>, na capital catarinense, alguns moços de talento: <name>Virgílio dos Reis Várzea</name>, <name>Juvêncio de Araújo Figueiredo</name> (ou Figueredo, como, mais tarde, passou a assinar-se), <name>Manoel dos Santos Lostada</name>, <name>Horácio Serapião de Carvalho</name>... O primeiro, chamou-o ele para seu Oficial de Gabinete em 17 de dezembro de 1883, cargo que logo deixou para ocupar o de Promotor Público da comarca de <placeName>São José</placeName>, em 15 de fevereiro de 1884. <name>Santos Lostada</name> foi nomeado Contador e Partidor do Juízo do Município do Desterro, em dezembro de 1883; depois, Oficial de Gabinete da Presidência da Província, em 28 de fevereiro de 1884; e, finalmente, em 21 de maio do mesmo ano, Promotor da comarca de <placeName>Itajaí</placeName>.</p>
+
+			<p>Diante de informações registradas por <name>Nestor Vítor</name> e por outros repetidas, acreditamos até pouco tempo achar-se <name>Cruz e Sousa</name> incluído entre os rapazes que acolitavam o Presidente <name>Gama Rosa</name>, durante a sua permanência em <placeName>Santa Catarina</placeName>. Pesquisas posteriores, realizadas por <name>Henrique Fontes</name>, entretanto, vieram demonstrar que, naquela época, o futuro autor de <title>Broquéis</title> se encofitrava ausente do torrão natal, viajando pelo norte do <placeName>Brasil</placeName>, na qualidade de <q>ponto-secretário</q> ou simples <q>ponto</q> da companhia dirigida pelo autor e ator dramático <name>Francisco Moreira de Vasconcelos</name> (1859-1900) e que apresentava como <q>prodígio</q> a atrizinha <name>Julieta dos Santos</name> (n. em 1873- fal. em ?), por fim soçobrada na mais imprevisível mediocridade.</p>
+
+			<p>Teria o tão incensado <q>mecenado</q> de <name>Gama Rosa</name> espargido apenas aqueles <q>benefícios</q> entre os jovens beletristas; inclusive a impressão, a expensas suas, do livrinho de versos <hi>Traços Azuis</hi>, de Várzea? Nem sequer sabemos se <name>Horácio de Carvalho</name> foi contemplado com algum <q>favor</q>, como, tampouco, sabemos se, realmente, <name>Araújo Figueiredo</name> foi um dos caudatários do administrador-filósofo.</p>
+
+			<p>Infelizmente, o novo Presidente da Província, Dr. <name>José Lustosa da Cunha Paranaguá</name>, iria exonerar Várzea da Promotoria de São José, em 14 de fevereiro de 1885, como o Presidente Dr. <name>Francisco José da Rocha</name>, alcunhado de <hi>Bacalhau</hi>, faria depois com Lostada da Promotoria de Itajaí, em 1a de fevereiro de 1886.</p>
+
+			<p>Lostada, menos assomadiço, olhando já a humanidade com aquela paciente compreensão que, até o fim da vida, se tornara a marca superior do seu espírito, não se irritaria; Várzea, no entanto, como que se considerando espoliado, vibrou, pelas colunas de <title>O Moleque</title>, os mais atrevidos farpões contra o Presidente Paranaguá.</p>
+
+			<p>Na interessantíssima <q>Introdução</q> às <title>Obras Completas de Cruz e Sousa</title>, publicadas pela editora <q>Anuário do Brasil</q> (Rio de Janeiro, 1923-24), <name>Nestor Vítor</name> nos mostra <name>Gama Rosa</name> como <q>um Sócrates entre esses moços, dando-lhes orientação filosófica, científica e estética um tanto <hi><foreign xml:lang="la">sui generis</foreign></hi>, de acordo com a singularidade do seu espírito</q>; e, inculcando-o embora como <q>espírito superior</q>, discretamente o define como <q>criatura singular, um <hi>originalão</hi>, segundo se costuma dizer</q> (págs. 13-14).</p>
+
+			<p>O próprio <name>Virgílio Várzea</name> refere, nos dois prefácios à coletânea de artigos sobre <hi>Sociologia e Estética</hi>, de <name>Gama Rosa</name>, que este, sem embargo de possuir <q>saúde indomável, inacessível a irregularidades, alterações ou mudanças</q>, era uma individualidade de <q>hábitos singulares, os quais, especialmente na intimidade, se revelavam intensamente bizarros (isto é: <hi>extravagantes, excêntricos, caprichosos</hi> — na acepção francesa do termo), refratários a processos comuns</q> (pág. 12). Gostava de ter os jovens beletristas <q>perenemente ao seu lado, em Palácio, ou levando-os, em excursões, por toda parte</q> (pág. 20), — o que não deixaria de os envaidecer sobremaneira, digamo-lo a puridade. Desejaríamos saber o que fariam os rapazes se conhecessem este conselho de Alfieri: <q>Aos que ousam e podem fazer-se verdadeiros literatos, digo que sem mui grande quebra da sua arte não podem deixar-se proteger de quem quer que seja</q> (<hi>Tratado do Príncipe e das Letras</hi>, trad. rev. por A. P. de Figueiredo Jr., livro II, cap. I).</p>
+
+			<p>Cremos piamente que nas polêmicas literárias (mais xingamentos do que polêmicas) em que os <q>jovens</q> se envolveram com os <q>velhos</q> da capital catarinense, estava por trás dos <q>novos</q>, a aplaudi-los e incitá-los, o Excelentíssimo Senhor Presidente da Província, Doutor <name>Francisco Luís da Gama Rosa</name>, nomeado pela Carta Imperial de 11 de agosto de 1883. Assim, não poderia ser mais desmarcada a leviandade do “<hi>originalão</hi>”, como lhe chamou <name>Nestor Vítor</name>. Situados, hoje, a quase noventa anos de distância, é-nos impossível avaliar o escândalo que isso teria causado no estreito quadro social e político da velha capital. (Leia-se, a propósito:  <hi>O Franzino Poeta e o Latinista Quadragenário</hi>, por A. F., no <hi>“Anuário Catarinense”</hi> para 1948; e A <hi>"Ideia Nova”</hi>, de <hi><name>Cruz e Sousa</name> e <name>Virgílio Várzea</name></hi>, por <name>Élio Ballstaedt</name>, na revista “<hi>Sul</hi>”, de dezembro de 1954).</p>
+
+			<p>O ingênuo do Imperador a pensar que o Presidente por ele despachado para <placeName>Santa Catarina</placeName> estivesse absorvido na solução dos crônicos problemas da administração provincial, e este o que fazia era gazetear com três ou quatro rapazes atrás de si, por toda parte, mesmo dentro de Palácio (foi <name>Virgílio Várzea</name>, seu <q>discípulo</q>, quem o disse...), a encher-lhes as cabeças com as <q>novidades</q> do <q>Evolucionismo</q> e do <q>Naturalismo</q>, e a bater-lhes palmas, às escondidas, quando acontecia atritarem os <q>velhos</q> da terra por bagatelas literárias infladas do mais agressivo personalismo.</p>
+
+			<p>Se <name>Nestor Vítor</name> considera <name>Gama Rosa</name> uma espécie de <q>Sócrates</q> esquisitão, <name>Virgílio Várzea</name>, doutro lado, no-lo apresenta qual <q>filósofo peripatético da Hélade, aureolado por uma falange radiosa de discípulos</q>.</p>
+
+			<p>Tudo isso, porém, é imensamente vago... Em coisas de Arte e Filosofia, muito lícito e não menos lógico é esperar-se que os <q>discípulos</q> deixem transparecer, voluntária ou involuntariamente, em suas obras, a empreinte da influência exercida pelo <q>mestre</q> em seus espíritos. Porventura se verificou isso nos contos, nas novelas e nas páginas históricas de Várzea?</p>
+
+			<p>Não o cremos. Igualmente nos parece impossível vislumbrar qualquer influência do <q>filósofo</q> na poesia de tão místico lirismo de <name>Araújo Figueiredo</name>, ou nos curtos versos e na curta prosa de <name>Santos Losfada</name>, o qual, enquanto <name>Gama Rosa</name> batia e rebatia na tecla do <q>Evolucionismo</q> agnóstico, caminhava lenta, mas indesviavelmente, rumo ao Espiritualismo. O mesmo aconteceria depois a <name>Araújo Figueiredo</name>. Quanto a <name>Horácio de Carvalho</name>, também não consta fosse influenciado pelo <q>genial</q> <name>Gama Rosa</name>, a não ser nas presuntuosas alusões a <name>Darwin</name>, <name>Spencer</name>, <name>Hartmann</name>, <name>Haeckel</name>, etc. (ver <title>Jornal do Comércio</title>, do Desterro, de 9 de agosto de 1885) e no serôdio e confuso artigo sobre <hi>O Realismo Naturalista e a Nova Educação</hi> (em <title>O Dia</title>, de Florianópolis, de 11, 12 e 18 de maio de 1902).</p>
+
+			<p>Dificílimo será, portanto, demonstrar que a <q>genialidade</q> do autor de <hi>Sociologia e Estética</hi> haja deixado na modesta capital catarinense uma fecunda sementeira de ideias; enquanto que, pelo contrário, não custa crer que <title>Inocência</title>, republicado através das páginas de uma gazeta local, haja sensibilizado os corações de boa parte da gente desterrense e, consequentemente, avivado, se não o autêntico amor à Literatura, ao menos, possivelmente, o gosto da boa leitura, — o que já seria feliz caminho andado na formação de uma mentalidade menos ronceira, mais arejada, visto como a Beleza possui o condão de afinar os espíritos compreensivos sobre os quais se reflete.</p>
+
+			<p>Politicamente falando, que recordações deixou o <q>filósofo peripatético</q> da sua passagem pelo Governo catarinense? À falta de outro testemunho, aqui está o que dele disse, em discurso na Assembleia Legislativa, em 5 de agosto de 1886, o Deputado <name>Tomás de Oliveira</name>: — <q>Apenas são decorridos dois anos... que o então Presidente <name>Gama Rosa</name> mandou cercar este edifício por setenta e seis praças e, a ponta de baioneta, foi deste recinto arrancado o Deputado Senhor <name>Sousa Pinto</name>... Não ficaram aqui os desmandos daquele fatal administrador... Aquele Presidente era um maluco, e a prova temos que, tendo ele uma só cabeça, saía à rua com dois chapéus (<hi>Hilaridade</hi>). Não passava de uma figura de gafanhoto, que, amarrado pelos pés, pode - ria servir de brinquedo às crianças (<hi>Risos</hi>)... Era movido pelo Partido Liberal, assim como o vento faz subir e descer as pandorgas das crianças e que não têm consciência do elemento que lhes dá impulso</q>.</p>
+
+			<p>Voltando a referir-se a <name>Gama Rosa</name>, na sessão de 17 de agosto, o mesmo Deputado corajosamente afirmava que ele <q>esvaziou os cofres da Província a favor dos seus correligionários</q> (<title>O Conservador</title>, de 20-8-1886).</p>
+
+			<p>Se isso é verdade, devemos concordar que custou um pouquito caro a tentativa de <q>injetar novas coisas</q> nas veias da depauperada Província barriga-verde...</p>
+			
+			</div>
+
+		<div type="chapter">	
+		
+				<head>Delminda Silveira </head>
+		
+
+			<p>Ao referir-se a <name>Delminda Silveira</name>, o Sr. <name>Osvaldo de Melo (filho)</name> registou, à pág. 80 da <hi>Introdução à História da Literatura Catarinense</hi>, o ano do nascimento e o do falecimento da modestíssima poetisa como tendo sido, respectivamente, 1855 e 1932.</p>
+
+			<p>A data do falecimento é correta, podendo-se, contudo, completá-la assim: 10 de março de 1932; a do nascimento, porém, é errada, pois a autora de <hi>Lises e Martírios</hi> nasceu a 16 de outubro de 1854, conforme se poderá verificar a fls. 92, verso, do livro de assentamento de batismos, correspondente ao período de 1850-1858, existente no Arquivo Paroquial. Esta informação, devemo-la ao sobrinho e afilhado da poetisa, Des. <name>Alcibíades Valério Silveira de Sousa</name>, que, por seu turno, a obtivera do genealogista conterrâneo <name>Antônio Taulois de Mesquita</name>.</p>
+
+			<p><name>Delminda Silveira de Sousa</name>, filha de <name>José Silveira de Sousa Júnior</name> e <name>Caetana Xavier Pacheco Silveira</name>, viu a luz na capital catarinense. Era sobrinha do jurista Conselheiro <name>João Silveira de Sousa</name>. Estudou Francês, Latim e noções de Literatura com o Professor <name>Venceslau Bueno de Gouveia</name>, o qual, tendo nascido em <placeName>São Luís de Piraitinga</placeName> (S. Paulo) em 7 de agosto de 1844 e havendo cursado, apenas por algum tempo, o <q>Seminário de São José</q>, no <placeName>Rio de Janeiro</placeName>, veio residir em <placeName>Santa Catarina</placeName>, onde casou com <name>Maria Regina da Glória Lentz</name>, abraçando a carreira do magistério secundário e normal, que durante largos anos exerceu, tendo falecido em Florianópolis a 12 de janeiro 1919.</p>
+
+			<p>Católico sincero e também modesto cultor da Musa, instilou <name>Venceslau Bueno</name>, no espírito da sua discípula, os mesmos sentimentos de religião e de sonho.</p>
+
+			<p>Os versos de Delminda são repassados de um lirismo tíbio e vacilante e estão longe de ser modelos de versificação escorreita. Diz o Sr. <name>Osvaldo de Melo (filho)</name>: <q>Em sua primeira fase, a que no momento nos interessa, publicou uma série de composições líricas pela imprensa, que reuniu bem mais tarde, em 1908, num livro que se intitulou <hi>Lises e Martírios</hi></q>(pág. cit.)</p>
+
+			<p>Diante disso, brota-nos a curiosidade de perguntar: quantas <q>fases</q> distinguem o Autor nas produções poéticas de <name>Delminda Silveira</name>; e por que se interessou ele, <q>no momento</q>, somente pela <q>primeira fase</q>?</p>
+
+			<p>Acontece que a inspiração da Poetisa foi sempre a mesma: menos sentimental que intimista, e geralmente despida de originalidade, desde as rimas de <hi>Lises e Martírios</hi>; quis assumir feição supostamente didática e moralizante com o Cancioneiro (de que o Governador <name>Vidal Ramos</name>, por Decreto de 1914, mandou tirar, a expensas do Estado, uma edição de 500 exemplares); e revelou-se entranhadamente mística na plaqueta <hi>Passos Dolorosos</hi>, impressa em 1931 na Tipografia de Butzon e Bercker (Kevelaer - Renâmica).</p>
+
+			<p>Inculca ironicamente o distinto historiador das Letras catarinenses que <name>Delminda Silveira</name> <q>pretendeu que seus versos fossem ramalhetes coloridos</q>, tendo apenas conseguido, <q>às vezes, numa policromia de mau gosto, juntar uns murchos e cansados girassóis</q> (pág. cit.)</p>
+
+			<p>Ignoramos quando e onde manifestou a Poetisa semelhante pretensão. Uma coisa, porém, conviria estabelecer; isto é: desde o momento em que, traçando a <q>história</q> de uma literatura, nela incluímos um poeta do estalão de <name>Delminda Silveira</name>, deveríamos armar-nos da necessária complacência para olhá-lo compreensivamente, sem rudezas nem ironias depreciativas; ou ele merece figurar, tal como é, na galeria histórica, ou deve ser deixado no limbo das ingenuidades modestas e desambiciosas, que não receberam nem mesmo pleitearam o batismo da Fama.</p>
+
+			<p>Ainda estamos por descobrir que espécie de prazer experimentam certos talentos de curto fôlego, quando conseguem (ou julgam ter conseguido...) traduzir, na medida da sua capacidade expressional, as emoções que os inspiraram e ao mesmo tempo lhes despertaram o tímido desejo de comunicá-las ao próximo, sob forma literária, embora rudimentar, aspirando apenas a encontrar simpática ressonância entre as almas afins das suas,</p>
+
+			<p>Quanto a <name>Delminda Silveira</name>, o que acreditamos é que, reconhecendo sinceramente os débeis remígios do seu próprio lirismo, nunca pretendeu alcandorar-se aos altos cimos do Parnaso; e, por ter sido avaro para com ela o Amor, para sempre calou as mortas ilusões que porventura trazia sepultadas no coração, por imaginar que ressuscitá-las sob a forma de poemas seria o mesmo que desnudar-se perante curiosidades malsãs.</p>
+
+			<p>Recolhido, quase obscuro foi o seu viver. Desconheceu, voluntariamente, as vertiginosas galas da vida social. Não sabemos se outro livro de versos seus, que dizem ter deixado inédito sob o título de Indeléveis, poderia revelar-nos algo acerca dos seus mais recônditos sentimentos. Aliás, nem mesmo se conhece hoje o paradeiro desse manuscrito, que logo após a morte da Poetisa, foi confiado a <name>José Boiteux</name> (v. <title> A Pátria </title>, de Florianópolis, de 30-3-1932).</p>
+
+			<p>Espírito embebido da mais funda religiosidade, <name>Delminda Silveira</name> consagrou-se, na solitude, ao acrisolamento da sua fé; de modo que para ela deve ter sido celestial galardão o haver expirado em meio às solenes comemorações da Semana Santa.</p>
+
+			<p>*Em 9 de junho do corrente ano, (1963), publicamos, pelas colunas de <title>A Gazeta</title>, um artigo intitulado <hi>Delminda Silveira</hi>, no qual, a certa altura, declarávamos: <q>Não sabemos se outro livro de versos seus, que dizem ter deixado inédito sob o título de <title>Indeléveis</title>, poderia revelar-nos algo acerca dos seus mais recônditos sentimentos. Aliás, nem mesmo se conhece hoje o paradeiro desse manuscrito, que, logo após a morte da Poetisa, foi confiado a <name>José Boiteux</name> (v. <hi>A Pátria</hi>, de Florianópolis, de 30-3-1932)</q>.</p>
+
+			<p>Perto de dois meses depois, recebemos do distinto Amigo, Almirante <name>Lucas Boiteux</name>, residente na cidade do <placeName>Rio de Janeiro</placeName>, a seguinte carta, cuja publicação ora se faz, devidamente autorizada por aquele eminente Mestre da nossa História e cujo pensamento vive saudosamente preso ao seu torrão natal:</p>
+
+			<p>“Rio de Janeiro, 8 de agosto de 1963.</p>
+
+			<p>Prezado Amigo Professor Altino,</p>
+
+			<p>Saudações cordiais.</p>
+
+			<p>Minha sobrinha e afilhada Jurema Cavallazzi costuma enviar-me os jornais da terra: <hi>A Gazeta</hi> e <hi>O Estado</hi>. Nos últimos números recebidos do primeiro, encontrei dois (...) trabalhos do (...) conterrâneo: um sobre o historiador <name>Almeida Coelho</name>, patrono da cadeira que ocupo em a nossa Academia; este só alcançando a parte final. O outro: sobre a poetisa D. <name>Delminda Silveira de Sousa</name>, bem interessante. Nele o meu (...) patrício declara que o derradeiro livro de versos de D. Delminda fora entregue ao meu saudoso mano José.</p>
+
+			<p>Como é de ver, procurei, curioso, tirar a limpo o caso. De fato, entre os papéis e outros trabalhos deixados por meu irmão, encontrei dois cadernos cartonados e lavrados, um verde e outro vermelho, com as margens das folhas douradas e mostrando pelo título estampado na capa — Poésie — ser de procedência francesa. Foram oferecidos à Poetisa por <name>Margarida dos Santos Ferreira</name>, em <placeName>Florianópolis</placeName>, a 8 de novembro de 1909.</p>
+
+			<p>Nas primeiras páginas do caderno verde, em que se encontra a dedicatória, figuram alguns cromos e uma aquarela de amores-perfeitos, seguidos de uma composição, em prosa, de duas e meia páginas, sob o título <hi>Ave Maria</hi> (<q>excerto de uma carta</q> — ela declara), trazendo a data de 20 de setembro de 1907 e o número 154. Em seguida, Saudade, no alto de uma página em branco. Vem depois <title>Ecce Homo</title>, composição poética de oito quadras, com a data de 5 de abril de 1908 e o número 165. E, por fim, <hi>A Criança e a Borboleta</hi>, de doze estâncias de seis versos. As demais páginas, em branco.</p>
+
+			<p>O caderno vermelho apresenta algumas páginas ilustradas por pequenos desenhos a lápis e aquarelas executados pela Poetisa, e cinco ficções em prosa, e verso, sem títulos. E só...</p>
+
+			<p>Também encontrei um retrato de <name>Virgílio Várzea</name>, a ela oferecido, do <placeName>Rio de Janeiro</placeName>, a 7 de março de 1907, com a seguinte dedicatória: A ilustre poetisa D. <name>Delminda Silveira</name>, com profunda simpatia, admiração e estima (...)</p>
+
+			<p>Eis aqui, meu (...) confrade, lealmente descrito, o espólio literário de D. <name>Delminda Silveira</name>, herdado por meu muito saudoso mano, que procurara ser guarda carinhoso e vigilante das tradições da nossa santa terrinha.</p>
+
+			<p>Cordialmente,</p>
+
+			<p>(a) <hi><name>Lucas Alexandre Boiteux</name>”</hi>.</p>
+
+			<p>Por essa interessantíssima carta ficamos sabendo que os originais de <hi>Indeléveis</hi>, da poetisa catarinense, não foram encontrados entre os papéis deixados pelo saudoso conterrâneo <name>José Artur Boiteux</name>, apesar de <hi>A Pátria</hi>, de 30 de março de 1932, haver noticiado que a ele tinham sido confiados pelo Sr. <name>Célio Veiga</name>,<q>em nome da família Silveira de Sousa</q>. E <hi>A Pátria</hi> acrescentava este pormenor: <q>Sabemos ser pensamento do Sr. Desembargador <name>José Boiteux</name> reunir em volume o que ainda se encontra inédito, a fim de, oportunamente, apresentá-lo à comissão da <hi>Sociedade Literária Biblioteca Catarinense</hi>, encarregada da escolha das obras a serem editadas</q>.</p>
+
+			<p>Diante disso, é de supor que os inéditos da poetisa (inclusive <hi>Indeléveis</hi> hajam sido posteriormente submetidos ao juízo da aludida comissão para receber o indispensável <hi>imprimatur</hi>, e de lá nunca mais tivessem saído; mesmo porque a tal <hi>Biblioteca Catarinense</hi> publicou (ou, melhor: reeditorou) apenas a <hi> Memória
+		Política da Capitania de Santa Catarina</hi>, de <name>Paulo José Miguel de Brito</name> (em 1932), e, — como na cançoneta popular, — <q>deu um suspiro e depois morreu</q>...</p>
+		
+		</div>
+
+		<div type="chapter">
+
+			<head><q>Mais</q>, ou <q>menos</q> acadêmico...</head>
+
+			<p>Registando, em sua <title>Introdução à História da Literatura Catarinense</title>, a convalescença da valetudinária <q>casa de José Boiteux</q> (leia-se: <q>Academia Catarinense de Letras</q>), escreve o Sr. <name>Osvaldo de Melo (filho)</name> que ela <q>voltou a reunir-se, em 1938, para a recepção de quem, pela linguagem (sic) e pelas atitudes literárias (sic), foi o menos acadêmico dos seus membros, o lagunense Osvaldo R. Cabral</q>(pág. 126). Isso é dito a título de elogio.</p>
+
+			<p>Mas, — que <q>linguagem</q> e que <q>atitudes literárias</q> fazem (ou fizeram) desse distinto escritor o <q>menos acadêmico</q> dos Acadêmicos de Santa Catarina? ...</p>
+
+			<p>Dedicando-se, sobretudo, à investigação da nossa história regional, se não forjou S. Sa. para uso próprio, um estilo <hi>novo</hi>, também não achamboou a prosa à força dos calculados solecismos dos <q>modernistas</q>, os quais, espezinhando assim o Idioma, pimponamente julgam estar demonstrando originalidade e talento.</p>
+
+			<p>Na verdade, a História — matéria em que se aprimorou e é, sem favor, entre nós, uma das maiores autoridades, — a História, <foreign xml:lang="fr"> “science de raisonnement” </foreign>, — como lhe chamaram Langlois e Seignobos, — não se compadece muito bem com os arrebatamentos do prosador <q>artista</q>, a menos que este, pela alta emoção estética e profunda simpatia humana, a maneira de Michelet, seja, harmonicamente, <foreign xml:lang="fr">“trop historien pour n’être que poète et aussi trop poète pour n’être qu'historien”</foreign>, no conceito feliz de Demogeot (<title><foreign xml:lang="fr">Histoire de la litte'rature française</foreign></title>, 29a. ed. pág. 638).</p>
+
+			<p>Nem sempre escorreita é a escrita do Sr. <name>Osvaldo Cabral</name>, dirão alguns; mas é, — dizemos nós, — com toda a certeza, das mais vivas, das mais claras, das mais atraentes já brotadas de penas catarinenses.</p>
+
+			<p>Por todas essas razões, é justo que ele esteja a ocupar uma das quarenta cadeiras da nossa Academia, aonde foi levado, não à viva força, mas por legítima aspiração, por espontânea complacência própria. E quem assistiu à sessão em que foi festivamente recebido (17 de dezembro de 1938), deve, talvez, lembrar-se das seguintes passagens do seu discurso, naquele ato: — <q>Nunca supus, ao bater, tímido, às portas deste ilustre cenáculo, pudesse encontrá-las tapizadas de flores, abertas justamente para acolher a quem poucos méritos traz, embora portador de muitas esperanças, a quem, deslumbrado pela apoteose do momento, ainda menor se sente e se considera, e fica a indagar, intimamente desconfiado, se não é muito para o que fez, se não é excessivo para o que merece. Eu jamais suspeitei o esplendor deste momento, mas não posso deixar de externar o grande júbilo que me alcança o coração e a gratidão que me dilata o peito, pelo instante que vivo, pela grandiosidade desta noite, pelas portas descerradas e convidativas da vossa amizade — e bem quisera ser poeta capaz de dizer-vos o que sinto, em versos que fossem magníficos no metro e na rima... Entretanto, é mister que (...) vos diga que, já de longe, caminheiro empoeirado e sedento, mas avançando confiante, alcançava a minha vista o templo das vossas letras... Dentro do templo, compreendo a vastidão da responsabilidade que busquei... Dai-me um pouso em vossa Casa, o calor do vosso afeto e reparti comigo o pão da vossa amizade</q>.</p>
+
+			<p>Esses períodos, tecidos com os mais ricos fios da sedosa oratória academial, traduzem, demonstram, sonoramente proclamam a radiosa euforia com que o notável historiógrafo se incorporava no grêmio dos <q>imortais</q> barrigas-verdes. Tanto assim, que passou, logo e logo, a inscrever, à testa de apreciadas obras suas, por baixo do seu nome ilustre, o claro título de: <q>Membro da Academia Catarinense de Letras</q>.</p>
+
+			<p><q>Depois de vinte e dois anos de hibernação</q>, novamente reabriu as portas a <q>Academia</q>, em 21 de junho de 1960, para receber o Sr. <name>Nereu Corrêa de Sousa</name>. Apressou-se o Sr. <name>Osvaldo Cabral</name> em publicar um artigo no Estado do dia 26, para comentar o acontecimento. Disse ter sido solene e concorrida a sessão; mas desejava tivesse sido <q>soleníssima e concorridíssima</q>. Lamentou a ausência de <q>autoridades que devem prestigiar fatos como este</q>. E, como, durante a solenidade, mais de um assistente foi, <q>de fininho, dando o fora</q>, advertiu que tal procedimento <q>ê feio, não é cortês, nem coisa de pessoa educada</q>; porquanto, <q>reuniões solenes como estas não podem ser breves. São necessariamente formais, protocolares, cerimoniosas. São aulas de cultura e de aproximação social</q>.</p>
+
+			<p>Haverá conceitos mais acadêmicos do que esses? Não e renão! Por que, pois, se afoita o Sr. <name>Osvaldo de Melo (filho)</name> a pintar-nos o Sr. <name>Osvaldo Cabral</name> como <q>o menos acadêmico</q> dos Acadêmicos catarinenses? ... Será, pela ventura, porque o distinto <q>lagunense</q>, <q>quando estudante em Curitiba, por volta de 1925, inclusive, integrou um movimento antropofagista</q>? Não colhe tal explicação. Aquilo foram verduras da mocidade; pois, no dizer de <name>Jules Lemaître</name>, <q><foreign xml:lang="fr">il est naturel de bouillonner à vingt ans et de s’apaiser la quarantaine</foreign></q> (<title><foreign xml:lang="fr">Impressions de théâtre</foreign></title>, vol. X, pág. 116).</p>
+
+			<p>Passado o tempo, fácil e gostoso é reconhecer que não faz mal a Academia aos <hi>pró-antropófagos</hi>, nem aos seguidores da <hi>Anta</hi> de <name>Plínio Salgado</name> (sem ambiguidade...). Viram alguns desses acender-se-lhes com tamanha freima a vocação acadêmica, que não se contentaram em pertencer unicamente aos modestos cenáculos das suas respectivas províncias, e entraram a pedinchar votos com que eleger-se à <q>Casa de Machado de Assis</q>. Citamos: <name>Guilherme de Almeida</name>, <name>Menotti dei Picchia</name>, <name>Cassiano Ricardo</name>, <name>Manoel Bandeira</name> (cognominado o <q>São João Batista do Modernismo</q>) e <name>Alceu Amoroso Lima</name> — um dos que, literalmente, mais força fizeram em prol da nova literatura, pois foi ele quem, ajudado por <name>Augusto Frederico Schmidt</name>, carregou aos ombros (não em sentido figurado, mas em carne e osso) o autor de <title>Canaã</title>, ao finalizar-se a conferência deste, sobre O <title>Espírito Moderno</title>, na estrondosa sessão de 19 de junho de 1924 da Academia Brasileira de Letras.</p>
+
+			<p>E por aqui cerramos esta glosa.</p>
+
+			<p>Queira ou não queira o Sr. <name>Osvaldo de Melo (filho)</name>, foi e é o Sr. <name>Osvaldo Cabral</name> Acadêmico dos bons. E dos mais ilustres para honra da <q>Academia</q> catarinense.</p>
+			</div>
+			<div type="chapter">
+
+			<head> Influências de Camilo </head>
+
+			<p>À pág. 56 da sua atraente <title>Introdução à História da Literatura Catarinense</title>, lavrou o Sr. <name>Osvaldo de Melo (filho)</name> o seguinte asserto, que nos permitimos considerar indefensível: <q>...as obras do autor do <title>Amor de Perdição</title>... exerceram grande influência sobre os escritos juvenis da geração acadêmica de hoje</q>.</p>
+
+			<p>Se tal fato houvesse ocorrido, mesmo em larga escala, nenhum opróbrio haveria nisso, pois alguém não menor que <name>André Gide</name>, ousou fazer, de viva voz, perante seletíssimo auditório, não somente a apologia da influência, mas de todas as influências e, ainda, do influenciado. A certa altura, dizia ele: <q><foreign xml:lang="fr">Ceux qui craignent les influences et s’y dérobent font le tacite aveu de la pauvreté de leur âme. Rien de bien neuf en eux à découvrir, puisqu’ils ne veulent prêter la main à rien de ce qui peut guider leur découverte. Et s’is sont si peu soucieux de se retrouver des parents, c’est, je pense, qu’ils se pressentent fort mal apparentés</foreign></q> (Pretextes, pág. 20). </p>
+
+			<p>Continuemos.</p>
+
+			<p>Será difícil ao inteligente Autor discernir qual a geração acadêmica <hi>de hoje</hi> e qual a <hi>de ontem</hi>. Será a de hoje constituída dos Acadêmicos ultimamente <q>recebidos</q>, isto é: os Srs. <name>Almiro Caldeira de Andrada</name> e <name>Nereu Corrêa de Sousa</name>?</p>
+
+			<p>Se, porém, considera S. Sa. como <q>geração acadêmica de hoje</q> o conjunto dos Acadêmicos (fundadores, ou eleitos) que, vindos dos primeiros tempos da <q>Academia (ex-<q>Centro</q>) Catarinense de Letras</q>, teimam em conservar-se vivos (ao menos, biologicamente falando...), conviria que fosse, antes, aos livros, opúsculos, folhetos ou simples artigos por eles dados à publicidade, extraísse dessa mais ou menos delgada massa impressa algumas páginas, ou alguns períodos ou, mesmo, algumas frases, e, cotejando, em seguida, esse material com outras frases, ou períodos, ou páginas de <name>Camilo Castelo-Branco</name>, demonstrasse, conclusivamente, de que forma e em que medida os <q>imortais</q> da <placeName>Ilha dos Patos</placeName> foram influenciados pelo autor de Um Homem de Brios. Mas, não o fez. No entanto, como ponderava <name>Sílvio Romero</name>,<q>cada afirmação deve trazer na garupa o seu porquê, a sua prova ...</q> (<title>Hist. da Lit. Bras</title>., col. V, pág. 1.848)</p>
+
+			<p>Quanto a nós, particularmente, devemos confessar que, desde moço, apreciamos Camilo pelo que ele tem de lírico ou dramático, irônico ou sarcásmico; entretanto, em nossos gatafunhos literários, jamais tentamos imitá-lo, nessas facetas da sua arte inconfundível. Quanto à sua prosa, em verdade a considerávamos surpreendente pela riqueza vocabular e pela genial capacidade expressiva; mas, tais qualidades supernas, embora nos provocassem a mais ardente admiração, não nos suscitaram nunca a ambiciosa ideia de imitá-las. Do ponto de vista da vernaculidade, jamais deixamos de render culto ao <q>trágico homem de <name>São Miguel de Seide</name></q>, que Unamuno considerava, sem titubear, <foreign xml:lang="es">un novelista tan grande como los más grandes de Europa”</foreign> (<title>Ensayos</title>, vol. II, pág. 660), e que <name>Mário de Andrade</name> tachava de <q>padrão imortal da grosseria e desonestidade de espírito</q> (<title>O Empalhador de Passarinho </title>, 2a. ed., pág. 176).</p>
+
+			<p>Todavia, influências... Deixem-nos dizer que sempre alguns casos houve. Muitos? Não. No máximo, dois poderão apontar-se. Quais? Vejamo-los:</p>
+			
+			<p>Um é o Acadêmico Sr. <name>Luís Osvaldo Ferreira de Melo</name>, nosso estimado confrade, coração boníssimo, carinhoso chefe de família e — por sinal — pai do moço autor da Introdução que vimos apostilando. A essência das novelas de Camilo — nas quais turbilhonam amores tempestuosos, cálidas esperanças e lacrimosos desencantos, — esse substrato da novela camiliana — digamos — é que tocou a alma sensível e boa do autor de <title>O Heroísmo da Humildade</title> (<title>Imprensa Oficial</title>, Fpolis, 1926).</p>
+
+			<p>Quem já uma vez se embrenhou na exuberante novelística de Camilo, deve lembrar-se das personagens femininas que, por questões de família, ou preconceitos sociais exacerbados, ou amores errados e infelizes, foram violentamente internadas em conventos por furibundos pais ou parentes sem entranhas.</p>
+
+			<p>Aqui está uma cena do referido <title>Heroísmo da Humanidade</title> (pág. 39-40), traçado ao gosto de Camilo, e na qual o desembargador Rogério, enfurecido por a sua filha Esteia persistir no <q>namoro</q> com <name>Leo de Oliveira</name>, <q>moço pobre e honrado, modesto e senhor de grandes virtudes</q>, chama-a um dia à fala para lhe declarar, sem rodeios, haver resolvido enclaustrá-la:</p>
+
+			<p>"O magistrado estava debaixo de cólera intempestiva. Chamou a filha num berro e, sem importar-se com as recomendações e conselhos do médico sobre o estado de saúde da mulher, explodiu:</p>
+
+			<p>"— Amanhã, ouves? amanhã serás internada. Nada de explicações, nada de palavras inúteis! Proíbo-te que fales. Queres me matar? Não conseguirás. Nem tu nem o teu comparsa. Tenho aqui outra carta. Foste visitá-lo, aproveitando a minha ausência... Sai da minha presença e trata de te preparar. Amanhã serás internada. Internada, ouviste?</p>
+
+			<p>"Estela, a tremer, perturbada, não pronunciou palavra. Retirou-se para o quarto, onde encontrou a mãe, que, profundamente abalada pelo inesperado golpe, nem tivera forças para sair em seu socorro. Mãe e filha estreitaram-se num grande abraço, soluçando".</p>
+
+			<p>É o mesmo sentimental romancismo, o mesmo lirismo passional, tão encontradiço nas novelas camilianas.</p>
+
+			<p>Camilo carecia quase inteiramente do senso de objetividade artística, próprio dos mestres do Realismo. Vibrava uníssono com as paixões, os sofrimentos e as alegrias das suas personagens, quando não as envilecia pelo ridículo ou pela chalaça; cortava amiúde o fio da narrativa para emitir observações pessoais, revocar figuras já meio perdidas na trama novelesca, ou engranzar episódios deixados em suspenso.</p>
+			
+			<p>Em <title>Carlota Ângela</title> (2a. edição, pág. 62), lê-se: <q>A mais suave maledicência, querendo poupar a natureza humana às querelas e libelos da filosofia rixosa, diz que o homem é um mistério. A teologia cristã, para descarregar o Supremo Artífice do desaire da sua obra, diz que o homem é um ente degenerado da sua primitiva puridade. Em boa paz com teólogos e filósofos, a mim se me afigura que o homem é um composto de grandeza e pequenez, uma dualidade de gigante e pigmeu</q>.</p>
+
+			<p>E lê-se em <title>O Heroísmo da Humildade</title> (pág. 111): <q>Esta novela é uma dessas histórias de amor em que se estudam os mistérios da alma. Por ela se vê que o mundo é, de fato, uma escola de profundos ensinos, que a humanidade sofre porque erra. Que, errando, aprende para não sofrer. Não vejamos aqui, de novo, paradoxos... O certo é que Deus não teria criado a alma para sofrer. A dor é, pois, não uma necessidade, porém, uma consequência do mau uso que fazemos do nosso livre arbítrio</q>.</p>
+
+			<p>Note-se, entre parênteses, que não estamos confrontando <hi>ideias</hi>, ou <hi>opiniões</hi>, ou <hi>doutrinas</hi>; mas, sim, aproximando <hi>processos, técnicas, maneiras</hi>.</p>
+
+			<p>Vejamos, mais, o começo do capítulo XXV de <title>Coisas Espantosas </title>, de Camilo: <q>Tenha o leitor a condescendência de ir comigo a uma época trinta anos anterior àquela em que deixamos os viajantes em Genebra</q>.</p>
+
+			<p>E, agora, releiamos este período de <title>O Heroísmo da Humildade</title> (pág. 46): <q>Voltemos um pouco atrás para recompor, neste capítulo, as cenas que sucederam àquela a que assistimos há pouco</q>.</p>
+
+			<p>Como se vê, é notória, palpável a influência da técnica narrativa camiliana em <name>Luís Osvaldo Ferreira de Melo</name>.</p>
+
+			<p>Outro Acadêmico sobre o qual se exerceu a influência do autor da <title>Boêmia do Espírito</title> é o Sr. <name>Francisco Barreiros Filho</name>. Com este, porém, coisa diferente aconteceu. Desde os tempos de ginásio, distinguiu-se pelo gosto do Vernáculo e buscou assimilar, no decurso da sua evolução intelectual — sobretudo depois de se haver tomado catedrático de Português e Literatura, — aquelas qualidades que <name>Ramalho Ortigão</name> assinalou em Camilo: <q>O seu vocabulário é talvez o mais copioso que existe em escrita portuguesa. Os seus giros de locução, as suas cadências de frase, as suas formas sintáxicas, o equilíbrio e o ritmo da sua prosa têm a fluência, a harmonia a fluidez literária das obras magistrais</q> (<title>Quatro Grandes Figuras Literárias</title>, 3a. edição, pág. 166).</p>
+
+			<p>Mas, em matéria de <hi>estilo</hi>, não se fixou <name>Barreiros Filho</name> nas fórmulas clássicas, porquanto, como advertiu <name>Mário Barreto</name>, <q>hoje não pode preconizar-se a manutenção duma língua literária separada da fala vulgar. Aquela há de exercer contínua ação depuradora para assimilar os elementos de renovação e de conservação que oferece a linguagem popular, afastando as suas impurezas. A língua literária necessita da naturalidade e do colorido da vulgar, e esta, da disciplina literária</q> (<title>Através do Dicionário e da Gramática </title>, 2a. edição, pág. 90-91).</p>
+
+			<p>Na juventude, admirara ele a disciplinada opulência vocabular de <name>Coelho Neto</name> (cujos influxos parece transluzirem na página <hi>Deus</hi>, <hi>uma roseira</hi>...!), embevecera-se com as finas notações, tão poéticas, tão humanas, das <foreign xml:lang="fr">Lettres de mon moulin</foreign>, e deliciara-se com a graciosa malícia, tão discretamente psicológica, de <title>A Ilustre Casa de Ramires </title> (romance, a seu ver, da mais alta estima entre toda a produção eciana), sendo que, mui provavelmente, do autor brasileiro, como do autor luso, como do autor francês procederam o delicado, o harmonioso, o pinturesco da belíssima aquarela <title>Impressões de Imaruí</title> (reproduzida pelo Anuário Barriga-Verde para 1921, pág. 46). Enquanto isso (quer dizer: no que concerne à feição estética da sua prosa), paralelamente colhia em Camilo, não a sentimentalidade romântica ou romanesca, como fez <name>Luís Osvaldo Ferreira de Melo</name>, mas o cômico e o satírico e o burlesco de que veio a servir-se, mais tarde, a mancheias, nas suas faiscantes pegadilhas jornalísticas. Ainda hoje, quando fala nesse estádio da sua formação literária, recorda, recitando com fina verve, algumas das mais grutescas aventuras de <name>Basílio Fernandes Enxertado</name>, — daquele Basílio <q>primogênito e único</q>, que <q>nascera muito gordo e extraordinariamente volumoso. Tinha cabeça igual ao restante do corpo, e uns pés dignos pedestais do capitel da irregular coluna. Em quanto ao tamanho descomunal da cabeça, foi isto motivo para muitas alegrias em casa; no parecer daquela mãe ditosa, a grandeza da cabeça era sinal de juízo, e o tamanho das orelhas correlativas sinal de bom coração. O pai, como não tinha ideias suas acerca de orelhas, abundava nas de sua mulher, posto que de via certa soubesse que um mau vizinho da porta dissera que o seu Basílio era aleijado e sairia com orelhas de burro, se se demorasse mais três meses no ventre materno</q>. (O resto, que é o mais, lá está na risonha novela do Visconde de Correia Botelho...).</p>
+
+			<p>Pelo que levamos dito, vê-se quais foram os dois únicos Acadêmicos catarinenses em quem as influências do autor de <title>O Ôlho de Vidro </title>, indiscutivelmente, se exerceram: de modos diferentes, é verdade, mas reais. O que fora daí se quiser inculcar será o mesmo que <foreign xml:lang="fr">vouloir tirer de l’huile d’un mur...</foreign> </p>
+
+			<p>Vem a propósito esclarecer que <name>Barreiros Filho</name> não se abalançou nunca a entrechar um romance, nem sequer um singelo conto. Poeta parnasiano (por que não?) a quem se devem alguns dos mais perfeitos sonetos compostos por catarinenses (sem excetuar, sequer, <name>Luís Delfino</name>), é, também, um <q>prosador artista</q>em quase todos os raccourcis de Os Dias, que outrora dispersou por diversos jornais e revistas, excelindo nas já mencionadas <hi>Impressões de Imaruí</hi>, onde se evidencia a feliz escolha do termo, o achado do adjetivo, a imagem viva que evoca um ser ou uma paisagem, instantaneamente.</p>
+
+			<p>O que, com a sua vibrátil sensibilidade, melhor assimilou dos três autores dados como <hi>fundamentais</hi> para a sua formação artística, foi a cor, o relevo, o movimento, a sugestiva feição pinturesca, qualidades tão pessoais e tão vivas das suas breves páginas <hi>impressionistas</hi>, que, na realidade, não somam grande número, e, no entanto, pelo meticuloso afã com que eram corrigidas, retocadas, refundidas, representavam verdadeiro tormento para o seu espírito sequioso de perfeição. O que não é de estranhar, porquanto, como já o disse Rodó, <foreign xml:lang="es"> “la lucha dei estilo es una epopeya que tiene por campo de acción nuestra naturaleza íntima, las mas hondas profundidades de nuestro ser” </foreign> (<title>El mirador de Próspero</title>, pág. 54).</p>
+			</div>
+			
+			<div type="chapter">
+			
+			<head>O “poeta do brejo”</head>
+
+			<p>No tópico da sua <title>Introdução à História da Literatura Catarinense</title> alusivo a <name>Marcelino Antônio Dutra</name>, começa o Sr. <name>Osvaldo de Melo (filho)</name> por dizer: <q>Não sabemos com precisão o ano do nascimento de Marcelino Antônio Dutra. Mas é certo afirmar que veio à luz (...) nos últimos cinco anos do século XVIII</q> (pág. 43).</p>
+
+			<p>Lastimavelmente, nada menos certo do que essa afirmativa. A que se abordoou o talentoso Autor para enunciá-la com tamanha ênfase? Não sabemos.</p>
+
+			<p>Já pelo jornal <title>O Estado</title>, então de nossa propriedade, havíamos publicado um artigo, em 3 de abril de 1944, com informações biográficas relativas ao velho poeta e jornalista, pela primeira vez aparecidas em letra de imprensa, e no qual indicávamos a data exata do seu nascimento, isto é: 19 de junho de 1809. Encontramo-la a fls. 27 do livro aberto em 1-6-1807 para assentamentos de batizados da paróquia de N. Sa. da Lapa do Ribeirão, onde o futuro autor da <title>Assembleia das Aves</title> nasceu recebendo ali os <q>santos óleos</q> das mãos do vigário <name>Caetano de Araújo Figueiredo Mendonça Furtado</name>.</p>
+
+			<p>Foram seus avós paternos: <name>Manoel Dutra Fialho</name>, natural da Ilha do Pico, freguesia de São Mateus, e <name>Joana Maria de Freitas</name>, natural da Madeira, freguesia de São Vicente; e maternos: <name>Francisco Antônio Correia</name>, natural da Ilha do Faial, freguesia da Feteira, e <name>Francisca Rosa Joaquina</name>, natural da mesma ilha, freguesia de Nossa Senhora do Rosário. Foram seus pais o <name>Alferes Manoel Dutra Garcia</name> e <name>Joaquina Maria da Conceição</name>, ambos nascidos no Desterro.</p>
+
+			<p>Segundo asseverava o falecido Sr. <name>José Gonçalves da Silva</name>, — que por longos anos exerceu o cargo de escrivão-de-paz do distrito do Ribeirão e que referia tantas coisas interessantes, colhidas na correnteza da tradição, acerca de Marcelino, — foi do vigário daquela freguesia que este recebera as primeiras luzes do alfabeto. A grande poder de esforços e dedicação ao estudo, veio a ser professor primário, no sítio natal, a partir de 19 de agosto de 1832. Aspirando sempre ao maior polimento dos seus dotes intelectuais, passou a frequentar a <q>Escola Modelo</q>, criada no Desterro pela Lei n. 136, de 14-4-1840, conforme assinalou o Presidente da Província na Fala inaugural dos trabalhos da Assembleia Legislativa em 1844; e, em reconhecimento dos seus méritos, o Marechal Antero Ferreira de Brito transferiu-o para a <q>Primeira Escola Pública</q> da Capital, com o ordenado anual de Rs. 600$000, duplo do que percebia no Ribeirão.</p>
+
+			<p>Seu casamento com Florinda efetuou-se em 1840. Não nos furtaremos ao desejo de oferecer ao leitor o curiosíssimo registro desse matrimônio, que, de fls. 128 do livro de assentos de casamentos da Capela Curada de N. Sa. da Lapa do Ribeirão, aberto em 1-6-1807, passamos a transcrever, <foreign xml:lang="la">ipsis verbis, litteris et virgulis</foreign>: - MARCELINO E FLORINDA. - No dia Dezesseis de Agosto de mil oitocentos e quarenta aparecerão perante mim <name>Marcelino Antonio Dutra Solteiro</name> e Filho Legítimo do Capitão <name>Manoel Dutra Gracia</name> e de Dona <name>Joaquina Maria</name> natural e Batizado nesta Freguezia; e <name>Florinda Cândida de Freitas</name> Filha Legitima de <name>Antônio Luiz Ignácio da Costa</name> já Falecido e de <name>Claudiana Maria</name> Naturais e Batizados na Cidade do Desterro na Igreja Matriz e para receberem por Marido e Mulher, e sendo por mim proclamados em tres dias festivos na missa Conventual, e não havendo resultado nenhum empreedimento Canônico Administreles o Santo Sacramento do Matrimônio na Forma Ordenada pelo Santo Concilio Tredentino e Constituição do Bispado infacie e Clecie, e a presença Fisica de Duas Testemunhas desta Freguezia e Baixo a Signadas e para Constar mandei Fazer Este Termo q. assignei no mesmo dia. (ass.) Fr. ROMÃO LAPIDO. Testemunhas: Ignácio Glzs. e João da Costa Ortiga.</p>
+
+			<p>A função de professor e a frequentação da imprensa como versejador apreciado, deram-lhe certa notoriedade e ânimo para ingressar na política, alistando-se nas fileiras do Partido Liberal, cognominado <q>judeu</q>.</p>
+
+			<p>De simples eleitor, aventurou-se a candidatar-se a deputado provincial, aliás, com felicidade, chegando, mesmo, à presidência da Assembleia, em 1857, e a cujas sessões, dizíamos nós no citado artigo de 1944, <q>comparecia, depois de haver estado a vender no Mercado da cidade as abóboras ou as melancias ou os repolhos colhidos na sua chácara do Ribeirão, onde tinha uma casa com o telhado em meia-água e testeira muito erguida, pelo quê os vizinhos a apelidaram de <q>cachorro sentado</q>. Amou sempre o modesto povoado em que nascera. A terra merecia-lhe desvelos de curioso e de sabedor. Fizera diversas plantações experimentais, inclusive de algodão, de uma de cujas colheitas enviou amostra à Exposição realizada na Corte, tendo sido premiado. Por não nos alongarmos, apenas diremos que exerceu também os cargos de promotor da comarca de São José (1853) e da capital (1858-1868), de vereador da Câmara do Desterro (1856), e procurador fiscal da Fazenda Provincial (1868). Foi o primeiro a reconhecer, de público, o talento poético de Luís Delfino, que juvenilmente versejava sob o influxo do lirismo romântico então dominante. Ele mesmo tinha a sua Musa, e isso lhe valera, da parte dos invejosos e desafetos, a alcunha de Poeta do Brejo, a qual, longe de magoá-lo ou irritá- lo, foi, pelo contrário, gostosamente por ele adotada para subscrever as suas singelas rimas sentimentais, epigramáticas ou circunstanciais. Mas, não somente poetou, senão que também escreveu prosa, principalmente como jornalista político, meio humorista e satírico sob feição moralizante, algumas vezes sem grande inspiração ou maior alcance, porém, quase sempre, de maneira bastante característica, — sinal de que possuía inquestionável personalidade. Não foi impecável, sob muitos aspectos. Já dizia o Apóstolo Tiago, na sua breve mas formosa Epístola: <q>Tropeçamos em muitas coisas</q> (cap. III, vers. 2). Porém, os inimigos, na maior parte gratuitos, que em toda a vida teve, foram para com ele de encanzinada malevolência. Quase por obsessão, procuravam (sem o conseguir...) azoá-lo pela imprensa, em prosa, em verso, em charadas; e até, certa vez, num sábado de Aleluia, o dependuraram, in effigie, a um lampião de esquina. Se esse homem, de modestíssima origem, não tivesse valor próprio, acaso o apedrejariam assim, vesanicamente, os futricas da política e do jornalismo? . . . E quando a rocha é massuda e rija que mais esforços se fazem para britá-la e removê-la. Em pleno século XIX, Marcelino Antônio Dutra foi das figuras mais interessantes e inconfundíveis que agitaram a mentalidade catarinense. Mas, de raros, raríssimos, é conhecida a sua vida de labores e combates. Faleceu em 13 de julho de 1869 vitimado por câncer no estômago</q>.</p>
+
+			<p>Por largos anos andou ele às turras com o Arcipreste <name>Joaquim Gomes de Oliveira e Paiva</name>, já em porfias eleitoreiras, já em atritos de imprensa, muitos destes de feição estreitamente pessoal, sendo difícil dizer-se qual dos contendores era menos agressivo e mais intransigente. A essas divergências e implicâncias recíprocas dos dois vultos catarinenses se refere com justeza o Sr. <name>Osvaldo de Melo (filho)</name>, acrescentando outros curiosos pormenores, aliás, já do nosso conhecimento.</p>
+
+			<p>O poemeto <title>Assembleia das Aves</title>, timbre de Marcelino, foi impresso no Rio de Janeiro, como lenha destinada ao crepitante fogaréu das eleições provinciais marcadas para 7 de novembro de 1847.</p>
+
+			<p>Em suas <title>Notas para a História Catarinense</title> (pág. 359), diz-nos <name>Lucas Boiteux</name>: <q>A 2 de março de 1847, chegava do Rio, embarcado na corveta <q>Bertioga</q>, o candidato do partido judeu (<name>Jerônimo Francisco Coelho</name>). <name>Marcelino Dutra</name> fazia, então, distribuir o seu poemeto Assembleia das Aves, em que J. Coelho era denominado Cisne e o seu rival Quero-Quero. Os conservadores gastaram quarenta contos em preparativos para a luta. Fez-se a eleição. Jerônimo Coelho, após dez anos de poder, foi vencido, sendo eleito o seu contendor Dr. Livramento</q> (Joaquim Augusto do).</p>
+
+			<p>O poemeto, composto de quatro cantos, foi reeditado pela <q>Livraria Central</q>, de Florianópolis. No verso da folha de rosto consta: <q>Reimpresso em 1921, por iniciativa da Sociedade Catarinense de Letras</q>. Na verdade, a iniciativa foi de José Artur Boiteux, que discretamente se omitiu, transferindo-a àquela associação, de que era presidente e que, pouco tempo depois, se transformou na atual <q>Academia Catarinense de Letras</q>.</p>
+
+			<p>Não nos parece assistirem razões ao Sr. <name>Osvaldo de Melo (filho)</name> para afirmar que, na elaboração daquelas redondilhas, o poeta, sob a influência de <q>extemporâneo arcadismo</q>, quis seguir modelos clássicos e evidentemente se tornou ridículo. Em apoio à sua opinião, cita (pág. 45) as primeiras estrofes do canto inicial:</p>
+<lg>
+			<l>“Aos graus vinte sete e trinta</l> <l>Para o sul do Equador,</l>
+
+			<l>No mundo de que Colombo</l> <l>Foi feliz descobridor;</l>
+</lg><lg>
+			<l>Novecentas e setenta</l> <l>Léguas para o ocidente</l> <l>Do bretão meridiano</l> <l>(Se nauta regra não mente),</l>
+</lg><lg>
+			<l>Sítio jaz, que o mar se ufana</l>
+
+			<l>De assíduo em torno beijar,</l>
+
+			<l>Pleiteiam Zéfiros brandos</l> <l>O prazer de o bafejar”.</l>
+</lg>
+			<p><name>Marcelino Dutra</name> não foi poeta genial. Longe disso. Rimava modestamente, como todos os versejadores da sua terra no meado do século XIX. Distinguia-o certa viveza de sentimento e, sobretudo, chiste bastante com que humorizava pela imprensa, fazendo sorrir a sorumbática cidade.</p>
+
+			<p>A nosso ver, não caiu em ridículo o autor da Assembleia das Aves. O seu trabalho é algo burlesco, caricatural e, sobretudo, satírico. O próprio Sr. <name>Osvaldo de Melo (filho)</name> reconhece que aquilo é uma <q>crítica ao ambiente político da época</q> (pág. 44) com o fim de <q>satirizar o candidato adversário</q> (pág. 46). Se assim for (e, de fato é!), como, então, conciliar o espírito de crítica derrisória e sátira chocarreira com o formalismo clássico e o convencionalismo arcádico? </p>
+
+			<p>As quadras do intróito do canto primeiro, temperadas segundo o gosto quinhentista, foram assim condimentadas com apropositado fingimento paródico. Procurando situar a região cujas <q>aves</q> (deputados e políticos) se acham reunidos em <q>assembleia</q>, o <q>Poeta do Brejo</q> parodia (em diferente metro, é verdade), o modo como o Épico lusíada, em seu imortal poema, localiza a Europa (III, 6):</p>
+<lg>
+			<l>“Entre a Zona que o Cancro senhoreia,</l>
+			<l>Meta setentrional do Sol luzente,</l>
+			<l>E aquela que por fria se arreceia</l> 
+			<l>Tanto, como a do meio por ardente,</l>
+			<l>Jaz a soberba Europa, a quem rodeia</l> 
+			<l>Pela parte do Arcturo e do Ocidente</l> 
+			<l>Com suas salsas ondas o Oceano,</l>
+			<l>E pela Austral o mar Mediterrâneo".</l>
+</lg>
+			<p>Até o verbo jazer aparece nos versos de um e de outro.</p>
+
+			<p>As duas quadras que abrem o canto segundo são tecidas, pode-se dizer, com o mesmo vocabulário camoniano. Nem tem outro sabor a abertura do canto terceiro. Se <name>Luís de Camões</name> invocou as suas Inspiradoras (I, 4), nesta clave:</p>
+<lg>
+			<l>“E vós, Tágides minhas, pois criado</l>
+			<l>Tendes em mim um novo engenho ardente,</l>
+			<l>.....................................</l>
+			<l>Dai-me agora um som alto e sublimado”.</l>
+</lg>
+			<p>Marcelino, indo-lhe humoradamente na esteira, também invoca a dele próprio, assim:</p>
+<lg>
+			<l>“Musa amiga que, por vezes,</l>
+			<l>Nas minhas vicissitudes,</l>
+			<l>Mil endechas me inspiraste</l> 
+			<l>Saudosas, se bem que rudes,</l></lg>
+<lg>
+			<l>.......................................</l>
+			<l>Outorga-me, neste empenho,</l>
+			<l>Os teus encantos divinos”.</l>
+</lg>
+			<p>Fácil é perceber que o tom sublimado dessa invocação é puramente caricaturesco, pois o <q>empenho</q> do Poeta era apenas cantar as artimanhas das <q>gralhas</q>,<q>quero-queros</q> e outros <q>pássaros</q> mais ou menos deselegantes, em conflito com o <q>sábio cisne</q>, o <q>vistoso guará</q> <foreign xml:lang="la">et caterva...</foreign></p>
+
+			<p>Para finalizar estas considerações, lembremos que, cerca de quatrocentos e sessenta e quatro anos antes de se distribuir no Desterro a <title>Assembleia das Aves</title>, de <name>Marcelino Dutra</name>, escrevera Chaucer um poemeto em sevenline stanzes, com o mesmo título (<foreign xml:lang="en">Parlement of Fowles</foreign>), repassado de bem humorada graça, a propósito do adiamento das núpcias do Rei Ricardo II com Ana de Boêmia, irmã do Imperador Carlos IV. No entanto, em que pese à identidade dos títulos das duas composições, não nos sentimos inclinado a supor houvesse Marcelino conhecido jamais aqueles versos de Chaucer que o seu compatrício Edmond Gosse considera <q>o maior poeta da Idade Média, em toda a Europa</q>.</p>
+			</div>
+			
+			<div type="chapter">
+			
+			<head>Elisário Quintanilha</head>
+
+			<p>A propósito de <name>José Elisiário da Silva Quintanilha</name>, poeta e jornalista patrício que viveu e morreu na cidade do Desterro, assevera o Sr. <name>Osvaldo de Melo (filho)</name> que o <q>Romantismo em Santa Catarina (...) não teve sentido caracteristicamente nacional</q>.</p>
+
+			<p>Nem poderia tê-lo, — parece-nos. Foi sempre Santa Catarina uma província pobre, obscura, tardiamente povoada e, geralmente, com povoadores incultos. Nela não se assinalaram fortes correntes tradicionais que na sua formação cultural (íamos escrever: intelectual) imprimissem nítidos traços característicos.</p>
+
+			<p>Pode-se dizer que somente nos países de largo passado histórico, de enraizadas tradições, e que mais acentuadamente sentiam o impulso das ideias e choques emocionais da época — por melhor aparelhados estarem em matéria de civilização e cultura — é que o Romantismo assumiu formas e cores particulares.</p>
+
+			<p>Não questionemos, porém, sobre tão ponderoso tema, a respeito do qual têm corrido rios de tinta; pois, do contrário, seria um nunca acabar...</p>
+
+			<p>E, voltando a Quintanilha, apontemos dois erros constantes da pág. 58 da <title>Introdução da Literatura Catarinense</title>. Diz o Autor que o poeta dos <title>Lírios e Rosas</title> nasceu no Desterro em 1847. Não é exato. Abriu ele os olhos à luz na Província do Rio de Janeiro; e não em 1847, mas, sim, em 1845 (24 de maio). Tinha o mesmo nome do pai; e sua mãe, que fora professora primária na capital catarinense, chamava-se <name>Gertrudes Magna de Faria Quintanilha</name>, tendo sido jubilada em 24 de dezembro de 1869 com os vencimentos anuais de Rs. 497$500, visto contar 24 anos, 10 meses e 16 dias de serviço.</p>
+
+			<p>Em meado de 1860, estourou grande celeuma no Desterro, ante a denúncia de brutalidades praticadas contra alunos do <q>Liceu Provincial</q>. Quintanilha, que então contava quinze a nos de idade, estava ali matriculado. O diretor do estabelecimento era <name>João de Rosas Ribeiro de Almeida</name> (pai de <name>Oscar Rosas</name>). Não consta, porém, que o futuro poeta houvesse sido vítima de sevícias pretensamente disciplinares.</p>
+
+			<p>Poucos anos depois, publicaria Quintanilha o seu livro de poesias. De fato, em 22 de janeiro de 1864, o jornal desterrense Despertador anunciava: <q>LIRIOS E ROSAS, versos de José Elisiário da Silva Quintanilha. — Acham-se à venda, em casa do autor, Rua da Conceição n. 5, alguns exemplares, pelo preço de Rs. 2$500 cada um. Os senhores assinantes, que ainda não receberam os seus exemplares, podem dirigir-se a casa mencionada, bem como aqueles que desejarem satisfazer a sua importância</q>. A rua, outrora, da Conceição, tem hoje o nome de Saldanha Marinho.</p>
+
+			<p>Apressou-se o jovem poeta em remeter um exemplar do seu primeiro (e único) livro (possivelmente com lisonjeadora dedicatória) a <name>Luís Delfino</name>, que, já então residindo na cidade do Rio de Janeiro, lho agradeceu em longa carta datada de 19 de janeiro de 1864 e logo divulgada pelas colunas do Mercantil, do Desterro.</p>
+
+			<p>Nessa folhuda epístola leem-se tópicos neste diapasão:</p>
+			
+			<p><q>Há pouco, venho de receber a oferta, que me fizestes, do vosso livro de poesia. Agradeço-vos desde já a dupla cadeia com que me prendestes ao carro dos vossos primeiros triunfos. Agradeço-vos o livro e agradeço-vos as palavras com que acompanhais o livro. E belo o talento generoso: das rosas e dos louros, que colhe, sabe lançar folhas a esmo: uma delas tocou-me a fronte. Agradeço-vos, de novo, mancebo.</q></p>
+
+			<p><q>Há na carne palpitante e tépida de vossos primeiros versos, audácia de um sangue rico e juvenil. A vossa imaginação, criada vigorosa como as águias, tem-se nutrido de montanhas, tragado oceanos, devorado sóis, e tem-se estendido sobre florestas de verdura eterna, aos beijos com as primaveras, na atmosfera inebriante da primeira mocidade.</q></p>
+
+			<p><q>Eu vos saúdo, belo gênio nascente. Doce aluno das Musas, entraste na magnífica estrada, que se desenrola sempre à sombra de loureiros: há na estrema, que a limita, um grande pórtico: — o da posteridade ...</q></p>
+
+			<p>E derrama-se o signatário — <q>Dr. Luís Delfino dos Santos</q> — em hipérboles bombásticas, em expressões imprecisas e incongruentes, aludindo aos mares do Brasil que se volvem e revolvem milhões de vezes; e, apostrofando Homero, vales e montanhas, de cambulhada, assim termina:</p>
+
+			<p><q>Cantai. Os vossos cantos sejam flores que levem na onda dos voluptuosos perfumes de suas harmonias, não o veneno das prostituídas mesas dos Césares, mas a santa doutrina da regeneração dos povos pelo trabalho, pela ciência e pela liberdade</q>.</p>
+
+			<p><q>Adeus, meu amigo. Aperto-vos a mão e felicito o país que tão cedo começa a ser honrado por tão generosos labores</q>.</p>
+
+			<p>Era Quintanilha um tipo singular, pelas esquisitices que o caracterizavam. <name>Alfredo da Costa e Albuquerque</name> esboçou-lhe assim o retrato: <q>...Era magro e de estatura mediana. Tinha a fronte larga e proeminente, os cabelos compridos e ondeados, o nariz aquilino, os olhos lânguidos e amortecidos, a boca entreaberta por um sorriso de descrença</q>; esses traços, em conjunto, revelavam <q>suave melancolia</q>, que, no entanto, deixava transparecer, <q>muitas vezes, as nobres paixões da sua alma</q>.</p>
+
+			<p>Aos dezoito anos era já <q>o líder de uma mocidade que, com a fronte incendida ao fogo da Poesia, ensaiava os seus primeiros passos no estádio das Letras</q>.</p>
+
+			<p>O Dr. Duarte Paranhos Schutel, que foi seu amigo e correligionário nas fileiras do Partido Liberal, diz que <q>Quintanilha era rebelde, no seu modo de viver, a tudo quanto fosse ordem, método, regularidade... Vestia no inverno o que usava no verão, e assim andava à chuva como ao sol e aos ventos... e... parecia haver habituado o corpo a certa insensibilidade que o tornava indiferente às intempéries tão acentuadas em nosso clima</q>. O convívio das rodas elegantes e das reuniões sociais era-lhe penoso; por isso o evitava. Porém, <q>nos clubes e sociedades de Letras, em reuniões e festas populares, nos comícios dos partidos políticos, Quintanilha não deixava vazio o seu lugar; ao passo que ninguém o viu em bailes e saraus, nem frequentando salões, onde mal assentaria aquele espírito mordaz e franco e insubordinado. Por isso, andava quase sempre só, tendo poucos companheiros, que eram os seus mais íntimos amigos, aqueles que lhe toleravam as esquisitices. De ordinário pouco dormia e para o sono aproveitava algumas horas do dia, sobretudo pela manhã, velando a noite toda, ora no trabalho, ora em longos passeios</q>. Parca era a sua alimentação, que se compunha quase exclusivamnete de doces; mas bebia café em excesso. Acrescenta o Dr. Paranhos Schutel: <q>Quintanilha vivia em inexplicáveis contrastes. As mais altas e majestosas manifestações da inteligência lhe arrebatavam o pensamento, do mesmo modo que o prendiam as mais singelas e inocentes rudezas do instinto e da ignorância. Uma vez, no seio de sua pobre família, enquanto sua velha mãe lia as Peregrinações de Femão Mendes, em um antigo alfarrábio que eu lhe emprestara, ao lado de sua irmã que repetia alto as <hi>Legendas</hi> (sic) de <name>Vitor Hugo</name>, encontrei Quintanilha debruçado sobre um banco da escola</q> (de que sua mãe era professora), <q>brincando com soldadinhos de chumbo</q>.</p>
+
+			<p>Tinha, às vezes, prevenções incompreensíveis. Quando <name>Veridiano dos Santos Carvalho</name>, em 1864, lhe ofereceu um exemplar dos seus <hi>Sonhos Poéticos</hi>, Quintanilha, não se sabe por quê, viu nesse oferecimento uma perfídia, e desforrou-se, fazendo, pela imprensa, a necropsia do livrinho anêmico...</p>
+
+			<p>Contava cerca de vinte anos, quando, arrebatado pelo brio patriótico que inflamou tantos moços ao explodir a guerra contra <name>Solano Lopez</name>, alistou-se no 92 Batalhão de Voluntários da Pátria e para o teatro da luta seguiu, no posto de tenente. Sua intrépida decisão foi decantada nas colunas dos jornais por versos de <name>Manoel Bernardino Augusto Varela</name> (afilhado do <name>Arcipreste Paiya</name>) e <name>Eliseu Guilherme da Silva</name>, sendo que os deste último, que jamais vimos citado como poeta, revelam, entretanto, mais correção, mais fluidez, mais sentimento do que os de muitos versejadores do seu tempo. E verdade que lá numa sextilha, aliás bem construída, faz rimar aportuguesadamente <q>mãe</q> e <q>contém</q>:</p>
+<lg>
+			<l>“Marchou, deixando, saudoso,</l>
+			<l>O pátrio torrão ditoso</l>
+			<l>Que seus bens todos contém:</l>
+			<l>Delícias, afetos magos,</l>
+			<l>As carícias, os afagos</l>
+			<l>Da mais extremosa mãe”.</l>
+</lg>
+			<p>O resultado dessa belicosa aventura foi ter de regressar à capital catarinense, um ano depois, com o organismo combalido pelas febres dos pantanais paraguaios.</p>
+
+			<p>Fervoroso admirador da Imprensa, antes de se fazer jornalista começou por praticar o oficio de tipógrafo, em que veio a ser exímio operário. Em <title>Os Partidos Políticos de Santa Catarina</title>, disse dele <name>José Boiteux</name>: <q>...Não desdenhando os tipos dos caixotins, compunha, sem originais, artigos admiráveis para as diversas secções de que se encarregara. Singular jornalista esse, que teria necessidade de copiar o que imprimia, se quisesse conservar, com a própria letra, o que compunha</q>.</p>
+
+			<p>O jornal Mercantil, que tivera por <q>editor</q> <name>João Ribeiro Marques</name> e cuja tipografia pertencia a <name>Joaquim Augusto do Livramento</name>, foi arrendado a ele e a <name>Francisco Vicente Ávila</name>, a partir de 16 de agosto de 1867. Conseguia, assim, Quintanilha uma trincheira para a brava luta <q>liberal</q> e <q>democrática</q>, de que foi estrénuo paladim. O mesmo ardor combativo demonstrou, quando, um pouco mais tarde, redigiu a <title>Regeneração</title>.</p>
+
+			<p>Criatura cheia de contradições temperamentais! São ainda do Dr. Schutel estas palavras: <q>A existência desse poeta foi um complexo de extravagâncias e infortúnios. Ninguém lhe entendia as impertinências e a caprichosa vontade, que com leviano descuido se tacharia de mania. Aquele azedume de caráter, aquele cismar distraído e sonolento, esse passear solitário e impaciente, essas insônias, essas cóleras, o delírio, os risos, a morte... não os compreendeu o mundo, que não lhe podia ler na alma o que lá se abafava de dores e desventuras</q>.</p>
+
+			<p>A chave desse sombrio enigma deve estar, possivelmente, na paixão que nutriu por certa jovem (cujo nome não chegou ao nosso conhecimento), em quem se casava a formosura do corpo às espirituais <q>seduções da Música, das Letras e da Pintura</q> — uma figurinha da alta sociedade desterrense, enobrecida apenas pela educação prendada e a ilusória aristocracia do Dinheiro. Enfeitiçado pelos seus encantos, Quintanilha, <q>naquela loucura</q>, segundo informa o Dr. Schutel, <q>não pensava na sua pobreza e sua mesquinha posição nesse mundo exigente e vaidoso que o havia de repelir com desprezo e orgulho</q>. Não tardaram os <q>golpes do cruel desengano</q>. A princípio, revoltou-se, desesperado, o Poeta; mas, em seguida, escondendo a ferida que se lhe rasgara no coração, assentou de afrontar a vida,<q>cantando e rindo</q>, qual “sombra sarcástica” a <q>caminho do aniquilamento</q>;<q>sorria o lábio, a fronte se enrugava, amortecia o olhar, e a palidez crescia e se consumia o corpo, e só o espírito, a força interna, lhe sustinha o organismo, que se consumia</q>.</p>
+
+			<p>Romântico que era, cremos ter sido o amor frustrado que para sempre lhe envenenou a existência. Talvez ele repetisse com Bécquer:</p>
+<lg>
+			<l><foreign xml:lang="es">"Como se arranca el hierro de una ferida,</foreign></l> <l><foreign xml:lang="es">su amor de las entranas me arranqué ,</foreign></l><l><foreign xml:lang="es"> aunque senti al hacerlo que la vida</foreign></l><l><foreign xml:lang="es">    me arrancaba con él”</foreign>.</l>
+</lg>
+			<p>Afinal, veio a morte buscá-lo, ainda moço, aos trinta-e-dois anos de idade, na madrugada de 28 de outubro de 1877 (e não de novembro, como equivocadamente registrou Mestre Lucas Boiteux nas <hi>Efemérides</hi> Catarinenses).</p>
+			
+			</div>
+			<div type="chapter">
+			
+			<head>Almeida Coelho e a "memória histórica"</head>
+
+			<p>Segundo informa o genealogista conterrâneo <name>Antônio Taulois de Mesquita</name>, os pais do Major <name>Manoel Joaquim de Almeida Coelho</name> foram: o Brigadeiro <name>Manoel Coelho Rodrigues</name> (n. 1755 — f. 1833) e <name>Laureana Joaquina de Almeida</name> (f. 1876).</p>
+
+			<p>O Sr. <name>Osvaldo de Melo (filho)</name>, autor da <title>Introdução à História da Literatura Catarinense</title>, indicando, na pág. 57, o local e as datas do nascimento e morte do Major <name>Almeida Coelho</name>, o fez da seguinte forma: <q>(Desterro, 1792-1880)</q>. O ano do nascimento do cronista da <title>Memória Histórica da Província de Santa Catarina</title> está certo, podendo-se, todavia, completar assim a data: 9 de novembro de 1792. Mas, errado está o ano da morte, porquanto não foi em 1880 que ele expirou.</p>
+
+			<p>Mestre <name>Lucas Boiteux</name>, em suas <title>Efemérides Catarinenses</title>, registrou por duas vezes o falecimento do historiógrafo provinciano: em 27 de fevereiro de 1871 e em 23 de maio de 1864. Duplo equívoco. Pois, a data exata do trespasse do autor da Memória Histórica é: 26 de fevereiro de 1871.</p>
+
+			<p>Nos necrológios publicados pelos jornais da época, encontramos cabal confirmação disso.</p>
+
+			<p><title>O Despertador</title>, de 28 de fevereiro de 1871, noticiou:<q>FALECIMENTOS. — No dia 23 do corrente faleceu e sepultou-se o Sr. <name>José Silveira de Sousa</name>, e anteontem</q> (portanto, a 26), <q>o Sr. Major reformado <name>Manoel Joaquim de Almeida Coelho</name>, ambos em idade bastante avançada. Os finados sempre deram provas de prestantes cidadãos e excelentes pais de família ...</q></p>
+
+			<p><title>A Província</title>, a seu turno, em 12 de março daquele ano, publicou: <q>As 3 horas da manhã de 26 do passado</q> (mês de fevereiro), <q>exalou o último suspiro o nosso digno patrício Sr. Major <name>Manoel Joaquim de Almeida Coelho</name>. A Província de Santa Catarina perdeu um filho dedicado e a sociedade um cidadão prestimoso e honesto</q>. Nessa mesma edição, inseriu o jornal um convite feito por <name>Alexandre Inácio do Nascimento</name> para a missa que, na igreja de Nosso Senhor do Bonfim, em São José, mandava rezar em intenção da alma de <name>Almeida Coelho</name>, e no qual diz haver o historiador falecido <q>na madrugada de 26 de fevereiro último</q>.</p>
+
+			<p>E a <title>Memória Histórica da Província de Santa Catarina</title> um dos mais justamente apreciados livros escritos, por barrigas-verdes, no passado século, não obstante a sua falta de método, os seus equívocos e o seu desalinho estrutural e formal.</p>
+
+			<p>A primeira edição, que dizem datada de 1856, foi impressa na oficina do jornal <title>O Argos da Província de Santa Catarina</title>, e veio a lume em janeiro de 1857.</p>
+
+			<p>Longo tempo demandaram a sua composição e a sua impressão. Já em 5 de janeiro de 1856, aquele mesmo periódico buscava justificar a demora da publicação da obra, com as seguintes explicações, reveladoras das dificuldades que, pelo meado do século XIX, afligiam a imprensa da capital catarinense e as quais, pode-se dizer, vieram até os nossos dias, tornando-se risivelmente crônicas. Eis o que dizia <title>O Argos</title>: <q>A MEMÓRIA HISTÓRICA. — Devemos uma satisfação aos senhores subscritores da <title>Memória Histórica da Província</title>, a qual satisfação não devemos demorar por mais tempo, e, por isso, passamos a expor as razões que tem havido para que ela não tenha sido publicada. Com sobeja razão terá causado surpresa tamanha demora; se se prestar atenção ao que vamos referir, por certo que desaparecerá a surpresa, e nos será relevada tal demora. Nós esperamos que assim suceda. Eis as razões: Quando nos incumbimos da impressão dessa obra, contávamos, no nosso estabelecimento, com dois operários, e reduziu-se o número a um único. Ora, dois empregados ocupavam-se dos trabalhos da folha, que se publica duas vezes por semana, e o aprendiz na composição da Memória Histórica: e, como saísse um daqueles, teve este de ocupar-se do trabalho da folha, a fim de continuar a sua publicação: em consequência, tornou-se mais moroso o trabalho da Memória. Todavia, reconhecendo nós o nosso comprometimento a respeito deste objeto, que tínhamos assegurado ao público de efetuar, redobramos de esforços, a ponto de achar-se agora a impressão em mais de metade, montando a 86 páginas já impressas. Esperamos em Deus vencer o restante com mais uma pequena demora e, em breve, daremos conta deste trabalho...</q></p>
+
+			<p>Quase um ano ainda se passou. Finalmente, em 23 de janeiro de 1857, o mesmo jornal anunciou: <q>A MEMÓRIA HISTÓRICA DA PROVÍNCIA DE SANTA CATARINA, pelo Sr. Major Manoel Joaquim de Almeida Coelho, acaba de sair do prelo. Os senhores subscritores podem mandar receber os exemplares que quiserem, pagando nesse ato a sua importância. Também se venderá a quem não fot subscritor</q>. Tal anúncio é completado, no dia 27, com o seguinte esclarecimento bibliográfico ou técnico: <q>E um volume de 220 páginas, em 4a; boa impressão, bom tipo e excelente papel</q>.</p>
+
+			<p>Após tão prolongada expectativa, foi recebido o livro com grande e justificável entusiasmo; pois, em todos os sentidos, era uma novidade para a terrinha <q>dos casos raros</q>, que os preconícios turísticos de hoje querem crismar de — <q>dos ocasos raros</q>...</p>
+
+			<p>O mesmo <title>Argos</title> acolhe, na edição de 3 de fevereiro daquele ano, um artigo intitulado <title>O Sapateiro e o Cambeta</title>, do qual extraíamos estas referências: <q>...ao ilustríssimo senhor Major <name>Almeida Coelho</name>... felicitai-o da minha parte e de todos os seus patrícios e amigos, por haver, com mil sacrifícios, apresentado... a Memória Histórica desta Província ... à mocidade catarinense; porque há filhos desta Província que, ainda hoje, ignoram quais foram os seus primeiros povoadores, quais os rios mais importantes da Província, etc. etc.! E, pois, o ilustríssimo senhor Major Almeida a quem se deve a primeira história da Província, pois que, até aqui, ainda não aparecera quem se animasse a escrevê-la e, talvez, não haja quem o faça (só no caso de servir esta primeira para por ela se escrever outra com mais extensão), porque deve faltar a qualquer o que encontramos no senhor Almeida: amor à Província, disposição e dedicação ao trabalho...</q></p>
+
+			<p>Até em alcandorados versos foi gabado o nosso historiógrafo. Pois ainda o referido jornal, na edição de 13 de fevereiro do mesmo ano de 1857, dá publicidade a dois sonetos apolegéticos, em que o autor da Memória é comparado a Xenofonte e Plutarco, por ser fiel como Heródoto, Tucídides e Tácito, e infenso à <q>elegância falaz de Tito Lívio</q>”...</p>
+
+			<p>A título de curiosidade, para aqui trasladamos as duas composições. A primeira traz a seguinte dedicatória: <q>Ao ilustre preparador da História Catarinense o Senhor Manoel J. de Almeida Coelho</q>, e a epígrafe: <q><foreign xml:lang="la">Historia testis temporum — Lux veritatis — Vita memoriae — Magistra vitae — Nuncia vetustatis (Cícero)</foreign></q>; e a segunda, com dedicatória idêntica: <q>Ao limo. Sr. Major M. J. de A. C., primeiro historiador catarinense</q>, mais a epígrafe: <q>Os historiadores judiciosos, atentos, ilustrados e sinceros são os mais veneráveis preceptores da Humanidade</q>.</p>
+
+			<p>Eis os versos:</p>
+
+<lg>	<l>A elegância falaz e mentirosa </l>
+			<l>Não tens dum Tito Lívio; não encantos </l>
+			<l>De estudada dicção, que autores tantos</l> 
+			<l>Nos impõem com facúndia sonorosa.</l>
+</lg><lg>
+			<l>São simples, são ingênuos tua prosa, </l>
+			<l>Teus discursos sinceros, puros, santos, </l>
+			<l>Que não envolvem a Verdade em mantos, </l>
+			<l>Nem ornam da Mentira a face odiosa.</l>
+</lg><lg>
+			<l>Qual Xenofonte, escreves com prudência; </l>
+			<l>Indagas, aprofundas no teu plácito </l>
+			<l>E pesas as razões com diligência.</l>
+</lg><lg>
+			<l>De Heródoto, Tucídides e Tácito</l>
+			<l>És leal e fiel à Grã Ciência:</l>
+			<l>Mereces de quem pensa o beneplácito.</l>
+</lg><lg>
+			<l>A memória da Pátria consagrado</l>
+			<l>De Clio nos franqueia o templo amável</l>
+			<l>Um moderno Plutarco venerável,</l>
+			<l>Catarinense Tácito inspirado.</l>
+</lg><lg>
+			<l>O vero patriota Almeida honrado,</l>
+			<l>Em traços mil de fogo inapagável,</l>
+			<l>Com buril damantino e perdurável,</l>
+			<l>A história da Província tem gravado.</l>
+</lg><lg>
+			<l>Honra ao seu monumento em anos latos!</l>
+			<l>Subido apreço, estima a tal Memória,</l>
+			<l>Pra sempre duradoura em peitos gratos!</l>
+</lg><lg>
+			<l>Honra ao nobre Varão que vinga a História,</l>
+			<l>Do pó do esquecimento arranca os fatos,</l>
+			<l>De ilustres nomes nos recorda a glória!</l>
+</lg>
+			<p>Tem dupla autoria a primeira dessas composições, pois está assinada pelas iniciais <q>F.P.P.</q> e <q>A.B.</q>, que nos foi impossível identificar; enquanto que a segunda vem com a assinatura de <q>Franc. de P.M. de C.</q>, isto é: Francisco de Paula (ou Pauliceia) Marques de Carvalho - cidadão paulista que ao Desterro chegara na primeira metade do século, aí casando, viuvando e recasando, exerceu vários cargos públicos, atuou no magistério primário, prosou e poetou pela imprensa, falecendo em fins de 1891, e a cujo respeito Carlos da Costa Pereira publicou magnífico artigo, pelo Estado de 21 e 22 de maio de 1955.</p>
+
+			<p>A primeira edição da <title>Memória Histórica</title> é datada de 1856, mas saída do prelo em 1857. Possuímos um exemplar da segunda edição (póstuma), tirada em 1877 pela tipografia desterrense de José Joaquim Lopes, instalada na Rua da Trindade (hoje: do Arcipreste Paiva), e o qual adquirimos no desbarate da livraria do <q>Clube Concórdia</q>.</p>
+
+			<p>Esse prestimoso livro, pioneiro da historiografia provinciana catarinense, foi escrito em 1854, conforme se infere das seguintes passagens: <q>...no presente ano de 1854</q> (págs. 88 e 173); <q>no presente ano de 1854, em que escrevemos...</q> (pág. 177); calculamos a população da Província, no presente ano de 1854, em 107.000 pessoas...” (pág. 196), passim. O Autor ainda trabalhou num <hi>"suplemento ou segunda parte”</hi> da <title>Memória Histórica</title>, conforme se lê ao pé da página 195 da segunda edição; mas supomos não haver sido posto jamais esse trabalho em letra de molde.</p>
+
+			<p>Ao chegar à portaria de um palácio ou à ponte levadiça de um castelo, Froissart ufanosamente se fazia anunciar como <q>Historiador</q>. O Major Almeida Coelho, ao contrário, era criatura excessivamente modesta. Basta ler a <q>Advertência</q> com que abre o livro a que nos vimos referindo. Confessa ali: <q>A presente Memória é extraída de quanto escreveram da Província de Santa Catarina os Senhores...</q> E lá vem o elenco dos autores aos quais se arrimou, citando-lhes lealmente as respectivas outras, inclusive alguns escritos inéditos, além dos <q>arquivos antigos das Câmaras Municipais das cidades do Desterro, Laguna e São Francisco, e da vila de Lajes</q>. A sua humildade ainda mais se acentua, quando declara não ter <q>o desvanecimento de ser autor</q>, porquanto <q>nada mais fiz do que copiar o que outros escreveram</q>.</p>
+
+			<p>Os mais importantes trabalhos de Almeida Coelho foram levados a cabo durante o tempo em que desempenhou o cargo de Secretário da Câmara Municipal do Desterro, e do qual requereu aposentadoria em novembro de 1864, com a gratificação correspondente a quinze anos e meio de serviço. A esse pedido, o Presidente da Província, Alexandre José Rodrigues Chaves, deu o seguinte despacho: <q>Prove o suplicante que, por avançada idade ou moléstias incuráveis, não pode continuar no cumprimento dos deveres inerentes ao cargo que ocupa</q>. O velho historiador contava mais de setenta anos. E que lhe tinha dado a Província até então? Isto: comprara-lhe cem exemplares da Memória a dez tostões cada um (v. Lei provincial n. 424, de 15-5-1856).</p>
+
+			<p>O fato é que ainda veio a ser membro do Conselho Diretor da Instrução Pública, função essa de que foi exonerado, a pedido, em 3 de dezembro de 1869, sendo substituído por João do Prado Faria (<title>Despertador</title>, de 11-12-1869). E daí, a menos de um ano e três meses, cerrou para sempre os olhos.</p>
+
+			<p>O Sr. Osvaldo de Melo (filho), embora reconheça — aliás, com judicioso critério — alguns dos méritos literários de Almeida Coelho, alude intempestivamente a Alexandre Herculano (pág. 57), para declarar, que não era o autor da <title>Memória Histórica</title> um intelectual da estirpe do novelista das Lendas e Narrativas, <q>nem daquele possuía senão Uma partícula de talento</q> (sic).</p>
+
+			<p>Mas, nunca janjais aspirou Almeida Coelho a ombrear com o <q>solitário de Vai de Lobos</q>. Já vimos como ele próprio inculcava a pouquidão dos seus títulos de cronista provinciano. Descabido, portanto, nos parece o confronto de <q>estirpes</q> de gênio ou talento, entre os dois; pois o Sr. Osvaldo de Melo (filho) poderia mencionar inúmeros outros historiadores lusos, brasileiros, etc., a cujas <q>estirpes</q> Almeida Coelho não pertence, e de cujos méritos muito distanciado fica para trás. Quanto a Herculano, terá de dizer-se que não foi um diletante em matéria de historiografia; mas, antes, que, dos 26 aos 48 anos, se entregou à investigação histórica, não só revolvendo arquivos e esmiuçando documentos de toda espécie, senão, também, colocando-se a par do movimento intelectual europeu, naquela especialidade, para bem estribar o seu método de trabalho. Vitorino Nemésio transcreve conceitos de Consiglieri Pedroso, pelos quais se verifica que Herculano <q>conhecia Ranke, o historiador do Papado; Wilken, o historiador das Cruzadas; Raumer, o historiador dos Hohenstauffen; Echorn, o historiador do Direito alemão; Pfistei, o historiador dos teutões; Lappenberg, o historiador da Inglaterra; Schaefer, o historiador de Portugal; Lembke, o historiador de Espanha; Niebuhr, o historiador de Roma; Savigny, o historiador do Direito romano na Idade Média, etc.</q>” (<title>A Mocidade de Herculano</title>, vol. I, pág. 340); e J. Barradas de Carvalho observa que <q>as fontes de Herculano, na sua concepção da História, no seu Historicismo, são, sobretudo, Guizot e Thierry</q> (<title>As Ideias Políticas e Sociais de Alex. Herc.</title>, pág. 149).</p>
+
+			<p>Como se vê, faleceu razão ao inteligente autor da <title>Introdução à História da Literatura Catarinense</title> para trazer à cena Alexandre Herculano e, descaridosamente, aproximar dele o humildoso cronista da Ilha dos Patos, o qual poderá, acaso, ter tido notícias do cronista severo da <title>História de Portugal</title>, mas é quase certo que desconheceu de todo os grandes mestres alemães e franceses, a que se referiram Consiglieri Pedroso e Barradas de Carvalho.</p>
+
+			<p>Isso, considerado do ponto de vista literário e científico, talvez possa apequenar Almeida Coelho; mas, certamente, não o desdoura. Basta haver sido ele o que foi, no seu meio e na sua época, amando o seu povo e o seu torrão natal, que honrou pelo cumprimento desambicioso do dever e o culto de primorosas virtudes cívicas e morais.</p>
+
+			<p>Escrevendo sobre homens, fatos e coisas da amada Província, não romanceou nem coloriu fantasiosamente episódios da sua história. E, a este respeito, vale o rasgo de sensatez de D. Quixote: <foreign xml:lang="es">"A escribir de otra suerte, no fuera escribir verdades, sino mentiras; y los historiadores que de mentiras se valen habian de ser quemados, como los que hacen moneda falsa”</foreign>.</p>
+
+			<p>Para finalizar, formulamos aqui a pergunta: — Teria Almeida Coelho deixado trabalhos inéditos?</p>
+
+			<p>Ignoramos. Porém, Nelson de Almeida Coelho, em artigo publicado pelo Estado, de Florianópolis, em 10 de julho de 1948, narra o seguinte episódio: — <q>Ouvimos de boa velhinha, morta aos 77 anos, que, certa feita, muitos anos após o falecimento do historiador recebeu a visita de pessoa bastante conhecida nos arraiais políticos da velha Desterro...</q> e <q>ao visitante foi permitido vasculhar, à vontade, no armário que . . . agasalhou os escritos do grande historiador catarinense. E, quando o visitante rumou portas fora, sobraçava grosso volume — toda a papelada retirada do armário</q>.</p>
+
+			<p>Comentar tão surpreendente quão nebulosa notícia seria perdermo-nos em vãs conjeturas. Competiria ao seu autor — um Almeida Coelho! — corajosamente esclarecê-la.</p>
+			
+			</div>
+			<div type="chapter">
+
+			<head>Juvêncio Martins da Costa</head>
+
+			<p>Juvêncio Martins da Costa era filho de Venceslau Martins da Costa, falecido em 6 de maio de 1875, e de Ana de Medeiros Costa, falecida em 8 de maio de 1886.</p>
+
+			<p><q>Mestre</q> Venceslau tivera no Desterro um pequeno, mas bem aparelhado estaleiro, de cujas oficinas sairam notáveis operários, entre eles Trajano de Carvalho, e onde se construíram barcos que ficaram famosos nos mares do sul, como o altaneiro palhabote de propriedade do mesmo Venceslau e de Patrício Marques Linhares, festivamente lançado ao mar em 22 de março de 1860.</p>
+
+			<p>Não pude nunca saber a data exata do nascimento de Juvêncio. O Sr. Osvaldo Ferreira de Melo (filho), moço de vivacíssima inteligência e apreciada cultura, tratando das Flores sem Perfume, na sua <title>Introdução à História da Literatura Catarinense</title>, aponta-nos o ano de 1857 como o do nascimento, e o de 1882 como o da morte do poeta.</p>
+
+			<p>José Artur Boiteux, que conheceu Juvêncio e foi, com Venceslau Bueno de Gouveia, um dos prefaciadores do seu livro, afirma que o poeta expirou em 8 de outubro de 1882.</p>
+
+			<p>O <title>Jornal do Comércio</title> (do Desterro), na edição de 10 daquele mês e ano, noticiou que: morreu <q>anteontem</q>; portanto no dia 8, consoante a informação de Boiteux ... <title>A Regeneração</title>, embora prestasse ao extinto, que fora seu colaborador ou redator, homenagens tocantes, em 12 de outubro, com as colunas da primeira página largamente tarjadas, não citou a data do trespasse. Porém, O Despertador, no dia 11, dissera: <q>Deixou de existir, no dia 7 do corrente, às 10 horas da noite, o nosso conterrâneo e amigo Sr. Juvêncio Martins da Costa, 22 Escriturário da Alfândega desta cidade</q>. A notícia do mesmo jornal esclarece, ainda, que Juvêncio, ao morrer, contava 32 anos de idade. Ora, se faleceu aos 32 anos em 1882, é porque então nasceu em 1850.</p>
+
+			<p>A ser assim, a data do nascimento indicada pelo Sr. Osvaldo de Melo (filho) não é verdadeira.</p>
+
+			<p>Em 1861, era Juvêncio aluno da 2a. classe da Escola Particular do Professor José da Costa Oliveira, no Desterro, tendo sido aprovado, nos exames finais daquele ano, no seguinte conjunto de matérias: leitura, escrita, doutrina cristã e as quatro operações fundamentais. Se houvesse nascido em 1857, como quer o autor da Introdução, teria, em 1861, apenas 4 anos; e, com idade tal, não estaria apto a prestar exames daquelas matérias. Mais: em 1868, era Procurador da <q>Sociedade Dramática Fênix Catarinense</q>. Se nascido fora em 1857, contaria então 11 anos. Porventura, confiaria a <q>Fênix</q> o cargo de Procurador a uma criança dessa idade?</p>
+
+			<p>Portanto: a data do nascimento do poeta, mencionada pelo historiador da <hi>“Literatura Catarinense”</hi> - 1857 - é, evidentemente inexata. Até nova verificação, cremos aceitável a de 1850.</p>
+
+			<p>Pelas eleições de 12 de outubro de 1879, foi Juvêncio deputado à Assembleia Provincial, onde nunca discursou, como disse José Boiteux em prefácio às Flores sem Perfume, por lho impedir <q>a terrível enfermidade</q>. Se, no entanto, se houvesse perguntado ao poeta para quê, então, se fizera eleger deputado, talvez ele respondesse como Cormenin: - <q>Por curiosidade, para ver mais de perto a comédia</q>.</p>
+
+			<p>Em 1880, vamos encontrá-lo a desempenhar as funções de Inspetor de Distrito das escolas da Capital, cargo de que veio a exonerar-se, por motivo de doença, em 17 de junho daquele mesmo ano.</p>
+
+			<p>Quando melhorou o seu estado de saúde, pôde, no segundo semestre daquele ano, seguir para São Francisco, na qualidade de Administrador em comissão da Mesa de Rendas dali.</p>
+
+			<p>Seu falecimento sobreveio, como ficou dito, em 1882, estando já ele no Desterro, no exercício do cargo efetivo de 2a Escriturário da Alfândega.</p>
+
+			<p>Informa o Sr. Osvaldo de Melo (filho) que Juvêncio <q>um dia reuniu cerca de cem produções em volume a que intitulou Flores sem Perfume</q> (pág. 80). Conviria acrescentar que o livro foi organizado pelo autor em princípios de 1876, vindo a ser dado a lume, postumamente, sete anos mais tarde. De fato, a impressão efetuou-se em 1883, na Tipografia do Cruzeiro, instalada na Rua do Príncipe (hoje do Conselheiro Mafra), - e, isso, graças à <q>saudade de um amigo</q>, segundo revelou Cantu-Mirim (<title>República</title>, de 8-10-1926).</p>
+
+			<p>O distinto historiador das nossas Letras classifica o poeta de <q>elegíaco, homem triste e problemático</q> (pág. 79). Por que <q>problemático</q>? Que haja sido um romântico <q>triste</q> e <q>elegíaco</q> é incontestável. O seu livro de versos (e alguma prosa) o confirma; e ele mesmo confessa, na página intitulada <q>Eis o meu livro</q>, que se considera <q>peregrino ser, há tantos anos em acerba luta com o sofrimento</q>. Morreu-lhe o pai, conforme noticiou uma gazeta da época, <q>depois de prolongados sofrimentos ocasionados por grave enfermidade</q>; e sua mãe, segundo o testemunho do jornalista Augusto Lopes da Silva, jazia paralítica no leito quando o poeta expirou. O necrológio, que, a respeito dele foi publicado por um periódico desterrense, pormenoriza-lhe cruamente os padecimentos: <q>No verdor dos anos, foi ele acometido de uma afecção pulmonar, acompanhada de frequentes hemoptises, que o prostravam, sendo necessários alguns dias de repouso para recuperar novas forças; e assim viveu até a idade de 32 anos, entre os gozos passageiros da vida e o contínuo sofrimento</q> (<title>Despertador</title>, de 11-10-1882). No seu prefácio às <title>Flores sem Perfume</title>, Venceslau Bueno realmente informa: <q>Olhar para Juvêncio era encarar a pena personalizada</q>.</p>
+
+			<p>Não podiam, portanto, as suas frágeis rimas guizalhar ou tintinar jovial e festivalmente. Era o seu temperamento de todo diferente do de Júlio Dinis, que, apesar de ter ficado tuberculoso quando ainda estudante de Medicina e vindo a falecer com a mesma idade de Juvêncio, nunca perdeu, como nos refere o Professor Feliciano Ramos, a <q>inata predisposição psicológica para a alegria, para a esperança e para o amor da vida. Um saudável otimismo espiritual imperava na sua alma, não obstante a ameaça de morte que, desde verdes anos, sobre ele pesou</q>.</p>
+
+			<p>Talvez que, no pálido alvorecer da sua mocidade enfermiça, Juvêncio tivesse tido, na expressão de Afrânio Peixoto, rápidos <q>deslumbramentos carnais</q>, traduzidos nas composições poéticas intituladas Sonho (bis) e <title>Recuerdo</title>.</p>
+
+			<p>O seu livro, porém, não mente: na realidade, ele sentia-se <q>um proscrito do amor</q> (<title>Meus vinte anos</title>). Devido ao mal que o cruciava? Certo que sim. Tinha, pois, razão de dizer:</p>
+
+			<lg><l>"Eu vegeto... não vivo - sou proscrito",</l></lg>
+
+			<p>e de proclamar-se</p>
+
+			<lg><l>"Moço nos anos, velho no tormento"</l></lg>
+
+			<p>Entretanto, amou, ou tentou amar. Porém, esse amor, guardou-o ele <q>em segredo</q>, pois a mulher por quem um dia o seu coração palpitou fremente era <q>carne sem alma</q>:</p>
+<lg>
+			<l>“Votei meus cantos inspirados da alma</l>
+			<l>À morena mulher dos meus amores!”</l>
+</lg><lg>
+			<l>"Maria era seu nome................</l>
+			<l>Soberana de um peito escravizado”.</l>
+</lg><lg>
+			<l>"Ah! quantas vezes murmurou meu lábio</l>
+			<l>Frases de amor, ungidas de esperança!”</l>
+</lg><lg>
+			<l>"Traiu seu coração, mentiu sua alma".</l>
+</lg><lg>
+			<l>"E hoje...........................</l>
+			<l>Nos embates da negra indiferença,</l>
+			<l>Sinto a vida finar-se lentamente...”</l>
+</lg>
+			<p>Nome de Maria reaparece em várias composições. Reconhece tristemente que essa <q>morena</q></p>
+
+			<lg><l>"Piedade não tem das minhas dores”.</l></lg>
+			
+			<p>Advertiu Zola que <q><foreign xml:lang="fr">les poètes aiment à laisser croire que les femmes ont bu leur vie</foreign></q> (<title>Documents Littéraires</title>, p. 185). A suspeita, cremos, não vingaria contra Juvêncio Martins da Costa. Por sua vida sentimental deve ter passado outra sombra de mulher, também <q>morena</q>: Teresa. Mas uma só vez a ela se refere.</p>
+
+			<p>Quase ao fim do livro, parece perceber feliz raio de sol a redoirar-lhe o <q>vil destino</q>. Era, ainda desta feita, o brilho do olhar de outra <q>morena esbelta</q>. Qual o seu nome? Não no-lo disse o Poeta, que, supondo-se amado agora, cantava:</p>
+<lg>
+			<l>"Meu estro é todo flor!........</l>
+			<l>Mudou-se a sorte.............</l>
+			<l>Meu presente de amor todo é venturas”.</l>
+</lg>
+			<p>Todavia, não mais voltou a referir-se a essa derradeira e fugidia miragem, - sonho inatingível, despedaçante desengano final. Pobre, conforme se confessou várias vezes, e marcado por implacável enfermidade, não encontraria coração que se lhe abrisse, amoroso, em perenais carinhos.</p>
+
+			<p>Afirma o Sr. Osvaldo de Melo (filho) que, quando <q>falecia alguém na cidade ... o nosso Poeta fazia-lhe baladas</q>. Com certeza, ao invés de <hi>baladas</hi>, quis o Autor dizer: <hi>nênias</hi>, ou <hi>endechas</hi>, ou <hi>epicédios</hi>, ou <hi>elegias</hi>... Porque baladas não cabem aí. E não era tanto assim; basta compulsar-lhe o livro. Tal crítica é excessiva.</p>
+
+			<p>Conhecidos os sofrimentos físicos e morais de Juvêncio Martins da Costa, devemos convir que os seus versos, amiúde tão órfãos de arte e de técnica, são, contudo, dos mais sinceros que se escreveram no acanhado ambiente da velha cidade do Desterro. Ele não teatralizava sentimentos, quando, cansado de padecer, desesperançado de qualquer alívio, queria <q>destruir</q></p>
+
+			<lg><l>"As horas tristes que a desgraça tece".</l></lg>
+
+			<p>Esse verso, na sua merencória simplicidade, seria digno de Leopardi.</p>
+
+			<p>Pela <title>Gazeta</title>, de 28 de abril p.p., publicamos um artigo sobre Juvêncio Martins da Costa, em que revocávamos em dúvida o ano do nascimento do poeta, indicado pelo autor da <title>Introdução à História da Literatura Catarinense</title> como tendo sido 1857; e, argumentando com fatos biográficos do modesto e melancólico cantor das <title>Flores sem Perfume</title>, concluíamos por adotar, até nova verificação, a data de 1850.</p>
+
+			<p>Acertado fora o nosso critério, visto como, no dia 2 do corrente, recebemos do prezado conterrâneo Antônio Taulois de Mesquita (Tony) - a quem nos liga semi-secular amizade vinda desde os bancos ginasiais - valiosa carta que nos corrobora a opinião de que efetivamente Juvêncio nascera em 1850, e não em 1857 como apontou o Sr. Osvaldo de Melo (filho) à pág. 79 do seu livro.</p>
+
+			<p>Eis o que em sua carta nos diz o distinto e laborioso genealogista:</p>
+
+			<p>“Florianópolis, 2 de maio de 1963</p>
+
+			<p>Prezado Amigo Altino,</p>
+
+			<p>Somente ontem é que tive o prazer de ler o seu artigo referente ao poeta Juvêncio Martins da Costa, e felicito-o pela maneira feliz como o Amigo analisa fatos da sua vida.</p>
+
+			<p>Se eu soubesse que Você pretendia publicar tal artigo, eu lhe teria dado a data exata do nascimento daquele infeliz poeta. Aqui vai, pois, um rápido esboço genealógico da família Martins da Costa e nele você encontrará o nome do Juvêncio Martins da Costa com as datas do seu nascimento e do seu falecimento.</p>
+
+			<p>1— Francisco Martins — casado com Francisca Angélica Martins, eram ambos naturais de Portugal.</p>
+
+			<p>Tiveram, que encontrei, o seguinte filho:</p>
+
+			<p>2-1 Venceslau Martins da Costa — aqui casado a 24-4-1839 com Ana Inácia de Medeiros, filha de Inácio de Medeiros e de sua mulher Ana Joaquina Gracia de Medeiros.</p>
+
+			<p>Tiveram, que encontrei, os seguintes filhos:</p>
+
+			<p>3-1 José — aqui nascido a 18-4-1840 e batizado a 3-5-1840.</p>
+
+			<p>3-2 Venceslau Martins da Costa Júnior — aqui nascido no dia 12-9-1843 e aqui falecido a 25-3-1921. Casou nesta cidade a 29-4-1879 com Maria Carolina da Costa, aqui nascida a 5-9-1846. (São os pais do Prof. Antônio Mâncio da Costa. Sua descendência consta do título <q>Costa</q> da minha Genealogia Catarinense e que estou organizando há longo tempo).</p>
+
+			<p>3-3 Guilhermina Augusta Martins da Costa — nascida no dia 4-3-1847 e aqui casada a 28-4-1866 com José Teodoro da Costa, aqui nascido a 17-11-1838. (São os avós do Dr. José da Costa Moellmann. Sua descendência consta da minha Genealogia Catarinense).</p>
+
+			<p>3-4 Juvêncio Martins da Costa — aqui nascido a 6 de julho de 1850 e batizado a 20 de julho de 1850. Teve como paraninfos o Tte. Patrício Marques Linhares e sua mulher D. Maria Inês Mafra Linhares. Celebrou o Ato o Vigário Antônio Joaquim Pereira Malheiros. Faleceu nesta cidade a 7 de outubro de 1882, e foi sepultado no dia imediato.</p>
+
+			<p>Todas estas informações, eu as colhi compulsando os livros de assentos eclesiásticos existentes no Arquivo da nossa Cúria Metropolitana.</p>
+
+			<p>Receba o afetuoso abraço do velho amigo</p>
+
+			<p>TONY MESQUITA”.</p>
+
+			<p>Como se vê, inquestionável importância tem o espontâneo depoimento do distinto linhagista; pelo quê, não evadimos o desejo de divulgá-lo, data venia, na certeza de que interessará a todos quantos se dedicam ao estudo dos homens e das coisas catarinenses.</p>
+
+			<p>A Tony Mesquita, o nosso — muito obrigado!</p>
+			
+			</div>
+			
+			<div type="chapter">
+			
+			<head>Os Primeiros Livros</head>
+
+			<p>À pág. 56 da sua <title>Introdução à História da Literatura Catarinense</title>, o Sr. Osvaldo de Melo (filho) oferece-nos a lista dos <q>primeiros livros publicados em Santa Catarina</q>, de acordo com as pesquisas por ele realizadas. A cabeça dela está a <title>Memória Histórica da Província de Santa Catarina</title>, dada como tendo vindo a lume em 1856. Indesculpavelmente, hesita o autor quanto ao título dessa obra, citando-o no plural (<title>Memórias Históricas</title>) quatro vezes, isto é, às págs. 52, 56 e 57 (bis); e uma só no singular (<title>Memória Histórica</title>) à pág. 58. Por mais estranho que pareça, esta única vez, no singular, é que é a certa.</p>
+
+			<p>Infelizmente, não remontaram além de 1856 as <q>pesquisas</q>, realizadas pelo Autor da Introdução. Porque a Memória Histórica da Província de Santa Catarina não foi o primeiro livro impresso no Desterro, nem é o primeiro trabalho historiográfico de Almeida Coelho. Antes desse, já havia ele publicado outro.</p>
+
+			<p>Demonstremo-lo. No dia 5 de outubro de 1853, o <hi>Correio Catarinense</hi> divulgava a seguinte notícia: <q>Acha-se no prelo a <hi>Memória do Extinto Regimento de Infantaria de Linha</hi> desta Província, escrita pelo Sr. Major Manoel Joaquim de Almeida Coelho, para a qual continua a receber-se assinaturas nesta Tipografia, sendo a 500 réis cada exemplar</q>.</p>
+
+			<p>Em novembro daquele ano, era a obra lançada à venda, sendo que o referido jornal, em sua edição do dia 30, inseria a seguinte:</p>
+
+			<p>"ADVERTÊNCIA. — Roga-se aos senhores que têm recebido ou comprado a <title>Memória Histórica do Extinto Regimento de Infantaria de Linha</title> desta Província se dignem advertir o seguinte:</p>
+
+			<p>Nota 4, da pág. 6, onde diz: <q>constrangidos a servir</q>, diga-se: <q>constrangidos a servir toda a vida</q>.</p>
+
+			<p>Pág. 14, linha 16, onde diz: <q>e aos mores do seu Regimento</q>, leia-se: <q>e aos suores do seu Regimento</q>.</p>
+
+			<p>Pág. 28, linha 26, onde diz: <q>Amanheceu o dia 22 de outubro</q>, diga-se <q>Amanheceu o dia 21 de setembro</q>.</p>
+
+			<p>Pág. 32. Suprima-se a última linha, onde diz: <q>mens sem que da nossa parte houvera alguma. Concluída a destruição e...</q></p>
+
+			<p>Como a relação dos livros mais antigos, organizada pelo distinto <hi>Autor da Introdução</hi>, vai de 1856 a 1868, podemos nela inscrever o <q>romance original</q> <title>Eulália</title>, de autoria de Juvita Duarte Silva, que tinha o pseudônimo de <q>Taviju</q> e fora aluno do professor e jornalista José Joaquim Lopes. O aparecimento do <q>romance</q> foi noticiado pelo jornal <hi>Argos</hi>, em 17 de junho de 1862; mas sua estrutura e seus méritos literários são ignorados, pois, hoje, que saibamos, dele não mais existe sequer um exemplar.</p>
+
+			<p>Devemos ainda arrolar o volume (de cem páginas) intitulado <title>Sonhos Poéticos</title> e impresso em 1864 pela <q>Tipografia Desterrense</q> de Avila e Cia. Não é nenhuma preciosidade em termos de Poesia. Carente de originalidade, eivado de versos arrítmicos, repleto de rimas chochas, tudo isso agravado por deslizes gramaticais, é, simplesmente, uma raridade bibliográfica. O exemplar que possuímos, adquirimo-lo na liquidação da biblioteca do <q>Clube Concórdia</q> (ex-<q>Dezesseis de Abril</q>).</p>
+
+			<p>Também deixou o Sr. Osvaldo de Melo (filho) de mencionar mais duas produções de Almeida Coelho: uma de 1860, com as biografias de <q>dois brasileiros distintos, os Srs. Coronel Fernando da Gama Lobo Coelho e Brigadeiro José da Gama Lobo d’Eça</q>, conforme noticiava o Cruzeiro, de 1° de março daquele ano, acrescentando: <q>Ao ler este curioso escrito, não é possível deixar de simpatizar com os feitos, com a dedicação militar e com o patriotismo desses beneméritos da independência e da integridade do Império</q>. Outra, de 1868, com a biografia do <q>ilustre General Manoel Soares Coimbra, falecido a 19 de setembro de 1807 e sepultado na capela de Nossa Senhora das Dores, nesta capital</q>, consoante noticiou o <title>Despertador</title>, de 21 de fevereiro de 1868.</p>
+
+			<p>Necessário também é citar-se o <title>Elogio Dramático</title>, de autoria do então Padre Joaquim Gomes de Oliveira Paiva, que, tendo sido <q>recitado</q> no <q>Teatrinho Particular de São Pedro de Alcântara</q>, em 12 de outubro de 1852, foi impresso pela Tipografia do <hi>Correio Catarinense</hi>, em 1854 e vendido a 500 réis o exemplar.</p>
+
+			<p>Outro livro há que começou a imprimir-se no Desterro em 1853 e só veio a ser posto à venda em 1855, — antes, também, da <title>Memória Histórica da Província de Santa Catarina</title> (1856), a qual as <q>pesquisas</q> do Sr. Osvaldo de Melo (filho) depararam como o mais antigo. Trata-se da primeira composição teatral de Álvaro de Carvalho, isto é, o drama <title>Pedro Martelli, ou o Conde de Castellamar</title>.</p>
+
+			<p>De feito, em 14 de dezembro de 1853, noticiava o <title>Correio Catarinense</title>: <q>Acha-se no prelo desta Tipografia o drama do Sr. Tenente Álvaro Augusto de Carvalho, que subiu à cena pela primeira vez no <q>Teatrinho Particular de São Pedro de Alcântara</q>, desta capital, em 22 de setembro do corrente ano e foi repetido, alguns dias depois, no mesmo <q>Teatrinho</q>. E uma obra de grande merecimento e que muito apreciamos por ser produção de um jovem catarinense, cuja inteligência se patenteia a todos os que leram com atenção esse, talvez, primeiro, fruto das suas lucubrações. Consta-nos que muitas pessoas têm concorrido com a sua assinatura para a publicação deste drama; e, com efeito, é de esperar que todos os catarinenses dotados de sentimentos generosos e patrióticos, concorram espontaneamente para que se divulguem os produtos da hábil pena de um seu jovem patrício, animando-o, assim, a prosseguir na brilhante carreira literária ...</q></p>
+
+			<p>Numa crônica intitulada <q><title>A Quinzena</title></q>, publicada pelo mesmo jornal em 3 de outubro de 1855, saía esta informação bibliográfica: <q>Distribuiu-se aqui (no Desterro) no dia 17 (de setembro daquele ano) o drama <title>Pedro Martelli, ou o Conde de Castellamar</title>, primeira produção do nosso jovem e esperançoso dramaturgo catarinense Álvaro Augusto de Carvalho, 2° Tenente da nossa Armada. Em outra ocasião já tivemos o gosto de ver em cena essa obra, que, segundo o juízo de pessoas entendidas, revela um nascente gênio, que merece animação e elogios, para continuar na encetada carreira literária</q>. Havendo Álvaro de Carvalho nascido em 1° de março de 1829, tinha, portanto, vinte e quatro anos de idade quando, em 1853, escreveu (ou concluiu) o seu primeiro drama, saído do prelo, como acabamos de dizer, em 1855.</p>
+
+			<p>No mesmo ano em que começava a composição tipográfica da <title>Memória Histórica da Província de Santa Catarina</title>, outro livro era prometido para breve, no Desterro. Efetivamente, o <title>Argos</title>, de 6 de junho de 1856, anunciava que na tipografia do Mensageiro, no Largo do Quartel (depois Largo do General Osório e onde foi construído o <q>Instituto de Educação</q>), se recebiam <q>assinaturas para o 4° volume dos Ensaios Poéticos, do jovem poeta José Vitorino da Silva Azevedo</q>; acrescentando que nesse volume se compreenderia também <q>a comédia <title>Tulipa</title>, do mesmo autor, correta e modificada, que outrora subiu à cena no Teatro Catarinense</q>.</p>
+
+			<p>José Vitorino da Silva Azevedo, poeta e teatrólogo, nascido no Porto em 16 de março de 1831, veio, muito moço ainda, ao Brasil, onde se deixou ficar, por longos anos, havendo casado, na vila de Morretes (Paraná), em 31 de outubro de 1855, com Júlia Carlota, <q>sua jovem colega</q>. Ignoramos onde e quando faleceu. Escreveu os dramas: <title>Adolfo, ou o Crime e a Glória</title> (representado pela <q>Sociedade Dramática Part. São Pedro de Alcântara</q>, no Desterro), <title>A Gondoleira de Veneza</title> e <title>Os Dois Juramentos</title>; as comédias <title>A Tulipa</title> (também representada no Desterro), <title>O Cômico Importuno</title>, <title>Mulher Ciumenta</title>, <title>O Espelho do Diabo</title>, <title>A Metamorfose,</title> <title>O Sapateiro</title> e o <title>Cambeta</title>; e o elogio dramático Dois de Dezembro. Ainda traduziu, com o título de O Gravador de Lápidas, o drama <title>Le Marbrier</title>, atriouído a Alexandre Dumas (filho).</p>
+
+			<p>Em 1855, encontrava-se ele em Santa Catarina, tendo publicado já, no Desterro, possivelmente naquele ano, a 3a. série dos seus <title>Ensaios Poéticos</title>. Baseamos tal suposição no fato de o <title>Mensageiro</title>, de 20 de outubro de 55, haver reproduzido uma <q>poesia</q> de Manoel Bernardino Augusto Varela, dedicada ao poeta e teatrólogo lusitano e com a nota de que este, de certo em sinal de reconhecimento, a houvera incluído no 32° volume dos seus Ensaios Poéticos, entre as <q>poesias recebidas</q>.</p>
+
+			<p>Conhecedor do <hi>métier</hi> cênico, provável é que José Vitorino houvesse contribuído com suas habilidades artísticas para o desenvolvimento da <q>Sociedade Dramática Particular São Pedro de Alcântara</q>, existente na velha capital catarinense, sendo que, talvez por isso, a Diretoria da referida agremiação achou por bem conferir-lhe, em 23 de dezembro de 1855, o título de <q>sócio honorário</q>.</p>
+
+			<p>Alguém não gostou dessa homenagem e, pela seção de <q>publicações a pedido</q>, do <title>Argos</title> de 11 de janeiro de 1856, veio perguntando - em que artigo dos Estatutos se apoiara a Diretoria para honorificar o <q>cômico</q> José Vitorino. Isso levou o <q>representante</q> da sociedade, Francisco de Pauliceia Marques de Carvalho, a explicar, pelo mesmo jornal, no dia 15, que a concessão do título de sócio honorário <q>ao ilustre literato José Vitorino da Silva Azevedo</q> estava legitimamente amparada pelo artigo 5 dos Estatutos, que rezava: <q>A Sociedade será composta de 140 sócios, sendo 110 contribuintes e 30 úteis, podendo a Diretoria admitir maior número desta última classe e, mesmo, honorários, quando reconheça que da sua admissão podem resultar vantagens à Sociedade</q>.</p>
+
+			<p>Grande deve ter sido o número de amizades granjeadas por José Vitorino no Desterro; e os encantos naturais da terra - que não as minguadíssimas, quase nulas comodidades urbanas — com certeza o enfeitiçaram; porquanto, havendo ele ido a Morretes e Antonina, no litoral paranaense, de lá enviou, saudoso, o soneto dedicado a Francisco de Pauliceia e vindo a lume pelas páginas do <title>Mensageiro</title>, jornal desterrense, em 20 de setembro de 1855. Eis o soneto, cujo título era <title>A Cidade do Desterro</title>:</p>
+<lg>
+			<l>Ó cidade gentil, tão feiticeira</l>
+			<l>Qual nunca se tornou Veneza ou Roma!</l>
+			<l>Quando a tua lembrança em mim assoma,</l>
+			<l>A minha alma a ti voa, prazenteira;</l>
+</lg><lg>
+			<l>E, lá, não mais julgando-se estrangeira,</l>
+			<l>Tua brisa respira e, sobre a coma </l>
+			<l>De teu verde matiz, saudades doma </l>
+			<l>Nos risos teus, Itália brasileira!</l>
+</lg><lg>
+			<l>O cidade das flores, lar mimoso </l>
+			<l>Das rosas, dos jasmins, dos amarantos </l>
+			<l>Que mais adornam o Brasil formoso,</l>
+</lg><lg>
+			<l>Quem pode ver-te sem achar-te encantos?</l>
+			<l>Quem pode amar-te sem partir choroso?</l>
+			<l>E quem lembrar-te sem saudade e prantos? </l>
+</lg>
+			<p>Esses maus catorze versos, tão ao gosto da época, vinham acompanhados de longuíssima nota em prosa, em que o Autor explicava as razões do epíteto de <q>cidade das flores</q> com que crismara a capital catarinense. São estas as suas razões: primeira, por ser esta parte do Brasil <q>onde se fabricam as mais lindas flores de escamas</q>; e segunda, porque, de todas as terras do Império, que tinha percorrido, era a cidade do Desterro, para ele, a <q>verdadeira cidade das Graças</q>, onde <q>as Deusas fazem flores, sendo flores as Deusas</q>. E terminava com este excitante convite: — <q>Dai um passeio a essa linda cidade, ó vós, que nunca lá chegastes! Ide, e vereis se eu minto! Ide, e percorrei desde o Menino Deus até à Praia de Fora, e vede se vos resta alguma dúvida do que afirmo! Ide, e vereis se de lá partis (isto é, se puderdes .. .) sem o coração machucado e o peito cheio de saudades!</q> </p>
+
+			<p>Era ser muito gentil... Lá pelos meados do século XIX tinha o Desterro estes encantos: em 1856, passava a ser alumiada por 89 lampiões <q>a gás</q>; mas, no ano seguinte, remergulhava na escuridão; não falando nas ruas esburacadas e lamacentas, nem na falta de esgotos e água encanada, nem nas terríveis epidemias que, de vez em quando, funebremente, açoitavam a população.</p>
+
+			<p>Voltando aos mais antigos livros publicados na velha capital barriga-verde, cumpre-nos fazer uma observação. Entre eles, incluiu o Autor da <title>Introdução à História da Literatura Catarinense</title> as <title>Flores Dispersas</title>, da poetisa paranaense Júlia da Costa (pág. 56), aliás: Júlia Maria Machado da Costa, nascida em Paranaguá em 18 de julho de 1844 e que faleceu, demente, em São Francisco do Sul, em 12 de dezembro de 1911. Faltou-lhe, entretanto, indicar a data da publicação.</p>
+
+			<p>Podemos, porém, informar que a poetisa deu ao prelo, com o mesmo título, duas séries de poesias; duas séries pelo menos.</p>
+
+			<p>Era Júlia da Costa sobrinha do Coronel Manoel José Machado da Costa, morto na guerra do Paraguai, e à memória de quem, dedicou ela uma elegia datada de <q>Nossa Senhora da Graça</q> (do Rio São Francisco do Sul) em 26 de agosto de' 1866 e publicada pelo Despertador, do Desterro, em 5 de outubro daquele ano.</p>
+
+			<p>No mesmo número desse jornal se lê que era ela <q>orfãzinha</q> e <q>inocente poetisa</q>; e que algumas pessoas pretendiam dar à publicidade um <q>livrinho de belas poesias</q> da sua lavra, em benefício da própria autora, de sua mãe, e de sua tia, agora na viuvez.</p>
+
+			<p>O citado periódico, em 18 de janeiro de 1867, divulgava uma colaboração que trazia por assinatura três simples asteriscos, e a qual tecia elogios a Júlia da Costa, esclarecendo que a mãe se desvelara em educá-la, tanto que a jovem poetisa, com <q>apenas 18 anos de idade</q>, tinha já para publicar <q>três livros de poesias</q>.</p>
+
+			<p>Realmente, o mesmo Despertador, em 2 de abril de 1867, anunciava: <q>POESIAS. — Estamos autorizados a declarar que hoje começa a distribuição da la. série das poesias de Júlia Maria da Costa</q>, que contava então 23 (e não 18) anos.</p>
+
+			<p>Nas edições de 12 e 13 daquele mês, José Elisiário da Silva Quintanilha, autor de <title>Lírios e Rosas</title> (1863), teceu longa e enaltecedora apreciação dos versos de Júlia.</p>
+
+			<p>A 23 de agosto de 1868, noticiava o <title>Mercantil</title>: <q><title>FLORES DISPERSAS</title>. — Acha-se no prelo e brevemente será entregue aos senhores assinantes a 2a. série de poesias que, com aquele título, está publicando D. Júlia Maria da Costa</q>. Porém, só em 21 de março do ano seguinte, voltava o referido jornal a anunciar: <q>Acaba de ser impresso nesta Tipografia o segundo volume das poesias de D. Júlia Maria da Costa, a quem a imprensa da Corte, pio Grande e desta Província tem em extremo elogiado.</q> — O volume custava 1$000.</p>
+
+			<p>Não consta que a <hi>terceira série</hi> (ou <hi>terceiro volume</hi>) tivesse jamais saído a lume, pelo menos no Desterro.</p>
+
+			<p>Na verdade, muitas dessas publicações, de pequena tiragem, em geral, também não eram de grosso tomo, não passando de poucas dezenas de páginas. Não devemos, porém, esquecer o que, sobre esse particular, observou Nelson Werneck Sodré: <q>Panfleto, opúsculo, livro são, assim, etapas técnicas de impressão, que, no Brasil, ocorrem simultaneamente, pelas condições próprias do meio</q> (<title>Hist. da Lit. Brasileira</title>, 3a. ed., pág. 297).</p>
+
+			<p>Ainda acerca do assunto a que longamente nos vimos referindo, desejamos aduzir mais uma — a última! — observação. Em suas <title>Efemérides Catarinenses</title>, registou Lucas Boiteux o falecimento, em 17 de dezembro de 1824, do Sargento-mor Manoel Marques Guimarães, adscrevendo a informação de ser ele <q>autor de uma <title>Memória Histórica da Capitania</title></q>.</p>
+
+			<p>Se esse trabalho chegou a ser posto em letra de forma, no Desterro, podemos, talvez, considerá-lo como o mais antigo livro impresso em Santa Catarina.</p>
+
+			<p>Mas, que valor teria essa <hi>Memória</hi>? Grande? Medíocre? Nulo? Na Vida de Agrícola, escreveu Tácito que toda coisa, que desconhecemos, costumamos imaginar seja uma grande coisa: <q><foreign xml:lang="la">atque omne ignotum pro magnifico est</foreign></q>.</p>
+
+			<p>Antes fosse...</p>
+			</div>
+			
+			<div type="chapter">
+			
+			<head>“Rocamaranha”</head>
+
+			<p>O artigo do Senhor A. Seixas Neto, acerca da primeira novela publicada pelo Doutor Almiro Caldeira de Andrada, estará levando, possivelmente, os leitores a enquadrá-la em rigoroso cenário histórico; pois que de gravibundas referências históricas se repleta ele, prevendo, mesmo, o seu autor a próxima abertura de um <q>ciclo novo</q> das Letras (em Santa Catarina), com a exploração romantizada da nossa <q>história açorita</q> (<title>O Estado</title>, de 11-1-1962). O próprio novelista, aliás, declarou que a sua única pretensão, ao gizar o plano de Rocamaranha, fora <q>reconstituir e humanizar episódio sugestivo da História Catarinense</q> (Boletim bibl. <hi>Preto e Branco</hi>, n. 3, janeiro-junho de 1961).</p>
+
+			<p>Vejamos, lealmente, o que há de objetivo nessas aspirações, embora seja minguada hoje a voga do romance histórico.</p>
+
+			<p>Quase não existe <q>enredo</q>, propriamente dito, em Rocamaranha. Raras vezes teremos encontrado ação mais simples, menos cortada de incidentes enviesados. Ata-se o fio do conto na Ilha Terceira, onde vivem, nas vizinhanças de Angra, Jordelino, sua mulher Conceição e sua filha Nanda, <q>rapariga de doze para treze anos</q>. Ao norte da ilha, em <q>casinhola solitária</q>, aninhada <q>ao pé da nascente do Gaiteiro</q>, morava Ricardo, pobre plantador de trigo e cevada, com sua mulher Maria Amália, seu filho Duda, <q>rapazelho de dezoito anos</q> e Das Dores, irmã deste. Duda e Nanda namoravam-se. Quando a jovem, em companhia dos pais, partiu para Santa Catarina, na primeira leva de colonos (cujo transporte fora contratado por Feliciano Velho Oldemberg), tentou e pertentou o rapaz conseguir passagem na mesma nau, para seguir o seu amor. Em vão.</p>
+
+			<p>A nau <q>Santa Íria</q> (nome que, equivocadamente, o autor escreve com acento no primeiro i), fez-se de velas, deixando-lhe o coração despedaçado. Porém, seus pais, que a princípio se recusavam sequer a aceitar a ideia de abandonar o querido chão da Ilha, acabaram por emigrar, também, para Santa Catarina, no seguinte transporte. Em viagem, Duda trava relações com Mariana, moçoila de <q>modos desabridos, risadas em espasmos</q>, toda <q>enfarpelada como se fosse uma duquesa em baile real, de arrecadas, penteado, frontaladas, gargantilha</q> (pág. 59), - trajes e dixes que só podemos estranhar em simples aldeã e mais que impróprios em semelhantes circunstâncias. Esta quer conquistá-lo, o que ele somente percebe, deveras, ao chegarem à vila de Nossa Senhora do Desterro, após oitenta e seis dias de amargurada viagem, no decurso da qual sua irmã adoecera de<q>mal-de-luanda</q> e sua mãe, atacada da mesma enfermidade, viria a expirar, enquanto o pai ainda consegue chegar com vida, quebrantado, embora, de pertinaz <q>malina</q>. Passados dias, logra o rapaz esquivar-se aos amavios de Mariana, dos quais Nanda tivera notícias; e com esta reata o primitivo namoro, depois de, contritamente, ter medido <q>a distância que separa o amor verdadeiro da vulgar sensualidade</q> e diferençado <q>as expressões suaves do sentimento dos desordenados impulsos dos sentidos</q> (pág. 106). E, como nos filmes em que tudo termina bem, o desdobado fio da roca, que por um momento se emaranhara, afinal se desmaranha, ante róseas perspectivas de felicidade.</p>
+
+			<p>De histórico, na interessante novela, é, intrinsecamente, o motivo, quer dizer: o transporte dos colonos desde os Açores à Ilha de Santa Catarina. Como dados precisos, de legítima historicidade, indica-nos o autor o ano de 1748 para ponto de partida da narrativa (págs. 7 e 36); talvez a já citada galera <q>Santa Iria</q> (pág. 37); e o navio em que Duda viajou, isto é, o <q>Bom Jesus dos Perdões</q> (pág. 79), devendo-se, porém, completar tal nome, que era assim: <q>Bom Jesus dos Perdões e Nossa Senhora do Rosário</q>.</p>
+
+			<p>Pontos há, cuja exatidão histórica não conseguimos apurar. Eis alguns deles:</p>
+
+			<p>A pág. 65 alude-se ao <q>Padre Jordão</q> como capelão de bordo. Ter-se-ia ele chamado realmente assim? Três foram os navios empregados pelo segundo <q>assentista</q>, João Francisco de Sousa Fagundes, no transporte de casais para o Brasil, em 1749, a saber: <q>Nossa Senhora da Conceição e Porto Seguro</q>,<q>Santa Ana e Senhor do Bomfim</q>, e <q>Bom Jesus dos Perdões e Nossa Senhora do Rosário</q>, conforme provisão real de 4 de setembro daquele ano. No último desses barcos, capitaneado por Manoel Correia de Fraga (cujo nome, injustificavelmente, não figura na novela), teria viajado a família do jovem Duda. Sabe-se (pois há documento a respeito) que, para embarcarem como Capelães desses navios, foram prestadas fianças pelos Padres Vicente de Santo Antônio, Joaquim Ferreira de Andrade e Inácio Mendes Rosado. Como se vê, nenhum deles se chamava <q>Padre Jordão</q>. Que pensar a respeito?</p>
+
+			<p>Na onomástica dos lugares de dentro ou de fora da vila - capital catarinense, aparecem: Toca, Bulha, Figueira, São Luís, Largo do Palácio, Menino Deus (pág. 85), Campo da Tronqueira (pág. 99), Saco dos Limões (pág. 104), Ponte Grande e Prainha (pág. 116) ... Vigorariam, de fato, tais denominações, já em 1749? Quanto à Rua do Vinagre (pág. 115), parece que já existia em 1746, se nos basearmos no artigo publicado por Lucas Alexandre Boiteux na <title>Revista do Inst. Hist. e Geogr. de Santa Catarina</title>, vol. <hi>VIII, 1919</hi>, pág. 76.</p>
+
+			<p>O <q>Largo do Palácio</q> é ultra-suspeito. Talvez houvesse, na realidade, qualquer <q>largo</q>, porquanto, na provisão régia de 9 de agosto de 1747 (que, diga-se de passagem, foi redigida por Alexandre de Gusmão), se recomendava, na parte relativa ao estabelecimento dos colonos, que <q>no sítio destinado para o lugar (se) assinalará um quadrado para praça, de 500 palmos de face, etc.</q>; porém, que algum <q>palácio</q> existisse aí, onde só havia miseráveis choupanas levantadas de afogadilho para abrigar os casais, é inadmissível. Mais acertado, cremos, andaria o apreciado novelista, se, ao invés de falar em <q>Largo do Palácio</q>, dissesse <q>Praça da Igreja</q> ou, mesmo, <q>Praça da Matriz</q>. Pois Osvaldo Cabral, referindo-se ao governo do Coronel Pedro Antônio da Gama Freitas (1775-1777), diz que, naquele tempo (isto é, mais de um quarto de século depois da chegada dos primeiros colonos), o Desterro apenas contava <q>cerca de duzentas casas</q>, não havendo ainda comércio: <q>apenas uma tenda de ferreiro e uma botica</q>. E acrescenta: <q>As ruas não eram muitas. Da Praça da Matriz (note-se bem: Praça da Matriz) partiam paralelas às praias, para um e outro lado, em geral, até atingirem as fraldas de alguma colina. Aí paravam ou viravam caminhos de cabras</q> (Nossa Senhora do Desterro, pág. 11). Em princípios do século XIX, sim, havia já um <q>Largo do Palácio, hoje Praça Quinze de Novembro</q>, segundo nos informa Lucas Boiteux em suas Notas para a História Catarinense, pág. 295, onde também cita a <q>Tronqueira</q>, a <q>Toca</q>, o <q>Mato Grosso</q>. Com referência ao <q>Menino Deus</q>, o que se sabe é que o outeiro ou colina, que tomou esse nome, é mero contraforte do <q>Morro da Boa-Vista, continuação do Antão, que lhe serve de padrasto</q> (cf. Almeida Coelho: <title>Memória Histórica da Província de Sta. Catarina</title>, 2ª. ed., pág. 96). Foi ali que a beata Joana de Gusmão, com o auxílio de espórtulas angariadas em suas peregrinações votivas à Colônia do Sacramento e ao Rio Grande, e por provisão do Bispo do Rio de Janeiro, fundou, onde dantes era <q>mato virgem</q>, a Capela do <hi>Menino Deus</hi>, em 2 de maio de 1762, isto é, catorze anos depois da chegada das personagens de <title>Rocamaranha</title>.</p>
+     
+			<p>A pág. 94 alude o distinto novelista à <q>freguesia da Trindade</q>. Se, quando ali se foi fixar o Manoel da Isidora, no <q>início da colonização</q>, havia já alguns moradores (o que nos parece improvável), o lugarejo não era ainda <q>freguesia</q>. Esta qualidade só viria a ser-lhe atribuída mais de cem anos depois, isto é, pela lei provincial n. 352, de 22 de março de 1853.</p>
+
+			<p>Tais questiúnculas, porventura, moverão ao riso os que só cuidam da História com vangloriosa maiúscula inicial. Não obstante, como as miudezas do passado encerram, às vezes, especial atrativo, gostamos de as ventilar quando tem cabida, - sem embargo da opinião de um pensador como Bertrand Russell, o qual diz: <q>A história deixou de ser tão interessante como era antes, devido, em parte, ao fato de o presente ser tão rico de acontecimentos importantes e tão repleto de informações rápidas, que muita gente não tem tempo nem disposição de voltar a atenção para os séculos passados</q> (<title><foreign xml:lang="en">Portraits from memory and other essays</foreign></title>, pág. 184 - 185 da trad. bras.).</p>
+
+			<p>A época em que decorre a novela é pouco familiar ao comum dos leitores; porém, muitos barrigas-verdes conhecem razoavelmente o material, o assunto-base que nessa época se enquadrou, isto é, a colonização açorita e madeirense da sua terra Isso despertará o interesse dos leitores de Santa Catarina, mais do que o de quaisquer outros, sem dúvida nenhuma.</p>
+
+			<p>Concordamos que o autor talvez não quisesse dar cores retintamente históricas ao seu trabalho, com receio de prejudicar o romanesco e o sentimental existentes no amor juvenil de Nanda e Duda, particularmente, e na ação intercorrente das personagens episódicas. O fato é que o seu trabalho ficou ressentindo-se da ausência de pormenores mais característicos no que concerne ao ambiente do século XVIII. Grande parte da narrativa decorre a bordo da nau transportadora dos ilhéus. Entretanto, quase não sentimos que aquilo se passa no bojo de um navio, que, durante <q>oitenta e seis dias</q> (pág. 85), rolou sobre a largueza do oceano inconstante. O Mar devia ser personagem sempre presente na graciosa novela que viemos comentando; foi relegado, porém, ao último plano.</p>
+
+			<p>Que efeitos não obteria o inteligente novelista se se dignasse aproveitar algumas das <q>condições</q> do contrato para o transporte dos colonos! Haja vista a condição XII, que trata das <q>dietas</q> indicadas para os que viessem a adoecer durante a viagem. Por sua vez, o passadio ou rancho de bordo, fixado pela condição IX, é ultra-interessante. E, bem assim, a condição X, que revela por quem era preparada e como era distribuída a comida aos passageiros.</p>
+
+			<p>Parece-nos que se o autor aproveitasse esses elementos ao longo do entrecho da novela, conseguiria, se houvesse habilidade, maior colorido, maior movimento, em suma, maior realismo na objetivação da vida a bordo da famigerada nau-transporte. Afinal, o leitor bem poderá perguntar como e com quê se alimentavam aquelas centenas de criaturas, acoguladas, no século XVIII, num barco que se arrastou, sobre a temerosa vastidão atlântica, durante cerca de três meses. Não seria essa, por acaso, uma das facetas do <q>realismo histórico</q> imaginado pelo Senhor Seixas Neto?...</p>
+
+			<p>Injusto, porém, seríamos, se exigíssemos que o apreciadíssimo trabalho do novelador barriga-verde se nos deparasse como autêntica reconstituição de um <q>episódio da História Catarinense</q>, não obstante ser esta, conforme declarou, a sua única pretensão ao escrevê-lo.</p>
+
+			<p>Porque o talentoso autor parece mesmo ter-se inspirado, mais, no encontro com <q>uma velhinha cheia de ais e queixumes, há muitos anos, em Canasvieiras</q> (cf. <hi>Preto e Branco</hi> citado); e, levado por semelhante impressão meramente sentimental, desdenhou, em grande parte, aquilo que serviria, porventura, para situar com vital relevo, no tempo e no espaço, as suas queridas personagens.</p>
+
+			<p>Assim como não há, em <hi>Rocamaranha</hi>, um <q>retrato</q> de linhas acentuadamente humanas, vívidas e inconfundíveis, um <q>caráter</q> de expressivos relevos, igualmente não há uma <q>paisagem</q> que sirva de cenário à dura vida dos colonos no Desterro, nem sequer uma vaga referência a índios, a feras, a répteis, a peixes e aves do país. Não estamos a exigir que a novela virasse catálogo de museu de História Natural. Mas é que tudo parece passar-se ali numa atmosfera de sonho. E um palco fictício, sem sólido chão em que as personagens firmemente pudessem assentar a sola dos pés. Ali não há aquele <q><foreign xml:lang="fr">état du milieu</foreign></q> que, segundo Zola, <q><foreign xml:lang="fr">détermine et complète l'homme</foreign></q> (Le Roman Experimental, pág. 11).</p>
+
+			<p>Dentre as frutas da terra, apenas menciona o talentoso novelista laranjas bergamotas madurinhas, saboreadas por Duda e Mariana (pág. 93). Mas, se esses românticos ilhéus viajaram no navio <q>Bom Jesus dos Perdões e Nossa Senhora do Rosário</q> (que o Rei Dom João V, em provisão de 4 de setembro de 1749, comunicava ao Governador da Ilha de Santa Catarina já estar pronto para conduzir seiscentas pessoas), teriam chegado ao seu destino entre 20 de dezembro e 19 ou 20 de janeiro, conforme as cartas dirigidas ao Rei pelo Governador Manuel Escudeiro Ferreira de Sousa, em 19 e 20 de fevereiro de 1750, e conforme o <q>sumário de testemunhas</q> que o dito Governador mandou fazer, em 13 desse último mês e ano, sobre o procedimento de Manoel Corrêa de Fraga, capitão do dito barco. Assim sendo, a chegada se deu em pleno verão, quadra em que já não há bergamotas maduras na Ilha de Santa Catarina.</p>
+
+			<p>Infelizmente, outro cochilo notamos. E quando o autor faz rezar-se a bordo, durante a travessia, <q>a missa da Páscoa</q> (pág. 73). Ora, se a viagem das personagens de <title>Rocamaranha</title> se deu, segundo vimos, nos últimos meses do ano de 1749, já tinha sido a Páscoa comemorada pelos colonos, nas suas ilhas de origem, havia meses; pois, essa grande festa católica, depois que o Concílio de Niceia ditou a última palavra sobre a questão, realiza-se, indefectivelmente, no primeiro domingo depois do plenilúnio da primavera do hemisfério norte (Alzog: <title>História Universal da Igreja</title>, trad. de José Antônio de Freitas, vol. I, pág. 301).</p>
+
+			<p>Escorregadelas sem consequências, estas, do novelista de <title>Rocamaranha</title>. Idênticas hão sofrido grandíssimos escritores.</p>
+
+			<p>Incontestável é certo desarranjo na composição da novela. De não poucas personagens, mesmo as principais, como Nanda e Duda, não sabemos os legítimos nomes, pois que nos foram dados, apenas, os seus hipocorísticos. São assim o Bilé, o Jaduca, a Cindina, o Juquita, a Aninha, o Lico, a Marocas, o Candonga, a Belinda... Trazem, outros, simples apelidos que sugerem, quiçá, os seus tipos físicos, a exemplo do Chicão da Venda, do Zé Pequeno... À pág. 7, pela vez primeira, se nos depara Ricardo, tout court, para somente à pág. 49 virmos a saber-lhe o nome por extenso: Ricardo Antônio Lourenço. Quer dizer: as personagens, em geral, são introduzidas em cena sem firmes e fortes traços que as individualizem. São debilmente esboçadas. Impossível fixar-lhes, sobretudo, as molas expressivas do caráter. Não há, em todos aqueles vinte capítulos, um único retrato. A figura de mais movimento, mais vida, será, porventura, Mariana. Depois de fechado o livro, continuamos a ver-lhe os vestidos inconsequentemente espavantosos, os modos estourinhados, a ouvir-lhe as casquinadas histéricas. Se, entretanto, nos perguntarem qual era o seu físico, o seu porte, a sua fisionomia, não saberíamos responder.</p>
+
+			<p>Todavia, por mais estranho que pareça, foi feliz o autor ao movimentar, a revezes, certas figuras, sem lhes mencionar os nomes ou apelidos, conseguindo, assim, dar-nos a impressão do triste anonimato de tantas criaturas que o sonho do Brasil, por instantes, seduzira, mas que, decerto, em pleno mar alto, na alucinadora monotonia dos dias e noites imensuráveis, caíam em si, arrependidas da aventura em que se haviam lançado, sem que, já agora, pensassem sequer em escapar ao degredo para onde iam levadas; e, nessa desnorteante conjuntura, ficavam reduzidas a míseros autômatos, a tristes sombras sem aspirações nem vontade.</p>
+
+			<p>Qual o quilate da língua desta amável novela? Pode dizer-se bom. Diríamos o melhor, se o autor se preocupasse menos ou se despreocupasse por inteiro dos termos ou expressões convencionalmente rústicas com que supõe dar cunho de naturalidade à fala das suas personagens, as quais, no entanto, põem-se, de vez em quando, a frasear com verdadeiro apuro.</p>
+
+			<p>Assim, à pág. 60, diz a velha Isidora: – <q>Quem tem mãe tem carinhos. Passe para cá vossemecê, venha assistir sua filha, que eu de mim mesma me cuido</q>.</p>
+
+			<p>Quando Belinha teve confirmação dos amoricos de Mariana e Duda (pág. 98), assim se expressou: - <q>Ora, muito bem. Eu já cá sabia disso... Pois vá lá, então! Se vocês se gostam e se querem, que se unam e se regalem. Não serei eu que hei de apartar dois corações amantes</q>.</p>
+
+			<p>Ricardo, mofino cultivador de trigo e cevada da freguesia terceirense de Quatro Ribeiras, no momento da largada para o Brasil (pág. 47), exclama em refinada metáfora: - <q>Aqui deixo as raízes da minha vida!</q></p>
+
+			<p>Assinale-se, entretanto, que o ilustre novelista parece versar com simpatia autores lusos, - <q>uns certos que eu não sei quais são</q>, como diria Fialho d‘Almeida (<title>Vida Irônica</title>, nova ed., s. d., pág. 240). Denuncia a sua escrita, em alguns passos, o sainete peculiar à fala portuguesa. Escrevendo assim, sobre tema em que entranhadamente circula a seiva de originárias tradições lusas, andou certo. Mas, com franqueza, cremos haver-se transviado ao pôr na boca das figuras que a sua imaginação engendrou, deturpadas pronúncias de formas nominais e verbais; e outros desconchavos de linguagem, como: <hi>qual'ié?</hi> (págs. 58, 77, 98), tal’iqual (pág. 68), <hi>que del'ele</hi> (pág. 88), <hi>adonde</hi> (pág. 86), <hi>hôs</hi> (pág. 12), <hi>ontontem</hi> pág. 12), <hi>antontem</hi> (pág. 105), etc.</p>
+
+			<p>Diversas formas reduzidas do axiônimo <hi>Vossa Mercê</hi>, isto é: <hi>vossemecê</hi> (págs. 68 e 113), <hi>vosmecê</hi> (págs. 18, 19, 30, 35, 53, 54, 60, 77, 78), <hi>mecê</hi> (págs. 9, 12, 24, 25, 58, 93), você (págs. 23, 31, 64) e <hi>vancê</hi> (pág. 57) foram empregadas, segundo cremos, na tentativa artificiosa de caracterizar a rusticidade das personagens e de marcar as formas de tratamento entre elas. Mas por que uma destas diz <hi>vossemecês</hi> (pág. 54) e, três páginas adiante, dirigindo-se novamente às mesmas pessoas, diz <hi>vancês</hi>? Não parece incoerência? E por que, ainda, ao rosário daquelas formas reduzidas, não ensartou <hi>vacê</hi>? A enfiada estaria completa...</p>
+
+			<p>Além do que se possa dizer contra isso, convém lembrar que não está provado falassem assim os madeirenses e açorenses do século XVIII. O Autor, que tão bem escreve (quando quer...) a nossa língua, mais sincero seria se aplicasse à urdidura formal da novela as propriedades do comum polimento vernáculo, dispensando os abundantes e agrestes vulgarismos.</p>
+
+			<p>Não faz muito tempo, Alcântara Silveira, analisando o romance <title>Irmão Juazeiro</title>, do demagogo nordestino Francisco Julião, em cujas páginas pululam expressões como: <hi>Inhôr sim</hi>, <hi>Sabe lá o que tás dizendo</hi>, <hi>Dá tempo de chegá um’hora em casa</hi>, <hi>Tou no fim</hi>, <hi>Tá com medo</hi>, <hi>Tás vendo</hi>, etc., observou assisadamente: <q>Não sei quando os romancistas que retratam matutos, caipiras, campesinos, sitiantes ou sertanejos, se convencerão de que não é a linguagem que caracteriza essa gente, mas seus costumes, suas atitudes e suas reações. E por isto, e não por aquilo, que se fica conhecendo o homem do campo, da mata ou do sertão</q> .</p>
+
+			<p>Por se tratar de história passada há mais de duzentos anos e com gente lusitana, curial seria que o autor evitasse brasileirismos de palavras e de frases, tais como: <q>Ele (Lico) sucedeu de repente na casa de Jordelino, armando a confusão</q> (pág. 110); <hi>dar com o rabo na cerca</hi> (pág. 4), <hi>de ponta cabeça</hi> (pág. 11), <hi>cutucadas</hi> (pág. 47), <hi>rebordosa</hi> (pág. 57), <hi>macanudo</hi> (pág. 86), <hi>maxambomba</hi> (pág. 87), <hi>mazanzas</hi> (pág. 87), <hi>semostradeira</hi> (pág. 92) carão no sentido de <q>repreensão</q> (pág. 94), <hi>cabortice</hi> (pág. 109), <hi>encafifado</hi> (pág. 111), etc. Isso, no que concerne ao texto, propriamente dito; porquanto em maior absurdo incorreu o distinto escritor ao abrasileirar a fala de gente que dantes nunca estivera no Brasil. Senão, vejamos: - na pág. 9, Duda pergunta: - <q>E Nanda como <hi>assunta</hi> tudo isso?</q>. A pág. 13, é a mesma personagem quem diz: - <q>Se tivesse <hi>assuntado</hi> antes, bem que tudo tinha se acomodado diferente</q>. À pág. 23, reincide: - <q>Assuntei tudo...</q> Na hora do embarque para o Brasil (pág. 49), exclama uma Ordenança: - <q>Vàmos, nada de embromações!</q>. Quando o mandanfe procurou escusas para certo descomedimento de Duda, falou assim: - <q>Mas ... todo o erro do rapaz foi fruto da afobação ...</q> (pág. 68). À pág. 109, é assim que Lico desabafa, ao referir-se ao procedimento do mesmo Duda: - <q>Taboqueou-me o maroto!</q> </p>
+
+			<p>Indesculpáveis confusões, bem como impropriedades lexicais maculam o texto do Escritor catarinense. Indicaremos algumas.</p>
+
+			<p>A povoação de Nossa Senhora do Desterro aparece, ora acertadamente como <q>vila</q> (págs. 94, 97 e 98), ora erradamente como <q>cidade</q> (págs. 89 e 91).</p>
+
+			<p>Lemos à pág. 85: <q>A ruma de povo teria invadido o ancoradouro se o governo da ilha não prevenisse a desordem, etc.</q>. Não cremos que alguma autoridade vernácula ousasse empregar jamais a expressão <q>ruma de povo</q> para significar <hi>chusma, gentio, grande ajuntamento de gente</hi>. E, para indicar também <hi>multidão de pessoas</hi>, o Escritor catarinense emprega simplesmente <q>cópia</q> (pág. 51), quando esse vocábulo, só de per si, não possui tal acepção.</p>
+
+			<p>Na pág. 24, confunde <hi>canga</hi>, ou <hi>jugo</hi>, com <q>cangalhas</q>.</p>
+
+			<p>Os emigrantes são postos a tomar a sua <q>merenda</q>, <q>muito cedo</q>, <q>antes do sol aparecer</q> (pág. 46). No entanto essa primeira comida é a <hi>dejejua</hi>, ou <hi>desjejua</hi>, ou <hi>desjejum</hi>, ou <hi>dejejuadouro</hi>, ou <hi>parva</hi>, ou, ainda, como em alguns pontos de Santa Catarina se diz: <hi>aparado</hi>; enquanto que merenda é (ou era...) uma refeição ligeira entre o jantar e a ceia.</p>
+
+			<p>Querendo, porventura, escrever locutório ou parlatório (que, aliás, não teriam ali cabimento), o novelista empregou <q>interlocutório</q> (pág. 76), coisa que, absolutamente, não faz sentido.</p>
+
+			<p>A pág. 116, conta-nos, a respeito do idílio de Nanda e Duda: <q>Nesse dia, ela apenas lhe sorriu... Ao terceiro... aparceirou-se-lhe em demoroso vaguear pelo quinteiro</q>. Porém, quinteiro, em Morais (1813) e Constâncio (1856) significa apenas o abegão, que cuida na cultura da quinta, administrador ou feitor dela. Em verdade, Aulete e Figueiredo lhe atribuem, a mais, a significação de pequeno quintal ou horta murada, eido; mas assinalam que, com este sentido, é <q>provincianismo minhoto</q>.</p>
+
+			<p>A pág. 17 encontramos Chicão a ouvir <q>a preleção de Jordelino sobre seu propósito de fazer o Brasil.</q> Infelizmente, <hi>fazer o Brasil</hi> é arremedo do francês <foreign xml:lang="fr">faire l’Amérique</foreign>...</p>
+
+			<p>Há quem não se horrorize com semelhantes galiciparlices. Os anos e as modas amolecem resistências. Mas temos o direito de considerar impossível que um aldeão terceirense já estivesse tão afrancesado no século XVIII, que chegasse ao ponto de galicismar, também, assim: - <q>...Vai Jordelino embarcado numa nau, mais a mulher, a fazer o Brasil como colono</q> (pág. 29).</p>
+
+			<p>Na página 103, refere-se o Escritor às <q>ante-salas</q> da administração, e, na pág. 115, às <q>cavalariças palacianas</q> do Desterro. Ora, a vila-capital, naqueles tempos, praticamente, pouco mais seria que um posto de feição militar avançado, na costa sul do Brasil. Ninguém desconhece os esforços de Alexandre de Gusmão no sentido de povoar e proporcionar meios de defesa à região, até <q>os espanhóis confinantes</q>. Nenhum conforto na Ilha. Uma espécie de acampamento forçado, onde os próprios chefes civis se compenetravam de estarem aí em permanente estado de ocupação e defensão. Para isso haviam-se enrijado os portugueses durante séculos, <q>vendo, tratando e pelejando</q>.</p>
+
+			<p>Em sã verdade, o que no Desterro havia, em matéria de instalações administrativas, na época em que teriam chegado as personagens de <hi>Rocamaranha</hi>, era, no <q>Largo da Praça</q>, a <q><q>residência do Governador</q> uma simples casa, cujo pé direito não excedia a 12 palmos e que servira igualmente de Provedoria; o mesmo acontecia quanto a armazéns reais, que ainda em 1802 existia na Praça, imediato à praia, uma palhoça que servia de quartel à gente da marinha</q> (Almeida Coelho: <hi>Memória Histórica</hi>, 2a. ed., pág. 102). O próprio Governador Coronel Manuel Ecudeiro, em carta de 20 de fevereiro de 1750, informava o Rei de que: <q>Os casais se vão acomodando como pode ser</q>, por <q>não haver quem os possa e saiba arrumar: pois não tenho oficiais nem engenheiro mais que um capitão, que quase sempre está enfermo e para nada tem servido...</q>; acrescentando que <q>tem desertado a maior parte dos índios e degredados com os mesmos soldados que os guardam, e, como estes quase todos são o mesmo, não tenho de quem me fie ...</q>. Já em carta do dia anterior, havia ele relatado: <q>Não têm vindo mais armas para os casais e ordenanças, fora das 116 que trouxeram os primeiros casais no ano de 1748, estando todos os mais sem elas expostos à fereza e crueldade dos tigres e onças, que lhes acometem os ranchos, valendo-se eles, para os afugentar, de fazer fogos; e, recolhendo-se do trabalho do dia, não podem descansar de noite, com o temor dos perigos em que vivem com suas amedrontadas famílias</q>. Ora, num meio assim, onde o governante não tem ninguém que o auxilie eficientemente no ofício de administrar e os pobres ilhéus, inermes e apavorados, não podem sequer dormir, porque as feras, saindo de noite da floresta próxima, vêm rondar-lhes os inseguros <q>ranchos</q>, parece-nos difícil a existência de burocráticas <q>ante-salas de administração</q> e seletas <q>cavalariças palacianas</q>.</p>
+
+			<p>Os partidários da ligeireza literária, com certeza, dirão que o Escritor catarinense já está com quarenta anos (v. <title>O Estado</title>, de 16-1-1962), e não pode perder tempo com maiores exigências documentais e maiores rigorismos vernáculos, pois ainda deseja novelar muitíssimo. Ao que nos permitiríamos objetar que somente depois de porfiados estudos de arqueologia é que Flaubert se julgou apto a escrever <hi>Salammbô</hi> publicado igualmente aos quarenta anos de sua idade; Walter Scott tinha quarenta e três, quando deu a lume o seu primeiro romance histórico: <hi>Waverley</hi>; e Stendhal estava perto dos quarenta e cinco, ao escrever a sua primeira novela: <hi>Armance</hi>. E continuaram!</p>
+
+			<p>O autor de <title>Rocamaranha</title> possui todas as qualidades para poder também <hi>continuar</hi>, e <hi>continuar</hi> com a maior perfeição possível. A inerrância é virtude acima das medidas humanas, mas a vontade bem dirigida realiza maravilhas. Mostram-nos isso algumas páginas do gentil livrinho.</p>
+
+			<p>Certas cenas, por exemplo, têm vivo sabor idílico e caberiam, graciosamente, nos versos de Teócrito. Tal a que se nos depara nas págs. 24 - 25, que descrevem o encontro de Nanda e Duda a trocar juras de amor: <q>Saiu Duda em direção à mangueira gigante, sob a qual deixara o carro pronto para o estirão que lhe consumiria toda a tarde e a metade da noite. Encontrou-o todo enfeitado, os canzis e as cangalhas cobertos de rosas e palmas. Sorriu, abanando a cabeça. A dona da travessura não podia estar longe. Olhou em redor, procurando-a. De entre a sebe do vinhedo subiu uma risada e logo apareceu a rapariga, dedo no ar, a repreendê-lo...</q> Segue-se um diálogo que, apesar de o Autor o haver abastardado com vulgarismos hipoteticamente dialetais, está ouro e fio com o sentir das personagens.</p>
+
+			<p>O começo do cap. X (pág. 51) é de admirável movimento. Naquelas curtas dezessete linhas condensou o Novelista o confuso fervilhar dos centenares de colonos ao precipitarem-se, em disputa dos beliches, no bojo escuro da nau. Um dos mais fortes lances da novela.</p>
+
+			<p>Igualmente feliz é o remate do cap. XII (págs. 65 - 66), onde o mesmo espírito de síntese não constrange a fluência da narrativa.</p>
+
+			<p>Por haver infringido uma das mais sérias determinações do <hi>Regimento</hi> de bordo, é Duda encerrado na <q>casa das bombas</q>, onde <q>a noite toda velou em cismas, ora a lastimar a irmã, ora a mãe, ora o pai. Mas de nada desesperou, pois a tudo o encorajava a imagem da namorada, cuja lembrança era mais forte que as mesmas tintas escuras, na paisagem do coração. As dores do mundo inteiro não podiam sufocar em seu peito as cantigas da esperança</q> (pág. 67). Deveras encantadora é essa maneira de dizer.</p>
+
+			<p>O encontro do jovem Duda com o pai enfermo no pseudo-hospital da vila (pág. 99), é outro quadro desenhado com o mais fundo sentimento: <q>Ali ficou, os joelhos no chão, a face sobre a mão fria do enfermo, os olhos a derramar arrependimento. Sentiu, só então, as dimensões do seu erro. Deixou que a consciência o acusasse, desempeçada e solta. E esta rugiu e bradou alto os desvios do seu caráter, as deserções do dever, da palavra empenhada, das juras que jurara para transgredir. Tudo feito e assoalhado sobre a desgraça dos pais, cujo sacrifício levianamente impusera. Chorou mais por si mesmo que pelo infortúnio daqueles. Fizera-se um ingrato e também um infeliz</q>.</p>
+
+			<p>O fim do cap. XX (pág. 113) é primorosíssima aguarela, embebida da mais delicada e melancólica poesia: <q>Na tarde ensolarada, o caminho espreguiçava-se sob o toldo roto das ramagens. Nele, gasalhados em chapeirões de palha, vagorosos, três pobres viandantes sumiram de vista, para a banda do morro...</q></p>
+
+			<p>Escrevendo, como fez, nos citados passos, alinha-se o Autor entre quantos elegantemente resistem às hordas bárbaras que de longe em longe achavascam a língua literária. Mostra ele assim, que, quando cuida mais seriamente do apuro formal, não o faz por mero capricho, senão que obedece à sua própria concepção da Literatura.</p>
+
+			<p>Façamos votos por que se lhe não embote o nobre sentimento da prosa lapidar, diante das envolventes atrações da popularidade ruidosa e fácil. Se o estilo é a marca suprema das obras que ficam, não se envergonhe o autor de <title>Rocamaranha</title> de sofrer aquele <q><foreign xml:lang="fr">horreur de la facilité</foreign></q> que excruciou <name>Flaubert</name>, mas que, por isso mesmo, lhe perpetuou o nome ilustre nas glorificações da Posteridade.</p>
+    </div>
+
+		</body>
+	</text>
+</TEI>

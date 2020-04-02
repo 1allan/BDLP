@@ -1,0 +1,2920 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vindita Braba</title>
+        <author>Othon Gama d'Eça</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication statement.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Vindita braba</title> de Othon d'Eça. Florianópolis: Fundação do Banco do Brasil;
+Ed. da UFSC, 1992.</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div type="foreword" subtype="dust-jacket">
+
+        <p>Minha primeira aproximação de Othon d’Eça foi na qualidade de seu aluno de Direito Romano, na antiga Faculdade de Direito da Rua Esteves Júnior. Um aluno sofrível meio que escondido lá no fundo da sala entre outros alunos, mas que não se cansava de admirar o verbo colorido, fascinante, pontuado de humor e poesia daquele professor que alternava a Lei das Doze Tábuas, expressões latinas, tempos de Diocleciano e Justiniano, com digressões literárias e reflexões filosóficas que pouco ou nada tinham a ver com a sua disciplina.</p>
+
+        <p>A mesma prosa inesgotável, quase um monólogo, agora entusiasta e amigável, cativou muitas vezes a atenção do grupo de jovens literatos que ia visitá-lo com frequência em sua casa da Avenida Mauro Ramos, lá pelo final da década de cinquenta e do qual eu fazia parte. Mas Othon d’Eça não foi somente o <foreign xml:lang="fr">causeur</foreign> luminoso, nem o ficcionista mais significativo da geração que antecedeu ao Grupo Sul. Foi também o espírito aberto, sem preconceitos, incentivador dos que se iniciavam na criação literária, mesmo daqueles que discordavam de seus ideais estéticos. Particularmente, tenho para com ele uma dívida de gratidão: devo-lhe as palavras de alento e a contribuição material, em nome da Academia Catarinense de Letras, que presidia, para a edição de meu primeiro livro, <title>O vigia e a cidade</title>.</p>
+
+        <closer>
+        <signed>
+          <name>Silveira de Souza</name>
+        </signed>
+        </closer>
+
+      </div>
+
+      <div type="foreword">
+        <head>Apresentação</head>
+
+        <p>Que realce melhor poderia ser dado ao transcurso, no corrente ano, do centenário de nascimento de Othon d’Eça senão fazendo a publicação de sua obra?</p>
+
+        <p>O que o escritor nos deixou em livro não contou ainda com a difusão merecida.</p>
+
+        <p>
+          <title>Cinza e bruma</title> teve uma edição em 1918, no Rio de Janeiro, e constitui hoje preciosidade de bibliófilo; <title>Vindita Braba</title> apareceu somente na imprensa (jornal <title>República</title>, de Florianópolis, em 1923, e <title>Revista do Brasil</title>, de São Paulo, em 1924);... <title>Aos espanhóis confinantes</title> foi publicado em 1929 e dele restam raríssimos exemplares; <title>Nuestra Señora de l’Asunción</title> não foi além do jornal (<title>O Estado</title>, 1956). <title>Homens e algas</title>, de todos o mais importante, conheceu um pouco mais de divulgação: lançado em 1957 com o apoio da imprensa Oficial, foi republicado em 1978, também por iniciativa do governo do Estado.</p>
+
+        <p>Era mais do que necessário, portanto, resgatar para o leitor dos nossos dias os livros de Othon d’Eça e a passagem do centenário apresentou-se como o momento ideal.</p>
+
+        <p>Com base nos textos levantados e revistos pela professora Danila Carneiro da Cunha Luz Vareiki a Fundação Catarinense de Cultura elaborou um projeto de edição dos cinco títulos e pleiteou o apoio financeiro da Fundação Banco do Brasil, através da agência central do Banco em Florianópolis. A resposta da entidade, cuja adesão a promoções culturais já se tornou tão conhecida no país, não podia ter sido mais positiva. A ela ficamos muito gratos.</p>
+
+        <p>Agradecemos também aos escritores Lauro Junkes, Celestino Sachet, Enéas Athanázio e C. Ronald Schmidt pelos textos introdutórios que elaboraram para a presente edição comemorativa.</p>
+
+        <closer>
+        <dateline>Florianópolis, outubro de 1992</dateline>
+
+        <signed>
+          <name>Iaponan Soares</name>
+          <lb/>
+          <roleName>Diretor Geral</roleName>
+          <lb/>
+          <orgName>Fundação Catarinense de Cultura</orgName>
+        </signed>
+        </closer>
+      </div>
+
+      <div type="preface">
+        <head>Como num prefácio<note>Deixado por Othon d’Eça para uma futura edição de <title>Vindita Braba</title></note></head>
+
+        <p>É assim, como está neste livro, que fala o ilhéu de Nossa Senhora do Desterro: velhas palavras e velhas locuções oriundas daquelas ilhas donde vieram, há mais de duzentos anos, os primeiros colonizadores açorianos. Guardou-as, com amorosa ternura, o neto catarinense insulado na sua casucha de taipa, à beira do mar, entre os esguichos verdes das piteiras e grossas pedras cinzentas, ou à margem desses caminhos sombreados de laranjeiras e cafeeiros, estreitos como azinhagas, que o verão enche de flores e as bergamotas perfumam no inverno.</p>
+
+        <p>Para tornar este documentário menos pesado e menos erudito, dei-lhe as formas ligeiras e fluidas da novela: assim ficaria ele mais leve, mais límpido e mais fácil. Além disso, eu conservaria, nestes tempos de rudes conceitos de arte e de escuras materialidades, um calor de idealismo e sentimento, o culto do estilo, do som e do colorido.</p>
+
+        <p>O glossário, como me aconselhou certa vez Monteiro Lobato, por certo completará a obra e conduzirá o leitor, com mão amiga e pronta, ao perfeito entendimento do texto novelizado. Custou-me um espaçoso tempo de convivência por esse umbroso interior da ilha e um longo, paciente trabalho de pesquisa, de coleta e de análise.</p>
+
+        <p>De resto não desci aos desenhos miúdos e curtos que, às vezes, revelam muito menos do que as pinceladas largas e fortes. Para dar uma impressão de realidade intensa e viva, não coloquei o velho linguajar ilhéu, como se fora uma seca e enfaixada múmia, num sarcófago enfeitado dos ricos e austeros florões da morfologia. Preferi dependurá-lo da boca de personagens que existiram, vivendo num ambiente que era a sua atmosfera e na qual, por isso mesmo, eles pudessem ter, como convinha, uma poderosa palpitação de atualidade.</p>
+
+        <p>Divulgá-lo sob esse critério pareceu-me mais acertado e útil: levaria aos doutos um material para estudos de história e crítica filológica e àqueles espíritos leves que preferem os enredos – um pouco de distração e de interesse.</p>
+      </div>
+
+      <div type="foreword">
+
+        <head>Homens e sítios na região da vingança universal</head>
+
+        <opener>
+          <signed>Celestino Sachet</signed>
+          <epigraph>
+            <cit>
+              <quote>Aqui no sítio não veve gente capaz duma ruindade daquela. Alembram-se vancês de quando o Miguelinho esteve co’as sezões? não foi o povo que cuidou?</quote><bibl><author>Zé Cardoso, personagem de <title>Vindita Braba</title></author></bibl>
+            </cit>
+          </epigraph>
+        </opener>
+          
+
+        <div type="section">
+          <head>1. Anos Dez-Vinte e o Tempo da Revolução</head>
+
+          <p>Ao estudar a <q>evolução política</q> da República Velha, 1889-1930, Edgar Carone fixa-lhe quatro tempos: <q>Os governos militares</q>, novembro, 1889-1894; <q>O fastígio do Regime</q>, 1894-1910; <q>Os abalos intermitentes do Regime</q>, 1910-1918, e <q>O período das contestações</q>, 1918 – outubro, 1930. Entre 1919-1922, Hélio Silva encontra vez e voz da <q>Revolução Brasileira</q>, enquanto Alceu Amoroso Lima estuda 1922, <q>ano do centenário da Independência e do balanço natural de um século</q>, como o palco de três revoluções: <q>uma no plano político</q>, com os Dezoito do Forte; <q>outra no plano literário</q>, com a Semana de Arte Moderna e <q>uma terceira no plano espiritual</q> marcada por <q>um renascimento religioso e o restabelecimento de relações, cordiais ou antagônicas (...) entre a inteligência e a fé</q>.</p>
+
+          <p>A partir dos Anos Dez, um tempo de contestação planejada também desembarca em Santa Catarina, alimentado pelo espetáculo rotineiro (e agressivo!) em que se transformara o teatro de uma política, com os mesmos personagens a desempenharem os papéis de sempre, porque apoiados no <q>ponto</q> que já conhece texto e desempenho de cor: o Partido Republicano Catarinense.</p>
+
+          <p>A contestação política vai sendo aplaudida por um grupo de jovens, ainda estudantes, dispostos a instaurarem, entre nós, a dinâmica dos <q>abalos intermitentes do regime</q>.</p>
+
+          <p>Uma análise capaz de abarcar o tempo catarinense de uma cultura nova, no espaço da velha política, e da cultura velha, durante as duas primeiras décadas do regime republicano, encontra um dado significativo: um grupo de jovens, nascido nos anos Dor-Maior de Cruz e Sousa, está presente no pensamento e na ação cultural de Santa Catarina, no decorrer de toda a primeira metade deste século dos novecentos. Servem de ponte entre a República Velha, que se extingue em 1930, e a construção de um outro modo de governar, implantado em outubro daquele ano por Getúlio Vargas, os nomes de: Henrique da Silva Fontes, 1885-1966; Mâncio da Costa, 1886-1971; Laércio Caldeira de Andrade, 1890-1971; Francisco Barreiros Filho, 1891-1977; Altino Flores, 1892-1983; Othon d’Eça, 1892-1965; Luiz Oswaldo Ferreira de Melo, 1893-1970; Carlos Gomes de Oliveira, 1894; Gustavo Neves, 1899-1980.</p>
+
+          <p>É a quarta geração de pensadores e de escritores catarinenses, depois do Barroco-Arcadismo de Marcelino Antônio Dutra; do Romantismo de Horácio, Eduardo e Gustavo Nunes Pires, e depois da Ideia Nova-Simbolismo de Cruz e Sousa, Virgílio Várzea, Araújo Figueredo, Santos Lostada, Ernâni e Oscar Rosas.</p>
+
+          <p>Correm diferenças claras entre os jovens da abertura deste século e os jovens-história que os antecederam. E a mais importante delas é a posição assumida e proclamada por uma geração consciência-de-grupo, aninhada em torno do mito da arte-verdade e do rito do <foreign xml:lang="fr">Mot Juste</foreign>, da palavra objeto. <q>A arte é a verdade – é a nudez forte da verdade</q>, proclama Gustavo Neves, na revista <title>Terra</title>, 1920, numa clara adesão ao Credo Literário de Eça de Queirós e de Olavo Bilac.</p>
+
+          <p>No decorrer dos anos dez-vinte, o grupo aplaude as fissuras e as rupturas do Partido Republicano Catarinense, ao mesmo tempo em que se organiza, <q>politicamente</q>, para assumir o poder literário em uma ilha-capital, <q>com surda tampa de insensibilidade estética</q>.</p>
+
+          <p>A subversão nas letras e no modo catarinense de fazer literatura começa em 1912, com o semanário <title>O Argo</title>; segue em 1917, com o <title>Anuário</title>. E se implanta em 1920, com a revista <title>Terra</title> e com a instauração da Sociedade Catarinense de Letras.</p>
+
+          <p>Animada por uma intensa e extensa atividade literária, distribuída em jornais e revistas, trata-se de uma geração (quase) sem livros e, consequentemente, inédita para o leitor e para o crítico de hoje.</p>
+
+          <p>Com a presente publicação de <title>Vindita Braba</title> e de quase toda a obra, inclusive inéditos, de Othon d’Eça, abre-se um novo espaço na literatura catarinense, uma vez que escritos de capital importância para o nosso modo de fazer e consumir literatura poderão ser submetidos à aventura do <q>prazer do texto</q>.</p>
+        </div>
+
+        <div type="section">
+          <head>2. Veredas do Regionalismo Literário</head>
+
+          <p>Proclamado o sete de setembro, pelo filho do rei opressor, futuro D. Pedro IV de Portugal, o corte dos laços políticos, entre a colônia e a metrópole, não se reflete, de imediato, nas estruturas culturais, linguísticas e literárias do país independente.</p>
+
+          <p>O texto poético e ficcional brasileiro, ao longo do século XIX, sofre um permanente confronto entre os aromas de um outro-não-europeu e os sintomas de um mesmo-ainda-Portugal.</p>
+
+          <p>Em 1824 (ou 1825) aparece a certidão de nascimento desta nova <q>res brasílica</q>, nas palavras do Visconde de Pedra Branca, por sinal, em um texto escrito em francês, no qual proclama que a língua de Portugal levada ao Brasil sofre a influência <q xml:lang="fr">de la douceur du climat et du caractère de ses habitants</q> e que ela, a língua nossa, <q xml:lang="fr">a gagné pour l’emploi et pour les expressions tendres et, tout en conservant son energie, elle a plus aménité</q>.</p>
+
+          <p>Vinte anos mais tarde, Gonçalves Dias entra duro nesta luta da sonoridade do português-brasileiro, em oposição à rudeza do luso falar: <q>As aves que aqui gorgeiam / Não gorgeiam como lá</q>. Esta aversão à língua da mãe cresce com o próprio Gonçalves Dias quando afirma, em 1857: <q>não há brasileiro, nem mesmo surdo que tolere a rima de <q>mãe</q> com <q>também</q> (...) um tambâim impossível, como a gente culta de Lisboa</q>. E diz mais, e mais fundo: <q>o que é brasileiro é brasileiro</q>.</p>
+
+          <p>Alencar no romance <title>Diva</title>, 1865, reclama o direito da inspiração e do gosto sobre a ideia e sobre a palavra e reclama, igualmente da <q>incerteza que reina sobre a ortografia da língua portuguesa</q>. E no pós-escrito à 2ª edição de <title>Iracema</title>, 1870, ele é de opinião que <q>quando povos de uma raça habitam a mesma região, a independência política só por si forma sua individualidade. Mas se esses povos vivem em continentes distintos, sob climas diferentes, não se rompem unicamente os vínculos políticos, opera-se, também, a separação nas ideias, nos sentimentos, nos costumes, e, portanto, na língua, que é a expressão desses fatos morais e sociais</q>.</p>
+
+          <p>Estava declarada a guerra verbal entre o brasileiro José de Alencar e o português Pinheiro Chagas, guerra que derruba florestas de pinheiros e planta um campo de chagas – desculpado o trocadilho horroroso. Araripe Júnior chega a dizer que, se Alencar <q>não sabia português, escrevia em brasileiro perfeitamente, admiravelmente</q>.</p>
+
+          <p>Machado de Assis, em <title>Instinto da nacionalidade</title>, 1873, também levanta o seu dedo da Fragmentação da Lusofonia: querer que a nossa (língua) pare no século de quinhentos, <q>é um erro igual ao de afirmar que a sua transplantação para a América não lhe inseriu riquezas novas. A este respeito a influência do povo é decisiva</q>.</p>
+
+          <p>Araripe Júnior, mais uma vez, aprofunda o vale entre os dois continentes e exige: <q>declarem os escritores brasileiros que estão dispostos a comporem dialeto do país</q> e <q>dispostos a escrever pelo modo por que falam</q>. Em 1887, o Colégio Pedro II, em um de seus programas, traz o seguinte <q>ponto</q>: <q>Tendências hodiernas para alteração do idioma nacional: dialetos, provincialismos, brasileirismos</q>.</p>
+
+          <p>A década aberta em 1870 já vinha abrindo espaço para a presença de um Romantismo, <q>brasileiro</q> pela narrativa-linguagem, como se dá conta o Colégio Pedro II, e <q>brasileiro</q>, igualmente, pela narração-tema, com <title>Inocência</title>, 1872, de Alfredo Taunay, e com <title>O Cabeleira</title>, 1876, de Franklin Távora.</p>
+
+          <p>Numa <q>conversa entre amigos</q>, na abertura do romance, o criador de José Gomes, o Cabeleira, <q>um Lampião do século XVIII</q> – nessa introdução, Franklin Távora realiza um texto conscientemente regional: <q>As letras têm, como a política, um certo caráter geográfico; mais no Norte, porém, do que no Sul abundam os elementos para a formação de uma literatura propriamente brasileira, filha da terra. A razão é óbvia: o Norte ainda não foi invadido como está sendo o Sul, de dia em dia, pelo estrangeiro. A feição primitiva, unicamente modificada pela cultura que as raças, as índoles e os costumes recebem dos tempos ou do progresso, pode-se afirmar que ainda se conserva ali em sua pureza, em sua genuína expressão</q>.</p>
+
+          <p>O Naturalismo Regional de Aluísio Azevedo, o <q>romancista do Norte</q>, com <title>O Mulato</title>, 1881; de Inglês de Sousa, o <q>ficcionista da Amazônia</q>, com <title>O Cacaulista</title>, 1876; <title>História de um Pescador</title>, 1877; <title>O Missionário</title>, 1888, e <title>Contos Amazônicos</title>, 1893, este Regionalismo <q>autêntico</q> (sic) do norte, continuado por Manuel de Oliveira Paiva, Domingos Olímpio e Coelho neto, entre outros, a partir da virada do século desloca-se para o Sul <q>estrangeiro</q> (sic) com <title>Pelo Sertão</title>, 1898, contos do mineiro Afonso Arinos; com o também mineiro Lindolfo Rocha, no romance <title>Maria Dusá</title>, 1910; desce até São Paulo, com <title>Os Caboclos</title>, de Valdomiro Silveira, e com o também paulista Monteiro Lobato, pai de Jeca Tatu; passa pelo Rio de Janeiro, com o Regionalismo Suburbano de Lima Barreto; alcança o Extremo Sul com <title>Ruínas Vivas</title>, 1910, e <title>Tapera</title>, 1911, de Alcides Maya e se fixa, em definitivo, com Simões Lopes Neto, o autor da <q>linguagem mais sugestiva do nosso regionalismo</q> (Lúcia Miguel-Pereira), através do <title>Cancioneiro Guasca</title>, 1910, dos <title>Contos Gauchescos</title>, 1912, e das <title>Lendas do Sul</title>, 1913.</p>
+
+          <p>A consciência da capacidade de um modo catarinense de produzir uma literatura regional típica brota da contestação política dos anos Dez-Vinte, animada por duas vertentes: a fonte da proximidade ficcional com os autores gaúchos, na realidade geográfica e cultural do Planalto Serrano e a possível fonte da afinidade-admiração com o crítico Alceu Amoroso Lima que, desde 1919, está presente, semana-após-semana, em <title>O Jornal</title>, através de uma crítica que levanta temas e problemas da Literatura e da Arte, entre eles, a realidade de um regionalismo marcado pelo <q>delírio do sertão</q>; marcado por um <q>movimentado sertanista e sua fonte maior, senão única, o regionalismo</q>; marcado, enfim por um realismo sertanejo. Em 1922, o autor de <title>Primeiros Estudos</title> lança uma aprofundada análise da vida e da obra de Afonso Arinos, bem como uma análise do sertanismo no Brasil, nas quais proclama que a literatura que fazemos <q>deve ter o cunho caracteristicamente nosso</q> e <q>deve corresponder ao estado de civilização de cada povo</q>.</p>
+
+          <p>O Modernismo de 1922 encontra no <title>Manifesto Pau-Brasil</title>, 1924; no <title>Manifesto regionalista</title>, de Gilberto Freyre, 1926; no <title>Manifesto antropófago</title>, 1928, e no <title>Manifesto Nhengaçu verde-amarelo</title>, 1929, entre outros, o <q>cunho caracteristicamente nosso</q> para a fixação de uma Literatura-Brasil no corpo e na alma; o Regionalismo Catarinense, a partir da revista <title>Terra</title>, 1920, e com os contos serrano-planaltinos de Tito Carvalho acrescidos da novela <title>Vindita Braba</title>, 1923, de Othon d’Eça, a nossa literatura regional descobre, nas tropas e boiadeiros do Planalto bem como nos homens e sítios do interior da Ilha, as marcas de uma cultura em que o típico modo-de-estar gera um específico modo-de-ser.</p>
+
+          <p>Na sessão de 15 de fevereiro de 1924, a Academia Catarinense de Letras recebe Tito Carvalho para a Cadeira 13. Na saudação de posse, Altino Flores exalta, no jovem contista da Serra, o <q>escritor de raça (...)com lustre inédito e requintes novos na literatura de Santa Catarina</q>. E fecha o discurso, numa quase <foreign xml:lang="la">vox romana</foreign>; <q>Eu vos saúdo, regionalista!</q>.</p>
+
+          <p>A regionalidade de Tito Carvalho, expressa no estar Planalto e no <q>agauchado subdialeto do nosso valente povo da montanha</q>, despertara olhos e antenas desde que a revista <title>Terra</title> publicara-lhe os contos <title>Andeja</title> e <title>Bulha d’Arroio</title>. E a Academia oferece-lhe a imortalidade com a força dos contos <title>Tiguera</title>, <title>Luta de Touros</title>, <title>Andeja</title>, <title>Carijó</title>, <title>Flores de Sangue</title>, <title>Castigo de Deus</title> e <title>Santa Luzia</title>, textos elogiados, <foreign xml:lang="la">summa cum laude</foreign>, pela crítica de um Altino Flores! Anos depois, com <title>Bulha d’Arroio</title>, contos, 1939, e <title>Vida Salobra</title>, romance, 1963, o regionalismo serrano-catarinense invade as páginas da História da Literatura Brasileira.</p>
+
+          <p>Hoje, a <q>vereda literária regional</q>, alimentada com as terras e com as gentes das estâncias-padrão, das querências e das invernadas do Planalto, entre os rios Uruguai e Iguaçu, nessa vertente da regionalidade catarinense, canta a voz-poema de Antenor Moraes e fala a voz-ficção de Guido Wilmar Sassi, de Enéas Athanázio, de Edson Ubaldo, de Fernando Tokarski, de Márcio Camargo Costa, de Fernando Osvaldo de Oliveira, autores catarinenses de respeitada penetração na crítica literária do Brasil.</p>
+        </div>
+
+        <div type="section">
+          <head>3. Homens e sítios em braba vingança</head>
+
+          <p>Dos sete <q>povos</q> que integram o <q>arquipélago</q> catarinense – paulistas (portugueses), açorianos, italianos, alemães, poloneses, gaúchos, minorias não europeias – a Nação Açoriana deixa marcas de um, regionalismo impregnado de sol e de sal na vida dura dos pescadores de um grande litoral que estende uma faixa de areias e de ondas entre Barra Velha, o norte, e o Morro dos Conventos, o sul.</p>
+
+          <p>Nos passos dessa regionalidade, o Mar é a fonte primeira de um modo de ser-estando, desconhecido pelo imigrante insular de 1748-1756, expulso das ilhas pelas avarezas da Terra e não pelas misérias do Mar.</p>
+
+          <p>A partir da publicação de <title>Vindita Braba</title>, novela inédita em livro, a Literatura Catarinense abre uma nova página em sua Crítica para ser ocupada com a presença de um Regionalismo Açoriano que volta às origens insulares: homens e sítios, profundamente enraizados no inconsciente Coletivo da Terra, proclamado pela Voz dos traços culturais e linguísticos de uma pequena comunidade rural, no interior da Ilha de Santa Catarina, fotografada nos anos da primeira década dos Novecentos.</p>
+
+          <p>Escondida nas páginas de um jornal de província – <title>A República</title>, Florianópolis, a partir de 7 de março de 1923 – e metida, meio à força, dentro da <title>Revista do Brasil</title>, de Monteiro Lobato, na edição de outubro de 1924, e logo depois de <title>Aperitivo</title>, <title>Congonhas do Campo</title> e <title>Bengaló</title> três poemas modernistas de Oswald de Andrade, a novela de Othon d’Eça, virgem aos setenta anos, pela narrativa-linguagem e pela narração-discurso, explode diante de nossos olhos um <foreign xml:lang="it">piccolo mondo</foreign> de maldições e de vinganças.</p>
+
+          <p>Algo emparelhado com a descoberta do estranho <q>cadáver de um homem</q>, tema-chave de <title>O Mistério da Estrada de Sintra</title>, romance a quatro mãos escrito por Eça de Queirós e Ramalho Ortigão, <title>Vindita Braba</title>, hoje, mais do que nunca, guarda o sabor de uma religião, de uma sociologia e de uma psicologia, mercê de Deus, ainda não de todo perdidas dentro das pequenas comunidades açorianas do interior da ilha de Santa Catarina.</p>
+
+          <p>É por isto que o aspecto de mais um crime-sem-autor, assassino que as gentes da Trindade, personagem da novela, desconhecem, mas que o narrador identifica desde a abertura do texto – numa antecipação profética da novela <title>Crônica de uma Morte Anunciada</title>, de Gabriel García Marquez – é por isto que a ambiência do que poderia constituir-se em mais uma rotineira página policial, ultrapassa os limites, gastos, de uma história de sangue, para se transformar em um texto literário de profunda reelaboração das relações entre a criatura e o cosmos, entre a realidade e o discurso.</p>
+
+          <p>A dupla vindita braba – a do pai que vinga o difamador e a da natureza que não esconde a vingança – carrega desde as origens da estória e do texto literário uma permanente <q>maldição-de-peregrino</q>: primeiro do mar para a terra; depois da <foreign xml:lang="la">rus</foreign> para a <foreign xml:lang="la">urbs</foreign> e, finalmente, da vida para a morte.</p>
+
+          <p>Na abertura do tempo e do espaço ficcionais, Izidro, Chica e a filha Constança, pelos olhos da mãe, lá na Praia dos Ingleses, vivem uma história de profunda comunhão com as coisas, enquanto participam da própria natureza do real e enquanto este real é pessoa. <q>Da janela de caixilho azul todas as tardezinhas, com a filha nos braços, ficava a ver o mar, a ver o mar! À espera da veia branca que lhe trazia o amor e a abastança dos varais.</q>
+          </p>
+
+          <p>A transubstanciação criatura-universo e universo-riatura realiza-se nos dois sentidos, gerando o todo, um corpo único em que o cosmos se torna a essência do eu, ao mesmo tempo em que o eu assume a aparência do cosmos.</p>
+          
+          <p><q>Para ela a terra estava toda ali; ali dentro daquilo que seus olhos viam!</q>
+          </p>
+          
+          <p>
+            <q>E os seus olhos, esses, viviam sempre a se encharcar no verde das árvores e no verde do mar – adonde também os olhos azuis do céu ficavam o dia inteiro, como os olhos de um namorado.</q>
+          </p>
+
+          <p>A dança fonético-semântica entre as palavras-verbo <q>ver</q> e <q>viver</q> aprofunda o mistério da integração quando o infinitivo <q>viver</q> toma emprestada a primeira sílaba do particípio do verbo <q>ver</q> (vi) e quando o infinitivo de <q>ver</q> está contido no final de <q>viver</q>, como se o autor e a natureza desejassem proclamar, <foreign xml:lang="la">ab initio</foreign>, a profunda e misteriosa comunhão entre o fato do viver e o ato de ver.</p>
+
+          <p>Esta transubstanciação, nos dois sentidos, entre a criatura e o cosmos alimenta a visão do mundo dos personagens da estória e a captação do Real, pelo texto ao longo de toda a trama, visível nas comparações e nas metáforas.</p>
+
+
+          <p>— <q>As estrelinhas piscavam e repiscavam como raparigas namoradeiras</q>;</p>
+
+
+          <p>— <q>Um cagalume passou pingando luz na negridez, como alma penada</q>;</p>
+
+
+          <p>— <q>Falares de homens caminhavam nos escuros, nas bandas dos cafezeiros</q>;</p>
+
+
+          <p>— <q>Os porcos batem orelhas como as matracas na Semana Santa</q>;</p>
+
+
+          <p>— <q>O sol esfregava a barbalheira de fogo em riba das árvores</q>;</p>
+
+
+          <p>— <q>O silêncio fazia uma tal chieira nos ouvidos que até se pensava que a noite, de avental do luar, frigisse petiscos pro almoço da manhã</q>.</p>
+
+          <p>Para a família Izidro-Chica-Constança, dez anos dura o tempo-bom, na Praia dos Ingleses, até que o destino instaura um novo tempo em um outro espaço, <q>por mode da Constança, já crescidinha que pegara a tosse comprida, vieram para a Trindade.</q>
+          </p>
+
+          <p>A ruptura com a beatitude marítima instaura um outro sagrado com a Trindade, a nova terra, <q>farta de sumos</q>. E, agora, o discurso literário de Othon d’Eça torna evidente a intertextualidade com a Bíblia, no texto em que, na Viagem-Retorno dos judeus, depois do exílio no Egito, Moisés despacha mensageiros para conhecerem a futura terra de Canaã. Quarenta dias mais tarde, reintegrados ao grupo inicial, eles mostram os frutos do novo Paraíso e confirmam os rios de leite e de mel.</p>
+
+          <p>A estranha situação de judeu-errante, mesmo dentro da Terra Prometida, torna-se maldição e queda. No dia em que a família rompe o pacto com a terra-sítio e resolve <q>mandar a rapariga pra escola das freiras</q>, na cidade, repetição do gesto dos pais de Rosalinda, em D. João de Jaqueta, romance de Horácio Nunes, escrito em 1877, mas só publicado em livro em 1984.</p>
+
+          <p>A dupla ruptura com a família e com o sítio atrai a maldição para Constança, para o pai e, ao final, para a mãe.</p>
+
+          <p>A frase-abertura da novela recolhe o quase clímax da vingança braba que o Sítio vem preparando desde que a filha rompeu o pacto da comunhão com a terra: <q>Por toda aquela fieira de gentes, das Três Pontes ao Saco dos Limões, raras as bocas que não haviam guspido em riba de Constança – desfeitas e debiques</q>.</p>
+
+          <p>E porque o difamador-maior carrega o nome de Miguelinho da Damásia, sobre ele tem que cair a vindita braba do pai.</p>
+
+          <p>Constança e Miguel – os dois personagens centrais da vingança, mas secundários na literariedade da diegese dos fatos – proclamam no significado do nome, o absurdo do ser-não-sendo, pela negação da essencialidade nominativa. Fosse <q>constância</q>, a menina não teria gerado a migração do mar para a terra, da praia para o sítio; fosse <q>constância</q>, nas terras da Trindade, ela ter-se-ia deixado ficar, ainda que no sítio só se aprendesse a <q>cavocar nas roças</q>. Miguel – onipotência divina, <q>presença de Deus todo poderoso</q> – proclama, não o anúncio do novo, mas o prenúncio da queda pela difamação. Por castigo, no seu próprio corpo <q>esconde</q> o mistério de sua morte e desvia a origem do crime em direção a quem lhe dera a vida, Damásia Bebedona.</p>
+
+          <p>Com a Damásia Bebedona, uma porca de mãe que <q>vira mais cachaça que um gambá</q> e que se tornou <q>cismática do juízo por mode da cachaça</q>; com a Gertrudes Curandeira, que se benze toda <q>por mode do quebranto</q>; com o coronel Delcides da Trindade, <q>chefe político de grande estimação, que dava remédios de mopatia e cantava nas missas de importância vestido de balandrau</q>; com o Joca Serrano, <q>a contar umas histórias das bandas dele</q>; com o Alvico da Gertrudes; com o Jorge turco; com o Cândido Reculuta, que <q>fora soldado no tempo da revolta</q>; com o Izidoro da tafona e com a Veva do tio Joãozinho, ao mesmo tempo que realiza um corte do grupo social que se movimenta nos sítios da Trindade: <title>Vindita Braba</title> aprofunda a participação de cada personagem, na filosofia da estória e na diegese dos fatos quando o nome do personagem instaura uma simbolometria entre o <q>ator</q> e sua <q>participação</q> no desenrolar da tragédia.</p>
+
+          <p>É por isto que a estrutura da novela move-se com a energia da tragédia grega através da divisão em quatro momentos-ato; através da presença do maravilhoso e do aniquilamento; através da participação efetiva da natureza nas decisões da cultura e, principalmente, pela instauração da voz do inconsciente coletivo que vai narrando os fatos e a novela, na visão do momento ou na memória do tempo.</p>
+
+          <p>Othon d’Eça incorpora-se na realidade do sítio e na literariedade da novela quando se torna a voz de um personagem-que-narra, soma do todo que caracteriza o sítio; e pelo jeito de narrar a sucessão do tempo, o leitor sente-se transportado para dentro das páginas da Bíblia, no Eclesiastes.</p>
+
+         
+          <p>— <q>Um dia passou, leva que leva, ligeirinho, como quem vai de atraso pra novena; e vieram outros, com chuveiros e vento sul, e o Miguelinho nem teve falas de lembranças, nem missas por alma dele</q>;</p>
+
+         
+          <p>— <q>Veio um Santo Antônio; e vieram outros; e um bandão de vezes as andorinhas fizeram os ninhos na beira dos telhados</q>;</p>
+
+         
+          <p>— <q>Assim caminhou na terra a vida do casal, até o dia em que o sol entrou de novo pelas janelas</q>.</p>
+
+          <p>A coloquialidade da narrativa e do texto estão presentes quando o narrador afirma e reafirma o mesmo enunciado pois deseja convencer aquele que o está ouvindo.</p>
+
+         
+          <p>— <q>O coração apurado de quizílias, malha que malha como um ferreiro que tem pressa de sair</q>;</p>
+
+         
+          <p>— <q>Mal, porém, o Miguelinho botou de fora o cocoruto, e vai uma, e vai outra, e toma lambadas</q>;</p>
+
+         
+          <p>— <q>E era risos, e era choros, e era abraços</q>;</p>
+
+         
+          <p>— <q>Espalhavam era alavelas; e isto e aquilo, e coisas e loisas.</q>
+          </p>
+
+          <p>Esta coloquialidade deixa impregnar o texto-narração de uma profunda convivência com o sagrado, presente nas interjeições, nas comparações e nas metáforas: <q>o velho era um cristão a modos de boi de carro</q>; <q>como a pimenta que os excomungados da cidade põem nos bailes</q>; <q>cachorro dos infernos! Carregue-me o quimbinga pras profundas se...</q>; <q>Raios te partam, excomungada! Bichos te comam. Cruzes! Gente mais vil que jararaca</q>.</p>
+
+          <p>A constante recorrência de expressões como <q>maldito</q>, <q>excomungado</q>, <q>raio</q>, <q>arrenegado</q>, <q>estuporado</q>, <q>louvado</q> e outras de caráter religioso, na linguagem dos personagens e, principalmente, na fala do narrador, deixa entender que o texto está sendo contado por <q>um coro de tragédia grega</q>, voz da terra o qual reconhecendo o perigo da presença da cidade no sítio, exorciza o exemplo de Constança e reconta o castigo preparado a todo aquele que rompe o pacto com a permanência no sítio.</p>
+
+          <p>Este narrador, enquanto assume o sagrado coletivo, ao mesmo tempo, integra a vivência social e linguística do sítio, açoriano pelas raízes, à medida que vai desvelando hábitos e costumes, como as festas do Imperador do Divino; a dança do boi; <q>a desgraceira do boi na vara</q>; o jogo do bicho; as rendas; a medicina, caseira com a <q>arruda apanhada na lua nova</q>.</p>
+
+          <p>Para identificara ambiência linguística, o texto é uma transposição para o papel da novela tanto da linguagem dos personagens-em-diálogo, quanto da linguagem do narrador-em-conversa-com-o-ouvinte.</p>
+
+         
+          <p>— <q>A cabeça do coitado já estava que nem uma lata de crosene depois de uma dança do boi</q>;</p>
+
+         
+          <p>— <q>O raio do tomóvel, o come-léguas, bufando como um boi na vara, parou</q>;</p>
+
+         
+          <p>— <q>Já estava um poder de dias em riba daquela cama</q>;</p>
+
+         
+          <p>— <q>Não magro, tão sumidinho, credo, que era mesmo um <!--aspas simples--><q>me valha aqui senão eu caio</q></q>.</p>
+        </div>
+
+        <div type="section">
+          <head>4. Conclusão</head>
+
+          <p>A presente edição de <title>Vindita Braba</title>, a primeira, aos setenta anos de vida e no centenário do autor, abre um capítulo desconhecido na história e na crítica da literatura catarinense, ao comprovar que o período das contestações literárias, expresso pelo Modernismo de 1922, e implantado em nosso Estado, através do regionalismo gauchesco de Tito Carvalho, toma os rumos de um regionalismo açoriano da terra, em Othon d’Eça. Esta regionalidade, infelizmente, não produziu maiores frutos porque o seu texto maior – <q>maior</q>, pela universidade do tema e pelo valor estético e literário da ficcionalidade – esta novela, só em 1992, alcança as glórias de caminhar e de permanecer dentro das páginas de um livro.</p>
+        </div>
+      </div>
+
+      <div type="dedication">
+        <salute>A Tito Carvalho, príncipe do regionalismo em Santa Catarina.</salute>
+      </div>
+
+    </front>
+    <body>
+        <div n="1" type="chapter">
+
+          <p>Por toda aquela fieira de gentes, das Três Pontes ao Saco dos Limões, raras as bocas que não haviam guspido em riba de Constança – desfeitas e debiques.</p>
+
+          <p>Criada fora do sítio, nas bandas dos graúdos, não era rapariga topadiça em fontes ou fandangos, que bastantes fidúcias tinha ela, a princesa, para andar assim batendo a língua ou gastando os borzeguins.</p>
+
+          <p>Manhãzinha, mal se ouvia na estrada a chieira dos carros de bois, já estava agarrada aos livros que nem uma doutora ou, entonces, batendo os bilros, mais branca de pós de cheiro que uma cômica da cidade.</p>
+
+          <p>O pai dela, o velho Izidro, homem de boa nascença e de rijo carão como o vento sul, quando a mulher lhe vinha com inculcas e ditos do povo no tocante à filha, metia os dedos na barbalheira quase branca, fincando a vista nos ramos bentos que o pó forrava, ao pé de redomas, em riba da cômoda de pau preto.</p>
+
+          <p>E gente que o mirasse assim, tão mofino de falas, não havera de cismar que dentro do peito dele a gana fervia e refervia como a garapa no cocho da engenhoca.</p>
+
+          <p>Mas o velho era um cristão a modos de boi de carro, de quem se diz que mal-val se precatar que se ir fazer as artes de burlantim entre os dois galhos.</p>
+
+          <p>Pessoa não havia que dele conversasse maldades ou lambanças, que a sua fama de homem sério vinha de crescença e comera muita estrada, contadinha de légua em légua.</p>
+
+          <p>Mais duma feita puxara as varas da porteira a compadres e a vindiços e, com as quatro pontas do lenço estalando de patacas, batera pra cidade à compra de riscados e remédios.</p>
+
+          <p>E da volta, graças ao Bom Pai, nunca faltara um nilque ou um chanchão, desses que o Manoel Balbino pregou em riba do balcão por mode da má sorte.</p>
+
+          <p>Verdade seja dita que somente se mexericava, sem pinguinhos de prova, que o velho era um unha-de-fome desgraçado e só não comia espinhas de corvina – por ser devalde a força pra fazê-las escorregar pelas goelas.</p>
+
+          <p>Mas tanto a mulher, a Chica – uma velha tão vincada de pés de galinha como o caroço do pêssego – lhes buzinou nas orelhas os maus dizeres do povo acerca de Constança, que um ardume lhe subiu ao cheiro, como a pimenta que os excomungados da cidade põem nos bailes – por desfeitas e maldades dos infernos.</p>
+
+          <p>E o Izidro estourou, tal qualzinho o raio do baiacu, o come-anzol, ao lhe baterem o calhau na pança inchada com cosquinhas.</p>
+
+          <p>— Que mulher? Pois não hai dum pobre de Cristo se amofinar? O Miguelinho da Damásia, aquele coisa-nenhuma, que não se alembra que a porca da mãe dele vira mais cachaça que um gambá?</p>
+
+          <p>Porém desestimados foram os conselhos da mulher, <q>pra que não se arrenegasse assim depois do conduto, que até podia ter um ataque de cabeça</q>.</p>
+
+          <p>— Não paga a pena o consumir – falava ela. — Amenhã de menhã, Izidro. Vancê se alembre do compadre Durvalinho, coitado, que por mode se quizilar com o Jorge turco, depois de comer, bateu-lhe o tranglomango e foi pro cemitério mais negrinho que camarinhas.</p>
+
+          <p>Só a desinfeliz da rapariga não mexera os carrinhos com tal consumição e chorava que nem um pagãozinho baldado de maminha.</p>
+
+          <p>O velho, agora, mais vinagrado com o carpir da filha que pelas viltanças do peste do diabo, meteu aos gadanhos o fueiro de rabo de macaco, a murmurinhar, como um perdido da cabeça:</p>
+
+          <p>— Cachorro dos infernos! Carregue-me o quimbinga pras profundas, se te deixar osso de costela ou pelanca dos peitos sem malhar.</p>
+
+          <p>E, com estas falas, o Izidro bateu a piscurar o danado do Miguelinho, mais curtido de ganas que um couro de bruaca.</p>
+
+          <p>No céu, as estrelinhas piscavam e repiscavam como raparigas namoriqueiras.</p>
+
+          <p>Um cagalume passou pingando luz na negridez, como uma alma penada.</p>
+
+          <p>Falares de homens caminhavam nos escuros, nas bandas dos cafezeiros. </p>
+
+          <p>No terreiro do João Xandoca, adonde havia luzes enfumaçadas de candeias, um porco na matança botava a boca no mundo, gritando que era um Deus nos acuda!</p>
+
+          <p>A noite, escura como breu, era dessas que satisfazem os raios dos gambás e ajudam os lobisomens e mulas sem cabeça – excomungados do diabo que atacam os pobres que andam nas suas obrigações.</p>
+
+          <p>Ao passar fronteiro ao cemitério, o Izidro se benzeu, a se alembrar do compadre Durvalinho já muito roxo, muito roxo, a botar uma gosma cor de barro pelas ventas do nariz, enjuento que nem bicheira e com mais moscas em riba da triste cara que pecados na cacunda da Rufina feiticeira, que matara, com mandingas, a mulher do Zé Claudino, por mode ela se amigar com o desgraçado.</p>
+
+          <p>E lhe vieram nas cismas as parecenças de um vulto branco, bole que bole nos ares, que até se dizia a vara de paina quando hai vento.</p>
+
+          <p>O velho, entonces, afugentou as más visagens, apressurando o caminhar; o coração apurado de quizílias, malha que malha como um ferreiro que tem pressa de sair.</p>
+
+          <p>Não que lhe metessem medo os estupores que andam soltos nas noites negras, à espera dos caminhantes, bem escondidos, os malvados, nos escuros das folhagens ou nas covas dos barrancos.</p>
+
+          <p>Agadanhado que nem ostra ao rabo de macaco, mascando na boca dizeres de esconjuros, leva que leva os passos à casa do Miguelinho, só lhe vinha na querença a tentação de salgar o lombo do Tinhoso, filho de cadela e causador daquele desconchavo na sua vida honrada.</p>
+
+          <p>Havia, por isso, de escarmentar o estupor que bifara três cruzados na venda do Manuel Baldino e se gavava, o sujo, de andar com a Constança por baixo dos cafezeiros...</p>
+
+          <p>E por via de Nossa Senhora não se quebrantaram os fôlegos dos seus bofes e faltava um pingo de caminho, pois já avistava a estrada que trepa pra Carvoeira e era ali bem juntinho casa do maldito.</p>
+
+          <p>Um cachorro uivou de dentro dum cercado; outros ladraram longe, arrespondendo ao agoirento.</p>
+
+          <p>Cheiros de laranja se caldeavam com a fortidão adocicada dos currais de vacas.</p>
+
+          <p>Mas a gente, por vezes, apercebia o patchuli das boas-noites.</p>
+
+          <p>Daí a pouco, o Izidro alcançou o terreiro do Miguelinho.</p>
+
+          <p>Dois bácoros que fuçavam num montão de palhas de milho, com o barulho de cancela fugiram a grunhir, os tristes, batendo as orelhas como as matracas da Semana Santa.</p>
+
+          <p>A mão grossa do Izidro socou na porta, de cujas gretas fugia para a rua uma luzinha tirante a pitanga, que aluminava em tiras a areia preta do chão.</p>
+
+          <p>
+            <q>O alma-excomungada está em casa</q>, pensou o velho, com os beiços da boca num tremor de maleitas.</p>
+
+          <p>De dentro de casa o Miguelinho, a cismar que era a mãe, berrou com a sua voz ranhenta, saída daquela boca sempre cheia de guspe e que escumava nos cantos uma gosma amarela, enjoando a sarro e a dentes podres:</p>
+
+          <p>— Taca a dormir pro chiqueiro, bebedona duma figa, que eu não quero que vancê me venha gumitar a cachaça na mesa do comer. Cruzes! Peste arrenegada!</p>
+
+          <p>E funga que funga que nem gato, o desaventurado assoprou a candeia; e o negrume lá dentro e o negrume cá fora – fez tudo da cor do senhor Mestre...</p>
+
+          <p>De novo o Izidro bateu e rebateu com mais ganas, resmungando que nem sujeito malcriado.</p>
+
+          <p>O Miguelinho, entonces, abriu a janelinha e preguntou:</p>
+
+          <p>— Quem é o cristão que me piscura?</p>
+
+          <p>— Sou eu, o Izidro da tia Chica.</p>
+
+          <p>A modos que o outro nem desconfiou das intenções, pois, sem esperas, se ouviu o barulho da tramela e a porta se escancarou como uma boca negra que boceja.</p>
+
+          <p>Mal, porém, o Miguelinho botou de fora o cocuruto, e vai uma, e vai outra, e toma lambadas de pé atrás pelas fontes da testa, que o jogam estirado, sem um ai, na terra dura, num pantano de sangue de meter medo.</p>
+
+          <p>E ainda o velho a malhá-lo, como as socas na debulha, pelas pernas, pelos peitos, que a cabeça do coitado já estava que nem uma lata de crosene depois de uma dança de boi e o miolo se agarrava na careca, como as tripas de um gato que se socou num pilão.</p>
+
+          <p>Só mesmo quando sentiu os dois braços dormentes de canseira, foi que o Izidro largou o peste do Miguelinho entregue a Balzabu, pro levar, mais a alma desgraçada, pras profundezas dos infernos.</p>
+
+          <p>Satisfeito com a lição que dera ao raio do aleivoso que se gavara da filha, virava o velho a proa no rumbro da casa dele, quando se alembrou de que o safado, de escárnio, carecia levar uma barrela de urinas na sangueira...</p>
+
+          <p>E voltou a verter águas no defunto, cuja cabeça dois bácoros já lambiam com delícias.</p>
+
+          <p>Mas a olhada no corpo do inimigo tanto lhe virou e revirou a sanha da vindita, que topando ali perto uma gamela com estrume – zás – a despejou até ao fundo em riba do caipora.</p>
+
+          <p>— Toma lá, cão sujo arrenegado, que nem terra mereces que te coma. Peste!</p>
+
+          <p>A lua subia das bandas do mar, redonda e reluzindo como um tostão novinho em folha.</p>
+
+          <p>Os galos, cismando que amanhecia, cantavam pra mode acordar as frangas dorminhocas, como é de usança entre eles.</p>
+
+          <p>Nem vivalma na estrada: apenas os sapos, de cócoras, latejando a papeira, pasmavam pra clareza que vinha de riba, com lumes baços nos bugalhos saltados e redondos como bagas de rosário.</p>
+
+          <p>O silêncio fazia uma tal chieira nos ouvidos que até se pensava que a noite, de avental de luar, frigisse petiscos pro almoço de manhã.</p>
+
+          <p>As mais das vezes, uma corrida de vento bulia nas árvores, derrubando as folhinhas enroladas em cartuchos e adonde as aranhas fizeram as casas delas.</p>
+
+          <p>Ao meio do caminho, o Izidro topou um vulto de mulher.</p>
+
+          <p>Quem era cambava daqui pra ali que nem arruinado das patolas.</p>
+
+          <p>
+            <q>É a velha</q>, cismou ele. <q>Já não vai mais pro chiqueiro, a bebedona</q>.</p>
+
+          <p>E soltou a gusparada.</p>
+
+          <p>Ao depois:</p>
+
+          <p>— Raios te partam, excomungada! Bichos te comam. Cruzes! Gente mais vil que jararaca.</p>
+
+          <p>À vista da casa dele sentiu sustâncias nos seus passos.</p>
+
+          <p>Agora, ao se alembrar da filha, lhe atentava o entendimento que ninguém mais meteria a catana na rapariga, que a mostra ficara de escarmento aos aleivosos e linguarudos estuporados.</p>
+
+          <p>Muito de valha, sim, o que cometera, pois não havera de deixar um coré como aquele, um boca-suja, a se gavar, sem pago, da Constança, moça limpa que não fastava o pé de junto da almofada e não era nenhuma franga sem vergonha.</p>
+
+          <p>Gentes graúdas, doutras laias, tinha ela enjeitado, como o filho do Mamede Zeferino, rapaz de boa cabeça, que cortava língua com o Jacob Alemão e andava na cidade estudando pra medir terras.</p>
+
+          <p>Espalhavam eram alavelas, e isto e aquilo, e coisas e loisas; mas tudo de inveja, corja estuporada, por mode o passadio que a rapariga tivera desde as fraldas.</p>
+
+          <p>Fosse ela uma pobre de Cristo, como a Veva lavadeira, que deu o aborto pros bácoros, e ninguém lhe havera de chuviscar ditos em riba.</p>
+
+          <p>
+            <q>Amenhã quero ver as aparências do povo</q> — ia mastigando, ao entrar em casa.</p>
+
+          <p>Mas ao bater a cara na cozinha, topou com a Chica num alagoeiro de choros, tão cega da vista, tão ceguinha, a coruja, que até nem botou reparos nas vestes do marido, com mais pingos de sangue que salpicos num ovo de perua.</p>
+
+          <p>O velho empacou de encontro àquela choradeira, como um homem ao pé duma pinguela que a cheia escangalhou.</p>
+
+          <p>— Que foi, que foi que assucedeu? – gritou ele, com a fala presa nas goelas, como embuchado com paçoca.</p>
+
+          <p>— Uma desgraceira dos pecados, Izidro!</p>
+
+          <p>— Já sabes do feito?</p>
+
+          <p>— Eu te amostro! – carpia a velha, a piscurar nas prateleiras alguma coisa perdida. — Olha! – continuava ela. — Assim que tu te botaste a caminhar, credita, eu me alembrei do compadre Durvalinho e me arrodeou a cabeça umas cismas ruins. Entonces me ajoelhei ao quarto da Constança, a me pegar com a Nossa Senhora dos Aflitos, que me tinha batido uma tremedeira dos pecados. Credo! E vai, ao depois, voltei apressurada pra varanda a consolar a rapariga por mode duns suspiros que deu a pobrezinha. Foi quando, Izidro da minha alma, topei em riba da mesa este papelzinho.</p>
+
+          <p>O velho, como um gato, pulou nas mãos da Chica, arregalando os olhos como um perdido da cabeça.</p>
+
+          <p>E o papelinho falava na boca destes dizeres:</p>
+
+          
+          <p><hi>Meu pai.</hi></p>
+
+          <p><hi>Perdão, mais a mãe.</hi></p>
+
+          <p><hi>É a sina de cada um. Deixo-os, para voltar depois, se aquele que me leva quiser reparar, pelo casamento, todo o mal que me fez.</hi></p>
+
+          <p><hi>A bênção.</hi></p>
+
+          <p><hi>Constança</hi></p>
+
+          <p>Izidro fincou a vista na parede, bestrato, com o sangue caminha que caminha pra caixa da cabeça, e uma zoada nos ouvidos que nem chuva em riba de palhuço.</p>
+
+          <p>Mas, de repente, caiu no chão, a escumar, já roxo que até parecia o compadre Durvalinho.</p>
+
+          <p>Um bafo de vento quebrou o lume da candeia, estirando um fiapo preto de fumaça, que ondejou e se perdeu na escuridade, adonde fuzilavam os dois olhos verdes do Malhado.</p>
+
+          <p>O luaceiro, lá fora, era um leite de luz que o ubre apojado da lua mungia em riba da terra, para a mantença das plantas pequeninas.</p>
+        </div>
+
+        <div n="2" type="chapter">
+          <head>II</head>
+<!--começar aqui-->
+          <p>No outro dia, quando a manhã trepou pelo céu arriba pra mode espiar melhor a terra, o filho do Maneco da Chica, o Nastácio, que ia vender leite na cidade, topou com o Miguilinho num pantano de imundícias, arrodeado de urubus como uma galinha de pintinhos.</p>
+
+          <p>O Nastácio, entonces, numa tremedeira de caniço verde – pernas, pra que vos quero? – bateu pra casa do pai dele, a berrar tal e qual um terneiro desmamado.</p>
+
+          <p>A nova – tira que tira – ligeirinha como as águas da ribeira, parou a contar de porta em porta o assucedido, que nem que fosse uma velha linguaruda.</p>
+
+          <p>Daí uns instantinhos já os homens e as mulheres, que a familagem ficara em casa nas esteiras, embicavam pra casa do defunto, cada qual a breganhar cismares a pique do contado, como, no dia em que encalhou, na Lagoa, uma baleia – que era um nunca se viu de tão grandona!</p>
+
+          <p>Miguelinho, a se falar a verdade, vivia fugidiço e no sítio ninguém lhe tinha bom-querer, pois o diabo do infeliz, tirante os perdigotos que enjoavam como estrume, era um filho arrenegado e carregava na cacunda a morte de dois homens.</p>
+
+          <p>Corria no povo que o triste, em noites de sexta-feira, virava num porco branco e ia lamber os cochos de melado ou chupar as tetas das pobres vacas, mais uma cambada de lobisomens.</p>
+
+          <p>A Gertudres Curandeira, por muitas feitas, ao ver os dentes dele mais verdes que pedras d’água e mais pinicados que moirões onde bateu o cupim, benzia-se toda por mode do quebranto, a se alembrar, roidinha de desgostos, da Vermelha, pobre dela, que morrera tão seca, tão sequinha, que os urubus nem a quiseram para o pandulho, pois Deus lhes deu foi bicho pra furar e não dentuça pra roer ossos e galhos.</p>
+
+          <p>O irmão do defunto, Durvalinho, esse, na noite do velório ao sair ao terreiro a verter águas, topou com o raio do excomungado: fuça que fuça num montão de esterco, com os olhos da cara que nem duas brasas e a botar, pelos ilhoses do focinho, credo!, uma fumaça que ardia no cheiro e queimava na campainha das goelas como o caju que se comeu ainda verde.</p>
+
+          <p>Hético de nascença, a tossir, sempre a tossir como um cachorro constipado, o Miguelinho era tão comido de carnes, tão comido, que até criava dó nos peitos das criaturas.</p>
+
+          <p>A cabeça, pelada que nem cação, que os cabelos queimaram-nos todinhos as febres das sezões, parecia uma bola de botica espetada num cabo de vassoura.</p>
+
+          <p>Morava só com a mãe dele, a Damásia bebedona, uma velha cismática do juízo por mode da cachaça e a quem o triste malhava e remalhava como a cadela sem-vergonha.</p>
+
+          <p>E nunca um cristão bebeu com ele o mata-bicho, ou jogou as calhas, quando a tarde era de agrado e o peste do vento sul não remexia a poeirama que embaça a vista e entupe as ventas do nariz.</p>
+
+          <p>Mas aquele dia o povoléu, não que tivesse dó do desgraçado, batia o pé pra casa dele, a ver se era de verdade a nova que corria.</p>
+
+          <p>Pois, bem sabido e sabidinho, se contava que ninguém, mesmo com sangue de barata, fastava as unhas do gogó do estuporado.</p>
+
+          <p>Isto ia cismando dentro da cabeça, de boa razão, o Coronel Delcides da Trindade, a atender o mau acerto que o tirava, assim de manhãzinha, da sua roça, onde teimava ele, o obstinado, a caldear a terra ruim com pós de mocotó.</p>
+
+          <p>O Coronel era um chefe político de grande estimação, que dava remédios de mopatia e cantava nas missas de importância vestido de balandrau.</p>
+
+          <p>Trazia de mama as suas boas aparências e, tendo sido um bandão de vezes imperador do Divino, nunca se amostrava por isso soberboso, nem pinicara, com debiques, a pobreza de Cristo.</p>
+
+          <p>Era o mais ouvido e preguntado dos sabichões daquelas bandas, porque tirante o compadre Zé Cardoso, homem de grande entendimento em contas e de boa cabeça pras histórias, e o seu Mamede Zeferino, vendedor de fazendas no caminho das Três Pontes e inspetor de quarteirão na beira de quinze anos, ninguém cortava letras mais bem cortadas nos papéis de pedido pro governo, nem botava mais saber nos remédios pras sezões ou pras ligeiras que atizanam as tripas e deixam um pobre mais sumido que o dedo mindinho do macaco.</p>
+
+          <p>E, por estes e outros mereceres, carregava um poder de votantes, todinhos agarrados às suas costas desde os tempos da república, que ainda o Coronel era homem de arranjar perdões de impostos ou de espantar os pestes dos meirinhos, que às vezes batem sítio como urubus ao cheiro da carniça.</p>
+
+          <p>No tempo da revolta, mal o Custódio e mais os homens dos navios arribaram nos Ratones, ajuntou, o valeroso, compadres e amigos, e vai conselhos desta banda, e vai opiniões daquela outra, e foi como a buzina na praia à hora do peixe fresco.</p>
+
+          <p>E não houve taquari, nem bidoque, nem vara de porteira sem proveitos, pois mais havera um homem de bater o tranglomango que deixar, ao pé das unhas de qualquer lambiza ou maragato, as arcas e os engenhos.</p>
+
+          <p>Mas, no rumbro do Miguelinho, o coronel se alembrou do Zé Cardoso; que a nova, quiçá, lhe não furasse ainda os buracos das orelhas e ele roncasse, a bom roncar, como era de usança na sua vida.</p>
+
+          <p>E de fato, mal se achegou da porta da cozinha do compadre, onde uma vaca esperava, de ubre cheio e a mascar, a peste, que nem velha desdentada, foi logo contando o assucedido, visto na casa ninguém haver cuidado no povo que passara...</p>
+
+          <p>— Pois se foi agora, nestes momentinhos, que abri a porta e fiz o fogo – informava a Maricas.</p>
+
+          <p>— Nem a comadre cisma o poder de povo que passou.</p>
+
+          <p>— Credo! E não se sabe quem foi o malfazejo? – indagou ela, a se benzer.</p>
+
+          <p>— Cismo que não, arrespondeu o Coronel, a lascar fogo do isqueiro.</p>
+
+          <p>— Deus me perdoe, compadre, se alevanto falsos! Até de me alembrar, Ave Maria!, me vem um abalamento nas goelas. Vai ver que foi a mãe que matou o defunto Miguelinho, à traição.</p>
+
+          <p>Aquilo é bruxa que tem folgo de chupar os inocentes, quanto mais de dar cabo dum arrenegado que ajudiava dela.</p>
+
+          <p>— Apois que não, comadre.</p>
+
+          <p>Mas sem amostrar que botara tento nestas falas, o Coronel topou nas ditas um rastro de opinião e, se alevantando, a agradecer o cafezinho que a Maricas lhe trouxera, quente e a convidar, gritou pros fundos da alcova, onde o Zé Cardoso, geme que geme, tentava enfiar nos borzeguins os pés inchados da dormida.</p>
+
+          <p>— Ande daí, compadre, ande daí, que podem remexer no cadáver do assassinado.</p>
+
+          <p>— Fique de certeza, compadre, que foi a velha, aquela peste, por mode as lambadas que levava! – obstinava-se a Maricas, dando a tigela do aparado ao Manequinho, que, de camisa em riba do umbigo, o sem-vergonha, choromingava, a coçar as peles da barriga empanzinada de bichas e ásperas de brotoejas.</p>
+
+          <p>Quando os dois amigos saíram para a estrada, já o sol esfregava a barbalheira de fogo em riba das árvores e um ar de vento sul, ligeirinho e frio, pinicava o rosto e bulia nas folhas, trazendo na plumagem um cheiro bom de bergamotas maduras.</p>
+
+          <p>Era no mês de julho e caminhava tão fermoso o tempo, tão fermoso, que o céu, sempre azul e enfeitado com as rendas brancas das nuvens, parecia a capa nova de Nossa Senhora da Conceição.</p>
+
+          <p>Vinha ainda mais povo pras bandas da Carvoeira.</p>
+
+          <p>Eram as derradeiras pessoas que moravam na beira do Saco e se botavam a caminhar, desde que souberam da nova.</p>
+
+          <p>Ao encostarem parelha à casa de velho Izidro, o coronel e o Zé Cardoso ouviram lá dentro chorar a Chica; e falares de mulheres em cochichos, e barulhos de passos apressurados da sala para a varanda.</p>
+
+          <p>— Gentes! – murmurinhou o Zé Cardoso.</p>
+
+          <p>Entonces o Coronel, a saber do que houvera, bateu na meia-porta.</p>
+
+          <p>Um cachorro, o Leão, pulando de riba na marqueta, ladrou, o desavergonhado, com os pelos do lombo em pé e os vidros dos dois olhos a luzirem, que nem se tivesse uma candeia por dentro de cada um.</p>
+
+          <p>Acomoda-te, excomungado! – gritou a Chica, dando-lhe com a chinela uma lambada de mestra no focinho.</p>
+
+          <p>O Leão, ganindo, fugiu pros fundos da varanda, com a cola grudada no traseiro e a chupar, de medo, as peles das costelas cheias de gafeira.</p>
+
+          <p>— Que hai, comadre Chica? – perguntou o Coronel.</p>
+
+          <p>— Ai! Minha nossa Senhora dos Aflitos! Nem lhe falo, compadre! Credo! Uma coisa ruim que deu no Izidro! A mode que foi um ataque de cabeça, que o pobre de Cristo empeçou a ficar roxinho, roxinho, e, ao depois, gumitou pela boca uma sangueira, tanta, tanta que deixou a cama num pantano. E tudo por mode da Constança, compadre, que   desgarrou pra cidade com o peste do mestre régio, que atentou a rapariga com falinhas e promessas.</p>
+
+          <p>— A Constança? Louvado! Quem diria, comadre Chica!</p>
+
+          <p>— Pois que foi. Nem quero me alembrar!</p>
+
+          <p>E os dois amigos repararam o feio feito da rapariga, que assim sujava as barbas do Izidro, homem de honra e de vergonha.</p>
+
+          <p>— E o Izidro? Vai melhor? – indagou o Zé Cardoso.</p>
+
+          <p>Que sim. A Chica, com a cara num alagoeiro de lágrimas, contou que a Gertrudes, mulher de boa sabença e de entendimentos como um doutor, já dera de beber ao infeliz um caldinho de canos de galinha com bagos de mamona, e o benzera sete vezes com arruda, pois o pobre, o que tinha era muito mau-olhado por mode o passadio e a vida abastosa que levava.</p>
+
+          <p>— Já sabes! O Miguelinho, mataram ele! – contou o Coronel.</p>
+
+          <p>A Chica não soubera desta ruindade, que todo o tempo fora curtinho, bem curtinho, pra carpir as consumições dos seus pecados, vindas assim, sem que ela se a precatasse, mais a desfeita da Constança.</p>
+
+          <p>E afundando a cara no avental, a velha soltou os choros novamente, aos tempos que a filha da Bicota, viúva do Durvalinho, batia-lhe nas costas, a conselhar.</p>
+
+          <p>— Assossega-te, mulher! Não faças espantos, credo! O Izidro amenhã, se Deus quiser, já pode sair pras suas obrigações.</p>
+
+          <p>— Bem, comadre. Se percisar mande lá em casa, que é de gosto.</p>
+
+          <p>— Até logo, se Deus quiser, que não entramos por mode a pressa que nos leva. Da Constança, eu vou falar ao compadre Mamede Zeferino.</p>
+
+          <p>E já largando os passos:</p>
+
+          <p>— Estimo as melhoras do Izidro.</p>
+
+          <p>Agora o sol lavava a potes a estrada, deixando-a molhadinha de luz como os enxurros das chuvadas do inverno – que derrubam as cercas e dessoram a mandioca.</p>
+
+          <p>Sem ouvidos à roda pra saberem das conversas, os dois homens, entonces, começaram a falar do Miguelinho.</p>
+
+          <p>E foi o Zé Cardoso, pessoa de boa cabeça, que memorou a desgraceira do boi na vara, carregada por muita gente a escuidos do defunto Antônio Juca, mas que ele, Zé Cardoso, atentava em maldades do Miguelinho.</p>
+
+          <p>— Agora, compadre! – recusava o Coronel.</p>
+
+          <p>— Cant’eu estou que sim! – arengava o outro. — Aquilo era criatura de ruindades, pois que não foi pra boa coisa que Deus nosso Senhor o marcou naqueles jeitos.</p>
+
+          <p>E Zé Cardoso, obstinado, jurava que fora por maldades, que fora por vinditas das más opiniões do povo à roda da vida dele, que o Miguelinho puíra a corda do boi na vara e fizera aquela desventura, como igual nunca se contou em terras da Trindade.</p>
+
+          <p>Dois homens e quatro mulheres, carregadinhos de família, com as tripas pra fora da barriga, os pobres, como rolos de linguiça caindo de samburás.</p>
+
+          <p>Tirantes os desaventurados que as chifradas pegaram em riba da cama, e os estragos nas roças, e os estragos nas cercas, que foi como se por ali cruzassem os raios dos ciganos e mais a sua fome arrenegada.</p>
+
+          <p>— E olhe uma coisa, compadre – continuava o Zé Cardoso — o Miguelinho nem teve um dito de pena: e era só que a desgraceira chegara pra castigo do povo, que atizanava, de agrado, o pobre do animal.</p>
+
+          <p>Era já passante das dez horas quando eles vararam a cancela do Miguelinho.</p>
+
+          <p>E foi um caro custo, santo Deus, furar través o povoléu, abafado em roda do defunto, topetando o terreiro, vazando pra fora das pitangueiras do cercado que era mesmo como nas festas do Divino, quando o Juca Leiloeiro abre a goela amostrando as prendas ou as massas doces, que cheiram melhor que o incenso das novenas.</p>
+
+          <p>Estirado, de papo para o ar, lá estava o Miguelinho, com os buracos dos olhos que nem covas e os beiços da boca já pinicados pelos urubus.</p>
+
+          <p>Um bandão de formigas, das vermelhas, ia e vinha pela cabeça tirante a barro sujo, corria na terra em duas fileirinhas, uma para cá e outra para lá, conversava uns instantinhos e, ao depois, se sumia adiante, no meio das folhagens, debaixo das laranjeiras.</p>
+
+          <p>Moscas verdes, dessas que sujam varejo na picada, as pestes, tapavam-lhe as orelhas, brigando umas com as outras por mode do lugar.</p>
+
+          <p>E, às vezes, marimbondos vinham vindo, vinham vindo, com as pernas em cacho, e pousavam na boca escancarada do cadáver, arrodeando daqui, mexendo as barbas dali, desinquietos, os raios dos malvados, como se houvera quem os quisesse segurar.</p>
+
+          <p>Já um enxume, que principiava de roxo nas unhas e azulava no cangote, ia enchendo, ia enchendo as pernas das calças do Miguelinho, abrindo mais nos pés as gretas das frieiras, que aguavam como troncos ao depois da chuva.</p>
+
+          <p>E o cristão que se achegasse rente a ele, credo!, nem podia direito suspirar, pois saía do morto uma catinga de azedo e de estrume velho, que enjoava no cheiro e fazia na campainha das goelas engrulhos pra gumitar.</p>
+
+          <p>Num canto da casa, picando fumo em rolo, Joca Serrano conversava, a contar umas histórias das bandas dele, o prosa, de dois defuntos que amanheceram na estrada, no <q>passo</q> do Caveiras, tendo um deles a cabeça tão socada, barbaridade!, que até nem se sabia quem era o infeliz!</p>
+
+          <p>E deixa que o malvado do assassino andava tudavida nos olhos do povo, fala a um, escuita a outro, ajudando a carregar os dois defuntos, porque um, moço viageiro do Rio Grande, era mesmo amigo dele.</p>
+
+          <p>— Mas campeia daqui – falava ele — bascuia dali, e o bicho foi logo de vereda pealado. Era o Brocatinho, justado com o irmão, um doutor italiano, o malvado do assassino.</p>
+
+          <p>Matara os homens pra roubar.</p>
+
+          <p>E o Joca Serrano amostrando com a mão o povo todo à roda, jurava que, se ele fosse <q>vaqueano naqueles matos, havia de garrar o criminoso pela cola</q>, pois talvez o bandido andasse ali a farejar, como um graxaim, o cheiro do cadáver.</p>
+
+          <p>— Me representa que o miserável é crioulo destes rincões e tem querência bem rentinho de nós! – assuntava para um velho de olhos de boi manso e que, de quando em quando, coçava e recoçava o pescoço ressequido e mais cheio de gretas que a casca da aroeira.</p>
+
+          <p>Entonces o Zé Cardoso, que escuitara de longe esses dizeres e era homem entendido nos raciocínios do miolo, se achegou ao pé do Joca Serrano a se pôr certo àquelas falas de juízo.</p>
+
+          <p>— Mas acredite, compadre Joca, que mal o desgraçado botar os pés malditos no terreiro, tão verdade como viver o Nosso Pai no céu, o Miguelinho hai de gumitar as sobras da sangueira que tem nos bofes.</p>
+
+          <p>— Botem ele de borco! – berrou o velho de olhos de boi manso. — Botem ele de borco, que eu amostro como o malvado se achega num instantinho.</p>
+
+          <p>E já os dois filhos do Manoel Balbino pegavam no defunto, quando o coronel, que vinha do grupo adonde o Alvico da Gertrudes arresmungava por mode o descaso da velha, falou que não fizessem aquilo, que deixassem o homem pra polícia bulir, pois era proibido cutucar defuntos antes do Delegado.</p>
+
+          <p>Mas o tempo ia passando, apressurado, na garupa do sol como se fosse tirar o pai da forca.</p>
+
+          <p>Uma a uma as mulheres bateram pras suas casas, a perparar o comer, que as famílias, coitadinhas, já deviam estar com as tripas numa ronqueira de gastura.</p>
+
+          <p>O sol queimava. Fazia tanto calor como nas zinas do verão.</p>
+
+          <p>Por mode disso, entonces, o povo se abrigou à sombra dos cafezeiros, a pitar nas folgas das conversas.</p>
+
+          <p>Bem no céu, arrodeando como a pedir vento sul, um bandão de urubus avoejava, tarando o Miguelinho cá embaixo e mais aqueles que o velavam.</p>
+
+          <p>Para adiante, num lugarzinho verde de pasto, por entre os ramos dos cafezeiros, avistava-se uma vaca vermelha deitada sobre as unhas, remoendo, remoendo, com dois vira-bostas escanchados em riba da cacunda.</p>
+
+          <p>E de quando em que, não se sabia donde, uma corruíra prirrichichava, como um raio da cidade que estivesse a enticar escondido entre as folhagens.</p>
+
+          <p>— Vancê viu o Mamede Zeferino, compadre? – intentou o Coronel ao Zé Cardoso. — Que diabo, homem! Como é que ele até agora não veio cuidar dum caso como este?</p>
+
+          <p>— Não lhe botei desde ontem os olhos em riba. Vi foi a velha, que lá está a roncar no chão da cozinha, mais a gata.</p>
+
+          <p>E reparando na mão do amigo:</p>
+
+          <p>— Que pau é esse que é mesmo como alevadoiro de engenhoca?</p>
+
+          <p>— É pra entregar á polícia, que o topei ali debaixo e ainda está sujo de sangue e de miolo. Foi com ele que mataram o Miguelinho.</p>
+
+          <p>Já um bandão de gente se achegara e o Candinho Reculuta, que vendia puxa-puxa nos domingos e fora soldado na revolta, botava a boca no mundo, a jurar que na véspera, na boquinha da noite, vira a velha carregando aquele pau pra mode se aguentar na bebedeira.</p>
+
+          <p>O Coronel, naquelas falas, trancou a fisionomia, a se alembrar dos dizeres da Maricas, logo de manhã cedo.</p>
+
+          <p>Entonces chamando de banda o Zé Cardoso, cochichou com ele uns instantinhos; e o povo abriu a boca ao avistar os dois vararem a porta do Miguelinho.</p>
+
+          <p>— Hum! Aqui hai rabo de malvado! – disse pros outros o Candindo Reculuta.</p>
+
+          <p>E se querendo fazer de sabichão, saiu a bafejar, aqui e ali, que topara o assassino; que não fora, pois senão a velha, bruxa excomungada, que dera cabo do filho pra livrar o lombo das lambadas e ter, de noite, sem reparos, os inocentes pra chupar.</p>
+
+          <p>— Bichos a comam, estuporada dos infernos! – gritava o velho de olhos de boi manso. — Mesmo que o Miguelinho fosse um filho arrenegado, um peste, que tinha na cacunda duas mortes, carregara ele na barriga nove meses e lhe dera o leite dos seus peitos.</p>
+
+          <p>Uma voz, porém, saiu da manta de homens à beira da cancela, a dizer que fora muito bem feito o escarmento do falador, lobisomem desgraçado que botava quebranto nas ninhadas e matara, só com os olhos, a vaca da Gertrudes.</p>
+
+          <p>Mas o Manoel Balbino, que até aquela hora só abrira a boca nos <q>bons dias</q>, protestou, coçando a cabeça por baixo do chapéu:</p>
+
+          <p>— Não é bom pra Deus falar dos mortos, nem se alevantar falsos testemunhos. Credo! A velha é uma pobre de Cristo que não faz mal a ninguém e toma por mode se esquecer das consumições da triste vida.</p>
+
+          <p>O Alvico da Gertrudes já dera pro lado a gusparada e ia desmentir o Manoel Balbino, quando o Coronel, o Zé Cardoso e mais a Damásia Bebedona, apareceram na porta, todos três.</p>
+
+          <p>A velha, branca que nem cal, tinha a cara de gente do outro mundo, que assim só a filha do Isidoro da tafona, a come-barro, que dera conta da parede do quarto dela e penava agora na Santa Casa.</p>
+
+          <p>Na claridade do sol fechou os olhos, sacudindo a cabeça dum lado para outro, tal se o capenga do sacristão lhe tinisse a campainha da missa nos fundos do miolo.</p>
+
+          <p>— Bamos, bamos, tia Damásia — convidava o Zé Cardoso.</p>
+
+          <p>— Bamos ver o Miguelinho.</p>
+
+          <p>Borbulhos de conversas ferveram no povo.</p>
+
+          <p>Nuns instantinhos um poder de gente se achegou, tapando os passos, os de trás nas pontinhas dos pés por mode ver a velha.</p>
+
+          <p>— Deixem caminho – dizia o Coronel. — Deixem caminho, homens de Deus! Carece levar ela pra junto do cadáver.</p>
+
+          <p>Mas, nesses tempos, um homem que ficara junto ao Miguelinho e que sem querer, o coitado, tropicou e caiu em riba da barriga do defunto, gritou numa fala de susto:</p>
+
+          <p>— Olhem! O Miguelinho está botando a sangueira pela boca!</p>
+
+          <p>Ao ouvir o dito do sujeito o povo teve um estremeção; e correu, sem pôr tento nos rumbros, empurra daqui, vara dali, que era mesmo como a cambulhada dos doceiros sem plaquinhas quando avistam o raio do fiscal.</p>
+
+          <p>De fora do cercado o Candinho Reculuta, escumando, gritava, como um perdido da cabeça:</p>
+
+          <p>— Foi a velha, foi a peste que deu cabo do Miguelinho. Foi a bruxa excomungada!</p>
+
+          <p>Um torrão de barro bateu em riba, no portal; desmanchou-se a respingar pros lados, manchando de vermelho o azul claro da pintura.</p>
+
+          <p>Com a azoada que o povo fez, a velha abriu os olhos, mais vermelhos que pitangas e baldos de pestanas.</p>
+
+          <p>E ficou-se a olhar, a olhar, com a cara de quem quer rir, babando que nem talho de mamão.</p>
+
+          <p>Ao depois, amostrando as gengivas, raladas como pedras de amolar, na sua voz que alembrava um doente de cachumbas:</p>
+
+          <lg>
+            <l>Saracura do pantano</l>
+
+            <l>Quando choca é todo ano.</l>
+          </lg>
+
+          <p>Já o sol cambava pras bandas da cidade, dobrando o morro do Antão, e os sapos, inchando a papeira, os soberbosos, contavam as histórias dos brejos, quando o raio do tomóvel, o comeléguas, bufando como um boi na vara, parou na porteira do Miguelinho.</p>
+
+          <p>Uma fumaça de crosene que o diabo botava do traseiro defumou o ambiente, que havia uma catinga que empestava como os bernes dum cachorro.</p>
+
+          <p>Eram cinco as autoridades da cidade, com a polícia de soma, o excomungado, que mal se apeiou da boleia: já queria saber adonde estava o criminoso pra mode ele marcar a lambadas de facão.</p>
+
+          <p>Primeiro foi o doutor, um moço mofininho de carnes e com os cabelos tirantes a barba de milho, que se achegou ao pé do Miguelinho, a tapar o cheiro com um lenço de seda branca.</p>
+
+          <p>Moscas e mais moscas, num zunidouro dos infernos, alevantaram os voos de riba do cadáver, que era assim como se estivessem numa gamela de frissuras.</p>
+
+          <p>Ao depois foi o Delegado, homem alto e barrigudo, que veio e bateu com a bengala na parede:</p>
+
+          <p>— Arre! Como deixaram este coitado!</p>
+
+          <p>— Coisas desses homens do sítio! – arrespondeu o doutor.</p>
+
+          <p>E mal acabaram os dois esses dizeres, e já se foram para dentro da casa do Miguelinho, que o Mamede Zeferino, agora azafamado, preguntava se o escrivão podia principiar a otópsia do cadáver.</p>
+
+          <p>Entonces veio um magricela com cara de cachorro que lambeu sabão, e roda que roda um caminho de vidro, e camba daqui uma caixa de três pés, e mete lá dentro a cabeça cabeluda, como se piscurasse alguma coisa, a tapar o cangote com um pano preto a modos de capa de viúva.</p>
+
+          <p>E vai, ao depois, o obstinado, e aperta com força uma xiringuinha de borracha, que nem se desse um clister no raio da cumbuca.</p>
+
+          <p>— Pronto! – disse ele ao peste do polícia. — Já está o defunto aqui na chapa.</p>
+
+          <p>Mas o povo, ouvindo os falares altos do Delegado, correu todo de novo pra beira da casa, a espiar pra dentro como em noites de terço.</p>
+
+          <p>Estavam indagando o feito da Damásia, a plantar o verde pra colher o maduro, conversas daqui e aripucas dali, tal o triste do inspetor quando vem na escola atizanar as pobres das crianças.</p>
+
+          <p>Agachada no chão, a olhar as unhas mais roídas que buracos de ratos, babando como um boi, a Damásia, dura da cabeça, apenas murmurinhava o seu dizer de todos os dias:</p>
+
+          <lg>
+            <l>Saracura do pantano,</l>
+
+            <l>Quando choca é todo o ano.</l>
+          </lg>
+
+          <p>E foi devalde que o doutor, e ao depois o Coronel, e até o Zé Cardoso, lhe malharam e remalharam no bestunto, amostrando-lhe o alevadouro, com promessas de que mal não faziam se ela confessasse.</p>
+
+          <p>Mais de valha, porém, fora cortar a velha no pescoço, como era de modos nos tempos da revolta, que ela estava mais trancada que o baú do Jorge Turco, ou a cabeça dum pobre desatendido.</p>
+
+          <p>Não havia com que a fazer gumitar prali o feito ruim das suas mãos, pois mais havera um triste de sofrer sendo inocente que a bruxa ir, pelos seus pés, às grades da cadeia.</p>
+
+          <p>Já o Miguelinho, dentro do caixão que chegara da cidade, era levado pros sete palmos, e ainda ela, sem nada no bucho, se obstinava a mirar as unhas e a dizer o seu canto de todos os dias.</p>
+
+          <p>Na boquinha da noite, malhados de tantos indagamentos, sem nada saberem afora o dito da saracura, o Delegado, o escrivão e o raio do polícia embarcaram de novo no automóvel – que o doutor e o homem da cumbuca já haviam batido pra cidade – enquanto o Coronel mandava a velha para casa dele.</p>
+
+          <p>Não fora a Damásia Bebedona, no entendimento do Delegado, o maldoso que fizera o Miguelinho embirar para o outro-mundo.</p>
+
+          <p>Nem era de valia pra Justiça atizanar a velha, uma pobre maluca da cabeça, perdida da cachaça, que nem sangue tinha pra matar uma barata.</p>
+
+          <p>— Pra que prender uma inocente? Tenha a velha por esmola em sua casa, Coronel – falava o Delegado. — Eu vou me interessar, na cidade, para a recolher ao asilo. Até outro dia.</p>
+
+          <p>— Até outro dia, se Deus quiser.</p>
+
+          <p>O automóvel deu três bufos, ringiu nas engrenagens, botou uma fumaça catinguenta do traseiro, pulou em riba duma pedra e largou à disparada, o maluquento, corcoveando que nem cavalo picado de mutuca.</p>
+
+          <p>— Hein, compadre! – fez o Zé Cardoso. — Não foi a velha! Entonces aquela sangueira que o Miguelinho gumitou, gentes, mal ela botou os pés no barro do terreiro, não vale nada?</p>
+
+          <p>— Homem! São histórias das leis novas. O Delegado falou que faltam indícios, provas, e coisas e loisas. Para mim é preguiça por mode a trabalheira do inquérito.</p>
+
+          <p>— São todos uma cambada – rematou o Zé Cardoso, lascando fogo do isqueiro. — Mais provas que a morte do caipora?</p>
+
+          <p>Autoridade também, mas sem querer desagradar os dois amigos, Mamede Zeferino trancou as falas e não foi por este nem por aquele.</p>
+
+          <p>— Sabe o que mais? Nem paga a pena a gente se consumir! O Miguelinho era ruim. Mas era um vivente de Cristo e está da cova a pedir o pago pro malvado que o matou. Carece agora é que a velha não me arrenegue em casa muito tempo.</p>
+
+          <p>— Credo! – exclamou o Zé Cardoso a se benzer.</p>
+
+          <p>E os três homens, em passos de procissão, saíram do terreiro do Miguelinho.</p>
+
+          <p>No céu as primeiras estrelas abriam os olhos de prata.</p>
+
+          <p>E um cheiro de mato caminhava nos ares, demorava-se uns instantinhos e, ao depois, se sumia, pra deixar apenas o perfume cor de ouro das laranjas maduras.</p>
+        </div>
+
+        <div n="3" type="chapter">
+          <head>III</head>
+
+          <p>Um dia passou, leva que leva, ligeirinho como quem vai de atraso pra novena; e vieram outros, com chuveiros e vento sul; e o Miguelinho nem teve falas de lembranças, nem missas por alma dele.</p>
+
+          <p>A velha, essa, que o Coronel tinha ganas de vê-la pelas costas, lá se foi para o asilo, a curtir a falta da cachaça.</p>
+
+          <p>E ninguém mais no sítio cuidou do assucedido.</p>
+
+          <p>Mas, num sábado, tendo fechado a venda por mode os raios das posturas, o Manoel Balbino, que dava o mata-bicho à custa das patacas que tirara na cabra, se alembrou do negregado.</p>
+
+          <p>E foi entonces que falou das suas cismas acerca dum mascate, um gringo de más feições que ele topara a resmungar pragas e debiques pro Miguelinho, que a tarde inteira pechinchara dois côvados de baeta.</p>
+
+          <p>— Mas foi ou não foi a Damásia Bebedona? — intentou o Alvico da Gertrudes, alimpando com a mão a boca molhada do traguinho.</p>
+
+          <p>— Nem velha nem pera velha, coitadinha, que aquilo não é vivente pra matar uma criatura — informou o Manoel Balbino. Pra mim só foi o excomungado do <hi>mascate</hi>, já corrido doutras bandas por mode as linguiças de gente que fazia, como escutei da boca do compadre Mamede Zeferino.</p>
+
+          <p>— E a sangueira que o defunto gumitou ao ver a velha no terreiro, que era mesmo como a xiringa quando se aperta no saquinho? Diante desta pregunta que só o Coronel podia arresponder, o Manoel Balbino trancou os beiços e mexeu os ombros.</p>
+
+          <p>Mas o Quincas Barnabé, que era mestre régio aposentado, atirou que, pra ele, havia sido os <q>fígados do coitado que rebentaram por mode a quentura do sol e o peso dos estrumes</q>.</p>
+
+          <p>— Que malvadeza como aquela ninguém hai de fazer outra! Credo! — ajuntava ele, a se benzer com a mão esquerda.</p>
+
+          <p>— Olhem, vancês — intrometeu-se o João Xandoca, homem de posses e dono dos chiqueiros mais gordos da Trindade. — Olhem uma coisa. A gente deve dar o perdão aos que morreram. Mas o Miguelinho, Ave Maria, era homem de maus íntimos! Alembram-se do dito da Constança? A fujona, verdade se diga à custa da cabeça, não era nenhuma santinha de pau oco, tanto que resvalou com o tinhoso do professor e a estas horas deve estar se regalando na cidade. Moça do Miguelinho é que não era, pois aquilo nunca foi homem pra girar a cabeça duma soberba, que nem boca tinha pros bons dias.</p>
+
+          <p>E ao depois de beber um trago:</p>
+
+          <p>— Aquele dito era mesmo de ruindade.</p>
+
+          <p>— Afora a lambança dos três cruzados e os maus olhares que ele tinha — ajuntou das bandas o Quincas Barnabé. — Que estes olhos, que a terra hai de comer, nunca viram coisa mais pior.</p>
+
+          <p>Mas o Zé Cardoso, que atendera bem o dito de Manoel Balbino, depois de alimpar na manga do casaco a bigodeira, cerrou para os que o ouviam:</p>
+
+          <p>— Pois fiquem sabendo da minha opinião. Quem deu cabo do Miguelinho foi o peste do <hi>mascate</hi>, acreditem, e não outro malfazejo. Aqui no sítio não veve gente capaz duma ruindade daquela. Alembram-se, vancês, de quando o Miguelinho esteve com as sezões? Não foi o povo que o cuidou?</p>
+
+          <p>Entonces o Candinho Reculuta, que desde os princípios das conversas somente envergara o braço, soltou que fora a velha, e que nem que o defunto do pai dele viesse arrenegá-lo com ditos ao contrário, deixava de jurar as suas cismas.</p>
+
+          <p>— O que foi é que a Damásia Bebedona tem a capa dos graúdos da cidade, que já andam, os urubus, a farejar a casa e mais o sumido do terreiro.</p>
+
+          <p>— Aprovo eu os teus dizeres — agregou o João Xandoca.</p>
+
+          <p>— Nem é de duvidar que os unhas-de-fome estuporados, ao pé dumas patacas, topem sempre razões pra se desquitar de maçadas e deveres. Vancês estão alembrados da Custódia?</p>
+
+          <p>— A mulher de João Camilo? — indagou o Zé Cardoso.</p>
+
+          <p>— Ela mesmo. Pois nem um pingo das heranças a triste viu, que as roças do finado, e mais as inconomias, nem chegaram para o raio da Justiça. E foi tudo em comes e bebes! E ao depois ainda ela, a coitada, nem cobres teve pra pagar ao Mamede Zeferino a mortalha que o marido levou pro cemitério.</p>
+
+          <p>Uma catinga pinicante de cigarro, que se caldeava aos cheiros do açúcar negro e da bolacha doce, andava nos ares, como um vagabundo: sem nada o que fazer.</p>
+
+          <p>As mais das vezes, porém, se respirava a fortidão da cachaça, que era mesmo como na beira do alambique do Cantídio Rosa, na Lagoa.</p>
+
+          <p>Do lampião, pregado num pau de grade azul que defendia a barriguinha do mata-bicho e bem ao pé do chifre preto que dá os bons negócios, uma tira de fogo, que esfumava o vidro, ia subindo, ia subindo até se esparramar no forro baixo, redemoinhando num fervido de marimbondos que tiveram a canzola desmanchada.</p>
+
+          <p>Já a misturar a vista que nem o raio dum mirolho, o Zé Cardoso, quebrantado e requebrantado daquelas falas, agalchou-se a um canto, com a gaita em riba do joelho, a tocar o <title>Maçanico</title>.</p>
+
+          <p>E foi o Candinho Reculuta que, de primeiro, abriu as goelas, tirando a cantiga por mode enticar com o Alvico da Gertrudes:</p>
+
+          <lg>
+            <l>Oh! Alvico! Vancê disse</l>
+
+            <l>Que é senhor pra me embrulhar?</l>
+
+            <l>Pois as tábuas que tem no forro,</l>
+
+            <l>Quero ver vancê contar.</l>
+          </lg>
+
+          <p>O outro, pincado pelo dito do Candinho e mais as gaitadas dos ouvintes, arrespondeu, num bafo de fumaça:</p>
+
+          <lg>
+            <l>Vá s’embora, reculuta,</l>
+
+            <l>Não s’entufe a sabichão</l>
+
+            <l>Que eu não sei de porco velho,</l>
+
+            <l>Avexado por leitão.</l>
+          </lg>
+
+          <p>Entrementes o Candinho se achegou ao pé do cantador.</p>
+
+          <p>E todo prosa, revirando os olhos para o Manoel Balbino, que alinhava de novo em riba do balcão os copinhos da branquinha, bateu os beiços:</p>
+
+          <lg>
+            <l>Sai daqui, seu frango d’água,</l>
+
+            <l>Toma lá minha resposta:</l>
+
+            <l>Do boi nunca tive medo,</l>
+
+            <l>Quanto mais da triste bosta.</l>
+          </lg>
+
+          <p>— Arre! — gritou a rir o Zé Cardoso, apertando com mais força o fole da gaita.</p>
+
+          <p>Houve naqueles momentos umas cruzas de opiniões.</p>
+
+          <p>Entonces o Alvico da Gertrudes, perdido da cabeça com a viltança, levou a mão atrás e cantou uma biana nas fuças do Candinho.</p>
+
+          <p>E os dois gudunharam-se às veras, que nem cachorro por mode um mocotó.</p>
+
+          <p>Com pouco, porém, o Manoel Balbino, ajudado pelo Zé Cardoso e o João Xandoca, desapartaram os brigadores, <q>que ali era casa de família e todos deviam arrespeitar</q>.</p>
+
+          <p>Mas do meio dos braços do João Xandoca, escumando de ganas, o Candinho Reculuta jurava pelo leite que mamara nos peitos da mãe dele, como havia de tirar desforra grossa, pois não havera de deixar sem pago a bofetada que levara.</p>
+
+          <p>— Que venhas que eu te amostro, seu raio excomungado! – berrava o outro, com os olhos que nem pitangas de vermelhos.</p>
+
+          <p>A noite ia caminhando, bate que bate no relógio, sem parar, como quem vai à casa do vigário ou da parteira.</p>
+
+          <p>A luz do lampião, baldia de crosene, quase não alumiava a cara das pessoas.</p>
+
+          <p>Um cheiro de fumaça cocegava nas goelas, sujando de pretume as ventas do nariz.</p>
+
+          <p>Ainda o Zé Cardoso virou mais um traguinho por mode da friagem que entanguia na rua.</p>
+
+          <p>Um gato miou atrás duma barrica, amolando as unhas na madeira.</p>
+
+          <p>No silêncio que se abriu, como uma caixa vazia, percebia-se, longe, um terneiro berrando, ao par do barulho do vento nas folhagens.</p>
+
+          <p>O Manoel Balbino, com medo de algum repique, prendeu na venda o Alvico da Gertrudes; entanto o Zé Cardoso e o Quincas Barnabé, que moravam pras mesmas bandas, carregavam o azoinado do Candinho.</p>
+
+          <p>Na rua fazia um frio de empedrecer as juntas e gerar tosses e reumatismos.</p>
+
+          <p>Com parecenças de mais alto, muito negro e muito largo, o céu faiscava de estrelinhas, que era mesmo como um forno de veludo com cagalumes dependurados.</p>
+
+          <p>Por mode o traiçoeiro do sereno, que incha as tripas e resfria os bofes, os três bateram os pés num cento e vinte papa-léguas.</p>
+
+          <p>Caminhavam sem falas, tira que tira, enjoados de caninha e a resmoer as cismas da cabeça.</p>
+
+          <p>Só o Candinho Reculuta ia pitando, por mode se esquecer da desfeita que o avexava e mais o ardume que esquentava a cara dele.</p>
+
+          <p>Mas tão verdade, tão verdade como ser ele o filho do finado Aniceto da Carvoeira, havia de escarmentar o estupor da Gertrudes, que bem cedo saberia o gosto dos sete palmos.</p>
+
+          <p>Agora passavam em frente à morada do Izidro, toda de boa telha, com janelinhas azuis e cercas de pitangueiras nas duas bandas e adonde cantavam, em dias de sol quente, canários e gaturamos.</p>
+
+          <p>Lá dentro, que seria?, ainda não se assoprara o lampião, pois se avistava luz pelas fisgas da porta e mesmo pelos vidros da janela ao lado, a que dava pro laranjal e tinha caixas de manjericão nos peitoris.</p>
+
+          <p>— Credo! – exclamou o Zé Cardoso parando. — Quere ver que o Izidro está pior?</p>
+
+          <p>— Coitado dele, que aquilo era homem de vergonha e a desfeita da Constança foi mesmo pra dar cabo dos dias dum vivente.</p>
+
+          <p>— Bamos lá – convidou o Zé Cardoso.</p>
+
+          <p>— Eu que não vou – foi logo dizendo o Candinho Reculuta. — Que não quero topar com aquela bruaca da Gertrudes.</p>
+
+          <p>— Pois entonces até amenhã, se Deus quiser.</p>
+
+          <p>E os dois se foram pra casa do doente.</p>
+
+          <p>— O compadre Izidro? — foi logo de chegada preguntando o Zé Cardoso pra azafamada da Gertrudes, que viera abrir a porta, a caminhar na pontinha dos pés.</p>
+
+          <p>— Ruinzinho, bem ruinzinho. Estou que nem passa desta noite. Deu uma soneira no coitado que até parece a morte que vai chegando. Entrem, entrem, que está um frio de matar as bananeiras.</p>
+
+          <p>Na varanda, assentada num banquinho, Chica chorava a carpir aquela sina ruim da vida dela.</p>
+
+          <p>Em roda algumas comadres, de chales na cabeça, num silêncio de velório, assuspiravam, a passar de vez em quando o lenço no nariz por mode enxugar as águas da friagem.</p>
+
+          <p>Da cozinha chegava um chiado alegre de chaleira a ferver e a referver; mas o tique-taque do relógio, cruzes!, era assim como uma tesoura a cortar fazenda pra mortalha.</p>
+
+          <p>Um sabiá pula que pula nos poleiros, gragolhejava, espantado como a luzama.</p>
+
+          <p>Ao avistar o Zé Cardoso a Chica desandou na choradeira, enquanto ele ia dizendo, pra acalentá-la:</p>
+
+          <p>— Deixe disso, comadre Chica. Não se amofine tanto, que aré pode ficar murchinha do juízo com essas consumições.</p>
+
+          <p>— Não que me precate – arrespondia ela. — Mais vai se andar no mundo sem pôr tento nas pessoas, que chorar as desgrácias da má sorte. Valha-me a Nossa Senhora dos Aflitos, pois, cem anos viva eu, e cem anos lhe darei as contas do meu rosário.</p>
+
+          <p>— Carece bem que vancê se achegue pra santinha, comadre Chica – advertiu a Gertrudes, alimpando os olhos no avental. — Homem bom como o compadre Izidro, não hai de haver outro no mundo. Desta ele não se fina; mas a desdita da Constança, aquilo lho hai de levar pro cemitério!</p>
+
+          <p>E ao depois dum suspiro mais triste que um gemido:</p>
+
+          <p>— O padecer do coração é como a doença dos peitos: vai chupando, vai chupando um triste aos poucochinhos.</p>
+
+          <p>— Já teve novas da Constança? — perguntou o Zé Cardoso.</p>
+
+          <p>A Chica não recebera nada até ali, pois não foi de merecimento os passos do Mamede Zeferino. O Coronel, esse, que tinha importância na cidade, estava em riba duma cama, com leicenços nos quartos.</p>
+
+          <p>— Pode até que os fujões nem tejam na cidade — adiantou o Quincas Barnabé.</p>
+
+          <p>— Agora! – informou de entendimento a Gertrudes. — A cidade é um mundo de grandona e hai muita biboca pra esconder quem tenha culpas no escrivão. Da derradeira vez que eu fui correr os Passos – continuava ela –, inda em vida do finado, quebrei uma rua por mode cercar a procissão. E quando dei por mim, Ave Maria!, nem sabia adonde estava. Era um bandão de ruas a se cruzarem daqui prali, dali praqui e a gente a piscurar um rumbro — mais tonta da cabeça que uma coruja na luz do sol.</p>
+
+          <p>— Mas a polícia já está de olho arregalado – ajuntava o Zé Cardoso. — Mal os pombos se botem a caminhar, é só pegá-los pro casório.</p>
+
+          <p>— Pois sim, pois sim! – duvidava a curandeira. — A veva do Tio Joãozinho, a desinfeliz, aí ficou de barriga à mostra, entrementes o raio do estupor do filho do Izidro se foi a casar com uma graúda da cidade. São tudo embustes dessa gente da Justiça. A Damásia Bebedona deu cabo do Miguelinho e lá está no asilo, a excomungada, a gozar o bom comer e a dormida em boa cama.</p>
+
+          <p>— Não foi a velha não, Gertrudes! Aquilo só foi feito das mãos do peste dum <hi>mascate</hi> que cruzou por aqui.</p>
+
+          <p>Um ar de sono andava amolentando os olhos.</p>
+
+          <p>Moída dos penares e da tardança, a Chica dormia o bom dormir, com os queixos em riba dos peitos e os braços à roda dos joelhos.</p>
+
+          <p>Desde que o Izidro tivera o ataque de cabeça, na noite da desfeita, que a pobre se esfalfava a trabalhar.</p>
+
+          <p>Camba o velho deste lado, que o triste nem forças tinha pra se mexer; perpara o remédio dali, pois a Gertrudes não cansava de escarafunchar no fundo do miolo – tizanas ou rezas de benzedura.</p>
+
+          <p>E nunca o seu corpo se deitara pro sossegar duma horinha só, tantas eram as obrigações das suas mãos e as cismas ruins do seu juízo.</p>
+
+          <p>Morre não morre, com a língua mais grossa que língua de papagaio, o Izidro já estava um poder de dias em riba daquela cama, sem valia dos chás e dos defumes de arruda apanhada na lua nova.</p>
+
+          <p>E, tirante isso, batiam e rebatiam no desgosto a vergonha da filha e mais a soidade dela, lá dentro dos seus peitos a roer, a roer, e cá fora sempre viva na boluda almofada das rendas, que ficara num canto, coitadinha, como a chorar também a falta da sua dona.</p>
+
+          <p>Bem que a rapariga, quem soubera!, talvez nem se alembrasse da desgraça do pai e da morte que, por causa dela, o velho carregava na cacunda.</p>
+
+          <p>Bastamente, nos instantinhos em que o marido dormia um sono de doente, ia indo o cismar da pobre Chica ao feito daquela noite, pulando-lhe na cabeça, como as manjuvas nas areias, os pingos de sangue que topara nas vestes do Izidro e que as suas mãos lavaram, bem lavadinhos, por mode o povo não descobrir que fora o velho o malfazejo.</p>
+
+          <p>E pra maior pensão dos seus pesares, vinha subindo, vinha subindo a certa de que o Izidro, ao se finar, ia direitinho pros infernos, tal e qual o homem que ela vira, num quadro do Santo Anjo, na casa do Coronel.</p>
+
+          <p>Às vezes, de tanto cismar assim, dava um grito que assustava a Gertrudes!</p>
+
+          <p>Era que tinha visto o Izidro a se carpir, arrodeado de quimbingas, dentro duma tina de breu a ferver, entrementes o Miguelinho, com cara de porco, ia dando lambadas de porrete na cabeça do triste, tirando dela mais faíscas que o fuzil da pedra dum isqueiro.</p>
+
+          <p>E quando não esta visagem, parecia-lhe ver dois pés de pato como assucedeu no dia da botija.</p>
+
+          <p>Mas como se muda assim a vida dum cristão, que mal nenhum nunca fizera e tinha sempre as mãos abertas pras esmolas!</p>
+
+          <p>— Seja tudo o que Deus quiser — consolava-se ela nos íntimos dos peitos. — Hai tempo de sol e hai tempo de chuva!</p>
+
+          <p>E a Chica memorava, entonces, pedaços velhos da sua vida.</p>
+
+          <p>Ai! Como sentia, por uns instantinhos, as suas consumições mais longe que a cidade!</p>
+
+          <p>A Constança inda comia as papas de polvilho e a casa em que moravam, na praia dos Ingleses, tinha rosas subindo nas paredes e pitangueiras à roda.</p>
+
+          <p>Da janela de caixilho azul, todas as tardezinhas, com a filha nos braços, ficava a ver o mar, a ver o mar!, à espera da vela branca que lhe trazia o amor e a abastança dos varais.</p>
+
+          <p>E agradava tanto ao seu coração, tanto, ouvir o marulho arrastado da onda, que, mesmo dormindo, nos seus sonhos ou entonces alegre, no seu canto – era aquele ruído que a embalava e a enchia de felícias.</p>
+
+          <p>Para ela a terra toda estava ali; ali dentro daquilo que seus olhos viam.</p>
+
+          <p>E os seus olhos, esses, viviam sempre a se encharcar no verde das árvores e no verde do mar – adonde também os olhos azuis do céu ficavam o dia inteiro, como os olhos de um namorado.</p>
+
+          <p>Nos tempos da chuva quando o triste do inverno esfriava como defunto e o vento sul gania nas fisgas das janelas, a Chica passava os tempos à beira do oratório, a pedir a Nossa Senhora a proteção para o lzidro, pois que seria dela no mundo, viúva, e com uma filha pequenina nos pobres braços?</p>
+
+          <p>Mas, no fundo dos seus peitos, caldeado nas rezas, batia também o amor dela pelo céu azul e pelo sol; que o sol e o céu eram as soidades dos seus olhos!</p>
+
+          <p>E alembrava-se do lzidro moço, encalhando na praia a canoa cheia de peixes cor de prata, com as calças regaçadas e a gandola de baeta azul, e mais os negros dos cabelos que o vento desmanchara, cheirando a maresia; ou, entonces, nas tardes de tainha farta, que era mesmo alegre como um dia de festa, com a água do mar até a cinta, arrastando, com os outros, a rede que ela cruzara, malha a malha, e lha dera, por São João, nas vésperas do casório.</p>
+
+          <p>A rede! Dias e mais dias levara a trabalhar, do amanhecer à boquinha da noite, com tantas felícias no coração, tantas!, como se aquilo fosse uma renda grada do enxoval.</p>
+
+          <p>— Larga um poucochinho esse afazer, que até podes ficar arcada da cacunda – vinha o pai e lhe dizia.</p>
+
+          <p>Mas a Chica, soltando muxoxos de sorrisos, atirava a cabeça para trás, fazendo tinir as argolas de ouro das orelhas.</p>
+
+          <p>E tanto repuxava nos peitos a blusa de riscadinho, tanto a repuxava, assim a rir, que até se via por baixo da fazenda as formas das duas rolas...</p>
+
+          <p>Como se carpira uma feita, ai desgraçado!, quando o Izidro lhe trouxera a rede cortada pelo raio do cação, que soltara, ainda em riba, a peixaria toda e tirara o pago duma noite de trabalheira!</p>
+
+          <p>Ao depois, por mode da Constança, já crescidinha, que pegara a tosse comprida, vieram para a Trindade e o Izidro alevantara, com as economias de dez anos e as heranças do pai dela, a casa de boa telha em que moravam.</p>
+
+          <p>Desde aí, o velho, todo lambido pelas roças, nunca mais botara os pés dentro da canoa, pois a terra era farta de sumos e dava cada repolho, louvado!, que era pra empazinar a barriga mais faminta.</p>
+
+          <p>Veio um Santo Antônio; e vieram outros; e um bandão de vezes as andorinhas fizeram os ninhos na beira dos telhados.</p>
+
+          <p>Um dia o Izidro, com os olhos vermelhos, veio a ela e falou em voz de choro:</p>
+
+          <p>— Chica, a Constança está botando os peitos e percisa saber. Bamos mandar a rapariga pra escola das freiras, que o Coronel tá sempre me dizendo: <q>Atente Izidro, que aqui no sítio só se aprende a cavocar nas roças</q>.</p>
+
+          <p>Ela vai com a filha dele, a Mariquinhas, e nós, ao depois, todos os meses...</p>
+
+          <p>E não acabou o pobre de falar!</p>
+
+          <p>Uma fonte de lágrimas correu dos olhos dele, como de duas covas duma pedra.</p>
+
+          <p>A noite toda daquele dia a Chica não uniu as pestanas, coitadinha, a suspirar, e se mexer em riba da cama, o coração só: bate que bate, que nem se quisera, o aperreado, sair para rolar nas tábuas do soalho...</p>
+
+          <p>E cada vez que ela suspirava, e cada vez que ela se mexia, o Izidro preguntava, numa voz sumida e triste:</p>
+
+          <p>— Inda não dormisse, Chica? Não deve haver esperas pra se ouvir cantar o galo. Estou com a cabeça num ardume!... Credo!</p>
+
+          <p>Passante um mês, a Constança deixou o sítio.</p>
+
+          <p>Ai! Minha Nossa Senhora da Soidade!</p>
+
+          <p>A casa ficou tão grande e a chieira do silêncio era tanta, tanta!, que mais vontade a Chica sentia de chorar.</p>
+
+          <p>Três dias e três noites os dois carpiram aquele triste vazio na vida deles.</p>
+
+          <p>De manhãzinha, quando se alevantavam, nem ela, nem o Izidro tinham vontades de viver, que de valia não lhes era a vida tão longe da Constança.</p>
+
+          <p>E os passos dos dias! Louvado seja Deus! Tão devagarzinho eles caminhavam, tão devagarzinho que, quando a pobre da Chica, quebrantada e requebrantada de carpir, olhava as duas pernas do relógio – elas lá estavam, preguicentas, em riba do mesmo número.</p>
+
+          <p>Até o sabiá, tão cantador que era, vivia jururu num canto da gaiola.</p>
+
+          <p>A Chica ficava só, de sol à noite, sem conversantes pra cortar o tempo, que o Izidro, por mode se consolar, comprara uma canoa e os dias todos pescava de caniço ou de tarrafa.</p>
+
+          <p>Mas com as estrelas, ao voltar das águas, nem o triste de um peixe trazia no fundo da canoa; soltara-os todinhos, pra que a falta deles não fosse carpida pelos pobres dos pais e pelas pobres das mães.</p>
+
+          <p>— Que os peixes – dizia o velho — são viventes e têm coração nos íntimos dos peitos.</p>
+
+          <p>Todos os meses iam, entonces, ver a Constança no convento.</p>
+
+          <p>E quando voltavam da visitação, coitadinhos dos dois!, vinham mais tristes e mais velhos, tanto que no sítio, à boca pequena, toda a gente falava que eles não demoravam a bater pros sete palmos.</p>
+
+          <p>Assim caminhou na terra a vida do casal, até o dia em que o sol entrou de novo pelas janelas.</p>
+
+          <p>Foi quando a Constança, de saia cobrindo meia perna, chegou no carro do polaco, letrada e sabendo tão bem falar, louvado!, que maior agrado não havia que escutar os seus dizeres.</p>
+
+          <p>Vinha outra, a rapariga, com o cabelo repartido em dois no meio da testa, o rosto de boas cores e tão lindo, tão lindinho, que era mesmo, mal comparando, como o rosto de Nossa Senhora!</p>
+
+          <p>— Ai! Meu menino Jesus! — dizia a Gertrudes toda alegre de prazeres. — É mesmo uma linda que ela vem.</p>
+
+          <p>Houve festanças; e até o cantar do galo, na fogueira que lavrava no terreiro, chiaram gordas batatas doces e grossas canas de açucre.</p>
+
+          <p>Entrementes, dentro de casa, dançou-se a mais não poder, que o Izidro mandou buscar três músicos de fama da cidade e foi de fazer doer os mocotós.</p>
+
+          <p>Até o Zé Cardoso espremeu de gozo a gaita; e nunca se ouviram no sítio tiradas mais bonitas!</p>
+
+          <p>O Juca Serrano, esse, também descantou, à viola, a querumana das bandas dele, botando versos por mode enticar com os dançadores.</p>
+
+          <p>E a Chica, coitadinha dela, ao memorar o que fora a sua vida, vinha vindo até aqueles dias de desgostos, deixando no caminho um alagoeiro de choros.</p>
+
+          <p>Esperavam na chieira dos peitos do Izidro, ou, entonces, a voz rouca da Gertrudes:</p>
+
+          <p>— Ande dali, comadre Chica; deixe de se amofinar, criatura, que o sol que vai-se embora volta noutra manhã.</p>
+
+          <p>E a sua vista se retrançava ao dar com o pobre do Izidro em riba daquela cama, vermelho do queimor da febre, e tudo por mode o peste do mestre régio, que carregava a Constança por maldades da sua alma arrenegada.</p>
+
+          <p>Não que tanto o consumissem os ditos do povo e a morte do outro estupor, que pagara bem pagado as aleivosias da sua língua e, a estas horas, tinha mais bichos a rebolarem que os berneiros dum cachorro.</p>
+
+          <p>Mas o raio do professor, esse, havia de ter a língua mais esturricada que uma folha seca, que era a praga que lhe rogava da desgraça feita na família.</p>
+
+          <p>Naquela noite, a despique do parecer agourento da Gertrudes, o Izidro não teve a carência de ares pros suspiros, nem o chiado na cruz das costas, que o atiravam, roxinho, em riba dos travesseiros, com os olhos fixos e suando que nem tampa de panela.</p>
+
+          <p>Desde quase um poucochinho antes do Zé Carneiro chegar, o velho dormia numa soneira tão sumida, que duas vezes a Gertrudes cismou que ele tinha se finado.</p>
+
+          <p>Por isso, e não por nada, a Chica pudera arriar o queixo nos peitos e os mais conversar em descanso uns instantinhos.</p>
+
+          <p>Já os galos começavam a cantar, os apressurados, a pedir logo a madrugada.</p>
+
+          <p>Com os olhos pisca que pisca de soneira, Quincas Barnabé namorava, no relógio, o ponteiro pequeno, que parara em riba das quatro horas, entrementes o outro, o grande, magro como um caniço, ia trepando no número doze.</p>
+
+          <p>Com pouco se ouviu como um estalo, e ao depois uma chieira, e logo as horas: pan, pan, pan, pan!, como pingos da goteira nas bordas duma bacia.</p>
+
+          <p>— Não demora o amanhecer – falou, abrindo a boca, o Zé Cardoso.</p>
+
+          <p>— E certo – concordou a Gertrudes, frestando um pouco a janela, que dava pro galinheiro. No verão já estava claro. Agora, neste raio de inverno, o sol é preguicento, preguicento. Custa a vir como o prazer. Mal se bota em riba e já está, o dorminhoco, a espiar os morros por mode se deitar. Um tiquinho de dia, credo!, e é escuro como breu.</p>
+
+          <p>Nesses tempos, a Chica, dando um grito, abriu os olhos.</p>
+
+          <p>Quem sabe um sonho mau da pobre cachimônia?</p>
+
+          <p>Mas não! Era que o pescoço lhe doía tanto como castigado duma canga. Quis se alevantar e foi devalde.</p>
+
+          <p>— Pois vancê, mulher, vai dormir de cabeça pra baixo que nem caju? – ia dizendo a Gertrudes, afomentando-lhe o cangote com enxúndia de galinha preta, defumada em palha benta. — Até lhe podia bater uma moléstia ruim e vancê ficar sem goelas, cruzes!</p>
+
+          <p>A Chica, debaixo daqueles passamentos de mãos, que a aliviavam, preguntava pelo Izidro, que ela nem sabia como fora aquele dormir o tempo todo.</p>
+
+          <p>Em roda todos falaram, entonces, que o Izidro ia bem, que dormira a noite todinha sem falta de ares nem gemidos.</p>
+
+          <p>— Ai! É certo? Minha Nossa Senhora, que eu cismo que é um sonho da cabeça!</p>
+
+          <p>E como o Zé Cardoso lhe batia nas costas, a dizer que nova melhor não podia receber, ao abrir dos olhos, a Chica desatou na choradeira e bateu, apressurada, pro quarto do marido, pois o Izidro já se mexera em riba da cama, suspirando.</p>
+
+          <p>A Gertrudes, azafamada, correu logo pra cozinha buscar a caneca do remédio.</p>
+
+          <p>Uma das velhas, que o barulho espertara, com os olhos da cara que nem bofes de galinha, abriu a boca, fazendo o sinal da cruz, por mode trancar a entrada ao estupor.</p>
+
+          <p>As outras duas roncavam bem roncadinho um sono assossegado, pois, se eram sozinhas, avezadas a grudarem as pestanas até sol alto e não lhes atizanava o passadio – o incerto dos pobres de Cristo.</p>
+
+          <p>Filhas do Finado Theodoro Veterano, pagava-lhes o Governo o meio-soldo, que dava bem pro consumo da barriga e ainda pras pitadas do rapé.</p>
+
+          <p>Maridos sem contagem, as duas enjeitaram, pois o pouco que o pai deixara não havera de ir parar nos bolsos de qualquer malvado pra ele, depois, viver à tripa forra.</p>
+
+          <p>Porém, no sítio se mexericava, fala aqui, fala acolá, que elas guardavam a donzelia por mode o amor que ambas tiveram, cruzes!, ao defunto vigário Machadinho.</p>
+
+          <p>— Bamos, compadre? – convidou o Quincas Barnabé. — Bamos nós, que já cumprimos as obrigações e a massada foi mesmo de alimpar a alma dum culpado.</p>
+
+          <p>— Sem o conduto?</p>
+
+          <p>— Credo! Nem que vancê não tivesse em casa beiju para o aparado!</p>
+
+          <p>Na sala toparam com a Gertrudes, que voltava carregando nos braços uma bacia de louça branca, donde saía a fortidão do vinagre e da mostarda.</p>
+
+          <p>E vinha tão cega dos olhos, ela, que nem viu os dois de chapéu nas mãos, já rente à porta, andando na pontinha dos pés por mode não fazer zonzeira nos ouvidos do doente.</p>
+
+          <p>A Gertrudes ia falando, como aguada do miolo, que aquilo fora milagre, só milagre, pois inda na vespra o Izidro avistava moscas à roda dele e tinha os olhos parados e vidrentos como os olhos dum boneco!</p>
+
+          <p>Na rua a madrugada se desembrulhava das suas capas negras, amostrando o corpo claro e a cabeleira de luz.</p>
+
+          <p>O vento sul havia parado.</p>
+
+          <p>Apenas a friagem, que andava no ar, raspava como um ralo e tinha cheiros de matos úmidos e de laranjas.</p>
+
+          <p>Ao pé da porteira do Coronel, uma vaca preta mugia, botando pela boca um bafo quente e fumarento.</p>
+
+          <p>E esse mugido era o único rumor que espertava o silêncio.</p>
+
+          <p>Enfim, graças a São Sebastião, o Izidro sempre se alevantou daquela cama, tão magro, tão sumidinho, credo, que era mesmo um <q>me valha aqui senão eu caio!</q>.</p>
+
+          <p>Quase vinte noites e vinte dias padecera o pobre, vai não vai, por mor dos seus pecados e da assanhada da Constança.</p>
+
+          <p>Pelas goelas, coitado, nesses tempos, não lhe desceram nem sopinhas nem condutos, pois a Gertrudes batia o queixo só em cismar que, por mode do comer, podia a sangueira subir de novo pra cabeça do compadre ou tapar-lhe as covas do coração.</p>
+
+          <p>Por isso, e mais pela doença, o velho estava mais fino que um bilro de rendeira.</p>
+
+          <p>Mal tomava, o triste, um gole de caldo de galinha – assim mesmo bem assoprado em riba por mode os olhos de gordura – batia-lhe a sustância na fraqueza e era um dó se vê-lo juntar logo as pestanas e ali jazer, branco que nem cal.</p>
+
+          <p>Quando espertava da soneira, vinha entonces assim como umas friagens no miolo e o desaventurado começava a falar, a falar, tal e qual um homem baldio de entendimento.</p>
+
+          <p>E essas falas, grossas e peganhentas, tinham parecenças com bolas de pau boiando no melado.</p>
+
+          <p>— Ai! Meu Deus! – assuspirava dum canto a pobre Chica, ao avistar o Izidro fazendo visagens com a mão direita, que a outra, a esquerda, ficara tão esquecida como se não fosse dele.</p>
+
+          <p>— Acalente-se, compadre! – vinha a Gertrudes e consolava. — Antes o ter assim que debaixo da terra.</p>
+
+          <p>— É que o triste dá mostras de desarvorado da cabeça que nem a mulher do compadre Zé Cardoso.</p>
+
+          <p>— Atontado do juízo, por mode da fraqueza, que faz embrulhos no raciocínio e embaça a vista! — explicava a curandeira. — Alembra-se do meu Alvico, quando teve as febres das sezões? Entonces?</p>
+
+          <p>Mas a Chica, com o coração a negar os dizeres da Gertrudes, só via, través o aguaçal das suas lágrimas, o seu bom velho ali naquela cadeira, sem um pingo de vontade, os pés chumbados dentro das chinelas e os olhos fixos na gaiola do sabiá, bole que bole, dependurada no forro por um gancho de arame a que as moscas, as pestes, empreteceram de imundícias.</p>
+
+          <p>E o trabalho pra deitá-lo!</p>
+
+          <p>Era de fazer suar as testas da cabeça!</p>
+
+          <p>O homem ficava assentado em riba da cama, olha pra Chica, olha pra Gertrudes, fazendo tanta força pra dizer, que até parecia, o coitado, querer gumitar as suas falas.</p>
+
+          <p>E como se obstinava em não tirar as chinelas, mais as calças!</p>
+
+          <p>Antanho o infeliz dormia as noites todas!</p>
+
+          <p>Mas agora, credo, passava-as de olhos arregalados e a se remexer como um picado de sujeira.</p>
+
+          <p>Assim corriam os dias, sem pressa, atormentando a Chica e lhe deixando pobrezinha de esperanças.</p>
+
+          <p>Já nem cismava em ver o Izidro como era ele antes da desgraceira.</p>
+
+          <p>Porém, um domingo, São Sebastião fez outro milagre e ganhou mais uma vela de libra daquelas que tentam os santos nas promessas e o Mamede Zeferino enfeita de papel de chocolate, por mode vendê-las pelos olhos da cara dum cristão.</p>
+
+          <p>O Izidro andou por seus dois pés, muito degavar, é certo, muito degavarinho, mas sem o ajutório da mulher e da Gertrudes.</p>
+
+          <p>Era um domingo lindo, tão lindo e alegre como a bandeira do Divino Espírito Santo.</p>
+
+          <p>Fazia sol; e no céu muito limpo e muito claro, avistado cá de baixo, por entre uma renda fina de luz, um urubu avoejava, avoejava de mansinho; e, de tão alto que ele estava, parecia uma carocha preta a caminhar em riba dum xale de seda azul.</p>
+
+          <p>Não ventava, nem de leve; de maneira que no calor que vinha dos ares e subia da terra, as bergamotas derretiam o sumo cor de ouro que elas têm, as ricas, nos favozinhos das cascas.</p>
+
+          <p>E aqueles cheiros, naquela manhã fermosa, manhã de missa com sinos a repicarem, espertavam nas criaturas as soidades das festas da Trindade, quando as raparigas namoram e os rapazes, por vinditas, atizanam nos leilões os raios da cidade, à sombra das barraquinhas de folhagens.</p>
+
+          <p>Foi um alegrão os passos do velho, da cadeira pra janela da varanda!</p>
+
+          <p>A Chica, numa tremura que lhe fazia bater o coração, nem ria, nem chorava, num canto da mesa do comer, com a boca escancarada de espanto, a cismar, até, que era um sonho da cabeça aquilo tudo.</p>
+
+          <p>Entrementes a Gertrudes, com as mãos em cruz nos peitos, gritava, que nem maluca do juízo, a dizer que fora um milagre, pois nunca cismara ela que o Izidro caminhasse tão pertinho.</p>
+
+          <p>E foi um falatório em todo o sítio, de casa em casa, que parecia nas vespras dos fogos; e se contava que, na hora do Izidro andar por seus dois pés, a Gertrudes sentira um cheiro de incenso e o sabiá, coitadinho, abrira o bico, a cantar, perdido de alegria.</p>
+
+          <p>Na boquinha da noite, já a casa era um tiquinho pro bandão de gente que se mexia lá dentro.</p>
+
+          <p>Todos tinham, bem no fundo dos seus peitos, uma vera satisfação por ver o Izidro senhor do seu andar, que o pobre padecera muito por mode do grande amor da filha e a vergonha da sua cara.</p>
+
+          <p>E não era ele pra merecer aquelas desgraceiras.</p>
+
+          <p>Homem bom até ali, pois desde o dia que viera, com a família, e mais os trastes, pras bandas da Trindade, nunca as suas mãos se trancaram para os pobres ou a sua boca se abriu pra debiques e viltanças que atizanam os mais.</p>
+
+          <p>Quem tivesse percisão e se achegasse a ele, levava pra sua casa o cruzado da farinha.</p>
+
+          <p>De princípios, o Coronel, com ciúmes do povo, não botara no velho olhares de boas tenções.</p>
+
+          <p>Mas, ao depois, até lhe gavava o proceder e andava de falas com os graúdos por mode fazer o Izidro juiz de paz.</p>
+
+          <p>Era da boca de todo o mundo o caso da Bicota do Amâncio, a pobre que ficara com cinco familinhas nos braços, uma na barriga e sem um tiquinho de beiju em casa pra matar a fome.</p>
+
+          <p>Isso, quando do desgarre do peste do marido, excomungado cachaceiro, que, ao depois de malhar e remalhar a pobre da mulher, ainda a deixou, na noite negra, e alou de burlatim num circo de cavalinhos.</p>
+
+          <p>Mal a nova, porém, bateu a correr os quatro ventos, já o Izidro, cheio de dó, carregava a desgraçada, mais a familagem pra casa dele, que um prato de feijão ninguém deve de negar.</p>
+
+          <p>E lhe deu, passantes dias, o rancho de tabatinga onde a triste vive hoje, no caminho das Três Pontes.</p>
+
+          <p>De virtude, pois, que o povo rezasse pra vê-lo de saúde e já andasse de cota pra missa de ação de graças.</p>
+
+          <p>A Chica nem mais tinha falas de agrado na pobre da cachola pra receber tanta da gente.</p>
+
+          <p>E eram risos, e eram choros, e eram abraços, que até parecia que ela viera da Corte.</p>
+
+          <p>— Ai, que foi mesmo São Sebastião! – dizia a todos.</p>
+
+          <p>Só o Izidro, assentado na marquesa, não dava tento às falações, com os olhos fixos na gaiola do sabiá ou, entonces, cochila que cochila, como atontado da bebida.</p>
+
+          <p>— Hum! – veio dizer ao Coronel o Mamede Zeferino. — O velho escapou desta, mas ficou vazio do raciocínio.</p>
+
+          <p>— Talvez que seja da fraqueza! – disse o outro.</p>
+
+          <p>Ao cabo duma semana, já o Izidro caminhava a casa toda.</p>
+
+          <p>As cores voltavam-lhe pé ante pé ao rosto; só o entendimento ficara, que nem se estivesse embrulhado numa colcha e o braço esquerdo tão dormido e bambo como se fosse destroncado das craveiras.</p>
+
+          <p>A boca abria apenas pro comer e pro beber. Se tentava falar, coitado, nem mesmo os ouvidos do compadre vigário, que estavam mestres nos cochichos da confissão, apercebiam-lhe os dizeres e os pedidos.</p>
+
+          <p>Um dia a Gertrudes falou da desventura da Constança.</p>
+
+          <p>Foi como se dissessem a uma pedra: arreda que vem um raio!</p>
+
+          <p>O velho nem mexeu com as pestanas, nem buliu com os carinhos, ficou-se adonde estava o triste, com a vista fincada na peste duma aranha que vinha vindo degavarinho, degavarinho, pra riba duma pobre mosca descuidosa.</p>
+
+          <p>Entones, a sacudir a cabeça, com um dó verrumando os fundos do coração, a Gertrudes ficou certa de que a doença aguara o miolo do compadre.</p>
+
+          <p>E foi dobrada em choros que ela se agarrou com a pobre Chica, a confessar que o Izidro perdera o entendimento da cabeça.</p>
+
+          <p>— Mais de valha fora o ter morrido – falavam no sítio à boca pequena. No fim sempre era o descansar.</p>
+
+          <p>Um mês passou em riba daquela vida.</p>
+
+          <p>Já o frio batera as pernas pras outras bandas e os espinheiros dos caminhos, topetados de flores, eram mesmo, de perfumentos, como as moças que vão pros bailes.</p>
+
+          <p>Cigarras chiavam de quentura todo o dia, as descuidosas, a dizer onde estavam aos famintos dos louva-deus.</p>
+
+          <p>E os pessegueiros, refolhudos e todos verdes, escondiam da soalheira os fruitos peludinhos.</p>
+
+          <p>De tardezinha, quando o sol cambava o morro do Antão, o velho vinha cochilar, assentado no terreiro da casa dele, embaixo da parreira.</p>
+
+          <p>Estava bom, é certo, porém não dava tento afora dos instantes de comer.</p>
+
+          <p>Podiam-lhe até picar motucas e varejeiras.</p>
+
+          <p>Uma feita, o Coronel, pra ver se o desempedrava, falou também do passo da Constança.</p>
+
+          <p>O Coronel lera nos livros que é bom se dar um choque nos baldios de raciocínio.</p>
+
+          <p>O Izidro nem reparou nos modos da conversa, que foi até como se lhe falassem nas línguas das estranjas.</p>
+
+          <p>Cambaleou um pouco da cabeça e fechou os olhos, na soneira do seu costume.</p>
+
+          <p>— Ai, como ele está! – clamou a pobre Chica. — Quem havera de dizer!</p>
+
+          <p>— Mas também o compadre Izidro não era homem de muitas falas – alembrou o Coronel. — Sempre foi muito trancado de boca.</p>
+
+          <p>— Agora, compadre! Trancadinho pros estranhos e mais os ditos do povo.</p>
+
+          <p>Mas dentro de casa era um regalo nas histórias.</p>
+
+          <p>A noite vinha vindo degavarinho, a acender as candeias das estrelas por mode alumiar o caminho pras almas do Paraíso, que saem sempre, quando escurece, a passeio pelos céus.</p>
+
+          <p>Os grilos, debaixo das pedras e nos buracos das paredes, cricriavam que nem loucos, fazendo até nos ouvidos dos cristãos, os pestes, uma chieira dos pecados.</p>
+
+          <p>Entrementes longe, em algum tronco de garapuvu, uma cigarra das grandes retinia alto, parecendo o sonido de um sino que ficasse voando e demorando nos ares.</p>
+
+          <p>Dentro da casa, a Gertrudes, que acendera o lampião, chamava a Chica, mais o Coronel, pra beberem o café.</p>
+
+          <p>Já estava bem escuro e a vista, por mais fina que fosse, nem diferençava, debaixo das laranjeiras, um porco dum cachorro.</p>
+
+          <p>Fazia um calor de trovoada e na suspiração, apercebia-se o cheiro de areia quente e de folhagens secas.</p>
+
+          <p>— Bamos, Izidro, bamos, que o café está esfriando.</p>
+
+          <p>Mas o Izidro, mau grado o chamamento e a prontidez que tinha pro comer, nem despregou as pestanas, nem remexeu os pés à piscura das chinelas.</p>
+
+          <p>— Ai, minha Nossa Senhora! – já clamava a Chica numa aflição que lhe arregalava os olhos. — Acuda aqui, compadre, acuda aqui, pelo amor de Deus!</p>
+
+          <p>Aos gritos da pobre velha, a Gertrudes apareceu, aos tempos em que o Coronel, com a mão na boca do Izidro, a ver se ele suspirava, dizia pra coitada da Chica:</p>
+
+          <p>— Não se assuste, que não é nada. Carece levar ele pra dentro de casa por mode do sereno. Isso talvez que seja do calor.</p>
+
+          <p>Um morcego, o excomungado, passou avoando pras bandas do curral, a chupar as tristes vacas.</p>
+
+          <p>Cagalumes abriam, aqui e ali, as luzes dos corpos deles, que nem se tivessem, os lumarentos, pavios embaixo das asas e fossem cheios de crosene.</p>
+
+          <p>Devagar, com as mãos numa tremura de maus pressentimentos, o Coronel agarrou o Izidro na cruz dos ombros; a Gertrudes bateu às bandas a ajudar; enquanto a Chica embaçada da vista por mode do chorar, segurava nos pés do velho, mais frios que as águas na força do inverno.</p>
+
+          <p>E assim, os três, todos cuidadosos, o foram levando pro quarto de dormir, donde o botaram em riba da cama, o triste, já com o nariz fino e as fontes da testa fundas como calcadas a dedo grande.</p>
+
+          <p>O Coronel, molhadinho de suor, esfregava nos pulsos do infeliz um pano com vinagre; mas a Gertrudes, que se tinha na conta de sabichona e não gostava de ver ninguém mostrando sabenças nas artes dela, gritava que o melhor era fazer a sangria no doente, <q>pois o sangue que parava nos miolos carecia sair por mode não coalhar</q>.</p>
+
+          <p>— Pique em riba do braço direito, um palmo abaixo do sovaco e ao depois de bater sete vezes no lugar – ensinava a curandeira. — Pique sem cuidados, que eu vou na cozinha buscar um alguidal.</p>
+
+          <p>Ao dar com os olhos na Chica feita uma cata-cega, anda que anda, a se repelar pelo quarto, a Gertrudes destemperou a língua, arrenegada:</p>
+
+          <p>— Oh, mulher, credo! Vancê não enxerga a gente nessas trapalhações, com pouquidade de braços pros trabalhos e nem se mexe pra ajuda dos mais? Tranque a janela, cruzes! Tranque a janela por mode o vento e deixe de chorar que o Izidro com pouco fica bom.</p>
+
+          <p>A negra nova, por certo, correra o sítio, pois o Alvico aparecera, apressurado, na porta do quarto.</p>
+
+          <p>— Sube na venda do Manuel Balbino – informava ele. — Sube da boca do compadre João Xandoca.</p>
+
+          <p>Um calorão de afogar as ventas mais desentupidas apertava a suspiração, esquentando que nem a boca de tafona.</p>
+
+          <p>Em riba da cômoda a lamparina de azeite de mamona, dentro de um pires, erguia a sua luz muito clara, alumiando o rosto lindo e as vestes azuis de Nossa Senhora da Conceição, que uma redoma de vidro defendia das moscas e da poeirama.</p>
+
+          <p>Já a Chica batera pra cozinha a buscar o açúcar mais as teias.</p>
+
+          <p>— Agarre aqui, comadre Gertrudes, agarre aqui, que é pra poder picar certinho no lugar.</p>
+
+          <p>E o Coronel, com a ponta do canivete, fez o talho no braço do Izidro.</p>
+
+          <p>Mas qual!</p>
+
+          <p>Piem uma gota de sangue apareceu; apenas uma água vermelhenta saiu do pique feito, escorreu pelo braço do sofrente e começou a pingar, a pingar, em riba do lençol.</p>
+
+          <p>O Coronel, entonces, botou o ouvido nos peitos do Izidro e ao depois exclamou, numa voz abafada, pra Gertrudes:</p>
+
+          <p>— Deus tenha piedade dos seus pecados.</p>
+
+          <p>— Ai, o meu compadre! – gritou a Gertrudes, quase sufocada num soluço de choro. — Santo Deus nos valha! Que hai de ser da comadre?!</p>
+
+          <p>Em riba da cama, o Izidro, de boca escancarada, tinha os olhos abertos, já baços e parados.</p>
+
+          <p>— Paciência, comadre Gertrudes, paciência, que Deus sabe o que faz – falou o Coronel, a cruzar no peito as duas mãos ossudas do Izidro.</p>
+
+          <p>— Corre lá em casa, Alvico, e diz a Mariquinhas que o compadre se finou, agorinha mesmo.</p>
+
+          <p>A Chica entrava neste instante, trazendo o açúcar e as teias de aranha, para o estanco da sangueira.</p>
+
+          <p>— O Izidro? – exclamou ela com os olhos esbugalhados, parando de sopetão. — O Izidro...</p>
+
+          <p>E ficou trancada de beiços, tremendo das pernas que nem varas verdes, a olhar a Gertrudes, a olhar, credo!</p>
+
+          <p>Ao depois, agarrando a cabeça com as mãos, caiu nas tábuas do soalho como um saco que se esvazia de momento.</p>
+
+          <p>O Coronel abrira de novo a janela por mode entrar o fresco.</p>
+
+          <p>A noite caminhava soberbosa, arrastando o seu rico vestido de veludo negro, cheio de estrelas de prata, que luziam e reluziam.</p>
+
+          <p>Mão corria nem uma aragenzinha pro consolo dos tristes.</p>
+
+          <p>As laranjeiras, os cafezeiros, todas as árvores estavam paradas, atentas aos rumores, como se escuitassem encapuzadas nos escuros.</p>
+
+          <p>Um bafo morno, em que havia um cheiro de flor do mato e sumo de cajueiros, atontava a cabeça.</p>
+
+          <p>E longe, para as bandas da casa do Zé Cardoso, uma gaita ia gemendo a <q>cirandinha, cirandona</q>.</p>
+
+          <p>Mas, quem a ouvisse, cismaria que a música, de tão distante, era feita de algodão.</p>
+
+          <closer>
+            <dateline>Florianópolis, 1923</dateline>
+          </closer>
+        </div>
+
+      </body>
+      
+      <back>
+      <div type="glossary">
+        <head>Glossário</head>
+
+        <div type="section">
+          <head>A</head>
+
+          <entry>
+            <form>Abastoso</form>
+            <sense>
+              <def>Abastado</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Aguaçal</form>
+            <sense>
+              <def>Muita água</def>
+              <def>lugar de muita água</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Agora!</form>
+            <sense>
+              <def>Expressão de pasmo ou de incredulidade</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Alar</form>
+            <sense>
+              <def>Ir-se embora</def>
+              <def>safar-se</def>
+              <def>fugir</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Alavela</form>
+            <sense>
+              <def>Mentira vingativa</def>
+              <def>invencionice</def>
+              <def>perversidade</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Aleivoso</form>
+            <sense>
+              <def>Mentiroso</def>
+              <def>pérfido</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Alevadoiro</form>
+            <sense>
+              <def>Vara grossa de engenhoca</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Amofinar</form>
+            <sense>
+              <def>Aborrecer</def>
+              <def>contrariar</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Aparado</form>
+            <sense>
+              <def>Café com pão ou beiju, logo pela manhã</def>
+              <def>primeira refeição</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Apurado</form>
+            <sense>
+              <def>Assoberbado</def>
+              <def>apertado</def>
+              <def>cercado de afazeres ou incômodos</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Apressurado</form>
+            <sense>
+              <def>Apressado</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Arrenegar</form>
+            <sense>
+              <def>Contrariar</def>
+              <def>aborrecer</def>
+              <def>torturar com ditos e palavras</def>
+              <def>provocar</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Arriba</form>
+            <sense>
+              <def>Acima</def>
+              <def>para cima</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Atizanar</form>
+            <sense>
+              <def>Martirizar</def>
+              <def>fazer alguém padecer</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Avezado</form>
+            <sense>
+              <def>Acostumado</def>
+              <def>habituado</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Azoinado</form>
+            <sense>
+              <def>Entontecido</def>
+              <def>adoidado</def>
+            </sense>
+          </entry>
+
+        </div>
+
+        <div type="section">
+          <head>B</head>
+
+          <entry>
+            <form>Baiacu</form>
+            <sense>
+              <def>Peixe de pele viscosa, mosqueado no dorso</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Baldio ou baldo</form>
+            <sense>
+              <def>Vazio</def>
+              <def>sem dono</def>
+              <def>com falta de etc.</def>
+            </sense>
+          </entry>
+
+
+          <entry>
+            <form>Balzabu</form>
+            <sense>
+              <def>Diabo</def>
+              <def>cão sujo</def>
+              <def>tinhoso</def>
+              <def>estupor</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Bandão</form>
+            <sense>
+              <def>Porção</def>
+              <def>quantidade etc.</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Bandas</form>
+            <sense>
+              <def>Lugar de nascimento ou onde se mora</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Barreta</form>
+            <sense>
+              <def>Decoada</def>
+              <def>água de cinza para clarear a roupa</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Barbaridade!</form>
+            <sense>
+            <usg type="geo">Usada constantemente na região serrana de Santa Catarina, em qualquer conversação</usg>
+            <def>Exclamação de pasmo</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Bascuiar</form>
+            <sense>
+              <usg type="geo">Usado na região serrana</usg>
+              <def>Procurar muito, com atenção, por toda a parte</def>
+              <def>varejar em busca</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Bebedão</form>
+            <sense>
+              <def>Bêbado, bebedor</def>
+              <def>alcoólico</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Bergamota</form>
+            <sense>
+              <def>Laranja chata, conhecida fora de Santa Catarina por tangerina ou mexeriqueira</def>
+            </sense>
+          </entry>
+
+
+          <entry>
+            <form>Biana</form>
+            <sense>
+              <def>Bofetada</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Bifar</form>
+            <sense>
+              <def>furtar</def>
+              <def>roubar</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Burlantim</form>
+            <sense>
+              <def>Palhaço</def>
+              <def>homem que trabalha em companhia de cavalinhos</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Brabo</form>
+            <sense>
+              <def>Mau</def>
+              <def>áspero</def>
+              <def>selvagem</def>
+              <def>chucro</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Breganhar</form>
+            <sense>
+              <def>Trocar</def>
+            </sense>
+          </entry>
+
+        </div>
+
+        <div type="section">
+          <head>C</head>
+
+          <entry>
+            <form>Cacunda</form>
+            <sense>
+              <def>Cangote</def>
+              <def>costas</def>
+              <def>dorso etc.</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Cachola</form>
+            <sense>
+              <def>Bestunto</def>
+              <def>cabeça</def>
+              <def>entendimento</def>
+              
+              
+
+              <cit type="example"><quote>não lhe entrou na cachola</quote>
+                <def>não entendeu</def>
+              </cit>
+              <def>não pode compreender</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Cachimônia</form>
+            <sense>
+              <def>Cabeça</def>
+              <def>juízo</def>
+              <def>razão</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Caldear</form>
+            <sense>
+              <def>Misturar</def>
+              <def>embaralhar</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Calhas</form>
+            <sense>
+              <def>Rodelas de ferro ou de telha com que se joga o malhão</def>
+              <cit type="example">
+                <quote>Jogar as calhas</quote>
+                <def>jogar o malhão</def>
+              </cit>
+            </sense>
+          </entry>
+
+
+          <entry>
+            <form>Campear</form>
+            <sense>
+              <usg type="geo">Usado na região serrana</usg>
+              <def>Procurar, especialmente no campo, o animal</def>
+              <def>usa-se também no sentido geral de procurar qualquer coisa</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Cambar</form>
+            <sense>
+              <def>Virar</def>
+              <def>transmontar</def>
+              <def>mudar de posição</def>
+              <def>às vezes, cambalear</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Camarinhas</form>
+            <sense>
+              <def>Fruta roxa, miudinha como a do sabugueiro e muito doce</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Canzota</form>
+            <sense>
+              <def>Casa de marimbondo, feita de barro</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Carrinhos</form>
+            <sense>
+              <def>Maxilar</def>
+              <def>queixada</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Carecer</form>
+            <sense>
+              <def>Ter necessidade absoluta ou falta</def>
+              <def>É geralmente usado no sentido de falta absoluta</def>
+              <cit type="example">
+                <quote>Carece de pão</quote>
+                <def>não tem absolutamente pão, falta-lhe o que comer</def>
+              </cit>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Careca</form>
+            <sense>
+              <def>Cabeça</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Carpir</form>
+            <sense>
+              <def>Chorar</def>
+              <def>desfiar mágoas, aborrecimentos, pesares etc.</def>
+              <def>lamentar</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Chanchão</form>
+            <sense>
+              <def>Moeda antiga de cobre (20 e 40 réis). Pregada em cima do balcão, principalmente o vintém chanchão, chama a freguesia e espanta o mau olhado; atrás das portas ou nas soleiras, impede a entrada das moléstias e desgraceiras</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Cheiro</form>
+            <sense>
+              <def>Olfato</def>
+              <def>nariz</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Cola</form>
+            <sense>
+              <usg type="geo">Usado na região serrana</usg>
+              <def>Cauda de animal</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Coré</form>
+            <sense>
+              <def>Porco</def>
+              <def>sujo</def>
+              <cit type="example">
+                <quote>Um coré</quote>
+                <def>um homem sujo</def>
+              </cit>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Cocegar</form>
+            <sense>
+              <def>Comichão</def>
+              <def>cócega</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Cômica</form>
+            <sense>
+            <usg type="style">É sempre tomado no sentido pejorativo</usg>
+              <def>Atriz</def>
+              <def>mulher de teatro</def>
+             </sense>
+          </entry>
+
+          <entry>
+            <form>Comer, mesa do</form>
+            <sense>
+              <def>Mesa da refeição</def>
+              <def>refeição, principalmente carne ou peixe com pirão cru</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Conduto</form>
+            <sense>
+              <def>Comida</def>
+              <def>mais geralmente, carne com pirão e café</def>
+              <def>merenda</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Curtido</form>
+            <sense>
+              <def>Habituado</def>
+              <def>calejado</def>
+              <def>seco</def>
+              <cit type="example">
+                <quote>curtido de mágoas</quote>
+                <def>calejado de mágoas</def>
+              </cit>
+            </sense>
+          </entry>
+
+        </div>
+
+        <div type="section">
+          <head>D</head>
+
+          <entry>
+            <form>Debicar</form>
+            <form type="related">debique</form>
+            <sense>
+              <def>Fazer pouco caso em alguém</def>
+              <def>elogiar por zombaria</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Degavar</form>
+            <sense>
+              <def>devagar</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Desatendido</form>
+            <sense>
+              <def>Diz-se do marido enganado</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Desgarrar</form>
+            <sense>
+              <def>Fugir</def>
+              <def>apartar-se</def>
+              <def>separar-se</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Desconchavo</form>
+            <sense>
+              <def>Desarranjo</def>
+              <def>fazer sair dos seus hábitos</def>
+            </sense>
+          </entry>
+
+        </div>
+
+        <div type="section">
+          <head>E</head>
+
+          <entry>
+            <form>Embaçar</form>
+            <sense>
+              <def>Enganar</def>
+              <def>tornar os olhos baços etc.</def>
+              <cit type="example">
+                <quote>Embaçou-o</quote>
+                <def>enganou-o</def>
+              </cit>
+              <cit type="example">
+                <quote>Embaçou-o com uma pancada</quote>
+                <def>aturdiu-o, entonteceu-o com uma pancada</def>
+              </cit>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Embicar</form>
+            <sense>
+              <def>Rumar</def>
+              <def>voltar a proa da embarcação no rumo da praia para ancorar</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Embirar</form>
+            <sense>
+              <def>Morrer</def>
+              <cit type="example">
+                <quote>Embirou para o outro mundo</quote>
+                <def>morreu</def>
+              </cit>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Empacar</form>
+            <sense>
+              <def>Estucar</def>
+              <def>parar de surpresa etc.</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Empeçar</form>
+            <sense>
+              <def>Começar</def>
+              <def>iniciar</def>
+              <def>dar as primeiras mostras</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Enjuando</form>
+            <sense>
+              <def>Cheirando mal</def>
+              <def>fétido</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Engrulhos</form>
+            <form type="variant">engulhos</form>
+            <sense>
+              <def>Prurido na garganta que provoca vômitos</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Engenhoca</form>
+            <sense>
+              <def>Pequeno engenho de cana</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Escuidos</form>
+            <sense>
+              <def>Descuido</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Escarmentar</form>
+            <sense>
+              <def>Dar a lição, o prêmio merecido</def>
+              <cit type="example">
+                <quote>A sova serviu-lhe d’escarmento</quote>
+                <def>tornar a pessoa prevenida, precavida etc.</def>
+              </cit>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Esturricar</form>
+            <sense>
+              <def>Secar</def>
+              <def>deixar sem pingo d’água</def>
+              <cit type="example">
+                <quote>O fogo esturricou a chaleira</quote>
+              </cit>
+            </sense>
+          </entry>
+
+        </div>
+
+        <div type="section">
+          <head>F</head>
+
+          <entry>
+            <form>Familagem</form>
+            <sense>
+              <def>Filhos</def>
+              <def>a família</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Fastar</form>
+            <sense>
+              <def>Tirar</def>
+              <def>afastar</def>
+              <def>recuar</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Felícias</form>
+            <sense>
+              <def>Felicidade</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Fidúcias</form>
+            <sense>
+              <def>Gestos e palavras de desdém</def>
+              <def>maneira de gente presunçosa</def>
+              <def>orgulho vaidoso</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Fermoso</form>
+            <sense>
+              <def>Formoso</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Fisga</form>
+            <sense>
+              <def>Fresta</def>
+              <def>abertura</def>
+              <def>greta</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Forro</form>
+            <sense>
+              <def>Teto da casa ou alpendre etc.</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Fortidão</form>
+            <sense>
+              <def>Cheiro forte e vivo, principalmente de cachaça, álcool ou vinagre</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Fueiro</form>
+            <sense>
+              <def>Varas em que se amarram, nos carros de bois ou carretas, os objetos grandes</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Frissuras</form>
+            <sense>
+              <def>Miúdos de porco ou boi</def>
+              <def>intestinos de qualquer animal</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Fixes</form>
+            <sense>
+              <def>Fixos</def>
+              <def>imóveis</def>
+            </sense>
+          </entry>
+
+        </div>
+
+        <div type="section">
+          <head>G</head>
+
+          <entry>
+            <form>Garrar</form>
+            <sense>
+              <usg type="geo">Usado na região serrana</usg>
+              <def>Segurar fortemente, seguramente, com as mãos</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Gavar</form>
+            <sense>
+              <def>Gabar</def>
+              <def>jactar-se</def>
+              <def>basofiar</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Gogó</form>
+            <sense>
+              <def>Osso do pescoço</def>
+              <def>caroço de Adão</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Graxaim ou guará-xaim</form>
+            <sense>
+              <def>Raposa brasileira. É do tamanho de um cão comum. Muito voraz; devasta galinheiros e capoeiras. Aprecia a carne de animais mortos. As peles de graxaim constituem um regular comércio em toda a região serrana e mesmo ao longo da fronteira com a Argentina e Rio Grande</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Gringo</form>
+            <sense>
+              <usg type="geo">Importado da Serra</usg>
+              <def>Estrangeiro, geralmente italiano ou espanhol</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Gudunhar</form>
+            <sense>
+              <def>O mesmo que agarrar</def>
+              <cit type="example">
+                <quote>Gudunharam-se</quote>
+              </cit>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Goelas</form>
+            <sense>
+              <def>Garganta</def>
+              <def>pescoço</def>
+            </sense>
+          </entry>
+
+        </div>
+
+        <div type="section">
+          <head>I</head>
+
+          <entry>
+            <form>Inticar</form>
+            <sense>
+              <def>Dirigir-se a alguém por mofa ou troça</def>
+            </sense>
+          </entry>
+
+        </div>
+
+        <div type="section">
+          <head>L</head>
+
+          <entry>
+            <form>Lambisas</form>
+            <sense>
+              <def>Nome pejorativo com que foram batizados os legalistas de 1893</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Linguarudo</form>
+            <sense>
+              <def>Falador</def>
+              <def>mexeriqueiro</def>
+              <def>maldizente</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Lumarento</form>
+            <sense>
+              <def>Cheio de lume</def>
+              <def>iluminativo</def>
+              <def>iluminante</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Luaceiro</form>
+            <sense>
+              <def>Luar muito claro e brilhante</def>
+            </sense>
+          </entry>
+
+        </div>
+
+        <div type="section">
+          <head>M</head>
+
+          <entry>
+            <form>Maçanico</form>
+            <sense>
+              <def>Espécie de saracura muito pequena, das praias e alagados. Melodia ou cantiga popular um tanto plangente, porém por vezes alegre e vivaz:</def>
+              <cit type="example">
+                <quote>
+                  <lg>
+                    <l>Maçanico morreu ontem,</l>
+                    <l>E ontem mesmo se enterrou, ria cova do maçanico,</l>
+                    <l>Muita menina chorou!</l>
+                    <l>Mandinga: Feitiçaria.</l>
+                  </lg>
+                </quote>
+              </cit>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Manta</form>
+            <sense>
+              <def>O mesmo que cardume</def>
+              <cit type="example">
+                <quote>Uma grande manta de tainhas</quote>
+                <def>uma grande multidão de tainhas</def>
+              </cit>
+              <def>também se usa em relação a grupos, ajuntamentos de pessoas</def>
+              <cit type="example">
+                <quote>Uma manta de homens</quote>
+              </cit>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Maragato</form>
+            <sense>
+              <def>Revolucionário de 1893. Membro do Partido Federalista do Rio Grande</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Mostra. A mostra</form>
+            <sense>
+              <def>Exemplo</def>
+              <def>aviso</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Meirinho</form>
+            <sense>
+              <def>Oficial de diligências</def>
+              <def>oficial de justiça</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Moça</form>
+            <sense>
+              <def>Diz-se também com a significação de amante</def>
+              <def>amiga etc.</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Mofino</form>
+            <sense>
+              <def>Magro</def>
+              <def>usurário</def>
+              <def>onzeneiro</def>
+            </sense>
+          </entry>
+
+        </div>
+
+        <div type="section">
+          <head>N</head>
+
+          <entry>
+            <form>Nova. A nova</form>
+            <sense>
+              <def>Notícia</def>
+              <def>novidade</def>
+            </sense>
+          </entry>
+
+        </div>
+
+        <div type="section">
+          <head>P</head>
+
+          <entry>
+            <form>Palhuço</form>
+            <sense>
+              <def>Palhal</def>
+              <def>coberta de ranchos etc.</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Pantano</form>
+            <sense>
+              <def>Brejo</def>
+              <def>banhado</def>
+              <def>lamaceiro</def>
+              <def>lugar onde se jogou água</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Patechuli</form>
+            <sense>
+              <def>Perfume. Vem do nome de um fabricante ou marca muito antiga de perfumaria</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Patotas</form>
+            <sense>
+              <def>Pés grandes</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Passo</form>
+            <sense>
+              <usg type="geo">Usado na região serrana</usg>
+              <def>Passagens a vau em certos rios</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Pealado</form>
+            <sense>
+              <usg type="geo">Usado na região serrana</usg>
+              <def>Amarrado ou laçado pelos pés</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Pinicar</form>
+            <sense>
+              <def>Beliscar</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Piscurar</form>
+            <sense>
+              <def>Procurar</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Poder de</form>
+            <sense>
+              <def>Força</def>
+              <def>porção</def>
+              <def>grande número de</def>
+            </sense>
+          </entry>
+
+        </div>
+
+        <div type="section">
+          <head>Q</head>
+
+          <entry>
+            <form>Querência</form>
+            <sense>
+              <usg type="geo">Usado na região serrana</usg>
+              <def>Lugar onde o animal está habituado a parar</def>
+              <def>diz-se também da moradia humana</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Querença</form>
+            <sense>
+              <def>Desejo</def>
+              <def>vontade</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Quimbinga</form>
+            <sense>
+              <def>Diabo</def>
+            </sense>
+          </entry>
+
+        </div>
+
+        <div type="section">
+          <head>R</head>
+
+          <entry>
+            <form>Rabo de macaco</form>
+            <sense>
+              <def>Junco forte e grosso</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Retrançar</form>
+            <sense>
+              <def>Embaralhar</def>
+              <def>misturar</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Riscados</form>
+            <sense>
+              <def>Fazenda</def>
+              <def>chita</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Rumbo</form>
+            <sense>
+              <def>Rumo</def>
+              <def>direção</def>
+            </sense>
+          </entry>
+
+        </div>
+
+        <div type="section">
+          <head>S</head>
+
+          <entry>
+            <form>Suberboso</form>
+            <sense>
+              <def>Soberbo</def>
+              <def>vaidoso</def>
+              <def>cheio de si mesmo</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Sumido</form>
+            <sense>
+              <def>Chupado</def>
+              <def>magro</def>
+              <def>doente</def>
+              <def>insignificante</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Sítio</form>
+            <sense>
+              <def>Roça</def>
+              <def>lugar atrasado</def>
+            </sense>
+          </entry>
+
+        </div>
+
+        <div type="section">
+          <head>T</head>
+
+          <entry>
+            <form>Taca</form>
+            <sense>
+              <def>Salta</def>
+              <def>passa</def>
+              <def>vai-te etc.</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Taquari</form>
+            <sense>
+              <def>Espingarda antiga de carregar pela boca</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Terneiro</form>
+            <sense>
+              <def>Bezerro</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Trang’lomango</form>
+            <sense>
+              <cit type="example">
+                <quote>Bater o tranglomango</quote>
+                <def>morrer</def>
+              </cit>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Treição</form>
+            <sense>
+              <def>Traição</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Tomar</form>
+            <sense>
+              <def>Usado às vezes no sentido de beber</def>
+              <cit type="example">
+                <quote>Toma por mode as máguas</quote>
+                <def>bebe ou embriaga-se por motivo ou causa das suas mágoas</def>
+              </cit>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Topar</form>
+            <sense>
+              <def>Encontrar</def>
+              <def>achar</def>
+              <cit type="example">
+                <quote>Topei com ele</quote>
+                <def>encontrei-o</def>
+              </cit>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Topadiça</form>
+            <sense>
+              <def>Que se encontra sempre</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Tudavida</form>
+            <sense>
+              <usg type="geo">Usado na região serrana</usg>
+              <def>Sempre</def>
+              <def>continuamente</def>
+              <def>habitualmente</def>
+            </sense>
+          </entry>
+
+        </div>
+
+        <div type="section">
+          <head>U</head>
+
+          <entry>
+            <form>Unha-de-fome</form>
+            <sense>
+              <def>Usurário</def>
+              <def>onzeneiro</def>
+              <def>miserável que não dá nada a ninguém</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Usança</form>
+            <sense>
+              <def>Uso</def>
+              <def>costume</def>
+              <def>hábito de viver</def>
+            </sense>
+          </entry>
+
+        </div>
+
+        <div type="section">
+          <head>V</head>
+
+          <entry>
+            <form>Vaqueano</form>
+            <sense>
+              <usg type="geo">Usado na região serrana</usg>
+              <def>Homem-guia</def>
+              <def>guieiro</def>
+              <def>conhecedor da região</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Viltança</form>
+            <sense>
+              <def>lnsulto</def>
+              <def>menoscabo</def>
+              <def>deboche</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Vindiços</form>
+            <sense>
+              <def>Recém-vindos</def>
+              <def>acabados de chegar</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Vindita</form>
+            <sense>
+              <def>Vingança premeditada</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Virar</form>
+            <sense>
+              <def>Beber</def>
+              <cit type="example">
+                <quote>Virar cachaça</quote>
+                <def>beber cachaça</def>
+              </cit>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Volta</form>
+            <sense>
+              <def>Troco</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Viageiro</form>
+            <sense>
+              <usg type="geo">Usado na região serrana</usg>
+              <def>Viajante</def>
+            </sense>
+          </entry>
+
+        </div>
+
+        <div type="section">
+          <head>Z</head>
+
+          <entry>
+            <form>Zinas</form>
+            <sense>
+              <def>Força</def>
+              <def>apogeu</def>
+              <cit type="example">
+                <quote>Nas zinas de</quote>
+                <def>na força de</def>
+              </cit>
+            </sense>
+          </entry>
+
+        </div>
+
+        <div type="section">
+          <head>Locuções</head>
+
+          <entry>
+            <form>A mode</form>
+            <sense>
+              <def>Parece</def>
+              <def>talvez etc.</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Às veras</form>
+            <sense>
+              <def>Verdadeiramente</def>
+              <def>a sério etc.</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>A modos de</form>
+            <sense>
+              <def>Ao jeito de</def>
+              <def>semelhante a etc.</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>A despique</form>
+            <sense>
+              <def>Não obstante</def>
+              <def>apesar de</def>
+              <def>mau grado etc.</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Às bandas de</form>
+            <sense>
+              <def>Ao lado de</def>
+              <def>na ilharga de etc.</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>A certa</form>
+            <sense>
+              <def>A convicção</def>
+              <def>a certeza etc.</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Botar tento</form>
+            <sense>
+              <def>Reparar</def>
+              <def>notar</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Cant’eu</form>
+            <sense>
+              <def>Quanto a mim</def>
+              <def>segundo penso etc.</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Correr os Passos</form>
+            <sense>
+              <def>Vir à cidade, acompanhar a transladação e procissão da imagem do Senhor dos Passos, festividades tradicionais, que tiveram início em fins do século XVIII e todos os anos se realizam com muita pompa e devoção</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Da cor do senhor Mestre</form>
+            <sense>
+              <def>Negro</def>
+              <def>escuro</def>
+              <def>Da cor do diabo</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>De vereda</form>
+            <sense>
+              <usg type="geo">Usado na região serrana</usg>
+              <def>Passou sem parar</def>
+              <def>prontamente</def>
+              <def>sem empecilho</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>De banda</form>
+            <sense>
+              <def>De parte</def>
+              <def>a parte</def>
+              <def>a um lado</def>
+              <cit type="example">
+                <quote>Chamou-o de banda</quote>
+                <def>chamou-o de parte, a um lado, reservadamente</def>
+              </cit>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Dar conta de</form>
+            <sense>
+              <def>Acabar com etc.</def>
+              <cit type="example">
+                <quote>Deu conta do pão</quote>
+                <def>comeu todo o pão</def>
+              </cit>
+              <cit type="example">
+                <quote>Deu conta do sujeito</quote>
+                <def>matou-o</def>
+                <def>acabou com ele</def>
+              </cit>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>De veras</form>
+            <sense>
+              <def>Com certeza</def>
+              <def>verdadeiramente</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Justar-se com</form>
+            <sense>
+              <usg type="geo">Usado na região serrana</usg>
+              <def>Ajustar-se com</def>
+              <def>contratar-se</def>
+              <def>alugar-se</def>
+              <def>pôr-se ao serviço de alguém</def>
+              <cit type="example">
+                <quote>Justou-se de peão</quote>
+                <def>alugou-se como peão</def>
+              </cit>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Meter a catana</form>
+            <sense>
+              <def>Falar mal de outrem</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Mau acerto</form>
+            <sense>
+              <def>Acontecimento mau que provoca a atenção</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Me representa</form>
+            <sense>
+              <usg type="geo">Usado na região serrana</usg>
+              <def>Parece-me</def>
+              <def>penso</def>
+              <def>julgo</def>
+            </sense>
+          </entry>
+
+
+          <entry>
+            <form>Não paga a pena</form>
+            <sense>
+              <def>Não vale a pena</def>
+              <def>é inútil etc.</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Na beira de</form>
+            <sense>
+              <def>nas proximidades de</def>
+              <def>no começo ou a margem de</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Rente a ele</form>
+            <sense>
+              <def>Junto a ele etc.</def>
+            </sense>
+          </entry>
+
+          <entry>
+            <form>Boi na vara</form>
+            <sense>
+              <def>Diversão antiga, muito querida na Ilha e em alguns pontos praieiros do continente. Consiste no seguinte: firma-se no chão uma longa e forte vara de junco, (geralmente rabo de macaco) na extremidade da qual se ata fortemente uma ponta da corda de couro trançado (ou pita) em que se acha laçado o boi xucro. Quase ao meio da vara, amarrado pelos sovacos, pende um boneco de pano vestido de encarnado. Fustigado, o animal se enfurece e corre em disparada, esticando a corda e vergando a vara flexível. Então o boneco desce e fica oscilando desconjuntado, os calcanhares apoiados no chão, cambaleando como um bêbado.Vendo-o, o animal investe, furioso. Em torno o povoléu grita, aplaude, inquieto de entusiasmo. Com o afrouxamento da corda o boneco sobe. Mas como o impulso da corrida é formidável, só adiante o boi estaca, num sacão que quase o derruba, ofegante, a cabeça baixa, o grande ventre latejando ao ritmo apressado da respiração. De novo o homúnculo vermelho lá está a oscilar, no meio do campo, dependurado, bamboleante nas suas pernas trôpegas, sob a vara envergada. E nova investida do animal e repetição das cenas anteriores. Às vezes, um gaiato, quando a corda está bem esticada, atira-lhe, de viés, um golpe de faca. Vem o pânico, a gritaria, a subida apressada nas árvores e o pega boi. Ocasiões há em que se dão casos de morte ou ferimentos graves, principalmente quando o gesto do gaiato é visto tardiamente</def>
+            </sense>
+          </entry>
+
+        </div>
+        
+
+      </div>
+
+
+
+
+    </back>
+  </text>
+</TEI>

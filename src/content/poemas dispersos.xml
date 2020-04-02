@@ -1,0 +1,1227 @@
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+ <fileDesc>
+  <titleStmt>
+   <title>Poemas Dispersos</title>
+   <author>Othon Gama d'Eça</author>
+  </titleStmt>
+  <publicationStmt>
+   <p>(Information about distribution of the
+       resource)</p>
+  </publicationStmt>
+  <sourceDesc>
+    <bibl><title>Cinza e bruma</title> e <title>Poemas dispersos</title> de Othon d'Eça. Florianópolis: Fundação
+do Banco do Brasil; Ed. da UFSC, 1992.</bibl>
+  </sourceDesc>
+ </fileDesc>
+</teiHeader>
+<text><body>
+<div type="part"> 
+<head>Minha ilha</head>
+
+<lg>
+<l>Bendita sejas pelo tempo afora,</l> 
+<l>Ilha do meu Amor! Meu verde altar,</l>
+<l>Onde a minha alma ajoelhada ora,</l>
+<l>Com a contrição de quem vai comungar.</l>
+</lg>
+
+<lg>
+<l>Em ti exalto a imagem do meu lar;</l>
+<l>O casarão em que a saudade vela,</l>
+<l>A contemplar além, beijando o mar,</l>
+<l>A silhueta azul do Cambirela.</l>
+</lg>
+
+<lg>
+<l>E canto as formas túmidas, redondas,</l>
+<l>Dos teus morros bordados de esplendores!</l>
+<l>A cidade que sonha, ouvindo as ondas,</l>
+<l>E os meus velhos amigos pescadores!</l>
+</lg>
+
+<lg>
+<l>Ilha do meu Amor! Bendita sejas,</l>
+<l>No que tu mostras e no que sugeres!</l>
+<l>Na serena postura das igrejas,</l>
+<l>E nos olhos castanhos das mulheres!</l>
+</lg>
+
+<lg>
+<l>E bendito o teu céu cor de safira</l>
+<l>E o teu agreste corpo de esmeralda!</l>
+<l>E o mar, que em torno a ti de amor suspira,</l>
+<l>E lábaros d'espuma ao sol desfralda!</l>
+</lg>
+
+<lg>
+<l>E bendito o teu povo de praieiros,</l>
+<l>Que constrói ele mesmo o seu casal;</l>
+<l>E fala a velha língua dos troveiros,</l>
+<l>Como falava o avô de Portugal!</l>
+</lg>
+
+<lg>
+<l>Cerro os olhos e vejo na lembrança</l>
+<l>O que tu tens de belo e de lendário:</l>
+<l>Um regaço de praia onde um barco descansa.</l>
+<l>Sob as ramas de um cedro solitário!</l>
+</lg>
+
+<lg>
+<l>Ou então uma fonte, um caminho, um telhado,</l>
+<l>Docemente a surgir nos braços do arvoredo. </l>
+<l>E refolhos de mato abobadado,</l>
+<l>Com chilreios, e sombra, e perfume, e segredo!</l>
+</lg>
+
+<lg>
+<l>Oferenda</l></lg>
+
+<lg>
+<l>Ilha do meu Amor! Por ti palpita</l>
+<l>O mais apaixonado coração!</l>
+<l>Tu és a minha verde Sulamita,</l>
+<l>A luz do meu olhar e a minha devoção.</l></lg>
+
+<closer>
+(<hi>República</hi> – <date>09/12/1923</date>)
+</closer></div>
+
+<div type="part">
+<head>Cantigas ilhoas</head>
+<head>I</head>
+<lg>
+<l>Cantiga da minha vida,</l>
+<l>Cantiga do coração!</l>
+<l>Apenas por mim sentida,</l>
+<l>Nas horas de solidão...</l>
+<l>Cantiga da minha vida,</l>
+<l>Divina consolação!</l></lg>
+
+<lg>
+<l>Coitada da entrevadinha,</l>
+<l>Que no caminho encontrei!</l>
+<l>Tão velha, tão pobrezinha,</l>
+<l>Que até de pena eu chorei.</l>
+<l>Coitada da entrevadinha,</l>
+<l>Que só me disse: "Não sei!"</l>
+</lg>
+<lg>
+<l>Morreu-lhe a mãe, coitadinho,</l>
+<l>Na noite em que ele nasceu!</l>
+<l>Ficou sozinho no Mundo </l>
+<l>E só – no Mundo cresceu!</l>
+<l>Morreu-lhe a mãe, coitadinho,</l>
+<l>No dia em que o pai morreu!</l>
+</lg>
+<lg>
+<l>No cálice da madrugada,</l>
+<l>Eu vi a rosa de Pã!</l>
+<l>Tão linda, e toda orvalhada</l>
+<l>Como uma deusa pagã...</l>
+<l>No cálice da madrugada,</l>
+<l>Eu vi a flor da manhã!</l>
+</lg>
+<closer>
+(<hi>Revista "Terra"</hi> – <date>maio/1920</date>)
+</closer></div>
+
+<div type="part">
+<head>Cantigas ilhoas</head>
+<head>II</head>
+<lg>
+<l>Meu amor partiu para a guerra,</l>
+<l>Quando o meu filho nasceu.</l>
+<l>Fiquei sozinha na terra,</l>
+<l>Porque meu filho morreu.</l>
+<l>Meu amor partiu para a guerra,</l>
+<l>E já de mim se esqueceu.</l>
+</lg>
+<lg>
+<l>Mas levo sempre a pensar</l>
+<l>Que tudo foi Deus quem quis.</l>
+<l>E sorrio, sorrio a lembrar</l>
+<l>O tempo em que fui feliz!</l>
+<l>Mas levo sempre a pensar</l>
+<l>Maria! Por que sorris?</l>
+</lg>
+<lg>
+<l>E fico, então, para um canto,</l>
+<l>A desfiar hora e hora.</l>
+<l>Choram meus olhos, enquanto</l>
+<l>Cigarras cantam lá fora!</l>
+<l>E fico, então para um canto,</l>
+<l>Rezando à  Nossa Senhora!</l>
+</lg>
+<closer>
+(<hi>República</hi> – <date>26/06/1921</date>)
+</closer></div>
+
+<div type="part">
+<head>Cantigas ilhoas</head>
+<head>III</head>
+<lg>
+<l>Como a cigarra vadia</l>
+<l>Eu cantei de olhos no céu.</l>
+<l>E cantando noite e dia</l>
+<l>Ninguém, ninguém me entendeu.</l>
+<l>Como a cigarra vadia,</l>
+<l>Meu coração já morreu.</l>
+</lg>
+<lg>
+<l>Agora no seu lugar,</l>
+<l>Geme e chora uma velhinha,</l>
+<l>Que vive sempre a fiar,</l>
+<l>Toda branca e curvadinha.</l>
+<l>Agora, no seu lugar,</l>
+<l>A saudade está sozinha.</l>
+</lg>
+<lg>
+<l>E o floco que vai fiando</l>
+<l>É feito dessas cantigas</l>
+<l>Que eu fui na vida espalhando</l>
+<l>Pelas estradas antigas.</l>
+<l>E o floco que vai fiando</l>
+<l>Fere-lhe as mãos como urtigas!</l>
+</lg>
+<lg>
+<l>Mas o sangue que goteja</l>
+<l>Das suas mãos engelhadas,</l>
+<l>Caindo n'alma floreja</l>
+<l>Em roseiras encantadas;</l>
+<l>Mas o sangue que goteja</l>
+<l>Deixa as mágoas consoladas.</l>
+</lg>
+<closer>(<hi>República</hi> – <date>20/04/1923</date>)</closer>
+</div>
+
+<div type="part">
+<head>Cantigas ilhoas</head>
+<head>IV</head>
+<lg>
+<l>À doce luz que desmaia,</l>
+<l>Por sobre as ondas do mar,</l>
+<l>O velho cedro da praia</l>
+<l>Parece um monge, a rezar!</l>
+<l>À doce luz que desmaia,</l>
+<l>Um vulto passa a cantar!</l>
+</lg>
+
+<lg>
+<l>E canta a linda canção</l>
+<l>Dum passarinho doirado,</l>
+<l>Que um terrível furacão</l>
+<l>Destruiu o ninho amado.</l>
+<l>E canta a linda canção</l>
+<l>Dum pobre ser torturado.</l>
+</lg>
+<closer>(<hi>República</hi> – <date>08/03/24</date>)</closer>
+</div>
+
+<div type="part">
+<head>Cantigas ilhoas</head>
+<head>V</head>
+<lg>
+<l>Cigarra d'asas de renda,</l>
+<l>Perdulária da canção,</l>
+<l>Verde folha duma lenda</l>
+<l>Que o outono atira ao chão!</l>
+<l>Cigarra d'asas de renda,</l>
+<l>Voz alada do verão!</l></lg>
+
+<lg>
+<l>Chegaste! E quanta alegria</l>
+<l>O teu canto espalha no ar!</l>
+<l>Até parece que o dia</l>
+<l>Se ajoelha a te escutar.</l>
+<l>Chegaste! E quanta alegria</l>
+<l>Vem teu canto despertar!</l>
+</lg>
+
+<lg>
+<l>Mas é breve a tua sorte,</l>
+<l>Que se desfaz como os ninhos!</l>
+<l>Vem o frio e vem a morte,</l>
+<l>e rolas pelos espinhos.</l>
+<l>Mas é breve a tua sorte,</l>
+<l>Flor de canto dos caminhos!</l>
+</lg>
+
+<lg>
+<l>A fonte vive rimando</l>
+<l>Cantigas claras, joviais.</l>
+<l>Que linda fonte cantando,</l>
+<l>Por sob os teus roseirais!</l>
+<l>A fonte vive rimando:</l>
+<l>– Não te queixes nunca mais!</l>
+</lg>
+
+<lg>
+<l>Desceu sozinha dos montes,</l>
+<l>A cantar, sempre a cantar.</l>
+<l>Se tens mágoas, não mas contes,</l>
+<l>Que pode a fonte chorar!</l>
+<l>Desceu sozinha dos montes,</l>
+<l>Sempre alegre, a borbulhar!</l></lg>
+
+<lg>
+<l>Não chores, fonte da estrada,</l>
+<l>Não te voltes para trás.</l>
+<l>Canta sempre, deslumbrada,</l>
+<l>Cantigas claras, joviais!</l>
+<l>Não chores, fonte da estrada,</l>
+<l>Não te queixes nunca mais!</l></lg>
+
+<lg>
+<l>Sois bem irmãs das aranhas,</l>
+<l>Rendeiras do Ribeirão!</l>
+<l>Tramando teias estranhas,</l>
+<l>Pra prender meu coração.</l>
+<l>Sois bem irmãs das aranhas,</l>
+<l>Tecendo espumas em vão!</l></lg>
+
+<lg><l>Os fusos dos vossos dedos</l>
+<l>Quanta vez tecem cantando,</l>
+<l>Enquanto tristes segredos</l>
+<l>Aos poucos vão vos matando!</l>
+<l>Os fusos dos vossos dedos</l>
+<l>Bailam e cantam sangrando.</l></lg>
+
+<lg><l>Por isso as rendas de linho</l>
+<l>– Espumas tristes de luar!</l>
+<l>São os perfumes do espinho,</l>
+<l>Vossa vida a rasgar!</l>
+<l>Por isso as rendas de linho</l>
+<l>São todas vós, a penar!</l></lg>
+
+<lg><l>Saudade é Dor meiguiceira,</l>
+<l>Carpida na solidão.</l>
+<l>Espinho de laranjeira</l>
+<l>Cravado no coração!</l>
+<l>Saudade é Dor meiguiceira</l>
+<l>Que vem á boca em canção!</l></lg>
+
+<lg><l>Toda a vida da gente</l>
+<l>Num sonho azul que se esvai.</l>
+<l>Poeira resplandecente</l>
+<l>Que do passado nos cai...</l>
+<l>É toda a vida da gente,</l>
+<l>Que se resume num ai!</l></lg>
+
+<lg><l>Nasci na concha redonda,</l>
+<l>Num dia de vento sul.</l>
+<l>Foi minha mãe – uma onda.</l>
+<l>Foi meu pai o céu azul.</l>
+<l>Nasci na concha redonda,</l>
+<l>Batizou-me – um deus exul!</l></lg>
+
+<closer>(<hi>República"</hi> – <date>11/02/1923</date>)</closer>
+
+</div>
+
+<div type="part"><head>Poemas da minha ilha</head>
+<opener><salute>A Ivo d'Aquino</salute></opener>
+
+<lg>
+<l>Torres de S. Francisco! Velhas torres,</l>
+<l>Cheias de lenda e de tranquilidade,</l>
+<l>Como dois braços pétreos da cidade,</l>
+<l>Para os homens pedindo a Deus favores!</l></lg>
+<lg>
+<l>Nada perturba a expressão severa,</l>
+<l>A ascética postura e o sossego</l>
+<l>Dessas torres velhíssimas e sujas!</l>
+<l>No rumor de luz da Primavera,</l>
+<l>E o trissar hediondo do morcego</l>
+<l>E o chirrio agourento das corujas!</l></lg>
+<lg>
+<l>Sua legenda é a imagem de Destinos</l>
+<l>Que vão subindo iguais e iguais sonhando,</l>
+<l>E as mesmas canções ambos cantando,</l>
+<l>Nas baladas helênicas dos sinos!</l></lg>
+<lg>
+<l>Nestas noites de vento e de geadas,</l>
+<l>Ao calor do meu lar as rememoro,</l>
+<l>Tão sombrias e mudas, engolfadas,</l>
+<l>Na solidão da rua Deodoro!</l></lg>
+
+<closer>(<hi>República</hi> – <date>28/12/1919</date>)</closer>
+</div>
+
+<div type="part"><head>Versos do meu exílio</head>
+<opener><salute>Para a emotiva e pura alma de Altino Flores</salute></opener>
+
+<lg>
+<l>Sinos de minha Terra! Éreas flores de Lis! </l>
+<l>Imaculadas flores de Maria!</l>
+<l>Eu quisera escutar-vos, noite e dia,</l>
+<l>Para ser mais Feliz!</l></lg>
+<lg>
+<l>Quanta vez vos recordo em repiques festivos,</l>
+<l>Ou plangentes de mágoas, tristes e sentidos!</l>
+<l>E que vos tenho ainda dentro dos ouvidos,</l>
+<l>Como os cantos do mar nas valvas redivivos!</l></lg>
+<lg>
+<l>Sangra o Sol, a morrer, num Gólgota profano,</l>
+<l>Coroado de azul, ungido de verbena!</l>
+<l>Erra em tudo o esplendor do verso mariano</l>
+<l>Dos salmos que entoais nas tardes de novena</l></lg>
+<lg>
+<l>E vem depois o Inverno... a paisagem encanece,</l>
+<l>E fica, erma, a viver o sonho das neblinas,</l>
+<l>Dentro, então, da bruma, essa música parece</l>
+<l>Um coro ritual de monjas ursulinas!</l></lg>
+<lg>
+<l>Sinos de minha Terra! Éreas flores de Lis!</l>
+<l>Imaculadas Flores de Maria!</l>
+<l>Quem pudera escutar-vos, noite e dia,</l>
+<l>Para ser mais feliz!</l></lg>
+
+<closer>(<hi>República</hi> – <date>14/12/1919</date>)</closer>
+</div>
+
+<div type="part"><head>No exílio</head>
+
+<lg>
+<l>Como é triste o Inverno nestes dias</l>
+<l>De névoas lentas e sombrias!</l>
+<l>A luz é pardacenta,</l>
+<l>Fumarenta,</l>
+<l>E cheia</l>
+<l>Da melancolia enervante, sonolenta,</l>
+<l>Que o dia monótono semeia!</l></lg>
+<lg>
+<l>Imóveis, espetrais, as árvores vazias,</l>
+<l>Transidas de solidão,</l>
+<l>Dentro das neblinas frias,</l>
+<l>Erradias,</l>
+<l>Crescem, e assemelham-se</l>
+<l>A garatujas feitas a carvão.</l></lg>
+<lg>
+<l>As cores esmaecem, se apagando,</l>
+<l>Nesses tons de camurças esgarçadas</l>
+<l>Que, descendo do céu e caminhando,</l>
+<l>Deixam manchas de sombras pelo chão.</l></lg>
+<lg>
+<l>Como é triste o Inverno nestes dias</l>
+<l>De névoas lentas e sombrias!</l>
+<l>Uma aragem gelada que trespassa,</l>
+<l>Como pontas finas de punhais,</l>
+<l>Condensa vapores nas vidraças,</l>
+<l>Gelando as gotas d'água nos beirais!</l></lg>
+<lg>
+<l>E a paisagem friorenta,</l>
+<l>Cismarenta,</l>
+<l>Esbatida entre a gaze fumacenta,</l>
+<l>Quem a deforma, adelaça e a esfarela, </l>
+<l>Parece</l>
+<l>Uns debuxos manchados em flanela.</l></lg>
+<lg>
+<l>Uma estranha saudade me adormece,</l>
+<l>Ao calor amoroso do braseiro,</l>
+<l>Onde uma chama, trêmula, desmaia.</l>
+<l>E sonho a dança verde das ondas sob o sol,</l>
+<l>Que transforma as espumas num chuveiro</l>
+<l>De aljôfares e rendas, pela praia!</l></lg>
+<lg>
+<l>E revejo as manhãs de casto sol,</l>
+<l>Quando os montes no mar são mais azuis,</l>
+<l>E os cantos clarinantes, cristalinos,</l>
+<l>Das cigarras, dos pássaros, dos sinos</l>
+<l>Parecem a vibração da própria luz!</l></lg>
+<lg>
+<l>Como é triste o Inverno nas montanhas,</l>
+<l>Com esses céus de chumbo! e as talagarças</l>
+<l>Das brumas lentas e estranhas!</l>
+<l>E as cordoveias d'água, como açoites,</l>
+<l>Batendo nas paredes, nas vidraças,</l>
+<l>E arfando,</l>
+<l>Latejando,</l>
+<l>Dentro da solidão negra das noites!</l>
+<l>E a neve a bailar como sombras em bando,</l>
+<l>E o minuano dolorosamente,</l>
+<l>Desesperadamente,</l>
+<l>Pelas frinchas, pelas árvores, guaiando!</l></lg>
+
+<closer>(<hi>O Estado"</hi> – <date>29/12/1957</date>)</closer>
+</div>
+
+<div type="part"><head>As falas das areias</head>
+
+<lg>
+<l>Oh! Alvos cômoros de areias</l>
+<l>Exilados na Lagoa, </l>
+<l>Qual a dor que vos anseia</l>
+<l>Para andardes sempre à  toa?</l></lg>
+<lg>
+<l>Que tortura vos enleia,</l>
+<l>E dentro de vós reboa,</l>
+<l>E à  luz do dia se alteia</l>
+<l>Em giba que se amontoa?</l></lg>
+<lg>
+<l>E os cômoros que me escutaram,</l>
+<l>Subindo à  escada do vento,</l>
+<l>Vieram a mim e falaram: </l>
+<l>– Nós somos como a criatura,</l>
+<l>Mudamos todo o momento</l>
+<l>Em busca a uma ventura.</l></lg>
+
+</div><div type="part"><head>Marinha</head>
+
+
+<lg>
+<l>Desce, lento, o crepúsculo do ar.</l>
+<l>Longe, impreciso, o vulto de uma vela</l>
+<l>É um risco de giz a se apagar.</l></lg>
+
+<lg><l>Há um crespo fulor de opala e turmalinas,</l>
+<l>Por sobre as águas trêmulas do mar!</l></lg>
+
+<lg><l>Ao fundo da baía, enorme, o Cambirela,</l>
+<l>Com atitudes plásticas e estranhas,</l>
+<l>Embrulha-se num manto de neblinas,</l>
+<l>Para dormir o sono das montanhas!</l></lg>
+
+<lg><l>Nenhum rumor esgarça o silêncio de plumas,</l>
+<l>Dentro da sombra azul em que mergulha a vida!</l></lg>
+
+<lg><l>Somente o borbulhar molhado das espumas,</l>
+<l>É que em manchas de rendas se desfaz;</l>
+<l>Tem uns anseios de água mal contida</l>
+<l>Roçando as pedras ásperas do cais.</l>
+<l>..........................................</l>
+<l>Mas, estranha, enervante, singular,</l>
+<l>A noite baixou!</l>
+<l>– Como a noite entristece a todos nós!</l></lg>
+
+<lg><l>A cidade repousa. Sobre o mar,</l>
+<l>Entre as luzes esparsas dos faróis,</l>
+<l>Veio a nódoa da lua espadanar.</l>
+</lg>
+
+<closer>(<date>1936</date>)</closer>
+</div>
+
+<div type="part"><head>A lua e a ponte</head>
+
+<lg>
+<l>Dorme a cidade junto ao mar tranquilo,</l>
+<l>Onde nadam reflexos em cardumes</l>
+<l>E ondeiam sombras efêmeras e estranhas.</l>
+<l>Em torno oscilam os longos fios de lumes</l>
+<l>Como os festões de um vago peristilo.</l></lg>
+<lg>
+<l>É tarde. A noite busca o abrigo das montanhas;</l>
+<l>E o vento arisco espalha e amadurece</l>
+<l>As maresias verdes do canal.</l></lg>
+<lg>
+<l>Passa um grande barco de altas vergas em cruz.</l></lg>
+<lg>
+<l>E enorme, redonda, a lua cheia parece,</l>
+<l>Entre as duas torres da Ponte Hercílio Luz,</l>
+<l>Um luminoso gongo de cristal.</l></lg>
+
+<closer>(<hi>O Estado</hi> – <date>09/07/1957</date>)</closer>
+
+</div>
+
+<div type="part"><head>Elegia da neve</head>
+<opener><salute>A Francisco Fagundes</salute></opener>
+
+<lg>
+<l>A neve baila em passos de algodão</l>
+<l>E paira, e treme, e adeja, e voluteia,</l>
+<l>E cai, depois, serena, sobre o chão!</l></lg>
+<lg>
+<l>É cinza o céu, com laivos cor de areia,</l>
+<l>E as árvores, tranquilas,</l>
+<l>Com véus de tule branca sobre os braços,</l>
+<l>Guardam sonhos de verde nas pupilas,</l>
+<l>E glorificações de sol, pelos espaços!</l></lg>
+<lg>
+<l>Não passa no silêncio um sopro de existência!</l>
+<l>Somente um solitário pássaro friorento,</l>
+<l>Tristonho e arrepiado,</l>
+<l>De vez em quando pia o seu lamento,</l>
+<l>Da beira de um telhado.</l></lg>
+<lg>
+<l>É a saudade, talvez, da companheira,</l>
+<l>Que o punge e que o maltrata.</l>
+<l>Recordações de Amor, em manhã soalheira,</l>
+<l>Quando iam beber nos arroios de prata!</l></lg>
+<lg>
+<l>Nas vidraças a luz empalidece.</l>
+<l>Tudo é branco e deserto! O dia emudeceu!</l>
+<l>E curvo, e frio, e triste se parece</l>
+<l>A um grande mausoléu!</l></lg>
+<lg>
+<l>Que tristeza me fere e me endolora,</l>
+<l>E anestesia o pobre coração!</l></lg>
+<lg>
+<l>A neve, em flocos, cai lá fora,</l>
+<l>E paira, e treme, e adeja, e voluteia,</l>
+<l>Bailando uma ciranda de algodão!</l></lg>
+<closer>(<hi>Republica</hi> – <date>13/09/1923</date>)</closer>
+</div>
+
+<div type="part"><head>Baladas do silêncio</head>
+<opener><salute>A Haroldo Callado</salute></opener>
+
+<lg>
+<l>Tardes de Inverno!...</l>
+<l>Tristes e desertas!...</l>
+<l>De frangalhos de névoas mal cobertas!</l>
+<l>Ante a lenta expressão dos vossos passos,</l>
+<l>Tudo em torno parece meditar,</l>
+<l>Na postura de quem, cruzando os braços,</l>
+<l>Sente a vida esvair-se, devagar!...</l></lg>
+<lg>
+<l>Tardes de Inverno!... Almas silenciosas,</l>
+<l>Que se ferem nas tramas dos espinhos,</l>
+<l>Derramando das chagas dolorosas</l>
+<l>Todo um sangue de névoas, nos caminhos...</l></lg>
+<lg>
+<l>Eu vos sigo de olhar cheio de pranto,</l>
+<l>Estoicas e serenas!</l>
+<l>Como aluém que, sozinho, para um canto,</l>
+<l>Relembra as suas penas!...</l></lg>
+
+<lg>
+<l>..........................................</l>
+</lg>
+
+<lg>
+<l>Tardes de Inverno!... Lentas, enevoadas,</l>
+<l>E cheias de moleza!...</l>
+<l>Margaridas exuis, pelas estradas,</l>
+<l>Morrendo de tristeza!</l></lg>
+
+<closer>(<hi>Oásis</hi> – <date>julho/1918</date>)</closer>
+</div>
+
+<div type="part"><head>Velas</head>
+<opener><salute>A Tito Carvalho</salute></opener>
+
+<lg>
+<l>A vela que vem, côncava e branca</l>
+<l>Como um túmido seio de mulher!</l>
+<l>Quanto alvoroço aos corações arranca!</l>
+<l>Quanta alegria viça em quem a quer!</l></lg>
+<lg>
+<l>A vela que cai, imóvel na distância,</l>
+<l>Como um ponto sombrio de exclamação!</l>
+<l>Tristeza de quem fica, ressonância</l>
+<l>Da saudade que foi num coração!</l></lg>
+<lg>
+<l>Velas que vêm! Velas que vão! Singelas</l>
+<l>Como folhas, estranhas como opalas!</l>
+<l>É o destino plácido das velas</l>
+<l>Trazer felicidades ou levá-las!</l></lg>
+</div>
+
+<div type="part"><head>Manchas</head>
+
+<p>É a triste lagoa, a pobre água parada.</p>
+<p>Só o vento consegue, passageiramente, enrugar-lhe a superfície lisa, balançar as manchas d'espumas verdes que fervem, imóveis, no seu dorso de polvo.</p>
+<p>Quando a noite desce e os escaravelhos do campo se recolhem, alguns sapos emergem, a espiar as estrelas, sujos de lodo visguento.</p>
+<p>E é só quando a água parada sente a sensação efêmera do movimento.</p>
+<p>Sob o sol a lagoa adormece, entorpecida como polvo.</p>
+<p>Apenas, de quando em quando, sobe do fundo paludoso uma bolha prateada, que rebenta na superfície morna e oleosa e fica imóvel, flutuando entre outras, aberta e úmida como a flor dos pântanos.</p>
+<p>Tudo é deserto, infinitamente deserto, em torno da água parada!</p>
+<p>E de tanta solidão, e de tanta tristeza, uma garça velha e suja, sobre um pé, escondendo a cabeça sob a asa, ficou tão indiferente e tão insensível que um pequeno caburé, sinistro e feio, posou-lhe no dorso para sentir, através dos seus olhos redondos e amarelos, a enervante melancolia das cousas.</p>
+
+<closer>(<hi>Republica</hi> – <date>02/03/1924</date>)</closer>
+</div>
+
+<div type="part"><head>Balada da árvore</head>
+
+<lg>
+<l>Plantei, cheio de amor, na minha estrada</l>
+<l>Essa árvore que o vento desfolhou,</l>
+<l>Era linda a minha ama fatigada,</l>
+<l>À sua sombra meiga repousou.</l>
+<l>Toda a minha alegria enternecida</l>
+<l>Estava nela e nela se aninhou.</l>
+<l>Mas, veio o Inverno e a essa árvore querida</l>
+<l>A primavera nunca mais voltou!</l></lg>
+<lg>
+<l>Bailando ao vento a copa desgrenhada,</l>
+<l>O seu pranto de folhas derramou.</l>
+<l>Triste pranto de mágoa resignada,</l>
+<l>E que humilde e serena se calou.</l>
+<l>Era tão linda a rama adormecida,</l>
+<l>A carícia do sol que a fecundou!</l>
+<l>Mas veio o Inverno e a essa árvore querida</l>
+<l>A primavera nunca mais voltou!</l></lg>
+<lg>
+<l>Pelo destino plácido pisada,</l>
+<l>A doce árvore em tédio se abismou.</l>
+<l>O meu sonho de sombra abençoada,</l>
+<l>Como um sonho de sombra se apagou.</l>
+<l>Fora a verde Ventura prometida,</l>
+<l>Que os meus olhos de poeta alvoroçou!</l>
+<l>Mas, veio o Inverno e a essa árvore querida</l>
+<l>A primavera nunca mais voltou!</l></lg>
+<lg>
+<l>Oferenda</l></lg>
+<lg>
+<l>Minha pobre Ventura encanecida,</l>
+<l>És a árvore que o vento desfolhou!</l>
+<l>Deixou-te o Inverno exânime, despida,</l>
+<l>E à  triste solidão da tua vida</l>
+<l>A primavera nunca mais voltou!</l></lg>
+</div>
+
+<div type="part"><head>O besouro</head>
+<opener><salute>A Mâncio da Costa</salute></opener>
+
+<lg>
+<l>Abrindo o élitro de oiro ao sol do meio-dia,</l>
+<l>Solta as asas de renda um besouro irisado.</l>
+<l>E voa, num boleio em que vibra e irradia</l>
+<l>O mistério que tem no seu corpo esmaltado.</l></lg>
+<lg>
+<l>Um prisma de cristal... Alada lira eólia,</l>
+<l>Que vai deixando, após, um som no espaço, a errar.</l>
+<l>Chamou-o, com certeza, o odor dessa magnólia,</l>
+<l>Em cujo colo branco o inseto foi pousar.</l></lg>
+<lg>
+<l>Ei-lo, imóvel, sugando o néctar que o entontece,</l>
+<l>Indiferente e frio... Um inseto qualquer...</l>
+<l>Mas na carne da flor o besouro parece</l>
+<l>Uma joia a luzir num seio de mulher...</l></lg>
+<closer>(<hi>República</hi> – <date>08/09/1923</date>)</closer>
+</div>
+
+<div type="part"><head>O fumo do meu cigarro</head>
+
+<lg>
+<l>Do meu cinzeiro exótico de barro,</l>
+<l>Esguio, espiralante e leve,</l>
+<l>O fumo azul do meu cigarro</l>
+<l>Sobe – pobre fumo nevoento e breve!</l></lg>
+<lg>
+<l>A tua espúmea ondulação de renda,</l>
+<l>Bizarra, singular e fantasista,</l>
+<l>Tem aparências longas de legenda,</l>
+<l>Qualquer cousa de um verso impressionista.</l></lg>
+<lg>
+<l>Como eu te invejo a vida passageira,</l>
+<l>– A tua vida efêmera de som! –</l>
+<l>E essa tua panache flibusteira,</l>
+<l>E o teu aroma capitoso e bom!</l></lg>
+<lg>
+<l>Ao ver-te agora inquieto de repente,</l>
+<l>Não sei porque me vem ao pensamento,</l>
+<l>Que o meu cinzeiro é um elmo reluzente,</l>
+<l>Com longas plumas bracejando ao vento;</l></lg>
+<lg>
+<l>E que esta mesa humílima e pequena,</l>
+<l>Cheia de livros, autos e papéis,</l>
+<l>Num momento se muda numa arena,</l>
+<l>Ornada de pendões e de broquéis.</l></lg>
+<lg>
+<l>E ouço trompas altivas, e alaúdes</l>
+<l>De menestréis, e cantos de troveiros,</l>
+<l>E vozes de mulher, e brados rudes,</l>
+<l>De servos e palafreneiros!</l></lg>
+<lg>
+<l>E penso até que, de viseira erguida,</l>
+<l>Eu desafio à  luta quem quiser,</l>
+<l>Alegremente aventurando a vida</l>
+<l>Por dois olhos castanhos de mulher!</l></lg>
+<lg>
+<l>E o meu cigarro se apagou, depois...</l>
+<l>E vi então como era igual e breve</l>
+<l>Meu pobre fumo espiralante e leve,</l>
+<l>Esta vida de sonho de nós dois.</l></lg>
+</div>
+
+<div type="part"><head>Noturno</head>
+<lg>
+<l>Num canto do salão, entre jarrões antigos,</l>
+<l>O piano acordou nos lamentos de um Noturno.</l>
+<l>Lá fora esvai-se a tarde. Os muros e os postigos</l>
+<l>Enchem-se das brumas de um poente taciturno.</l></lg>
+<lg>
+<l><name>Chopin</name> fere, febril, as teclas de marfim.</l>
+<l>E a música dolente no salão sombrio</l>
+<l>Evoca um leque azul de nácar e cetim...</l>
+<l>A mulher que ele amou!... A névoa sobre o rio.</l></lg> 
+<lg>
+<l>Um harpejo em bemóis... Sobre o ebúrneo teclado,</l>
+<l>De repente emudece o poema que o endolora...</l>
+<l>Uma data, talvez, que o Noturno memora...</l>
+<l>As mãos de <name>George Sand</name>... Um beijo demorado...</l>
+<l>Um instante de amor vivido na <placeName>Polônia</placeName>,</l>
+<l>Sob o lúpulo verde e flores de begônia,</l>
+<l>Que passou, como passa, um aroma doirado!</l></lg>
+<lg>
+<l> .................................................</l>
+<l>.................................................</l></lg>
+<lg>
+<l>O velho carrilhão de um relógio flamengo</l>
+<l>Canta, sobre a chaminé, o minueto de tial.</l>
+<l>A vida dormeceu no salão solarengo,</l>
+<l>Onde há rosas morrendo em vasos de coral!...</l></lg>
+
+<closer>(<hi>Atualidades</hi> – <date>junho/1950</date>)</closer>
+</div>
+
+<div type="part"><head>Dor sem orlas</head>
+<opener><salute>Para o pecado dos homens e o luxo das mulheres.</salute></opener>
+
+<lg>
+<l>Quando o inverno vier e vos achar sozinhos,</l>
+<l>Sem mais consolo, ao canto da lareira,</l>
+<l>E o vento e o frio atroz, ao longo dos caminhos,</l>
+<l>Forem cortando a folha derradeira;</l></lg>
+<lg>
+<l>Quando o tempo esfriar o vosso ardente sangue,</l>
+<l>E a saudade estiver mais perto de vós:</l>
+<l>– Na triste solidão da vossa vida exangue</l>
+<l>Haveis de vos sentir muito mais sós!</l></lg>
+<lg>
+<l>Então, mal escorrer do vosso olhar sem brilho</l>
+<l>Esse pranto infecundo e malsinado,</l>
+<l>Sofrendo a amarga falta do sorrir de um filho,</l>
+<l>– Havereis de maldizer vosso passado!</l></lg>
+
+<closer>(<hi>O Estado</hi> – <date>28/07/1957</date>)</closer>
+</div>
+
+<div type="part"><head>Renúncia</head>
+
+<lg>
+<l>Deixa o que tens e vive da Esperança</l>
+<l>E dentro do teu sonho te agasalhes!</l>
+<l>Somente é puro o Bem que não se alcança!</l>
+<l>– Será mais belo o fruto sem que o talhes!</l></lg>
+<lg>
+<l>Não creias na Ventura que não cansa.</l>
+<l>E a tua Fantasia – não a esgalhes.</l>
+<l>Constrói a tua Torre da faiança</l>
+<l>Com as mesmas Ilusões que ao sol espalhes.</l></lg>
+<lg>
+<l>Tudo farta na Vida e tudo é luto!</l>
+<l>Esse Bem que parece te alegrar</l>
+<l>E uma árvore e não dá fruto!</l></lg>
+<lg>
+<l>Felicidade está no desejar,</l>
+<l>Porque se tem na vida o olhar enxuto,</l>
+<l>Quando se vive apenas a esperar!</l></lg>
+</div>
+
+<div type="part"><head>Profissao de fé</head>
+
+<lg>
+<l>E dizem que não te amo! E falam tanto</l>
+<l>Deste amor imortal que nos enleia,</l>
+<l>Que eu te amo, até, os males que semeia</l>
+<l>O vesgo olhar de inveja e de quebranto!</l></lg>
+<lg>
+<l>Ruge a insídia em redor, ruge! E no entanto</l>
+<l>Cada vez este afeto se incendeia,</l>
+<l>Como chama que o vento mais alteia,</l>
+<l>E mais brilho derrama em cada canto!</l></lg>
+<lg>
+<l>Mas que importa a maldade dessa gente,</l>
+<l>Que zune e zune em vão como um besouro,</l>
+<l>E há de um dia cansar-se, certamente!</l></lg>
+<lg>
+<l>És para mim a luz que me extasia!</l>
+<l>E o teu corpo – o trigal de espigas de ouro</l>
+<l>E o teu beijo – o meu pão de cada dia.</l></lg>
+<closer>(<hi>República</hi> – <date>17/02/1924</date>)</closer>
+</div>
+
+<div type="part"><head>Misteriosa</head>
+<opener><salute>A Tito Carvalho</salute></opener>
+
+<lg>
+<l>Ela era esguia e fina, e parecia</l>
+<l>Um vaso italiano de cristal.</l>
+<l>Toda a gente, na rua, quando a via,</l>
+<l>Gostava do seu vulto original...</l></lg>
+<lg>
+<l>Era a graça, o perfume que inebria</l>
+<l>Dum modo estranho e sobrenatural.</l>
+<l>E essa gente, encantada, nem sabia</l>
+<l>Se no mundo nascera uma outra igual!</l></lg>
+<lg>
+<l>– Donde veio, diziam, flor tão rara?</l>
+<l>Qual o canto da terra? Que cidade</l>
+<l>O seu berço de plumas embalara?</l></lg>
+<lg>
+<l>Mas ninguém nunca soube a verdade:</l>
+<l>Que essa flor de volúpia desatara</l>
+<l>Num humilde casebre da Trindade!</l></lg>
+<closer>(<hi>República</hi> – <date>27/09/1923</date>)</closer>
+</div>
+
+ <div type="part"><head>Esses teus dedos...</head>
+<opener><salute>A Edmundo da Luz Pinto</salute></opener>
+
+<lg>
+<l>Os teus dedos,</l>
+<l>Com essas unhas longas e felinas,</l>
+<l>Que sugerem carícias e segredos,</l>
+<l>E volúpias perversas e assassinas;</l>
+<l>Esses teus dedos</l>
+<l>São dez punhais de lâminas rosadas...</l></lg>
+<lg>
+<l>Quando imóveis, serenos, sobre um livro</l>
+<l>Cheio de letras godas e ouropéis,</l>
+<l>São pistilos de nácar, onde refulge o crivo</l>
+<l>Das pedrarias raras dos anéis,</l>
+<l>E das pétalas das unhas esmaltadas!...</l></lg>
+<lg>
+<l>Porém, sobre o teclado ebúrneo de um piano,</l>
+<l>A correrem nervosos, sem cansaços,</l>
+<l>Os teus dedos são cobras assustadas</l>
+<l>Se agitando na ponta dos teus braços...</l></lg>
+
+<closer>(<hi>República</hi> – <date>18/09/1923</date>)</closer>
+</div>
+
+<div type="part"><head>Sinfonia pagã</head>
+
+<lg>
+<l>Veio com a primavera e as rosas de Setembro</l>
+<l>Essa verde alegria das folhagens.</l>
+<l>E tímida chegou! – eu bem me lembro –</l>
+<l>Nos rebentinhos ruivos das galhagens.</l></lg>
+<lg>
+<l>Houve um canto vermelho em toda a <name>Natureza</name>,</l>
+<l>Que em frêmitos de seiva se propala.</l>
+<l>As águas borbulharam de presteza,</l>
+<l>Na ventura amorosa de saudá-la!</l></lg>
+<lg>
+<l>E o velho <name>Pã</name>, sugando os pâmpanos das parras,</l>
+<l>Ergueu as mãos agradecendo a <name>Ceres</name>,</l>
+<l>A pensar nas cantigas das cigarras</l>
+<l>E no corpo nervoso das mulheres.</l></lg>
+<closer>(<hi>República</hi> – <date>7/04/1923</date>)</closer>
+</div>
+ 
+<div type="part"><head>Meditação</head>
+<opener><salute>A Henrique Fontes</salute></opener>
+
+<lg>
+<l>Nesta manhã que os ares embalsama,</l>
+<l>Eu tenho a sensação nunca sentida</l>
+<l>De que palpita em todo panorama</l>
+<l>Uma Vida maior que a nossa vida.</l></lg>
+<lg>
+<l>E em vão tenta minh'alma, dessa trama,</l>
+<l>Saber-lhe a contextura incompreendida.</l>
+<l>Mas como a borboleta em torno à chama,</l>
+<l>Ela se cansa e cai, desfalecida!</l></lg>
+<lg>
+<l>E sempre estranha, sempre, há de ficar</l>
+<l>A subjetiva vida de paisagem,</l>
+<l>Sem que a possamos nunca desvendar!</l></lg>
+<lg>
+<l>Porque a dextra divina, que a moldou,</l>
+<l>Suprimiu-lhe a expressão da sua imagem,</l>
+<l>Como em todas as cousas que criou!</l></lg>
+
+<closer>(<hi>República</hi> – <date>29/03/1923</date>)</closer>
+</div>
+
+<div type="part"><head>Flor de haxixe</head>
+<opener><salute>A João Tolentino Júnior</salute></opener>
+
+<lg>
+<l>Tece a trama de seda uma pequena aranha.</l>
+<l>A trama se parece uma Rosa de Vento!</l>
+<l>Mas a obreira de ouro, obreira de talento,</l>
+<l>Urde já a espiral que a Rosa toda apanha.</l></lg>
+<lg>
+<l>Do abdômen a verter a filosela estranha,</l>
+<l>Roda, avança e não para um rápido momento!</l>
+<l>Alto, também o sol, num vão do firmamento,</l>
+<l>Vai tecendo, de luz, uma teia de aranha!</l></lg>
+<lg>
+<l>Ei-la agora auscultando o coração da mata,</l>
+<l>O zumbir dos insetos, bem no ângulo de um galho,</l>
+<l>Calma, na intersecção de mil linhas de prata.</l></lg>
+<lg>
+<l>Vendo-a, pensei rever, nos jardins de <name>Mohamede</name>,</l>
+<l>Farta do seu <name>Paxá</name> e farta do seu serralho,</l>
+<l>A favorita nua, a dormir numa rede!</l></lg>
+<closer>(<hi>República</hi> – <date>23/12/1919</date>)</closer>
+
+</div><div type="part"><head>Paradoxal</head>
+<opener><salute>A Oliveira e Silva</salute></opener>
+
+<lg>
+<l>"Vamos! – disse a ilusão. – O mundo é largo</l>
+<l>E em toda a parte crescem roseirais.</l>
+<l>Deixa a saudade, esse teu canto amargo,</l>
+<l>E essas tuas lembranças maternais!"</l></lg>
+<lg>
+<l>"Há delícias sem conta em cada pouso,</l>
+<l>E em cada pouso o Amor a te esperar!</l>
+<l>Vem ser feliz, meu pobre desditoso,</l>
+<l>Que bem nenhum terás em recordar!"</l></lg>
+<lg>
+<l>E eu fui seguindo ao longo das estradas,</l>
+<l>Sempre atrás do seu vulto enganador.</l>
+<l>Tive os pés a sangrar, as mãos pisadas,</l>
+<l>E nunca foi tamanha a minha dor!</l></lg>
+<lg>
+<l>– Mas, por que me tiraste da saudade?</l>
+<l>Por que tu mentiste? – eu lhe dizia:</l>
+<l>E ela voltava os olhos sem piedade,</l>
+<l>A me mostrar a nuvem fugidia.</l></lg>
+<lg>
+<l>E caminhei assim anos a fio!</l>
+<l>Mas como o filho pródigo voltei,</l>
+<l>O peito exangue, pálido de frio,</l>
+<l>A me acolher no lar que abandonei.</l></lg>
+<lg>
+<l>Hoje vivo de novo recordando.</l>
+<l>E de tudo o que o Tempo me deixou,</l>
+<l>Só me resta nos olhos, acenando,</l>
+<l>Esse vulto falaz que me enganou!</l></lg>
+
+<closer>(<hi>Republica</hi> – <date>28/02/1923</date>)</closer>
+</div>
+
+<div type="part"><head>Diálogo romântico</head>
+
+<lg>
+<l>Se eu te dissesse: – Não! Se eu te negasse</l>
+<l>O pão do meu Amor,</l>
+<l>E sozinho na terra te deixasse?</l>
+<l>– Choraria de dor!</l></lg>
+<lg>
+<l>Se eu te dissesse: – Vem! há tanta luz</l>
+<l>Rendando a ramaria,</l>
+<l>Ao teu sólio encantado me conduz?</l>
+<l>– Vibrava de alegria!</l></lg>
+<lg>
+<l>Se eu dissesse, fremindo como louca:</l>
+<l>Cinge-me ao coração,</l>
+<l>E aquece com teus beijos minha boca?</l>
+<l>– Morria de emoção!</l></lg>
+
+<closer>(<hi>República</hi> – <date>11/04/1923</date>)</closer>
+</div>
+
+<div type="part"><head>Milagre de amor</head>
+
+<lg>
+<l>Quando a estrela da manhã, alta, subia,</l>
+<l>Reluzindo e fremente como um guizo,</l>
+<l>Três almas se encontraram, tiritando,</l>
+<l>À porta sideral do Paraíso.</l></lg>
+<lg>
+<l>E a primeira bateu. E havia</l>
+<l>Um altivo desdém nos seus gestos de mando.</l>
+<l>– Quem bate? – de dentro perguntaram.</l>
+<l>– Um Rei que foi na Terra poderoso!</l>
+<l>– Que sementes divinas espalharam</l>
+<l>As tuas mãos? – Batalhas! Valoroso,</l>
+<l>Venci e conquistei cidades e países!</l></lg>
+<lg>
+<l>E a porta de oiro, muda, inviolada,</l>
+<l>Como se tivesse raízes,</l>
+<l>Fulindo e cintilando radiosa,</l>
+<l>Permaneceu fechada!</l></lg>
+<lg>
+<l>E a segunda bateu. E a voz harmoniosa</l>
+<l>De novo perguntou: – Quem bate? –</l>
+<l>Um Sábio que viveu a meditar</l>
+<l>E longos anos passou no duro embate</l>
+<l>Do saber. E envelheceu para criar!</l></lg>
+<lg>
+<l>E a porta de oiro, muda, inviolada,</l>
+<l>Faiscando e fremindo como um astro,</l>
+<l>Continuou fechada!</l></lg>
+<lg>
+<l>E a terceira bateu. E a mesma voz:</l>
+<l>– Quem bate? – serena e doce interrogou.</l>
+<l>– Um Poeta que sempre andou de rastro</l>
+<l>Pela Vida e que a Vida maltratou!</l>
+<l>– Que fizeste na terra? – Eu amei,</l>
+<l>E pondo em cada rima aromas e arrebóis,</l>
+<l>O meu amor em versos espalhei!</l></lg>
+<lg>
+<l>Por toda a esfera azul um canto se expandiu!</l></lg>
+<lg>
+<l>Então, rútila, resplandecente,</l>
+<l>Rodando nos seus gonzos, lentamente,</l>
+<l>A porta de oiro se abriu!</l></lg>
+
+<closer>(<hi>Atualidades</hi> – <date>1946</date>)</closer>
+</div>
+
+<div type="part"><head>O milagre do teu nome</head>
+
+<lg>
+<l>Bem ao pé da parreirinha</l>
+<l>Que o vento sul derrubou,</l>
+<l>Havia uma roseirinha</l>
+<l>Que o frio de julho matou.</l></lg>
+<lg>
+<l>Ninguém sabia quem tinha</l>
+<l>Sido o cristão que a plantou,</l>
+<l>Pois, à toa, a roseirinha</l>
+<l>Nasceu, floriu e murchou...</l></lg>
+<lg>
+<l>Mas um dia que eu passava, </l>
+<l>– Minha Santa Milagreira! –</l>
+<l>Por perto dela e cantava,</l></lg>
+<lg>
+<l>Teu lindo nome ela ouviu,</l>
+<l>Porque logo, alviçareira,</l>
+<l>Ficou verde e refloriu...</l></lg>
+
+<closer>(<hi>República</hi> – <date>13/02/1923</date>)</closer>
+</div>
+
+<div type="part"><head>Natal do céu</head>
+
+<lg>
+<l>Pobrezinha de Deus, queria o seu Natal!</l>
+<l>E, contrita a rezar, na capela da aldeia,</l>
+<l>Suplicava ao Senhor que tanto Bem semeia</l>
+<l>Um grão de sua Graça para o seu casal!</l></lg>
+<lg>
+<l>Não pedia, no entanto, o ouro que estonteia,</l>
+<l>Nem que maior ficasse a leira e o seu trigal!</l>
+<l>Pobrezinha de Deus, queria o seu Natal:</l>
+<l>Um pouco mais de luz e azeite na candeia!</l></lg>
+<lg>
+<l>E Dezembro chegou! Veio a missa do galo,</l>
+<l>O presépio onde havia um <name>Jesus</name> pequenino,</l>
+<l>Que dois anjos do Céu baixaram a coroá-lo!</l></lg>
+<lg>
+<l>E o bom Nosso Senhor que ouvira essa oração</l>
+<l>Da súplice mulher pôs-lhe um louro menino,</l>
+<l>No rubro sapatinho do seu coração!</l></lg>
+
+<closer>(<hi>República</hi> – <date>25/12/1919</date>)</closer>
+</div>
+
+<div type="part"><head>Romance</head>
+
+<lg>
+<l>Ela passa na tarde de ametista,</l>
+<l>Elástica, sonâmbula, nervosa...</l>
+<l>Duas gotas de aroma cor-de-rosa,</l>
+<l>Entre riscos de gaze futurista...</l></lg>
+<lg>
+<l>Onde vai? Ninguém sabe... Na modista...</l>
+<l>E a amiguinha cochicha, maliciosa:</l>
+<l>– Naquela rua estreita, silenciosa,</l>
+<l>Onde mora o pintor impressionista!...</l></lg>
+<lg>
+<l>Ela passa... adorável... diferente!...</l>
+<l>E na curva distante da alameda,</l>
+<l>O seu vulto se esquissa, lentamente,</l></lg>
+<lg>
+<l>Desce a noite serena, clara e quente.</l>
+<l>– Não te esperava!... Um sussurro de seda...</l>
+<l>E as janelas se apagam, de repente!...</l></lg>
+</div>
+
+<div type="part"><head>A velha figueira do jardim</head>
+
+<lg>
+<l>Essa velha figueira,</l>
+<l>Que na saudade vive junto a mim,</l>
+<l>Possui a sombra mais hospitaleira</l>
+<l>E é a árvore mais bela do Jardim.</l></lg>
+<lg>
+<l>Há na sua expressão tranquila e doce</l>
+<l>Alguma cousa de augural,</l>
+<l>Como se ela fosse</l>
+<l>Uma sacerdotisa vegetal!</l></lg>
+<lg>
+<l>Viu crescer a cidade em redor</l>
+<l>E o sol, na praia, em profusão,</l>
+<l>Como um perdulário messidor,</l>
+<l>Amadurar</l>
+<l>As mãos cheias de flocos de algodão,</l>
+<l>Que as ondas atiraram, verdes, para o ar!</l></lg>
+<lg>
+<l>Contam que, num momento, as frondes estendeu,</l>
+<l>Quando, num dia longe,</l>
+<l>A sua sombra curta, extático, morreu</l>
+<l>Um santo e peregrino monge.</l></lg>
+<lg>
+<l>E desde então essa velha figueira,</l>
+<l>Humanizada e boa,</l>
+<l>Guardou no ser a alma forasteira,</l>
+<l>Que pela terra andara, errando, à toa!</l></lg>
+<lg>
+<l>Toda a culpa ancestral, assim, remiu</l>
+<l>Nas suas folhas desnudas!</l>
+<l>Sendo árvore infecunda, refloriu,</l>
+<l>Como antes de <name>Judas</name>.</l></lg>
+<lg>
+<l>Hoje, em cada galho um braço viridente</l>
+<l>Parece abençoar a circundante alfombra.</l>
+<l>E que essa figueira agora sente</l>
+<l>A glória de viver para dar sombra!</l></lg>
+
+<closer>(<hi>Estado</hi> – <date>16/06/1957</date>)</closer>
+</div>
+
+<div type="part"><head>Os onze do morro</head>
+
+<lg>
+<l>São os onze guris vadios e esfarrapados:</l>
+<l>Negros e mamelucos, brancos e mulatos,</l>
+<l>Toda a fauna infantil dos becos escarpados,</l>
+<l>Dos casebres de pau que apodrecem nos matos!</l></lg>
+<lg>
+<l>É a equipe exul do <name>Bode</name>! É a equipe heril dos bambas,</l>
+<l>Que tem por chefe o <name>Mango</name>, um garoto safado,</l>
+<l>Que joga numa extrema e, se perde, faz lambas,</l>
+<l>Dá pulos e marradas como um bode alçado!</l></lg>
+<lg>
+<l>Um retalho de rua, uma nesga baldia,</l>
+<l>Duas pedras no chão marcando o gol... E basta!</l>
+<l>E entre latas e cisco a torcida vadia,</l>
+<l>Em que avulta, a gritar, a fã nervosa e casta.</l></lg>
+<lg>
+<l>A pelota da equipe é um pomo de ironia!</l>
+<l>Diferente da bola em gomos dos granfinos,</l>
+<l>Que vale muito mais que o salário de um dia,</l>
+<l>E o gringo <name>Papai Noel</name> não dá a tais meninos.</l></lg>
+<lg>
+<l>É a pelota de trapo, feia como um bicho!</l>
+<l>Suja, miserável, endurecida e vária...</l>
+<l>Um pedaço de meia e farrapos de lixo,</l>
+<l>A pelota sem prol, plebeia e proletária!</l></lg>
+<lg>
+<l>Foi <name>Mango</name> que a enjambrou, cantando de contente:</l>
+<l>Rija como um calhau, mais forte do que tudo!</l>
+<l>Não há chute que a estoure, nem há mão que a estripe!</l></lg>
+<lg>
+<l>Mas aos pés dos guris tem fofos de veludo,</l>
+<l>E quando vara o gol parece até que sente</l>
+<l>A alegria que enlaça os moleques da equipe!</l></lg>
+<lg>
+<l>Entre a turma e a pelota há um traço que os resume:</l>
+<l>A marca de uma origem, teia de um capricho;</l>
+<l>Nasceram os guris em casebres sem lume...</l>
+<l>E a pelota saiu de uma lata de lixo!</l></lg>
+<lg>
+<l>Desce a noite no morro. Os onze regressaram.</l>
+<l>Sobre os sonhos sem cor da miséria que dorme</l>
+<l>E as cinzas e os carvões das fomes que abrandaram,</l>
+<l>A esperança constrói uma ilusão, singela!</l></lg>
+<lg>
+<l>Mas enquanto a cobiça, na cidade enorme,</l>
+<l>As vigílias acende e as angústias sacode,</l>
+<l>Nos casebres do morro Deus protege e vela</l>
+<l>O sono ingênuo e puro da equipe do <name>Bode</name>!</l></lg>
+
+</div></body></text></TEI>

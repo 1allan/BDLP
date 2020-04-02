@@ -1,0 +1,1615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Para Onde Vamos</title>
+        <author>Altino Flores</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication statement.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+        <title>Para onde vamos?: o crepúsculo dos sentimentos de humanidade</title>, de Altino Flores. Tijucas: [S. n.], 1927.
+          <note>Artigos publicados no jornal <title>O Estado</title> pela <choice><reg>cintilante</reg>
+          <orig>scintillante</orig>
+          </choice> pena do <choice><reg>ilustrado</reg>
+          <orig>illustrado</orig>
+          </choice> professor Altino Flores, em defesa do Exmo. Cel. Dr. Antonio Vicente Bulcão Vianna, Presidente do Congresso Representativo do Estado de <choice><reg>Santa</reg>
+          <orig>S.</orig>
+          </choice> Catarina.<pb n="1"/>
+          </note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+
+    <front>
+
+      <div type="foreword">
+
+        <opener>(<choice><reg>De</reg><orig>Do</orig></choice><title> O Estado</title> de <date when="1927-04-05">5 de Abril de 1927</date>.)</opener>
+
+        <p>Do <choice><reg>egrégio</reg>
+            <orig>egregio</orig>
+          </choice>
+          <foreign xml:lang="en">leader</foreign> do Congresso Estadual e eminente chefe <choice><reg>político</reg>
+            <orig>politico</orig>
+          </choice> de <choice><reg>Itajaí</reg>
+            <orig>Itajahy</orig>
+          </choice>, <choice><reg>Sr.</reg>
+            <orig>sr.</orig>
+          </choice>
+          <choice>
+            <reg>Coronel</reg>
+            <orig>coronel</orig>
+          </choice> Marcos Konder, o nosso <choice><reg>diretor</reg>
+            <orig>director</orig>
+          </choice>, professor Altino Flores, recebeu o seguinte <choice><reg>telegrama</reg>
+            <orig>telegramma</orig>
+          </choice>:</p>
+
+        <p>"<choice><reg>Aplaudo</reg>
+            <orig>Applaudo</orig>
+          </choice> incondicionalmente a sua justa e corajosa defesa do <choice><reg>ilustre</reg>
+            <orig>illustre</orig>
+          </choice> Presidente do Congresso Representativo do Estado e <choice><reg>humanitário</reg>
+            <orig>humanitario</orig>
+          </choice>
+          <choice>
+            <reg>médico</reg>
+            <orig>medico</orig>
+          </choice> Dr. Bulcão Vianna. Saudações.</p>
+
+        <closer>
+          <signed>Marcos Konder"<pb/>
+          </signed>
+        </closer>
+
+      </div>
+
+      <div type="preface">
+
+        <opener>(<choice><reg>De</reg><orig>Do</orig></choice> <title>O Estado</title> de <date when="1927-03-26">26-3-1927</date>.)</opener>
+
+        <head>Acusações apaixonadas</head>
+
+        <head type="sub">
+          <title>O Estado</title>
+          <choice>
+            <reg>possui</reg>
+            <orig>possue</orig>
+          </choice> documentos que <choice><reg>destroem</reg>
+            <orig>destroém</orig>
+          </choice> certas <choice><reg>infâmias</reg>
+            <orig>infamias</orig>
+          </choice> assacadas contra um humanitário <choice><reg>clínico</reg>
+            <orig>clinico</orig>
+          </choice> desta capital.</head>
+
+        <p>De posse de documentos <choice><reg>insofismáveis</reg>
+            <orig>insophismaveis</orig>
+          </choice> que comprovam a honestidade <choice><reg>inatacável</reg>
+            <orig>inatacavel</orig>
+          </choice> do <choice><reg>Sr.</reg>
+            <orig>sr.</orig>
+          </choice>
+          <choice>
+            <reg>Dr.</reg>
+            <orig>dr.</orig>
+          </choice> Bulcão Vianna, o nosso jornal, na <choice><reg>próxima</reg>
+            <orig>proxima</orig>
+          </choice> segunda-feira, defendê-lo-á de acusações que lhe tem feito pessoas, que não medem a responsabilidade do que <choice><reg>afirmam</reg>
+            <orig>affirmam</orig>
+          </choice>, sugestionados talvez por interessados.</p>
+
+        <p>Os documentos que <choice><reg>possuímos</reg>
+            <orig>possuimos</orig>
+          </choice> provam que a reconstrução do <choice><reg>edifício</reg>
+            <orig>edificio</orig>
+          </choice> pertencente ao <choice><reg>Sr.</reg>
+            <orig>sr.</orig>
+          </choice>
+          <choice>
+            <reg>Dr.</reg>
+            <orig>dr.</orig>
+          </choice> Bulcão Vianna não foi executada a expensas de quem quer que seja, mas sim <choice><reg>à</reg>
+            <orig>á</orig>
+          </choice> custa de dinheiro adquirido honradamente no <choice><reg>exercício</reg>
+            <orig>exercicio</orig>
+          </choice> dos cargos <choice><reg>públicos</reg>
+            <orig>publicos</orig>
+          </choice> que <choice><reg>ocupa</reg>
+            <orig>occupa</orig>
+          </choice> e em que se tem havido com <choice><reg>inquebrantável</reg>
+            <orig>inquebrantavel</orig>
+          </choice>
+          <choice>
+            <reg>firmeza</reg>
+            <orig>firmesa</orig>
+          </choice> de <choice><reg>caráter</reg>
+            <orig>caracter</orig>
+          </choice>, e no mister nobilitante de <choice><reg>mé<pb/>dico</reg>
+            <orig>me<pb/>dico</orig>
+          </choice>, em que, muitas vezes, tem demonstrado uma abnegação de que poucos exemplares correm mundo hoje.</p>
+
+        <p>Os artigos que <choice><reg>anunciamos</reg>
+            <orig>annunciamos</orig>
+          </choice> serão <choice><reg>escritos</reg>
+            <orig>escriptos</orig>
+          </choice> e <choice><reg>assinados</reg>
+            <orig>assignados</orig>
+          </choice> pelo nosso diretor Sr. Prof. Altino <choice><reg>Flores</reg>
+            <orig>Flôres</orig>
+          </choice>. Não se veja nesta circunstância uma discordância de vistas entre a redação e a direção desta folha. Tal <choice><reg>discordância</reg>
+            <orig>discordancia</orig>
+          </choice>, <choice><reg>se</reg>
+            <orig>si</orig>
+          </choice> houvesse diante, apenas, das <choice><reg>acusações</reg>
+            <orig>accusações</orig>
+          </choice> atiradas <choice><reg>às</reg>
+            <orig>ás</orig>
+          </choice> faces do <choice><reg>Sr.</reg>
+            <orig>sr.</orig>
+          </choice>
+          <choice>
+            <reg>Dr.</reg>
+            <orig>dr.</orig>
+          </choice> Bulcão Vianna, não poderia continuar a existir depois de serem vistos os documentos a que <choice><reg>aludimos</reg>
+            <orig>alludimos</orig>
+          </choice> e com os quais pretendemos demonstrar que é <choice><reg>prudência</reg>
+            <orig>prudencia</orig>
+          </choice> não falar demasiadamente, ao sabor das paixões suscitadas por causas nem sempre devidas <choice><reg>àqueles</reg>
+            <orig>áquelles</orig>
+          </choice> contra os quais se assestam as baterias dos <choice><reg>acusadores</reg>
+            <orig>accusadores</orig>
+          </choice>.<pb/>
+        </p>
+
+      </div>
+
+    </front>
+
+    <body>
+
+      <div type="chapter">
+
+        <head>I</head>
+
+        <opener xml:id="epigrafe-multidao">
+          <epigraph>
+            <cit>
+              <quote>A multidão é um terreno em que o <choice><reg>micróbio</reg><orig>microbio</orig></choice> do mal se desenvolve facilmente, ao passo que o <choice><reg>micróbio</reg><orig>microbio</orig></choice> do bem morre <choice><reg>quase</reg><orig>quasi</orig></choice> sempre, <choice><reg>à</reg><orig>a</orig></choice> <choice><reg>míngua</reg><orig>mingua</orig></choice> de encontrar condições de vida.</quote>
+              <bibl>
+                SCIPIO SIGHELE.
+              </bibl>
+            </cit>
+          </epigraph>
+        </opener>
+
+        <p>Ainda sob a pressão de uma pontinha de febre, tinhamo-nos levantado do leito, <choice><reg>após</reg>
+            <orig>apòs</orig>
+          </choice> ligeira enfermidade, quando sob os nossos olhos caiu, posta em letra de imprensa, a atoarda que, de alguns dias para <choice><reg>cá</reg>
+            <orig>cà</orig>
+          </choice>, vinha zumbindo sobre as mesas dos Cafés, procurando os ouvidos amigos de <choice><reg>escândalos</reg>
+            <orig>escandalos</orig>
+          </choice>, qual mosca pesada e gorda <choice><reg>à</reg>
+            <orig>á</orig>
+          </choice> procura das bordas dos açucareiros ou das <choice><reg>xícaras</reg>
+            <orig>chicaras</orig>
+          </choice> servidas...</p>
+
+        <p>
+          <choice>
+            <reg>Enquanto</reg>
+            <orig>Emquanto</orig>
+          </choice> o boato vergonhoso circula ao sabor dos ventos, nenhum homem sensato o deve tomar a <choice><reg>sério</reg>
+            <orig>serio</orig>
+          </choice>. Ao <choice><reg>contrário</reg>
+            <orig>contrario</orig>
+          </choice>: deve-se evitar como quem evita um <choice><reg>contágio</reg>
+            <orig>contagio</orig>
+          </choice> morboso. O ar é digno do boato co<pb/>mo do <choice><reg>micróbio</reg>
+            <orig>microbio</orig>
+          </choice>. Mas, quando a aleivosia circulante se <choice><reg>detém</reg>
+            <orig>detem</orig>
+          </choice> e <choice><reg>objetiva</reg>
+            <orig>objectiva</orig>
+          </choice>
+          <choice>
+            <reg>graficamente</reg>
+            <orig>graphicamente</orig>
+          </choice> sobre uma folha de papel, o caso muda de figura, tanto mais quando visa uma personalidade de relevo na comunhão social.</p>
+
+        <p>Foi o que se deu com relação <choice><reg>à</reg>
+            <orig>a</orig>
+          </choice> pessoa do <choice><reg>Senhor</reg>
+            <orig>senhor</orig>
+          </choice>
+          <choice>
+            <reg>Doutor</reg>
+            <orig>doutor</orig>
+          </choice> Bulcão Vianna. Almas <choice><reg>afeitas</reg>
+            <orig>affeitas</orig>
+          </choice> ao mal semeadoras de <choice><reg>ódios</reg>
+            <orig>odios</orig>
+          </choice> e <choice><reg>dissídios</reg>
+            <orig>dissidios</orig>
+          </choice>, exploradoras de <choice><reg>ocasiões</reg>
+            <orig>occasiões</orig>
+          </choice>, ingratas até ao ponto de varrerem da <choice><reg>memória</reg>
+            <orig>memoria</orig>
+          </choice> os favores recebidos para cuspirem na mão que as <choice><reg>socorreu</reg>
+            <orig>soccorreu</orig>
+          </choice>, lançaram aos quatro ventos da cidade que o <choice><reg>Sr.</reg>
+            <orig>sr.</orig>
+          </choice>
+          <choice>
+            <reg>Dr.</reg>
+            <orig>Dr.</orig>
+          </choice> Bulcão Vianna havia <choice><reg><emph>construído</emph>
+            </reg>
+            <orig>
+              <emph>construido</emph>
+            </orig>
+          </choice> uma casa com <choice><reg>materiais</reg>
+            <orig>materiaes</orig>
+          </choice>
+          <emph>desviados</emph> de certa <choice><reg>Repartição</reg>
+            <orig>repartição</orig>
+          </choice>
+          <choice>
+            <reg>Federal</reg>
+            <orig>federal</orig>
+          </choice>.</p>
+
+        <p>Nenhum homem de bem prestou fé a tão descompassado <choice><reg>aleive</reg>
+            <orig>alleive</orig>
+          </choice>. Mas grande parte da população, – justamente <choice><reg>aquela</reg>
+            <orig>aquella</orig>
+          </choice> cujo sentimento vem sendo inflamado pela <choice><reg>retórica</reg>
+            <orig>rethorica</orig>
+          </choice> do <choice><reg>ódio</reg>
+            <orig>odio</orig>
+          </choice> e que ainda não encontrou uma voz que lhe fizesse ver como a estão explorando lamentavelmente, grande parte da população, <choice><reg>dizíamos</reg>
+            <orig>diziamos</orig>
+          </choice>, foi terreno <choice><reg>propício</reg>
+            <orig>propicio</orig>
+          </choice>
+          <choice>
+            <reg>à</reg>
+            <orig>á</orig>
+          </choice> semeadura dessa amarga aleivosia.</p>
+
+        <p>Viu-se reproduzir, então, mais uma <pb/>vez, o triste <choice><reg>espetáculo</reg>
+            <orig>espectaculo</orig>
+          </choice> de pessoas, esquecidas de <choice><reg>benefícios</reg>
+            <orig>beneficios</orig>
+          </choice> recebidos, arrastadas pelo verbo tempestuoso de tribunos apaixonados, percorrerem ruas e bracejarem nas praças, golfando, “morras!” justamente <choice><reg>àquele</reg>
+            <orig>áquelle</orig>
+          </choice> que as beneficiara <choice><reg>humanitária</reg>
+            <orig>humanitaria</orig>
+          </choice> e desinteressadamente!</p>
+
+        <p>Negação do sentimento humano, essa crise social rebaixa a quem a incita e explora. Porque <choice><reg>é</reg>
+            <orig>è</orig>
+          </choice> preciso que essa parte do povo o saiba: quem <choice><reg>forjica</reg>
+            <orig>forgica</orig>
+          </choice> e assopra a <choice><reg>calúnia</reg>
+            <orig>calumnia</orig>
+          </choice> e a politicagem vil e negregada. <choice><reg>Há</reg>
+            <orig>Há</orig>
+          </choice> por <choice><reg>aí</reg>
+            <orig>ahi</orig>
+          </choice> interesses contrafeitos e frustrados, e são <choice><reg>eles</reg>
+            <orig>elles</orig>
+          </choice> que <choice><reg>dinamizam</reg>
+            <orig>dynamizam</orig>
+          </choice> a marcha do boato odioso. <choice><reg>Há</reg>
+            <orig>Há</orig>
+          </choice> muito que se suspirava por uma <choice><reg>ocasião</reg>
+            <orig>occasião</orig>
+          </choice> para encarvoar o nome desse <choice><reg>médico</reg>
+            <orig>medico</orig>
+          </choice>
+          <choice>
+            <reg>ilustre</reg>
+            <orig>illustre</orig>
+          </choice> e abnegado, honra da sua classe, encarnação <choice><reg>típica</reg>
+            <orig>typica</orig>
+          </choice> da <choice><reg>modéstia</reg>
+            <orig>modestia</orig>
+          </choice> e do desinteresse – para atingir <choice><reg>nele</reg>
+            <orig>nelle</orig>
+          </choice>, <choice><reg>enodoando-a</reg>
+            <orig>ennodoando-a</orig>
+          </choice>, a posição que <choice><reg>ocupa</reg>
+            <orig>occupa</orig>
+          </choice> no seio do Congresso <choice><reg>Estadual</reg>
+            <orig>estadual</orig>
+          </choice>.</p>
+
+        <p>Falamos deste modo ao povo, porque somos do povo. Não dizemos que <choice><reg>dele</reg>
+            <orig>delle</orig>
+          </choice> viemos, porque no meio <choice><reg>dele</reg>
+            <orig>delle</orig>
+          </choice> permanecendo amando-o e servindo-o. Nunca <choice><reg>ninguém</reg>
+            <orig>ninguem</orig>
+          </choice> nos viu emaranhado nas teias da <choice><reg>política</reg>
+            <orig>politica</orig>
+          </choice>, porque não somos, nem jamais <pb/>seremos <choice><reg>políticos</reg>
+            <orig>politicos</orig>
+          </choice>. Para ser <choice><reg>político</reg>
+            <orig>politico</orig>
+          </choice> é preciso possuir talento que não temos e <choice><reg>contrair</reg>
+            <orig>contrahir</orig>
+          </choice> certas <emph>qualidades</emph> que absolutamente nos desagradam. Para que o povo veja a razão do que dizemos, basta observar quem são os que, calçados d’alto <choice><reg>coturno</reg>
+            <orig>cothurno</orig>
+          </choice>, trazem sempre entre os dentes o nome do <choice><reg>Sr.</reg>
+            <orig>sr.</orig>
+          </choice>
+          <choice>
+            <reg>Dr.</reg>
+            <orig>dr.</orig>
+          </choice> Bulcão Vianna...</p>
+
+        <p>Estamos certos de que quando se dissipar a nuvem que eclipsou o senso moral a tanta gente, virá o arrependimento e o remorso aos corações que ingratamente estrangularam a lembrança dos favores recebidos, e diabolicamente se abriram para aninhar a <choice><reg>calúnia</reg>
+            <orig>calumnia</orig>
+          </choice> viperina. Acalmado o <choice><reg><hi>simum</hi></reg><orig><hi>simun</hi></orig></choice> ardente que passa hoje sobre as <choice><reg>consciências</reg>
+            <orig>consciencias</orig>
+          </choice>, crestando-lhes as flores mais <choice><reg>belas</reg>
+            <orig>bellas</orig>
+          </choice> e delicadas, chegaremos de novo ao reconhecimento de quão <choice><reg>estéril</reg>
+            <orig>esteril</orig>
+          </choice> e desolada é a tarefa da <choice><reg>língua</reg>
+            <orig>lingua</orig>
+          </choice> humana, quando posta a serviço de uma causa <choice><reg>desumana</reg>
+            <orig>deshumana</orig>
+          </choice>.</p>
+
+        <p>Xanto de Samos chamou um dia a Esopo e disse-lhe:</p>
+
+        <p>— Quero banquetear os meus amigos. Vai ao mercado e compra o que <choice><reg>lá</reg>
+            <orig>là</orig>
+          </choice> houver de melhor.</p>
+
+        <p>O fabulista escravo foi, e só comprou <choice><reg>línguas</reg>
+            <orig>linguas</orig>
+          </choice>, que fez preparar de todas as ma<pb/>neiras, com todos os molhos. Serviram-se. Os convivas começaram por louvar a feliz escolha da comida. Ao quarto, ao quinto, ao sexto prato, ainda eram <choice><reg>línguas</reg>
+            <orig>linguas</orig>
+          </choice> que vinham <choice><reg>à</reg>
+            <orig>á</orig>
+          </choice> mesa. Os <choice><reg>comensais</reg>
+            <orig>commensaes</orig>
+          </choice> acabaram por se enfarar.</p>
+
+        <p>Xanto, indignado:</p>
+
+        <p>— Não te <choice><reg>recomendei</reg>
+            <orig>recommendei</orig>
+          </choice> – lhe disse – que comprasses o que houvesse de melhor?</p>
+
+        <p>E Esopo a responder com finura.</p>
+
+        <p>— Que coisa há melhor que a <choice><reg>língua</reg>
+            <orig>lingua</orig>
+          </choice>? É o laço da vida civil, a chave das <choice><reg>ciências</reg>
+            <orig>sciencias</orig>
+          </choice>, o <choice><reg>órgão</reg>
+            <orig>orgam</orig>
+          </choice> da verdade e da razão; por <choice><reg>ela</reg>
+            <orig>ella</orig>
+          </choice> se constroem e policiam cidades; por <choice><reg>ela</reg>
+            <orig>ella</orig>
+          </choice> se <choice><reg>instrui</reg>
+            <orig>instrue</orig>
+          </choice> e persuade e domina nas <choice><reg>assembleias</reg>
+            <orig>assembléas</orig>
+          </choice>; com <choice><reg>ela</reg>
+            <orig>ella</orig>
+          </choice>
+          <choice>
+            <reg>é</reg>
+            <orig>è</orig>
+          </choice> que se cumpre o principal de todos os deveres, que <choice><reg>é</reg>
+            <orig>è</orig>
+          </choice> louvar os deuses.</p>
+
+        <p>— Pois, então, – replicou Xanto <choice><reg>lá</reg>
+            <orig>là</orig>
+          </choice> com a sua <choice><reg>ideia</reg>
+            <orig>idèa</orig>
+          </choice>, – compra-me amanhã o que houver de <choice><reg>pior</reg>
+            <orig>peior</orig>
+          </choice>; estas mesmas pessoas virão a minha casa e eu quero variar a mesa.</p>
+
+        <p>No dia seguinte fez servir Esopo o mesmo prato. E quando Xanto foi para <choice><reg>ele</reg>
+            <orig>elle</orig>
+          </choice>, de cenho franzido, o escravo se adiantou:<pb/>
+        </p>
+
+        <p>— Que coisa há <choice><reg>pior</reg>
+            <orig>peór</orig>
+          </choice> que a <choice><reg>língua</reg>
+            <orig>lingua</orig>
+          </choice>? É a mãe de todos os debates, a nutriz dos processos, a fonte dos <choice><reg>dissídios</reg>
+            <orig>dissidios</orig>
+          </choice> e das guerras, <choice><reg>destrói</reg>
+            <orig>destróe</orig>
+          </choice> cidades, propaga maldades, louva os deuses e <choice><reg>blasfema</reg>
+            <orig>blasphema</orig>
+          </choice> contra o seu poder; é o <choice><reg>órgão</reg>
+            <orig>orgam</orig>
+          </choice> da verdade, mas é também do erro e – o que é <choice><reg>pior</reg>
+            <orig>peior</orig>
+          </choice> – da <choice><reg>calúnia</reg>
+            <orig>calumnia</orig>
+          </choice>.</p>
+
+        <p>Diante do que se está passando, parece que nos achamos em pleno banquete de Xanto, – e mais do que nunca se faz <choice><reg>mister</reg>
+            <orig>mistèr</orig>
+          </choice> a lição do escravo <choice><reg>frígio</reg>
+            <orig>phrygio</orig>
+          </choice>.<pb/>
+        </p>
+
+      </div>
+
+      <div type="chapter">
+
+        <head>II</head>
+
+        <opener copyOf="#epigrafe-multidao"/>
+
+        <p>A voz sincera e desinteressada, que desejar contribuir para o conserto do <choice><reg>lastimável</reg>
+            <orig>lastimavel</orig>
+          </choice> desregramento de opiniões que se alastra na capital, talvez corra o risco de ser abafada pelas chufas insultantes dos que se fazem surdos aos <choice><reg>murmúrios</reg>
+            <orig>murmurios</orig>
+          </choice> das <choice><reg>próprias</reg>
+            <orig>proprias</orig>
+          </choice>
+          <choice>
+            <reg>consciências</reg>
+            <orig>consciencias</orig>
+          </choice>.</p>
+
+        <p>Mas essa voz <choice><reg>será</reg>
+            <orig>serà</orig>
+          </choice> a nossa.</p>
+
+        <p>Dizemo-lo, não em tom de desafio, mas em tom de quem está com a alma <choice><reg>tranquila</reg>
+            <orig>tranquilla</orig>
+          </choice> porque ama a verdade como a <choice><reg>própria</reg>
+            <orig>propria</orig>
+          </choice> vida e sabe colocar a justiça numa <choice><reg>esfera</reg>
+            <orig>esphera</orig>
+          </choice>
+          <choice>
+            <reg>incorruptível</reg>
+            <orig>incorruptivel</orig>
+          </choice>, onde não chegam os salpicos cenosos do <choice><reg>vilipêndio</reg>
+            <orig>vilipendio</orig>
+          </choice>.</p>
+
+        <p>A todos os corações bem formados, <pb/>doloroso foi o quadro que se lhes deparou, dias <choice><reg>atrás</reg>
+            <orig>atràs</orig>
+          </choice>, com as vociferações ultrajantes ao nome do <choice><reg>ilustre</reg>
+            <orig>illustre</orig>
+          </choice>
+          <choice>
+            <reg>clínico</reg>
+            <orig>clinico</orig>
+          </choice>
+          <choice>
+            <reg>Sr.</reg>
+            <orig>sr.</orig>
+          </choice>
+          <choice>
+            <reg>Dr.</reg>
+            <orig>dr.</orig>
+          </choice> Bulcão Vianna; e triste vem sendo a disseminação das insídias contra a honra desse abnegado Brasileiro, que fez da sua profissão um <choice><reg>sacerdócio</reg>
+            <orig>sacerdocio</orig>
+          </choice>, elegeu a nossa terra para berço de seus filhos e <choice><reg>há</reg>
+            <orig>ha</orig>
+          </choice> vinte e nove anos que se tem assentado <choice><reg>à</reg>
+            <orig>á</orig>
+          </choice> cabeceira dos entes que nos são caros, preocupando-se com os seus gemidos, enxugando-lhes o suor derradeiro depois de desesperada luta com a morte, ou reconquistando-os para a vida com um largo sorriso de alegria emocionante.</p>
+
+        <p>Pois bem: uma palavra <choice><reg>pérfida</reg>
+            <orig>perfida</orig>
+          </choice>, instilada, <choice><reg>à</reg>
+            <orig>á</orig>
+          </choice> puridade, numa alma doentia, na sala de um Café elegante, uma <choice><reg>frase</reg>
+            <orig>phrase</orig>
+          </choice> iracunda e <choice><reg>cacofônica</reg>
+            <orig>cacophonica</orig>
+          </choice>, impulsivamente arremessada da beira de uma calçada sobre a multidão <choice><reg>ingênua</reg>
+            <orig>ingenua</orig>
+          </choice> e rumorosa – cujos caprichos extremados serviram de <choice><reg>matéria</reg>
+            <orig>materia</orig>
+          </choice> aos estudos de Scipio Sighele e Gustavo Le Bon, – <choice><reg>só</reg>
+            <orig>sò</orig>
+          </choice> isso foi bastante para que do seio de uma população, que, <choice><reg>há</reg>
+            <orig>ha</orig>
+          </choice>
+          <choice>
+            <reg>quase</reg>
+            <orig>quasi</orig>
+          </choice> seis lustros, se <choice><reg>habituara</reg>
+            <orig>habituára</orig>
+          </choice> a venerar <choice><reg>aquela</reg>
+            <orig>aquella</orig>
+          </choice> mão que evangelicamente lenira tantas <choice><reg>dores</reg>
+            <orig>dôres</orig>
+          </choice>, se transviasse uma <pb/>corrente de <choice><reg>ódio</reg>
+            <orig>odio</orig>
+          </choice> férvido, <foreign xml:lang="en">Gulf Stream</foreign>
+          <choice>
+            <reg>diabólico</reg>
+            <orig>diabolico</orig>
+          </choice>, cuja marcha <choice><reg>incoercível</reg>
+            <orig>incoercivel</orig>
+          </choice> ultrapassa as raias da mais cruel ingratidão.</p>
+
+        <p>A só meditação sobre esses <choice><reg>fatos</reg>
+            <orig>factos</orig>
+          </choice> confrange e atormenta <choice><reg>aqueles</reg>
+            <orig>aquelles</orig>
+          </choice> que ainda cultivam os sentimentos delicados, <choice><reg>apanágio</reg>
+            <orig>apanagio</orig>
+          </choice> do verdadeiro espírito de humanidade, e entre os <choice><reg>quais</reg>
+            <orig>quaes</orig>
+          </choice> avulta a gratidão. Mercê de Deus, queremos ser desses poucos – e demonstramo-lo com a nossa atitude de hoje.</p>
+
+        <p>Mas, tu... sim, tu! Qual o teu procedimento? Um dia teu pai entrou em casa com o braço direito contra o peito, a gemer. Velho, meio cego, ao atravessar a rua, <choice><reg>tropeçara</reg>
+            <orig>tropeçàra</orig>
+          </choice> e <choice><reg>caíra</reg>
+            <orig>caira</orig>
+          </choice>. Quem chamaste para encanar o braço do teu velho pai? O <choice><reg>Dr.</reg>
+            <orig>dr.</orig>
+          </choice> Bulcão. Quanto levou <choice><reg>ele</reg>
+            <orig>elle</orig>
+          </choice> por isso? Nada! E, hoje, como lhe pagas tu? Barafustando entre pragas delirantes contra <choice><reg>ele</reg>
+            <orig>elle</orig>
+          </choice>.</p>
+
+        <p>E tu? Ris, agora! Tua mãe tinha uma hedionda ferida no seio. O seu sofrimento era tão atroz que a alucinava. Dia a dia como um <choice><reg>cireneu</reg>
+            <orig>cyreneu</orig>
+          </choice> dedicado, o <choice><reg>Dr.</reg>
+            <orig>dr.</orig>
+          </choice> Bulcão procurava mitigar-lhe as <choice><reg>dores</reg>
+            <orig>dôres</orig>
+          </choice>
+          <choice>
+            <reg>inexoráveis</reg>
+            <orig>inexhoraveis</orig>
+          </choice>. Depois, quando a <choice><reg>tarântula</reg>
+            <orig>tarantula</orig>
+          </choice> de fogo nada mais tinha para devorar, <pb/>tua <choice><reg>mãe</reg>
+            <orig>mãi</orig>
+          </choice> morreu. O <choice><reg>Dr.</reg>
+            <orig>dr.</orig>
+          </choice> Bulcão lá estava, ao <choice><reg>pé</reg>
+            <orig>pè</orig>
+          </choice>
+          <choice>
+            <reg>dela</reg>
+            <orig>della</orig>
+          </choice>, e foi para <choice><reg>ele</reg>
+            <orig>elle</orig>
+          </choice> que a desventurada sorriu pela derradeira vez. Como lhe pagaste a <choice><reg>ele</reg>
+            <orig>elle</orig>
+          </choice> esta dedicação <choice><reg>cristã</reg>
+            <orig>christã</orig>
+          </choice>? Vindo hoje para a rua enlamear-lhe o nome <choice><reg>cristalino</reg>
+            <orig>cristallyno</orig>
+          </choice>.</p>
+
+        <p>E tu? Desmemoriado!... Tua esposa encerrava no ventre um fruto para a vida – e a morte <choice><reg>lho</reg>
+            <orig>lh'o</orig>
+          </choice> disputava. Era o teu filho. Querias que <choice><reg>ele</reg>
+            <orig>elle</orig>
+          </choice> vivesse, que tua esposa vivesse... <choice><reg>Naquele</reg>
+            <orig>Naquelle</orig>
+          </choice> dia, <choice><reg>porém</reg>
+            <orig>porêm</orig>
+          </choice>, por várias vezes, pensaste ver a luz entrar pelas <choice><reg>janelas</reg>
+            <orig>janellas</orig>
+          </choice> da tua casa <choice><reg>através</reg>
+            <orig>atravès</orig>
+          </choice> de crepes <choice><reg>funerários</reg>
+            <orig>funerarios</orig>
+          </choice>. O teu grito ansioso foi bater <choice><reg>à</reg>
+            <orig>á</orig>
+          </choice> porta do <choice><reg>Dr.</reg>
+            <orig>dr.</orig>
+          </choice> Bulcão. <choice><reg>Ele</reg>
+            <orig>Elle</orig>
+          </choice> veio, sorridente, despiu o paletó e abriu a valise, os ferros tilintaram – e a porfia sagrada prolongou-se pela noite adiante. Já os <choice><reg>galicínios</reg>
+            <orig>gallicinios</orig>
+          </choice> clarinavam mais forte e um borrão luminoso invadia o levante, quando o teu coração, que até <choice><reg>ali</reg>
+            <orig>alli</orig>
+          </choice> arquejara de ansiedade, desafogadamente palpitou, <choice><reg>eletrizado</reg>
+            <orig>electrizado</orig>
+          </choice> de alegria. Tua esposa, <choice><reg>pálida</reg>
+            <orig>pallida</orig>
+          </choice> sorria transfigurada; ao seu lado, uma <choice><reg>criaturinha</reg>
+            <orig>creaturinha</orig>
+          </choice> rosada, loira agitando as <choice><reg>mãozinhas</reg>
+            <orig>mãosinhas</orig>
+          </choice> muito apertadas, vagia docemente. Pois, bem: como o <choice><reg>Dr.</reg>
+            <orig>dr.</orig>
+          </choice> Bulcão nunca te pediu dinheiro nenhum, <pb/>tu pagas-lhe agora com a moeda dos teus insultos.</p>
+
+        <p>E tu? Já estàs completamente esquecido do horror que se apossou de ti quando, uma noite, <choice><reg>acordaste</reg>
+            <orig>accordaste</orig>
+          </choice> com a respiração estertorosa da tua filhinha de <choice><reg>três</reg>
+            <orig>trez</orig>
+          </choice>
+          <choice>
+            <reg>anos</reg>
+            <orig>annos</orig>
+          </choice>, atacada de <choice><reg>crupe</reg>
+            <orig>crup</orig>
+          </choice>? Acendeste a luz, afastaste, a tremer, o cortinado da caminha <choice><reg>minúscula</reg>
+            <orig>minuscula</orig>
+          </choice>, e <choice><reg>nela</reg>
+            <orig>nella</orig>
+          </choice> viste, de olhos afundados, a <choice><reg>boca</reg>
+            <orig>bocca</orig>
+          </choice> areolada por um halo de <choice><reg>angústia</reg>
+            <orig>angustia</orig>
+          </choice>
+          <choice>
+            <reg>inexprimível</reg>
+            <orig>inexprimivel</orig>
+          </choice>, <choice><reg>aquela</reg>
+            <orig>aquella</orig>
+          </choice> criaturinha a quem a <choice><reg>asfixia</reg>
+            <orig>asphixia</orig>
+          </choice>
+          <choice>
+            <reg>paralisava</reg>
+            <orig>paralysava</orig>
+          </choice> e constrangia as cordas da garganta. Debatia-se no leito, <choice><reg>ofegante</reg>
+            <orig>offegante</orig>
+          </choice>, olhando-te com um olhar onde boiava uma ansiedade infinita; por vezes se <choice><reg>imobilizava</reg>
+            <orig>immobilizava</orig>
+          </choice> e as suas madeixas negras, sobre as rendas do travesseiro, eram como grandes cachos de uvas amadurecidos ao calor da febre que a queimava... <choice><reg>Saíste</reg>
+            <orig>Saiste</orig>
+          </choice> para a rua. Soprava um vento terno, que apenas arrepiava as roseiras do teu jardim. Então, diante da noite <choice><reg>imensa</reg>
+            <orig>immensa</orig>
+          </choice> e silenciosa, sob o <choice><reg>tranquilo</reg>
+            <orig>tranquillo</orig>
+          </choice>
+          <choice>
+            <reg>cintilar</reg>
+            <orig>scintillar</orig>
+          </choice> das <choice><reg>estrelas</reg>
+            <orig>estrellas</orig>
+          </choice>, empolgou-te o dilacerante receio de perder <choice><reg>aquele</reg>
+            <orig>aquelle</orig>
+          </choice> serzinho <choice><reg>débil</reg>
+            <orig>debil</orig>
+          </choice>, cujos brincos buliçosos sonorizavam enternecedoramente a tua casa. Aonde ias?<pb/> Em busca de socorro. Quem to prestou foi o doutor Bulcão. Toda a sua <choice><reg>competência</reg>
+            <orig>competencia</orig>
+          </choice> foi posta <choice><reg>à</reg>
+            <orig>á</orig>
+          </choice> prova. Salvou-se a tua filhinha. Não faz muito tempo. Mesmo que já fizesse <choice><reg>cinquenta</reg>
+            <orig>cincoenta</orig>
+          </choice>
+          <choice>
+            <reg>anos</reg>
+            <orig>annos</orig>
+          </choice>, não tinhas o direito de bolsar <choice><reg>sobre</reg>
+            <orig>sôbre</orig>
+          </choice> a honra do salvador da tua filha a esterqueira da tua ingratidão.</p>
+
+        <p>Assim, vós todos que vos servistes da <choice><reg>apostólica</reg>
+            <orig>apostolica</orig>
+          </choice> magnanimidade desse sacerdote da <choice><reg>ciência</reg>
+            <orig>sciencia</orig>
+          </choice> e, agora, vos <choice><reg>coligais</reg>
+            <orig>colligaes</orig>
+          </choice> na traça <choice><reg>crudelíssima</reg>
+            <orig>crudellissima</orig>
+          </choice> de lhe retalhar o <choice><reg>caráter</reg>
+            <orig>caracter</orig>
+          </choice>, dais mostra de vos achardes em <choice><reg>grau</reg>
+            <orig>gráu</orig>
+          </choice> muito baixo na escala do sentimento humano.</p>
+
+        <p>As almas não valem pelo que são, mas pelas <choice><reg>somas</reg>
+            <orig>sommas</orig>
+          </choice> das virtudes que <choice><reg>nela</reg>
+            <orig>nella</orig>
+          </choice> recendem. Alma, teve-a Brutus, que apunhalou a <choice><reg>César</reg>
+            <orig>Cesar</orig>
+          </choice>, seu <choice><reg>benfeitor</reg>
+            <orig>bemfeitor</orig>
+          </choice> e, talvez seu pai; alma, teve-a <choice><reg>São</reg>
+            <orig>S.</orig>
+          </choice> Francisco de Assis. Entre uma e outra, <choice><reg>porém</reg>
+            <orig>porêm</orig>
+          </choice>, que <choice><reg>diferença</reg>
+            <orig>differença</orig>
+          </choice> abismante!</p>
+
+        <p>Acreditamos que nas vossas almas avultem virtudes outras. Mas falta-lhes a gratidão. <choice><reg>Sede</reg>
+            <orig>Sêde</orig>
+          </choice> gratos e mostrareis que sois verdadeiros homens.<pb/>
+        </p>
+
+      </div>
+
+      <div type="chapter">
+
+        <head>III</head>
+
+        <opener copyOf="#epigrafe-multidao"/>
+
+        <p>O raio não visa <choice><reg>à</reg>
+            <orig>a</orig>
+          </choice> haste <choice><reg>trêmula</reg>
+            <orig>tremula</orig>
+          </choice> da avenca; é decepar a <choice><reg>coroa</reg>
+            <orig>côroa</orig>
+          </choice> imponente do pinheiro. Assim, na <choice><reg>imensa</reg>
+            <orig>immensa</orig>
+          </choice> floresta das almas, são sempre as mais altas que atraem os golpes coriscantes da inveja e da <choice><reg>calúnia</reg>
+            <orig>calumnia</orig>
+          </choice>.</p>
+
+        <p>
+          <choice>
+            <reg>Já</reg>
+            <orig>Jà</orig>
+          </choice> um velho <choice><reg>prolóquio</reg>
+            <orig>proloquio</orig>
+          </choice> oriental dizia que <choice><reg>ninguém</reg>
+            <orig>ninguem</orig>
+          </choice> atira pedras a <choice><reg>árvores</reg>
+            <orig>arvores</orig>
+          </choice> que não dão <choice><reg>frutos</reg>
+            <orig>fructos</orig>
+          </choice>.</p>
+
+        <p>Essas ideias ocorrem-nos <choice><reg>à</reg>
+            <orig>á</orig>
+          </choice> mente quando com <choice><reg>atenção</reg>
+            <orig>attenção</orig>
+          </choice> consideramos a alta personalidade do <choice><reg>Sr.</reg>
+            <orig>sr.</orig>
+          </choice>
+          <choice>
+            <reg>Dr.</reg>
+            <orig>dr.</orig>
+          </choice> Bulcão Vianna e os seus ananicados <choice><reg>detratores</reg>
+            <orig>detractores</orig>
+          </choice>.</p>
+
+        <p>Pelas <choice><reg>admiráveis</reg>
+            <orig>admiraveis</orig>
+          </choice> qualidades de coração, já postas em <choice><reg>relevo</reg>
+            <orig>relêvo</orig>
+          </choice> nos passados artigos <pb/>torna-se ele digno da nossa sincera estima e absoluto respeito. Entretanto, a <choice><reg>irreverência</reg>
+            <orig>irreverencia</orig>
+          </choice> ingrata de certas pessoas vai ao ponto de lhe negar a menor <choice><reg>parcela</reg>
+            <orig>parcella</orig>
+          </choice> de merecimento, e descambar <choice><reg>daí</reg>
+            <orig>dahi</orig>
+          </choice> no insulto e na <choice><reg>calúnia</reg>
+            <orig>calúmnia</orig>
+          </choice>.</p>
+
+        <p>Desse modo, mais uma vez, por espantosa inversão dos sentimentos de generosidade, <choice><reg>viu-se</reg>
+            <orig>vio-se</orig>
+          </choice> o <choice><reg>espetáculo</reg>
+            <orig>espectaculo</orig>
+          </choice> revoltante de os favorecidos morderem raivosos a mão <choice><reg>bondosa</reg>
+            <orig>bondoza</orig>
+          </choice> que os favoreceu.</p>
+
+        <p>Nada do que estamos presenciando, <choice><reg>porém</reg>
+            <orig>porem</orig>
+          </choice>, afetará a honra desse <choice><reg>médico</reg>
+            <orig>medico</orig>
+          </choice>
+          <choice>
+            <reg>humanitário</reg>
+            <orig>humanitario</orig>
+          </choice>, como os que mais o forem desse militar que só tem sabido enobrecer a sua farda, desse <choice><reg>chefe de família</reg>
+            <orig>chefe-de-família</orig>
+          </choice> amoroso em extremo, – e cujas virtudes, <choice><reg>somadas</reg>
+            <orig>sommadas</orig>
+          </choice>, pesam bastante para poderem ser dispersadas pelo <choice><reg>sopro</reg>
+            <orig>sôpro</orig>
+          </choice>
+          <choice>
+            <reg>transitório</reg>
+            <orig>transitorio</orig>
+          </choice> das paixões populares.</p>
+
+        <p>
+          <choice>
+            <reg>Se</reg>
+            <orig>Si</orig>
+          </choice>
+          <choice>
+            <reg>é</reg>
+            <orig>è</orig>
+          </choice> verdade que um instante basta para definir um homem, não é menos verdade que o que lhe garante o conceito é o seu passado e as tradições dos seus ascendentes.</p>
+
+        <p>O <choice><reg>Sr.</reg>
+            <orig>sr.</orig>
+          </choice>
+          <choice>
+            <reg>Dr.</reg>
+            <orig>dr.</orig>
+          </choice> Bulcão Vianna pertence a uma antiga família <choice><reg>baiana</reg>
+            <orig>bahiana</orig>
+          </choice>, da qual tem brotado rebentos de <choice><reg>notável</reg>
+            <orig>notavel</orig>
+          </choice> destaque nas <pb/>letras, na <choice><reg>política</reg>
+            <orig>politica</orig>
+          </choice>, na administração, na medicina, na <choice><reg>jurisprudência</reg>
+            <orig>jurisprudencia</orig>
+          </choice> e no <choice><reg>comércio</reg>
+            <orig>comercio</orig>
+          </choice>. Como um exemplo <choice><reg>à</reg>
+            <orig>á</orig>
+          </choice> romana, avulta, na longa fila dos seus antepassados, a figura veneranda do seu bisavô, o <choice><reg>Dr.</reg>
+            <orig>dr.</orig>
+          </choice> Francisco Vicente Vianna, 1.º barão do Rio de Contas, nascido em 17 de Abril de 1754 e falecido em 29 de abril de 1828, que foi um dos mais ardentes propagandistas da <choice><reg>Independência</reg>
+            <orig>Independencia</orig>
+          </choice>, havendo trabalhado abnegadamente em prol da <choice><reg>pátria</reg>
+            <orig>patria</orig>
+          </choice>, não só na expulsão do general Madeira, mas, sobretudo, na obra <choice><reg>inestimável</reg>
+            <orig>inestimavel</orig>
+          </choice> da organização administrativa da <choice><reg>província</reg>
+            <orig>provincia</orig>
+          </choice> da Bahia, da qual foi o primeiro presidente.</p>
+
+        <p>Nesse cargo a que subiu, onde se manteve e do qual desceu entre os aplausos <choice><reg>unânimes</reg>
+            <orig>unanimes</orig>
+          </choice> da população, mostrou ser o homem de todos os tempos – <emph>limpo de mãos</emph> – como o reconhecera em <choice><reg>atestado</reg>
+            <orig>attestado</orig>
+          </choice> de 19 de Abril de 1787 o <choice><reg>íntegro</reg>
+            <orig>integro</orig>
+          </choice> D. Afonso Miguel de Portugal e Castro, marquês de Valença, governador e capitão general da Capitania da Bahia.</p>
+
+        <p>Na família Bulcão Vianna, pois, ficou sendo tradicional o <choice><reg>brasão</reg>
+            <orig>brazão</orig>
+          </choice> de honradez <choice><reg>inconsútil</reg>
+            <orig>inconsutil</orig>
+          </choice> e da probidade <choice><reg>imá<pb/>cula</reg>
+            <orig>ima<pb/>culla</orig>
+          </choice>. É a essa estirpe <choice><reg>inatacável</reg>
+            <orig>inatacavel</orig>
+          </choice> que pertence esse <choice><reg>clínico</reg>
+            <orig>clinico</orig>
+          </choice>
+          <choice>
+            <reg>ilustre</reg>
+            <orig>illustre</orig>
+          </choice> e <choice><reg>humanitário</reg>
+            <orig>humanitario</orig>
+          </choice> cujo nome todas as pessoas sensatas, de coração agradecido, acatam e <choice><reg>apoteosam</reg>
+            <orig>apotheosam</orig>
+          </choice> com sinceridade, e que <choice><reg>só</reg>
+            <orig>sò</orig>
+          </choice> tem sido apedrejado pela má fé e leviandade dos ingratos e apaixonados, tão lamentavelmente explorados pela desorientação odiosa dos demagogos.</p>
+
+        <p>
+          <choice>
+            <reg>Concluíamos</reg>
+            <orig>Concluiamos</orig>
+          </choice> estas linhas, quando um amigo nos chamou a atenção para a nota publicada hoje, pela <choice><reg><title>República</title>
+            </reg>
+            <orig>
+              <title>Republica</title>
+            </orig>
+          </choice>, <choice><reg>acerca</reg>
+            <orig>à cêrca</orig>
+          </choice> da individualidade do <choice><reg>Sr.</reg>
+            <orig>sr.</orig>
+          </choice>
+          <choice>
+            <reg>Dr.</reg>
+            <orig>dr.</orig>
+          </choice> Bulcão Vianna. Não podemos deixar de bater palmas aos conceitos que <choice><reg>nela</reg>
+            <orig>nella</orig>
+          </choice> diamantinamente reluzem, <choice><reg>ofuscando</reg>
+            <orig>offuscando</orig>
+          </choice> a <choice><reg>miopia</reg>
+            <orig>myopia</orig>
+          </choice> dos malquerentes gratuitos e <choice><reg>imperdoáveis</reg>
+            <orig>imperdoaveis</orig>
+          </choice>. São considerações, <choice><reg>oportunas</reg>
+            <orig>opportunas</orig>
+          </choice>, dignificadoras de quem as concebeu e externou em phrases definitivas, cuja sinceridade de nenhum modo <choice><reg>pode</reg>
+            <orig>póde</orig>
+          </choice> ser posta em <choice><reg>dúvida</reg>
+            <orig>duvida</orig>
+          </choice>.</p>
+
+        <p>Quando a sã imprensa tem dessas atitudes justo è que os <choice><reg>homens de bem</reg>
+            <orig>homens-de-bem</orig>
+          </choice> se rejubilem e façam suas palavras tão criteriosas e nobilitantes. Por esse motivo, esposamos lealmente a defesa que o nosso confrade fez, hoje, da pessoa e da honra <pb/>do <choice><reg>Sr.</reg>
+            <orig>sr.</orig>
+          </choice>
+          <choice>
+            <reg>Dr.</reg>
+            <orig>dr.</orig>
+          </choice> Bulcão Vianna.</p>
+
+        <p>Eis a esplêndida nota:</p>
+
+        <p>“Não se justificam certos <choice><reg>propósitos</reg>
+            <orig>propositos</orig>
+          </choice> desprestigiantes com relação a personalidades que nos devem merecer a melhor <choice><reg>simpatia</reg>
+            <orig>sympathia</orig>
+          </choice>, através da <choice><reg>comunhão</reg>
+            <orig>communhão</orig>
+          </choice> de <choice><reg>ideais</reg>
+            <orig>ideaes</orig>
+          </choice> e de esforços nobilantes.</p>
+
+        <p>É o que se vem dando com o <choice><reg>Sr.</reg>
+            <orig>sr.</orig>
+          </choice>
+          <choice>
+            <reg>Dr.</reg>
+            <orig>dr.</orig>
+          </choice> A. V. Bulcão Vianna.</p>
+
+        <p>Presidente do Congresso, <choice><reg>encarna</reg>
+            <orig>incarna</orig>
+          </choice> uma autoridade, cujos <choice><reg>atos</reg>
+            <orig>actos</orig>
+          </choice> poderão ser criticados, mas nunca por nunca transformado em figura em que se procure atirar a malquerença sem motivo, e o <choice><reg>ridículo</reg>
+            <orig>ridiculo</orig>
+          </choice> que é uma <choice><reg>forma</reg>
+            <orig>fòrma</orig>
+          </choice> pouco <choice><reg>louvável</reg>
+            <orig>louvavel</orig>
+          </choice> de combate.</p>
+
+        <p>A sua passagem pelo governo do Estado <choice><reg>ilustra</reg>
+            <orig>illustra</orig>
+          </choice> uma firmeza de acção invulgar – attestando uma probidade que se não poderá tisnar com apreciações descabidas.</p>
+
+        <p>Radicado ao nosso meio, pelo seu trabalho, pela sua vida, <choice><reg>pode-se</reg>
+            <orig>pòde-se</orig>
+          </choice> devassar-lhe o acervo de serviços, em que, em <choice><reg>inúmeras</reg>
+            <orig>innumeras</orig>
+          </choice>
+          <choice>
+            <reg>atividades</reg>
+            <orig>actividades</orig>
+          </choice>, se tem positivado benéficos.</p>
+
+        <p>Entre nós <choice><reg>há</reg>
+            <orig>ha</orig>
+          </choice> lugar para todos que trabalham, e <choice><reg>será</reg>
+            <orig>serà</orig>
+          </choice>, francamente, uma grave injustiça pretender-se apagar uma <choice><reg>colaboração</reg>
+            <orig>collaboração</orig>
+          </choice> das mais valiosas, que valem pelo mais frisante testemunho duma capacidade e dum grande devotamento aos interesses e ao engrandecimento de Santa <choice><reg>Catarina</reg>
+            <orig>Catharina</orig>
+          </choice>”.<pb/>
+        </p>
+
+      </div>
+
+      <div type="chapter">
+
+        <head>IV</head>
+
+        <opener copyOf="#epigrafe-multidao"/>
+
+        <p>Em o nosso primeiro artigo, definimos os móveis da campanha insidiosa que se vem fazendo em torno da preclara personalidade do <choice><reg>Sr.</reg>
+            <orig>sr.</orig>
+          </choice>
+          <choice>
+            <reg>Dr.</reg>
+            <orig>dr.</orig>
+          </choice> Bulcão Vianna; no segundo buscamos acentuar o desvairo ingrato dos que devendo <choice><reg>grandíssimos</reg>
+            <orig>grandissimos</orig>
+          </choice> favores profissionais ao <choice><reg>humanitário</reg>
+            <orig>humanitario</orig>
+          </choice>
+          <choice>
+            <reg>clínico</reg>
+            <orig>clinico</orig>
+          </choice>, se deixaram arrastar por <choice><reg>aquela</reg>
+            <orig>aquella</orig>
+          </choice> onda de <choice><reg>ódio</reg>
+            <orig>odio</orig>
+          </choice> e <choice><reg>difamação</reg>
+            <orig>diffamação</orig>
+          </choice>; no terceiro, pusemos em relevo a tradição de honradez e probidade que é o traço <choice><reg>característico</reg>
+            <orig>caracteristico</orig>
+          </choice> da antiga <choice><reg>família</reg>
+            <orig>familia</orig>
+          </choice> Bulcão Vianna, e <choice><reg>acabamos</reg>
+            <orig>acabámos</orig>
+          </choice> por fazer nossas as justas apreciações <choice><reg>reabilitadoras</reg>
+            <orig>rehabilitadoras</orig>
+          </choice>
+          <choice>
+            <reg>emitidas</reg>
+            <orig>emittidas</orig>
+          </choice> pelo confrade <choice><reg><title>República</title>
+            </reg>
+            <orig>
+              <title>Republica</title>
+            </orig>
+          </choice>, <choice><reg>naquele</reg>
+            <orig>naquelle</orig>
+          </choice> dia; <pb/>para o artigo de hoje, muito de <choice><reg>indústria</reg>
+            <orig>industria</orig>
+          </choice>, <choice><reg>reservamos</reg>
+            <orig>reservámos</orig>
+          </choice> a enumeração de todos os documentos que dissemos estarem em nosso poder.</p>
+
+        <p>Na <choice><reg>análise</reg>
+            <orig>anályze</orig>
+          </choice> das maldades ou das virtudes humanas não devem ser desprezados nenhuns pormenores, por <choice><reg>mínimos</reg>
+            <orig>minimos</orig>
+          </choice> que sejam. Muitas vezes, <choice><reg>é</reg>
+            <orig>è</orig>
+          </choice> nessas <choice><reg>sutilezas</reg>
+            <orig>sutilesas</orig>
+          </choice> fugidias que reside o <choice><reg>índice</reg>
+            <orig>indice</orig>
+          </choice> explicativo.</p>
+
+        <p>Assim é para notar que, na divulgação do boato infundado acerca da casa do <choice><reg>Sr.</reg>
+            <orig>sr.</orig>
+          </choice>
+          <choice>
+            <reg>Dr.</reg>
+            <orig>dr.</orig>
+          </choice> Bulcão Vianna, as más <choice><reg>línguas</reg>
+            <orig>linguas</orig>
+          </choice> invariavelmente se referiram à <choice><reg>CONSTRUÇÃO</reg>
+            <orig>CONSTRUCÇÃO</orig>
+          </choice>, quando na verdade, o que houve foi uma simples <choice><reg>RECONS<pb/>TRUÇÃO</reg>
+            <orig>RECONS<pb/>TRUCÇÃO</orig>
+          </choice>.</p>
+
+        <p>Trata-se de um <choice><reg>prédio</reg>
+            <orig>predio</orig>
+          </choice> antigo, <choice><reg>inestético</reg>
+            <orig>inesthetico</orig>
+          </choice>, adquirido em hasta <choice><reg>pública</reg>
+            <orig>publica</orig>
+          </choice> – por esse <choice><reg>clínico</reg>
+            <orig>clinico</orig>
+          </choice> que, trabalhando em nossa terra <choice><reg>há</reg>
+            <orig>ha</orig>
+          </choice>
+          <choice>
+            <reg>quase</reg>
+            <orig>quasi</orig>
+          </choice> 30 <choice><reg>anos</reg>
+            <orig>annos</orig>
+          </choice>, não conseguiu amealhar capital para a <choice><reg>construção</reg>
+            <orig>construcção</orig>
+          </choice> de uma casa digna da sua posição profissional, militar e <choice><reg>política</reg>
+            <orig>politica</orig>
+          </choice>, – simplesmente porque não mascateou o seu diploma nem traficou <choice><reg>desonestamente</reg>
+            <orig>deshonestamente</orig>
+          </choice> nos altos cargos que tem <choice><reg>ocupado</reg>
+            <orig>occupado</orig>
+          </choice>.</p>
+
+        <p>O que houve, pois, foi a <choice><reg>RECONSTRUÇÃO</reg>
+            <orig>RECONSTRUCÇÃO</orig>
+          </choice> de um <choice><reg>prédio</reg>
+            <orig>predio</orig>
+          </choice> antiquado, – obra essa em que entraram <choice><reg>materiais</reg>
+            <orig>materiaes</orig>
+          </choice> fornecidos por firmas <choice><reg>idôneas</reg>
+            <orig>idoneas</orig>
+          </choice> desta capital, pagos pela bolsa do <choice><reg>Sr.</reg>
+            <orig>sr.</orig>
+          </choice>
+          <choice>
+            <reg>Dr.</reg>
+            <orig>dr.</orig>
+          </choice> Bulcão Vianna, e não provindos de certa Repartição <choice><reg>Federal</reg>
+            <orig>federal</orig>
+          </choice>, como se tem procurado insinuar.</p>
+
+        <p>O que dizemos não se baseia em simples conjecturas, e sim em documentos perfeitamente legalizados, cuja <choice><reg>autenticidade</reg>
+            <orig>authenticidade</orig>
+          </choice> não <choice><reg>pode</reg>
+            <orig>póde</orig>
+          </choice> ser posta em <choice><reg>dúvida</reg>
+            <orig>duvida</orig>
+          </choice> por <choice><reg>indivíduos</reg>
+            <orig>individuos</orig>
+          </choice> inescrupulosos.</p>
+
+        <p>E esses documentos temo-los aqui, sobre a nossa mesa de trabalho e <choice><reg>colocamo-los</reg>
+            <orig>collocamo-los</orig>
+          </choice>
+          <choice>
+            <reg>à</reg>
+            <orig>á</orig>
+          </choice> disposição de quem os quiser examinar. São os seguintes:</p>
+
+        <list type="ordered" rend="(n)">
+          <item> Conta com recibo, de <hi>Brando &amp; Cia</hi>, datada de <date when="1927-01-31">31 de <choice><reg>janeiro</reg>
+                <orig>Janeiro</orig>
+              </choice> de 1927</date>, e relativa a canos, chapa de metal, barrica de cimento e miudezas (especificadas), na <choice><reg>importância</reg>
+              <orig>importancia</orig>
+            </choice> de 85$900;</item>
+
+          <item>Conta com recibo, de <hi>Brando &amp; Cia</hi>, datada de <date when="1926-10-30">30 de outubro de 1926</date> e relativa a canos, chapa para fogão, caixa para água, torneira, 533 ladrilhos de cimento, e miudezas (especificadas), na <choice><reg>importância</reg>
+              <orig>importancia</orig>
+            </choice> de 1:503$000;</item>
+
+          <item>Conta com recibo, de <hi>Tom Wil<pb/>di</hi>, datada de <date when="1926-12-01">1 de dezembro de 1926</date>, e relativa a portas, <choice><reg>janelas</reg>
+              <orig>janellas</orig>
+            </choice>, bandeiras, vidros e respectiva <choice><reg>colocação</reg>
+              <orig>collocação</orig>
+            </choice>, na <choice><reg>importância</reg>
+              <orig>importancia</orig>
+            </choice> de 1:748$000;</item>
+
+          <item>Conta com recibo, de <hi>Tom Wildi</hi>, datada de <date when="1927-02">fevereiro de 1927</date>, e relativa ao fornecimento e <choice><reg>colocação</reg>
+              <orig>collocação</orig>
+            </choice> de venezianas completas na <choice><reg>importância</reg>
+              <orig>importancia</orig>
+            </choice> de 170$000;</item>
+
+          <item>Conta com recibo, de <hi>Paulo Elhke</hi>, datada de <date when="1926-09-20">20 de setembro de 1926</date>, relativa a 2.000 telhas (Nicodemus), na <choice><reg>importância</reg>
+              <orig>importancia</orig>
+            </choice> de 700$000;</item>
+
+          <item>Conta com recibo, de <hi>Voigt &amp; Ehlke</hi>, datada de <date when="1927-03-02">2 de março de 1927</date>, e relativa a 180 telhas, na <choice><reg>importância</reg>
+              <orig>importancia</orig>
+            </choice> de 63$000;</item>
+
+          <item>Conta com recibo, de <hi>Carlos Meyer</hi>, datada de <date when="1927-02-24">24 fevereiro de 1927</date>, e relativa a <choice><reg>óleos</reg>
+              <orig>oleos</orig>
+            </choice>, piche, tintas, broxas, etc. na <choice><reg>importância</reg>
+              <orig>importancia</orig>
+            </choice> de 147$750;</item>
+
+          <item>Conta com recibo, de <hi>João B. Sabino</hi>, datada de <date when="1926-10-30">30 de outubro de 1926</date>, e relativa a madeira (recuas, <choice><reg>tábuas</reg>
+              <orig>taboas</orig>
+            </choice>, sarrafos, barrotes, etc.) na importância de 1:269$100;</item>
+
+          <item>Conta com recibo, de <hi>F. Brandão</hi>, datada de <date when="1926-10-16">16 de outubro 1926</date>, e relati<pb/>va a manilhas, curvas caixa terrestre, etc., na <choice><reg>importância</reg>
+              <orig>importancia</orig>
+            </choice> de 256$000;</item>
+
+          <item>Conta com recibo, de <hi>F. Brandão</hi>, datada de <date when="1926-10-11">11 de outubro de 1926</date>, e relativa a 7.500 tijolos, na <choice><reg>importância</reg>
+              <orig>importancia</orig>
+            </choice> de 540$000;</item>
+
+          <item>Conta com recibo, de <hi>Abilio Mafra</hi>, datada de <date when="1927-02-02">2 de fevereiro de 1927</date>, e relativa a sacos de cal, tijoleiras simples e de barras, etc. na <choice><reg>importância</reg>
+              <orig>importancia</orig>
+            </choice> de 116$420;</item>
+
+          <item>Conta com recibo, de <hi>Abilio Mafra</hi>, datada de <date when="1926-11-13">13 de novembro de 1926</date>, e relativa a tijolos, cal, areia e cimento, na importância de 41$100;</item>
+
+          <item>Conta com recibo de <hi>Aristides Silva</hi>, datada de <date when="1926-11-22">22 de novembro de 1926</date>, relativa à instalação <choice><reg>elétrica</reg>
+              <orig>electrica</orig>
+            </choice>, na <choice><reg>importância</reg>
+              <orig>importancia</orig>
+            </choice> de 495$000;</item>
+
+          <item>Conta com recibo de <hi>Moellmann &amp; Cia</hi>, datada de <date when="1926-10-31">31 de outubro de 1926</date>, e relativa a pregos, ferros pedreses e trincos, maçanetas, parafusos, dobradiças e 4 barricas de cimento, etc., na <choice><reg>importância</reg>
+              <orig>importancia</orig>
+            </choice> de 292$500;</item>
+
+          <item>Conta com recibo, de <hi>João B. Sabino</hi>, datada de <date when="1927-02-28">28 de fevereiro de 1927</date>, e relativa a madeira (pernas de ser<pb/>ra, taboas de forro, corrimãos, etc.), na <choice><reg>importância</reg>
+              <orig>importancia</orig>
+            </choice> de 122$200;</item>
+
+          <item>Conta com recibo, de <hi>Moellmann &amp; Cia</hi>, datada de <date when="1926-11-13">13 de novembro de 1926</date>, e relativa a uma barrica de cimento e ferragens <choice><reg>miúdas</reg>
+              <orig>miudas</orig>
+            </choice> (especificadas), na <choice><reg>importância</reg>
+              <orig>importancia</orig>
+            </choice> de 57$900;</item>
+
+          <item>Conta com recibo de <hi>Hoepcke &amp; Cia</hi>, datada, de <date when="1926-11-12">12 de novembro de 1926</date>, e relativa a 1 aparato <choice><reg>higiênico</reg>
+              <orig>hygienico</orig>
+            </choice>, na <choice><reg>importância</reg>
+              <orig>importancia</orig>
+            </choice> de 20$000;</item>
+
+          <item>Conta com recibo, de<hi> Amaral Espindola</hi> (Alexandre Vitali a rogo de), datada de <date when="1926-10-16">16 de outubro de 1926</date>, e relativa a barrotes, vigas, espigões, sarrafos, etc., na <choice><reg>importância</reg>
+              <orig>importancia</orig>
+            </choice> de 356$000;</item>
+
+          <item>Conta com recibo, de <hi>Francisco Vieira</hi> datada de <date when="1926-10-22">22 de outubro de 1926</date> e relativa ao serviço de <choice><reg>colocação</reg>
+              <orig>collocação</orig>
+            </choice> de canos de esgoto, na <choice><reg>importância</reg>
+              <orig>importancia</orig>
+            </choice> de 52$500;</item>
+
+          <item>Conta com recibo de <hi>Francisco Martins</hi>, datada de <date when="1926-09-29">29 de setembro de 1926</date> e relativa a 7 1/2 moios de cal, na <choice><reg>importância</reg>
+              <orig>importancia</orig>
+            </choice> de 322$500;</item>
+
+          <item>Conta com recibo, de <hi>João Etaphilo</hi>, datada de <date when="1926-08">agosto de 1926</date>, e relativa ao serviço de arrebentação de 20 metros <choice><reg>cúbicos</reg>
+              <orig>cubicos</orig>
+            </choice> de pedras na <choice><reg>importância</reg>
+              <orig>importancia</orig>
+            </choice>
+            <pb/>de 130$000;</item>
+
+          <item>Conta com recibo de <hi>Virginio Munari</hi>, datada de <date when="1926-12-27">27 de dezembro de 1926</date>, e relativa a pintura e colocação de vidros, na <choice><reg>importância</reg>
+              <orig>importancia</orig>
+            </choice> de 1:235$000.</item>
+        </list>
+
+        <p>
+          <choice>
+            <reg>Além</reg>
+            <orig>Alem</orig>
+          </choice> destas contas, estão em nosso poder <choice><reg>vários</reg>
+            <orig>varios</orig>
+          </choice> outros documentos, entre os quais 7 folhas de pagamento aos <choice><reg>operários</reg>
+            <orig>operarios</orig>
+          </choice>
+          <choice>
+            <reg>emitidas</reg>
+            <orig>emittidas</orig>
+          </choice> pelo administrador das obras, <choice><reg>Sr.</reg>
+            <orig>sr.</orig>
+          </choice> Frederico Selva, e todas com os competentes recibos passados pelo Sr. Alexandre Vitali, no valor total de 2:920$725.</p>
+
+        <p>A <choice><reg>eloquência</reg>
+            <orig>eloquencia</orig>
+          </choice> dessa documentação abundante e cabal vem agora a <choice><reg>público</reg>
+            <orig>publico</orig>
+          </choice> para confundir os que engendram e os que semeiam a <choice><reg>difamação</reg>
+            <orig>diffamação</orig>
+          </choice> e a <choice><reg>calúnia</reg>
+            <orig>calumnia</orig>
+          </choice>. Numa roda de gente limpa, os aleives não conseguem viçar; infelizmente, quando encontram um ambiente vasto e <choice><reg>favorável</reg>
+            <orig>favoravel</orig>
+          </choice>, como nas camadas populares em crise moral, brotam e proliferam espantosamente. E, então é preciso que se dê o rebate e o contrachoque oportuno, para clarificar as <choice><reg>consciências</reg>
+            <orig>consciencias</orig>
+          </choice> conturbadas e restaurar a verdade em todo o seu esplendor. Contra a <choice><reg>afirmação</reg>
+            <orig>affirmação</orig>
+          </choice> do mal, a refutação do bem.<pb/>
+        </p>
+
+        <p>Nenhum homem puro <choice><reg>está</reg>
+            <orig>està</orig>
+          </choice> a coberto da <choice><reg>língua</reg>
+            <orig>lingua</orig>
+          </choice> dos <choice><reg>difamadores</reg>
+            <orig>diffamadores</orig>
+          </choice>. Da noite para o dia, uma reputação, que por longos <choice><reg>anos</reg>
+            <orig>annos</orig>
+          </choice> se consolidou na honestidade e no bem, fica reduzida a farrapos. <choice><reg>Delicadíssima</reg>
+            <orig>Delicadissima</orig>
+          </choice> coisa é a honra, que com uma simples palavrinha toda estremece e <choice><reg>sofre</reg>
+            <orig>soffre</orig>
+          </choice>! Mas, o que tem de <choice><reg>frágil</reg>
+            <orig>fragil</orig>
+          </choice> tem de <choice><reg>bela</reg>
+            <orig>bella</orig>
+          </choice>. Felizes as almas que aspiram a integrar-se no seu sentimento, já hoje tão raro, muito embora pressintam que se acham sujeitas às vicissitudes da maldade humana!</p>
+
+        <p>Para os <choice><reg>espíritos</reg>
+            <orig>espiritos</orig>
+          </choice> eleitos, nada representa a cabala sombria da inveja, do <choice><reg>ódio</reg>
+            <orig>odio</orig>
+          </choice>, da intriga e da <choice><reg>calúnia</reg>
+            <orig>calumnia</orig>
+          </choice>. Intensamente empolgados pelas <choice><reg>constelações</reg>
+            <orig>constellações</orig>
+          </choice> que reluzem no céu, não perdem olhares com essas ondas de lama que de quando em quando assoberbam a sociedade em que vivem. O que os preocupa e <choice><reg>atrai</reg>
+            <orig>atráe</orig>
+          </choice> é qualquer <choice><reg>coisa</reg>
+            <orig>cousa</orig>
+          </choice> de superior, de supremo, de celeste, que só encontra <choice><reg>ressonância</reg>
+            <orig>resonancia</orig>
+          </choice> no fundo das <choice><reg>consciências</reg>
+            <orig>consciencias</orig>
+          </choice>
+          <choice>
+            <reg>imaculadas</reg>
+            <orig>immaculadas</orig>
+          </choice>.</p>
+
+        <p>Desgraçadamente, o mal caminha sempre no encalço dos homens que se dignificaram a si e dignificaram seu tempo. Mostrai-nos um só que tenha atravessado <pb/>a vida, <choice><reg>inacessível</reg>
+            <orig>inacessivel</orig>
+          </choice> a essa dolorosa prova e nós não teremos <choice><reg>dificuldade</reg>
+            <orig>difficuldade</orig>
+          </choice> em vos demonstrar que <choice><reg>ele</reg>
+            <orig>elle</orig>
+          </choice> está <choice><reg>fora</reg>
+            <orig>fòra</orig>
+          </choice> da <choice><reg>espécie</reg>
+            <orig>especie</orig>
+          </choice> humana.</p>
+
+        <p>Eis, pois, o de que o <choice><reg>ilustre</reg>
+            <orig>illustre</orig>
+          </choice> e bondoso <choice><reg>clínico</reg>
+            <orig>clinico</orig>
+          </choice>
+          <choice>
+            <reg>Sr.</reg>
+            <orig>sr.</orig>
+          </choice>
+          <choice>
+            <reg>Dr.</reg>
+            <orig>dr.</orig>
+          </choice> Bulcão Vianna se não pode livrar. Mercê de Deus, ainda desta vez, o mal teve o castigo merecido! A <choice><reg>víbora</reg>
+            <orig>vibora</orig>
+          </choice> da <choice><reg>calúnia</reg>
+            <orig>calumnia</orig>
+          </choice> foi esmagada pelo acervo de documentos que <choice><reg>exibimos</reg>
+            <orig>exhibimos</orig>
+          </choice> aos leitores.</p>
+
+        <p>Sentimo-nos satisfeitos de ter, espontaneamente, corrido em defesa desse homem <choice><reg>admirável</reg>
+            <orig>admiravel</orig>
+          </choice>, cujas mãos só se têm aberto para derramar <choice><reg>benefícios</reg>
+            <orig>beneficios</orig>
+          </choice> a flux, desde o <choice><reg>palácio</reg>
+            <orig>palacio</orig>
+          </choice> dos ricos <choice><reg>à</reg>
+            <orig>á</orig>
+          </choice> choupana do pobre, com um desprendimento <choice><reg>apostólico</reg>
+            <orig>apostolico</orig>
+          </choice>, profundamente <choice><reg>cristão</reg>
+            <orig>christão</orig>
+          </choice>.</p>
+
+        <p>
+          <choice>
+            <reg>Aqueles</reg>
+            <orig>Aquelles</orig>
+          </choice> que em vão se esforçam por lhe tisnar a honra <choice><reg>impoluta</reg>
+            <orig>impolluta</orig>
+          </choice> melhor andariam <choice><reg>se</reg>
+            <orig>si</orig>
+          </choice> lhe fossem beijar as mãos benfeitoras, em agradecimento pelos favores que lhe devem. Seria o <choice><reg>único</reg>
+            <orig>unico</orig>
+          </choice> modo de disfarçar o resto de animalidade que ainda lhes lateja nas almas.<pb/>
+        </p>
+
+      </div>
+
+    </body>
+    <back>
+
+      <div type="afterword">
+
+        <head>DR. BULCÃO VIANNA</head>
+
+        <p>Não se justificam certos <choice><reg>propósitos</reg>
+            <orig>propositos</orig>
+          </choice> desprestigiantes com relação a personalidades que nos devem merecer a melhor <choice><reg>simpatia</reg>
+            <orig>sympathia</orig>
+          </choice>, através da <choice><reg>comunhão</reg>
+            <orig>communhão</orig>
+          </choice> de <choice><reg>ideais</reg>
+            <orig>ideaes</orig>
+          </choice> e de esforços nobilitantes.</p>
+
+        <p>É o que se vem dando com o <choice><reg>Sr.</reg>
+            <orig>sr.</orig>
+          </choice>
+          <choice>
+            <reg>Dr.</reg>
+            <orig>dr.</orig>
+          </choice> A. V. Bulcão Vianna.</p>
+
+        <p>Presidente do Congresso, <choice><reg>encarna</reg>
+            <orig>incarna</orig>
+          </choice> uma <choice><reg>autoridade</reg>
+            <orig>auctoridade</orig>
+          </choice>, cujos <choice><reg>atos</reg>
+            <orig>actos</orig>
+          </choice> poderão ser criticados, mas nunca por nunca transformado em figura em que se procure atirar a malquerença sem motivo, e o <choice><reg>ridículo</reg>
+            <orig>ridiculo</orig>
+          </choice> que é uma forma pouco <choice><reg>louvável</reg>
+            <orig>louvavel</orig>
+          </choice> de combate.</p>
+
+        <p>A sua passagem pelo governo do Estado <choice><reg>ilustra</reg>
+            <orig>illustra</orig>
+          </choice> uma firmeza de <choice><reg>ação</reg>
+            <orig>acção</orig>
+          </choice> invulgar, <choice><reg>atestando</reg>
+            <orig>attestando</orig>
+          </choice> uma probidade que se não <choice><reg>poderá</reg>
+            <orig>poderà</orig>
+          </choice> tisnar com apreciações descabidas.</p>
+
+        <p>Radicado ao nosso meio, pelo seu trabalho, pela sua vida <choice><reg>pode-se</reg>
+            <orig>póde-se</orig>
+          </choice> devassar-lhe o acervo de serviços em que, em <choice><reg>inúmeras</reg>
+            <orig>inumeras</orig>
+          </choice>
+          <choice>
+            <reg>atividades</reg>
+            <orig>actividades</orig>
+          </choice> se tem positivado benéficos.</p>
+
+        <p>Entre <choice><reg>nós</reg>
+            <orig>nòs</orig>
+          </choice>
+          <choice>
+            <reg>há</reg>
+            <orig>ha</orig>
+          </choice> lugar para todos os que trabalham, e será francamente, uma <pb/>grave injustiça pretender-se apagar uma <choice><reg>colaboração</reg>
+            <orig>collaboração</orig>
+          </choice> das mais valiosas, que valem pelo mais frisante testemunho duma capacidade e dum grande devotamento aos interesses e ao engrandecimento de Santa <choice><reg>Catarina</reg>
+            <orig>Catharina</orig>
+          </choice>.</p>
+
+        <closer>(Da <choice><reg><title>República</title>
+            </reg>
+            <orig>
+              <title>Republica</title>
+            </orig>
+          </choice> de <date when="1927-03-30">30-3-1927</date>.)</closer>
+
+      </div>
+
+      <div type="afterword">
+
+        <head>Quanto <choice><reg>pode</reg>
+            <orig>póde</orig>
+          </choice> a honestidade</head>
+
+        <head type="sub">O Dr. Bulcão Vianna recebe, em expressivo <choice><reg>telegrama</reg>
+            <orig>telegramma</orig>
+          </choice>, a solidariedade dos <choice><reg>oficiais</reg>
+            <orig>officiaes</orig>
+          </choice> da Guarnição Federal</head>
+
+        <p>A <choice><reg>oficialidade</reg>
+            <orig>officialidade</orig>
+          </choice> da Guarnição Federal desta capital passou ao <choice><reg>Sr.</reg>
+            <orig>sr.</orig>
+          </choice>
+          <choice>
+            <reg>Dr.</reg>
+            <orig>dr.</orig>
+          </choice> Bulcão Vianna o <choice><reg>telegrama</reg>
+            <orig>telegramma</orig>
+          </choice> urbano, que prazerosamente registramos a seguir:</p>
+
+        <p>“Sr. <choice><reg>Coronel</reg>
+            <orig>coronel</orig>
+          </choice>
+          <choice>
+            <reg>Dr.</reg>
+            <orig>dr.</orig>
+          </choice> Bulcão Vianna, <choice><reg>Florianópolis</reg>
+            <orig>Florianopolis</orig>
+          </choice>. – Vimos trazer, neste momento ingrato, ao <choice><reg>clínico</reg>
+            <orig>clinico</orig>
+          </choice> dos mais <choice><reg>humanitários</reg>
+            <orig>humanitarios</orig>
+          </choice> cuja lida de <choice><reg>quase</reg>
+            <orig>quasi</orig>
+          </choice> trinta <choice><reg>anos</reg>
+            <orig>annos</orig>
+          </choice> nesta terra é verdadeiramente sacerdotal, e ao homem <choice><reg>público</reg>
+            <orig>publico</orig>
+          </choice> que nunca foi nodoado de suspeição nem <choice><reg>acusações</reg>
+            <orig>accusações</orig>
+          </choice>, mas só se louva como aos varões que se di<pb/>gnificam pela <choice><reg>inquebrantável</reg>
+            <orig>inquebrantavel</orig>
+          </choice> honestidade, a nossa incondicional solidariedade, vendo-o tal qual <choice><reg>está</reg>
+            <orig>està</orig>
+          </choice> – no alto do seu merecimento.–Saudações.</p>
+
+        <p>(a) Hildebrando Moreira, <choice><reg>José</reg>
+            <orig>Josè</orig>
+          </choice> Geminiano Cidade, Antenor Taulois de Mesquita, J. Marcellino Coelho, Mario Gomes da Silva, João Gomes Jardim, João Benicio Cabral, Orlando Martins Neves, Almerindo Fernandes Cardozo, Galdino Glück Junior, Gomes Pereira, Juvencio L. W. de Campos, Antonio Fonseca Teixeira, José Augusto da Costa, Hercilio Silva, A. Prudente, Aristides de Oliveira, Cicero Barbosa da Silva Ramalho, Luiz Demoro.”</p>
+
+      </div>
+
+      <div type="afterword">
+
+        <head>Merecidos aplausos</head>
+
+        <div type="section">
+
+          <head>Um <choice><reg>telegrama</reg>
+              <orig>telegramma</orig>
+            </choice> do <choice><reg>Coronel</reg>
+              <orig>coronel</orig>
+            </choice> Marcos Konder</head>
+
+          <p>O Sr. <choice><reg>Coronel</reg>
+              <orig>coronel</orig>
+            </choice> Marcos Konder, <foreign xml:lang="en">leader</foreign> do Congresso do Estado e prestigioso chefe <choice><reg>político</reg>
+              <orig>politico</orig>
+            </choice> em <choice><reg>Itajaí</reg>
+              <orig>Itajahy</orig>
+            </choice>, dirigiu-nos o seguinte <choice><reg>telegrama</reg>
+              <orig>telegramma</orig>
+            </choice>:</p>
+
+          <p>—<choice><reg> Itajaí</reg>
+              <orig>Itajahy</orig>
+            </choice>, 2.<pb/>
+          </p>
+
+
+          <p>Queiram aceitar os meus <choice><reg>aplausos</reg>
+              <orig>applausos</orig>
+            </choice> sem reserva às notas <choice><reg>oportunas</reg>
+              <orig>opportunas</orig>
+            </choice> publicadas por essa folha sobre as decisões do Poder <choice><reg>Judiciário</reg>
+              <orig>Judiciario</orig>
+            </choice> e sobre a personalidade honrada e <choice><reg>inatacável</reg>
+              <orig>inatacavel</orig>
+            </choice> do presidente do Congresso, <choice><reg>Dr.</reg>
+              <orig>dr.</orig>
+            </choice> Bulcão Vianna. Saudações — <hi>Marcos Konder.</hi>
+          </p>
+
+          <closer>(Da <choice><reg><title>República</title>
+              </reg>
+              <orig>
+                <title>Republica</title>
+              </orig>
+            </choice> de <date when="1927-04-05">5-4-1927</date>.)</closer>
+
+        </div>
+
+        <div type="section">
+
+          <head>Um <choice><reg>telegrama</reg>
+              <orig>telegramma</orig>
+            </choice> ao <choice><reg>Sr.</reg>
+              <orig>sr.</orig>
+            </choice>
+            <choice>
+              <reg>Dr.</reg>
+              <orig>dr.</orig>
+            </choice> Bulcão Vianna</head>
+
+          <p>O <choice><reg>Sr.</reg>
+              <orig>sr.</orig>
+            </choice>
+            <choice>
+              <reg>Dr.</reg>
+              <orig>dr.</orig>
+            </choice> Bulcão Vianna recebeu da “Sociedade Médica de Joinville” o seguinte <choice><reg>telegrama</reg>
+              <orig>telegramma</orig>
+            </choice>:</p>
+
+          <p>“A maioria da Sociedade Médica de Joinville acompanha com <choice><reg>simpatia</reg>
+              <orig>sympathia</orig>
+            </choice> as manifestações de <choice><reg>desagravo</reg>
+              <orig>desaggravo</orig>
+            </choice> aos seus elevados sentimentos, convencida de que a sua <choice><reg>ação</reg>
+              <orig>acção</orig>
+            </choice> social honra sobremaneira a classe e o <choice><reg>coloca</reg>
+              <orig>colloca</orig>
+            </choice> muito acima de quaisquer apreciações tendenciosas. Os seus <choice><reg>colegas</reg>
+              <orig>collegas</orig>
+            </choice> de Joinville honram-se em abraçá-lo cordialmente.” (Ass.) <hi>Sérgio Vieira</hi> secretário.</p>
+
+        </div>
+
+      </div>
+
+    </back>
+
+  </text>
+</TEI>

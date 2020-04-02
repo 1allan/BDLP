@@ -1,0 +1,1184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vítor Meirelles</title>
+        <author>Osmar Pisani</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication statement.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Vítor Meirelles</title>, peça em três atos de Osmar Pisani. Florianópolis:
+        Fundação Anibal Nunes Pires, 2003.</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+  
+<front>
+
+<div type="cast-list">
+
+<head>PERSONAGENS</head>
+
+      <castList> 
+
+      <castItem>
+      <role xml:id="vitor">Vítor</role> 
+      <roleDesc> aos dez anos</roleDesc>
+      </castItem>
+
+      <castItem>
+      <role xml:id="maria">Maria da Conceição</role> 
+      <roleDesc>, sua mãe</roleDesc>
+      </castItem>
+
+      <castItem>
+      <role xml:id="antonio">Antônio</role><roleDesc>, seu pai</roleDesc>
+      </castItem>
+
+      <castItem>
+      <role xml:id="marciano">Marciano Moreno</role> <roleDesc>, engenheiro argentino</roleDesc>
+      </castItem>
+
+      <castItem>
+      <role xml:id="jeronimo">Jerônimo Coelho</role><roleDesc>, Conselheiro do Império</roleDesc>
+      </castItem>
+
+      <castItem>
+      <role xml:id="felix">Félix Taunay</role><roleDesc>, Diretor da Academia de Belas Artes</roleDesc>
+      </castItem>
+
+      <castItem>
+      <role xml:id="empregado">Empregado</role><roleDesc> do armazém</roleDesc>
+      </castItem>
+
+      <castItem>
+      <role xml:id="jose">José Corrêa de Lima</role><roleDesc>, professor</roleDesc>
+      </castItem>
+
+      <castItem>
+      <role xml:id="vitormeireles">Vítor Meireles</role> <roleDesc> adulto</roleDesc>
+      </castItem>
+
+      <castItem>
+      <role xml:id="joaomafra">João Maximiniano de Mafra</role><roleDesc>, professor</roleDesc>
+      </castItem>
+
+      <castItem>
+      <role xml:id="pedro">Pedro Américo</role><roleDesc>, artista plástico</roleDesc>
+      </castItem>
+
+      <castItem>
+      <role xml:id="agostinho">Agostinho da Motta</role><roleDesc>, artista plástico</roleDesc>
+      </castItem>
+
+      <castItem>
+      <role xml:id="minardi">Minardi</role><roleDesc>, professor italiano</roleDesc>
+      </castItem>
+
+      <castItem>
+      <role xml:id="cogniet">Cogniet</role><roleDesc>, professor francês</roleDesc>
+      </castItem>
+
+      <castItem>
+      <role xml:id="gastaldi">Gastaldi</role><roleDesc>, aluno veterano de Cogniet</roleDesc>
+      </castItem>
+
+      <castItem>
+      <role xml:id="dpedro">D. Pedro II</role><roleDesc>, Imperador do Brasil</roleDesc>
+      </castItem>
+
+      <castItem>
+      <role xml:id="isabel">Princesa Isabel</role><roleDesc>, Sua Alteza Imperial</roleDesc>
+      </castItem>
+
+      <castItem>
+      <role xml:id="antoniocarlos">Antônio Carlos Gomes</role><roleDesc>, maestro</roleDesc>
+      </castItem>
+
+      <castItem>
+      <role xml:id="flavia">Flávia Minervina Mendes</role><roleDesc>, a musa inspiradora</roleDesc>
+      </castItem>
+
+      <castItem>
+      <role xml:id="joaoalfredo">João Alfredo</role><roleDesc>, Conselheiro do Império</roleDesc>
+      </castItem>
+
+      <castItem>
+      <role xml:id="jornalista">Um jornalista</role>
+      </castItem>
+
+      <castItem>
+      <role xml:id="rosalia">Rosália França</role><roleDesc>, mulher de Vítor</roleDesc>
+      </castItem>
+
+      <castItem>
+      <role xml:id="eduardo">Eduardo França</role><roleDesc>, seu enteado</roleDesc>
+      </castItem>
+
+      <castItem>
+      <role xml:id="langercock">Langerock</role><roleDesc>, pintor belga</roleDesc>
+      </castItem>
+
+      <castItem>
+      <role xml:id="eduardodesa">Eduardo de Sá</role><roleDesc>, o discípulo mais próximo</roleDesc>
+      </castItem>
+
+      <castItem>
+      <role xml:id="rose">Rose Meyriss</role><roleDesc>, artista plástica</roleDesc>
+      </castItem>
+
+      <castItem>
+      <role xml:id="anjos">Os anjos</role>
+      </castItem>
+
+      <castItem>
+      <role xml:id="coro">O Coro</role>
+      </castItem>
+     
+      </castList>
+      
+      </div>
+      
+</front>
+
+<body>
+
+<div type="act">
+      <head>ATO I</head>
+      <div type="scene">
+      <head>CENA I</head>
+
+      <stage>(Abrem-se as cortinas: no palco,<hi> voiles </hi>transparentes esvoaçam, ao som do vento sul.)</stage>
+
+      <stage>O<hi> CORO </hi>declama trechos do poema de Cruz e Sousa:</stage>
+<sp>
+      <p>VELHO VENTO</p>
+<lg>
+      <l>Velho vento vagabundo!</l>
+      <l>No teu rosnar sonolento </l>
+      <l>leva ao longe este lamento, </l>
+      <l>além do escárnio do mundo.</l>
+</lg>
+<lg>
+      <l>Tu que vens lá de tão longe</l>
+      <l>com teu bordão das jornadas </l>
+      <l>rezando pelas estradas </l>
+      <l>sombrias rezas de monge.</l>
+</lg>
+<lg>
+      <l>Que falas também baixinho, </l>
+      <l> lá da origem do mistério,</l>
+      <l>trazendo o augúrio sidéreo </l>
+      <l>e certa voz de carinho...</l>
+</lg>
+<lg>
+      <l>Ó velho vento saudoso, </l>
+      <l>velho vento compassivo, </l>
+      <l>ó ser vulcânico e vivo, </l>
+      <l>taciturno e tormentoso!</l>
+</lg>
+<lg>
+      <l>Ó vento lânguido e vago, </l>
+      <l>ó fantasista das brumas, </l>
+      <l>sopro equóreo das espumas, </l>
+      <l>ó dá-me o teu grande afago!</l>
+</lg>
+<lg>
+      <l>--------------------------------------</l>
+      <l>Eu quero perder-me a fundo </l>
+      <l>no teu segredo nevoento, </l>
+      <l>ó velho e velado vento, </l>
+      <l>velho vento vagabundo!</l>
+      <l>------------------------------------- </l>
+</lg>
+</sp>
+
+      <stage>Ouve-se uma voz:</stage>
+      <sp><p>Calma, calma, já vai passar!</p></sp>
+      <stage>(Bem alto, o choro de um recém-nascido ecoa.) </stage>
+      <sp><p>Pronto! Pronto! E um belo menino!</p></sp>
+
+      <stage>(Dez anos depois):</stage>
+      
+<sp who="#antonio">
+      
+      <p>Estou tão cansado, Maria! A gente labuta o dia inteiro, quase sem resultados!</p></sp>
+      
+<sp who="#maria">
+      
+      <p>E o nosso destino. Ainda assim temos como sobreviver dignamente. Depois, é só olhar ao redor para se ver como somos aquinhoados.</p></sp>
+      
+<sp who="#antonio">
+      
+      <p>E esse menino, sempre desenhando. O que vai ser dele quando crescer, quando for homem feito?</p></sp>
+      
+<sp who="#maria">
+      
+      <p>Mas, Antônio, é a sua vocação! Vítor desenha tão bem!</p></sp>
+      
+<sp who="#antonio">
+      
+      <p>Arre! Mas para que serve desenhar ? Por acaso ele é um príncipe, que não precisa mourejar?</p></sp>
+      
+<sp who="#maria">
+      
+      <p>Eu sei disso, Antônio, mas há sempre uma esperança - se ele tiver de ser um artista, ele será.</p></sp>
+      
+<sp who="#antonio">
+     
+      <p>Para mim, o que vale é o trabalho físico e mental, um grande esforço para juntar alguns contos de réis.</p></sp>
+      
+<sp who="#maria">
+     
+      <p>O senhor tem razão, tem toda a razão.</p>
+
+      <stage>(Olhando para o menino que desenha à mesa)</stage>
+
+      <p>O senhor está sabendo que chegou ao Desterro um estrangeiro que ensina desenho? Parece que é um argentino que aqui se exila. Será que o Vítor poderia ser seu aluno?</p></sp>
+      
+<sp who="#vitor">
+      <stage>(Interrompendo)</stage>
+      <p>Mamãe, sonhei esta noite que estava numa grande escola, aonde aprendia a desenhar. Minha mão percorria um espaço de nuvens sobre o Desterro, que se destacava inteira, inteirinha!</p></sp>
+
+      <stage>(Enquanto fala, faz desenhos no ar.)</stage>
+      
+<sp who="#antonio">
+      
+      <p>Se é assim... mas, olhe, temos pouco para gastar com aulas!</p></sp>
+      
+<sp who="#maria">
+      
+      <p>E se o senhor fosse falar com o emigrado? Quem sabe se, em troca de uns <hi>comes e bebes,</hi> ele poderia ensinar ao Vítor?</p></sp>
+      
+<sp who="#antonio">
+      
+      <p>Olhe, Maria veja lá! Como há trabalho no balcão, a senhora vai me substituir, enquanto eu saio.</p></sp>
+      
+<sp who="#maria">
+      
+      <p>Está bem, eu não reclamo. Está bem. Vá!</p></sp>
+</div>
+<div type="scene">    
+      <head>CENA II</head>
+
+      <stage>(Na casa de Marciano, dois alunos desenhando: um é Vítor.)</stage>
+
+<sp who="#marciano">
+      <p>
+      <foreign xml:lang="es">Esto es para ti, chico, esta caja de acuarela.</foreign>
+      </p>
+      <stage>(Olha bem o menino e diz:)</stage>
+      <p><foreign xml:lang="es">Es un chico muy aplicado. El dibujo geométrico va a te dar disciplina, mas debes repetir siempre, para dibujar bien es preciso mucho trabajo</foreign></p>
+</sp>
+      <stage>(Observa com atenção Vítor, que continua desenhando.)</stage>
+
+<sp who="#vitor">
+      <p>Muito obrigado pelo presente! Eu não imaginaria ousar tanto, mas acho que as cores me ajudarão. Será que um dia vou desenhar tão bem quanto o senhor?</p>
+</sp>
+
+<sp who="#marciano">
+      <p><foreign xml:lang="es">Sí, sí, va ser posible hacer hasta mejor que yo, pero con mucho trabajo, mucho trabajo!</foreign></p>
+</sp>
+</div>
+<div type="scene">
+      <head>CENA III</head>
+      <stage>(Casa de Vítor)</stage>
+
+<sp who="#maria">
+      <p>Então, como foi?</p>
+</sp>
+<sp who="#vitor">
+      <p>Gostei muito, mamãe, vi cores novas, combinações que nem imaginava! Cores tênues para a paisagem do Desterro , cores fortes para os grandes acontecimentos que me aparecem nos sonhos.</p>
+</sp>
+<sp who="#maria">
+      <stage>(Fazendo renda à moda da Ilha de Santa Catarina, de bilros.)</stage>
+      <p>Deus é grande, meu filho, Deus é grande! A vezes os sonhos se tornam realidade. Tua madrinha, Nossa Senhora das Dores, há de te ajudar!</p>
+      <stage>(Olhando um baú)</stage>
+      <p>Eu guardo todos os teus desenhos, pois sonho com um grande futuro para ti! </p>
+      <stage>(Alguém bate à porta)</stage>
+</sp>
+<sp who="#antonio">
+      <p>Maria, veja quem nos visita!</p>
+      <stage>(Voltando-se ao recém-chegado, faz as apresentações)</stage>
+      <p>Este é o Conselheiro Jerônimo Coelho, que veio conhecer o Vítor!</p>
+</sp>
+<sp who="#jeronimo">
+      <p>Meus respeitos, minha senhora ! <stage>(Virando-se para Vítor)</stage> Muito prazer, Vítor! Ouvi dizer que desenhas muito bem! Porisso, gostaria de te encomendar um desenho desta cidade, uma <q>Vista do Desterro</q> e um desenho de <q>Sant’Ana</q>. Aqui estão os materiais.</p>
+      
+      <stage>(Dá ao menino papéis e lápis de cor que tira de sua pasta.)</stage>
+
+      <p>Assim que a encomenda estiver pronta, faça o favor de me encaminhar. Parto para o Rio de Janeiro. Quanto a você, Vítor , faça-a com esmero!</p>
+
+      <stage>(Sai, despedindo-se de todos)</stage>
+      <p>Até outra vez!</p>
+</sp>
+<sp who="#maria">
+
+      <stage>(Ajoelha-se e reza, agradecendo)</stage>
+
+      <p>Muito obrigada, meu Deus! Muito obrigada, nnnha Nossa Senhora das Dores!</p>
+
+      <stage>(Voltando-se para Vítor)</stage>
+
+      <p>Parece-me que teus sonhos começam a se realizar. Será o Conselheiro Jerônimo Coelho o teu padrinho? O Anjo Bom?</p>
+</sp>
+<sp who="#antonio">
+      
+      <p>Olhe, Maria não divague! Além disso, o desenho é como a sombra das nuvens no mar, parece peixe, mas é só nuvem, não é? E nuvem mesmo, pura fantasia.</p>
+</sp>
+<sp who="#vitor">
+     
+      <p>Eu sei disso, senhor meu pai! Eu o ajudo sempre que posso, mas se houver a oportunidade, o senhor me deixará segui-la, não é?</p>
+</sp>
+<sp who="#antonio">
+      <p>Quando a oportunidade chegar, eu respondo.</p>
+
+      <stage>(Vítor sobe correndo as escadas, joga-se sobre o divã, acariciando o material que ganhara de Jerônimo Coelho)</stage>
+</sp>
+</div>
+<div type="scene">
+
+      <head>CENA IV</head>
+ 
+      <stage>(Na Corte: Jerônimo Coelho e Félix de Taunay con versam.)</stage>
+
+<sp who="#jeronimo">
+
+      <stage>(Mostrando dois desenhos a Félix de Taunay)</stage>
+
+      <p>Olhe, Félix, os trabalhos do menino! Ele é bem jovem, só tem quatorze anos!</p>
+</sp><sp who="#felix">
+      <stage>(Olhando com grande interesse)</stage>
+
+      <p>É realmente promissor! Realmente! Acredito que estes trabalhos farão bonito na exposição deste ano! Este constará do catálogo com o nome de “Vista da Face Ocidental do Largo do Palácio da Cidade do Desterro”, como tão bem acabou de sugerir Vossa Excelência.</p>
+
+      <stage>(Detém-se contemplando o desenho maior; depois de um minuto, dirige-se a Jerônimo Coelho)</stage>
+
+      <p>Senhor Conselheiro, esta Academia aceita Vítor Meireles de Lima como aluno! Faça-me o favor de providenciar sua vinda à Corte e uma forma de custear suas despesas no Rio de Janeiro!</p>
+
+</sp><sp who="#jeronimo">
+      <p>Eu sabia, Professor, eu sabia! Vou logo escrever a seus pais. E preciso que eles entendam que estamos diante de um gênio, um talento único no Brasil!</p>
+      </sp>
+</div>
+<div type="scene">
+      <head>CENA V</head>
+
+      <stage>(Desterro, casa de Vítor)</stage>
+
+      <sp who="#maria">
+
+      <p><stage>(Fazendo crivo e pensando em voz alta) </stage>Este menino herdou a minha paciência, fará belas obras e será um grande artista!</p>
+
+      <stage>(Neste momento, batem àporta e entra um empregado do armazém.)</stage>
+
+</sp><sp who="#empregado">
+      <p>Seu Antônio, Dona Maria, isto acaba de chegar da Corte !</p>
+      <stage>(Entrega uma carta a Antônio, que a passa a Maria.)</stage>
+
+</sp><sp who="#antonio">
+      <p>Ande, Maria, pode começar a ler. Sua curiosidade é maior...</p>
+</sp><sp who="#maria">
+
+      <stage>(Pega a carta sorrindo, abre-a e, à medida em que lê, vai se afligindo.)</stage>
+
+      <p>Antônio, veja isso, o convite para Vítor estudar na Corte! Minha Nossa Senhora das Dores! Um futuro de glórias para o nosso filho! Leia, Antônio, leia! Estou contente e triste, ao mesmo tempo, a gente vai se separar!</p>
+
+</sp><sp who="#antonio">
+
+      <p>Tenho cá as minhas dúvidas! Vamos perder uma força de trabalho. Quem irá continuar os meus negócios?</p>
+
+</sp><sp who="#maria">
+      <p>Mas Antônio, o Vítor não pode perder esta oportunidade! E seu futuro como artista? Isso não conta? Faça-me o favor de pensar bem nisso, pois foram Deus e o Conselheiro Jerônimo Coelho a lhe abrirem esta porta.</p>
+
+</sp><sp who="#antonio">
+      <p>Não, não, isto é, sim, pode ser. Mas eu não acredito nessas coisas de arte.</p>
+
+</sp><sp who="#maria">
+
+      <p>Ah! Eu sabia, Antônio, que o senhor iria concordar. <stage>(Chama Vítor)</stage> Vítor, Vítor!</p>
+
+      <stage>(Em lágrimas)</stage>
+
+      <p>Amanhã vais para a Corte, que é bem longe! Mas segue o teu destino. Quem poderia se opor a tanto? Deixarás saudades, eu mesma nem sei como poderei suportar tua ausência, mas é assim que deverá acontecer.</p>
+
+</sp><sp who="#vitor">
+
+      <p>Eu vou mesmo, mamãe? Quase nem posso acreditar! Foi o Panorama do Desterro!</p>
+
+      <stage>(Abraça-se com a mãe, comovido. Depois pula de contente, dirigindo-se a um baú, de onde começa a separar suas roupas.)</stage>
+
+</sp><sp who="#maria">
+      <p>Olha, meu filho, cuida-te bem lá!</p>
+
+</sp><sp who="#antonio">
+
+      <p>Procura ser responsável nesta nova fase de tua vida. Vais ficar fora do alcance de nossas vistas, trabalha duro e bem. Olha que tens meu exemplo a seguir!</p>
+
+      <stage>(Entra o empregado com uma grande mala, quase um baú. Todos ficam em volta, vendo Vítor arrumar seus pertences. Depois se despedem e Vítor sai )</stage>
+</sp>
+</div>
+<div type="scene">
+      <head>CENA VI</head>
+  
+      <stage>(Academia Imperial de Belas Artes, Rio de Janeiro, 1847)</stage>
+
+<sp who="#felix">
+      <p>Aqui não se admite improvisação! Não, senhor Vítor, somente o esforço paciente e tenaz é capaz de levá-lo à realização de seus sonhos de artista. Portanto, prepare-se para as aulas de pintura histórica com o Professor José Corrêa de Lima.</p>
+
+      <stage>(Vitor desenha com grande concentração em seu cavalete.Entra José Corrêa de lima, Taunay faz as apresentações)</stage>
+
+</sp><sp who="#jose">
+
+      <p>Antes de tudo, Vítor, é preciso conhecer o fato histórico que lhe servirá de tema; saber detidamente sobre quem o protagonizou ou sobre quem deixou aos demais as glórias de seus atos, onde se desenvolveu a ação, sob quais condições morais e/ou materiais sucederam-se os acontecimentos.</p>
+</sp>
+<sp who="#vitor">
+
+      <p>O senhor tem razão, Professor, estou sempre atento à história deste país , é preciso ressaltar a noção de pátria.</p>
+
+      <stage>(Passa o tempo, Vítor repete movimentos extenuados de quem muito se esforça pintando.)</stage>
+
+</sp><sp who="#jose">
+
+      <p>Meus cumprimentos, Vítor. Você acaba de ganhar a grande medalha de mérito desta escola, por sua aplicação e pela qualidade de seu trabalho. Trata-se de um prêmio raro, uma honra! E o sonho de todos os alunos que aqui estão. E você conseguiu, você conseguiu!</p>
+</sp><sp who="#vitor">
+
+      <stage>(Em tom humilde)</stage>
+
+      <p>Devo tudo ao mérito de quem em mim confiou e me incentivou. E foram tantos: minha mãe, o exilado Marciano, o Conselheiro Jerônimo Coelho, os geniais professores desta casa, todos estes me tornaram um artista! Minha mãe, que saudade! Vejo- a sentada perto da janela, fazendo crivo...</p>
+
+      <stage>(Em silêncio, Vítor olha em tomo da sala, pensativo. Uma paisagem do Desterro éprojetada no iundo do cenário, e os acordes de Florianópolis, de Melo e Pires ecoam, enquanto em cena aparece o interior da casa de Vítor, no Desterro.)</stage>
+</sp>
+<sp who="#vitor">
+
+      <stage>(Chegando de viagem com bagagens na mão entra na sala)</stage>
+
+      <p>Estou em gozo de férias. Suas bênçãos, ijii- nha mãe! Estou tão feliz ao vê-los, meu pai!</p>
+</sp>
+<sp who="#maria">
+
+      <p>Meu filho!</p>
+
+      <stage>(Abraçam-se emocionados)</stage>
+
+      <p>Veja, Antônio, que belo rapaz!</p>
+
+      <stage>(Olha embevecida o filho, muito bem vestido)</stage>
+
+</sp>
+<sp who="#antonio">
+
+      <p>Aqui me dê um abraço também! Como estão tuas tarefas?</p>
+</sp>
+<sp who="#vitor">
+
+      <p>A escola em que estudo é a mais importante do país, a Academia Imperial de Belas Artes. E vejam o que eu trouxe: - a grande medalha da Academia!</p>
+
+      <stage>(Mostra a medalha enorme, de ouro, que os pais admiram, extasiados)</stage>
+
+      <p>Bem, e por aqui? Parece-me que papai emagreceu um pouco, não?</p>
+
+</sp><sp who="#antonio">
+
+      <p>De fato, não ando me sentindo muito bem mas passa. Acaso poderei deixar de trabalhar?</p>
+</sp>
+      <sp who="#vitor">
+
+      <p>Estou aqui e posso ajudar, não mais serei um fardo nesta casa! <stage>(Voltando-separa a mãe) </stage>Agora sei fazer belos retratos, ilustrar pergaminhos, desenhar e pintar qualquer coisa!</p>
+
+</sp><sp who="#maria">
+
+      <p>Que bom, meu filho, sempre soube que tinhas grande valor!</p>
+
+</sp><sp who="#antonio">
+
+      <p>Estou um pouco cansado, com licença, vou me deitar. Depois continuamos a conversa. <stage>(Sai arras tan do os pés.)</stage></p>
+</sp>
+      <sp who="#vitor">
+
+      <p>Como já disse, mamãe, devo ajudar; posso até dar aulas de desenho.</p>
+</sp>
+      <sp who="#maria">
+      <p>Por enquanto, não; depois a gente trata desse assunto. <stage>(Olhando intensamente para o íilho)</stage> E o Rio de Janeiro realmente tão bonito como falam todos os que vão até lá?</p>
+</sp>
+      <sp who="#vitor">
+
+      <p>Muito mais! E lindo, mamãe! As construções são luxuosas, os palácios belíssimos, as moças vestem-se com a moda de Paris, pois a Corte é muito rica e exigente. E a paisagem... E tão bonita quanto aqui!</p>
+</sp>
+<sp who="#maria">
+
+      <stage>(Ainda emocionada, mas triste)</stage>
+
+      <p>Puxa como você cresceu!</p>
+</sp>
+      <sp who="#vitor">
+
+      <p>Crescer cansa!</p>
+
+      <stage>(Rindo do que disse, olha gentilmente para a mãe)</stage>
+
+      <p>Por que também não repousa um pouquinho? Sinto que devo fazê-lo pois preciso estar muito bem para iniciar o retrato de meu primeiro professor, Marciano Moreno.</p>
+</sp>
+<sp who="#maria">
+      <p>Fazes bem, meu filho. Eu vou ficar para acabar esta encomenda. <stage>(Olha para seus trabalhos manuais e suspira)</stage> - Ah! Boa noite, meu filho!</p>
+</sp>
+      
+</div>
+<div type="scene">
+      <head>CENA VII</head>
+     
+      <stage>(Rio de Janeiro, sala de aula da Academia)</stage>
+
+<sp who="#vitor">
+      <p>Bom dia, Professor. Como está o senhor? Chego animado para iniciar o curso trienal de pintura histórica!</p>
+</sp><sp who="#jose">
+
+      <p>Ei-lo, afinal! Está tudo bem no Desterro?</p>
+
+      </sp><sp who="#vitor">
+
+      <p>Na mesma, na mesma. Meu pai parece doente, e desta vez, pelo menos, pude ajudá- lo, fazendo alguns retratos, algumas ilustrações e, perdoe-me a coragem, lecionando desenho.</p>
+
+      <p><hi>(Entra na sala João Maximiano Mafra, que faz os cumprimentos.)</hi></p>
+</sp><sp who="#joaomafra">
+      <p>MAFRA</p>
+
+      <p>Muito bom dia! Ah! Vítor! Você aprende rápido as lições dos mestres!</p>
+
+      </sp><sp who="#vitor">
+
+      <p>Bom dia! E mesmo? As vezes acho que o tempo foge... Minha única certeza é a de que a arte é o objetivo de minha vida.</p>
+</sp>      
+<sp who="#joaomafra">
+
+      <p>E quanto ao Pedro Américo? Dizem que ele ofendeu você com certas insinuações e um flagrante menosprezo pelo seu trabalho.</p>
+</sp>
+      <sp who="#vitor">
+
+      <p>Não, não! Tudo isso é maldade. Eu o considero como um irmão mais novo, que sempre terá meu apoio.</p>
+</sp>
+      <stage>(Entra Pedro Américo.)</stage>
+      
+      <sp who="#pedro">
+
+      <p>Sinto muito, seu Vítor! De si nada espero, nossas relações estão cortadas! Aqui não tenho competidores para minha obra!</p>
+
+      <stage>(Sai de cena, extremamente irado. Vítor e Mafra se entreolham, constrangidos.)</stage>
+</sp>
+<sp who="#vitor">
+
+      <p>Pedro, Pedro, até amanhã!</p>
+
+      <stage>(Vítor sai pelo corredor e vê, na porta que esta em frente àquela pela qual sai, escrita a giz, a seguinte frase:)</stage>
+      
+      <p><q>Todos podem entrar, menos Vítor Meireles</q>.</p>
+
+      <stage>(Vítor pára ali e bate a porta sem pressa.)</stage>
+      </sp>
+<sp who="#pedro">
+
+      <p>Quem aí está?</p>
+</sp>
+      <sp who="#vitor">
+
+      <p>Sou eu.</p>
+</sp>
+      <sp who="#pedro">
+
+      <stage>(Irritadíssimo)</stage>
+
+      <p>Já falei para você que não sou seu amigo nem mais lhe quero ver.</p>
+</sp>
+      <sp who="#vitor">
+
+      <p>Mas eu só queria um pedacinho de giz...</p>
+
+      <p><hi>(Pedro Américo, hesitante a princípio, pega o giz e joga-o em cima de Vítor; este apanha o giz no chão e escreve à sua porta:) </hi></p>
+
+      <p><hi>“Só o genial mestre Pedro Américo pode entrar nesta oficina de um pobre e modesto pintor”.</hi></p>
+
+      <p><hi>(Depois, Vítor entra em seu atelier pega os pincéis e dirige-se ao cavalete, onde esta um imenso quadro.)</hi></p>
+</sp>
+      
+</div>
+
+<div type="scene">
+      <head>CENA VIII</head>      
+
+      <sp who="#vitor">
+
+      <stage>(Pintando uma paisagem e pensando em voz alta)</stage>
+
+      <p>Viva! Finalmente acabei <q>São João Batista no Cárcere</q> a tempo de remetê- lo à exposição de belas artes! Estou curioso em saber o resultado do concurso. </p>
+
+      <stage>(Entra João Maximiano Mafra.)</stage>
+</sp>
+      <sp who="#joaomafra">
+      <p>Vítor, eu soube agora que saiu o resultado do julgamento das obras da exposição de belas artes!</p>
+
+      <stage>(Eufórico, acrescenta)</stage>
+
+      <p>Você acaba de ganhar o prêmio <q>Viagem à Europa</q>! Meus cumprimentos!</p>
+</sp>
+      <sp who="#vitor">
+      <stage>(Muito feliz)</stage>
+
+      <p>É mesmo? Eu não acredito! Mas então devo expressar meus agradecimentos ao senhor e a todos aqueles que acreditaram em meu potencial artístico, como o Conselheiro Jerônimo Coelho, por exemplo!</p>
+
+      <stage>(Entram em cena vários amigos, colegas, professores e o Conselheiro Jerônimo Coelho, todos muito agitados e felizes)</stage>
+
+      </sp><sp who="#vitor">
+
+      <p>Muito obrigado, muito obrigado, Conselheiro! O senhor me permitiu este momento de glória, por isso, quero que todos saibam que lhe dedico este prêmio!</p>
+
+      <stage>(Abraçam-se, emocionados.)</stage>
+</sp>
+      <sp who="#jeronimo">
+      
+      <p>Vítor, eu apenas tive a premonição do teu talento, só isto! Então, tudo o mais era para mim uma obrigação. Leva este teu dom para a Europa , junto com as belezas naturais do Brasil!</p>
+
+      <stage>(<hi>Aos acordes de Carlos Gomes</hi>: Tão longe, de mim distante, lá se vai lá se vai meu pensamento..., a tela <q>São João Batista no Cárcere</q> é projetada no fundo do palco.)</stage></sp>
+</div></div>
+<div type="act">
+      <head>ATO II</head>
+<div type="scene">
+      <head>CENA I</head>
+
+      <stage>(Roma, atelier de Tommaso Minardi, Professor. Agostinho da Motta está lá, para receber Vítor.)</stage>
+      
+<sp who="#agostinho">
+
+      <p>Vítor, meus parabéns pelo prêmio! Fizeste boa viagem?</p>
+
+      </sp><sp who="#vitor">
+
+      <p>Muito boa, na verdade, pois estou entusiasmado! Que maravilha poder estar aqui!</p>
+      </sp>
+<sp who="#agostinho">
+
+      <p>Sim, é muito bom. O Minardi, no entanto, é extremamente rigoroso: ele não permite a seus alunos distanciarem-se do desenho; as cores, a composição são interditadas a nós.</p>
+
+      </sp><sp who="#vitor">
+
+      <p>O que fazer? Sou recém-chegado, esse professor me foi indicado por outro brasileiro que, como nós, recebeu bolsa para estudar na Europa, nosso colega Pallière Grandjean Ferreira. Estou tentado a experimentar suas aulas.</p>
+</sp>
+<sp who="#agostinho">
+
+      <p>Bem, Minardi é, sem sombra de dúvida, um bom pintor; o seu gosto pelo desenho parte da premissa de que nenhum de seus alunos sabe desenhar.</p>
+
+      </sp>
+      <sp who="#vitor">
+
+      <p>Humm... E ensina bem? E conhecedor da arte?</p>
+</sp>
+<sp who="#agostinho">
+
+      <stage>(Demonstrando tédio)</stage>
+
+      <p>Sim, sim.</p>
+
+      <stage>(Entra Minardi em cena, Agostinho faz as apresentações.)</stage>
+</sp>
+<sp who="#minardi">
+
+      <p><foreign xml:lang="it">Beh! Un altro brasiliano!</foreign> <stage>(Dirigindo-se a Vítor)</stage> <foreign xml:lang="it">BSentite bene, la pittura apartiene a pochissimi artisti. Prima di tutto é necessário il disegno. IIdisegno éilcervello dell’ arte pittorica. Signor Vítor, mi faccia vedere qual’cosa che lei ha fatto!</foreign></p>
+
+      <stage>(Vítor mostra-lhe alguns trabalhos que retira de uma grande pasta.)</stage>
+
+</sp>
+<sp who="#minardi">
+
+      <p><foreign xml:lang="it">Brutto! Brutto! E bisogno ripetere tante volte! Non mipiace, non mipiace!</foreign></p>
+
+      </sp><sp who="#vitor">
+
+      <p>Sim, mestre, eu sei que é preciso repetir sempre. Suas lições me serão proveitosas. <stage>(E, bem baixinho, acrescenta)</stage> Ah! Tommaso, Tommaso! Fazei o que ele faz, não o que ele diz, não meta aqui o seu nariz! Tommaso...</p>
+
+      <stage>(Faz um gesto demonstrando desdém.)</stage>
+</sp>
+<sp who="#minardi">
+
+      <p><foreign xml:lang="it">Che cosa mi hai detto? Lei parla da solo? Le mie lezioni sono leggi! Sen ti te? Le mie lezionisono leggi! Bisogna ripetere ancora tre volte!</foreign>
+</p>
+</sp>
+<sp who="#vitor">
+
+      <p>Não, professor, não é nada disso que o senhor ouviu. Estou com saudades de casa, por isso falo comigo mesmo... Da minha janela eu via as gaivotas pairando no ar, desenhando lindas formas no espaço... <stage>(Fala lentamente, pensativo, esboçando desenhos em gestos.)</stage></p>
+
+</sp>
+<sp who="#minardi">
+
+      <p><foreign xml:lang="it">Lei é un pazzo!</foreign></p>
+
+      <stage>(Faz o gesto característico, apontando o indicador para a testa)</stage>
+
+      <stage>(Enquanto fala, vai saindo de cena.)</stage>
+</sp>
+</div>      
+<div type="scene">
+      <head>CENA II</head>
+ 
+<sp who="#coro">
+<lg>
+      <l>E copia, copia o dia inteiro com empenho </l>
+      <l>as duvidosas lições do mestre italiano, </l>
+      <l>procura a raiz das técnicas do desenho </l>
+      <l>embora o ensino losse um ledo engano.</l>
+</lg>
+<lg>
+      <l>E seu entusiasmo transcende o próprio nome: </l>
+      <l>ele apura a educação do sentimento – </l>
+      <l>o desenho é tudo para sua fome, </l>
+      <l>estuda, estuda além do pensamento.</l>
+      <l>E depois de tanto estudo, à exaustão, </l>
+      <l>tudo lhe parece de fácil execução.</l>
+      <l>Por isso ouve tudo com atenção: </l>
+      <l>o sentido da linha, a luz, a proporção, </l>
+      <l>e enquanto o professor fala em sombras</l>
+      <l>[e perfis, </l>
+      <l>Vítor sonha mais alto: com Paris!</l>
+</lg></sp>
+<sp who="#agostinho">
+
+      <stage>(Levantando a cabeça de seu trabalho, pois estivera desenhando durante todo o diálogo anterior)</stage>
+
+      <p>O, Vítor! Você se comporta como um <q>hebreu</q>, não só por ser extremamente econômico, mas pelo apego aos deveres sagrados desta bolsa que recebe do governo. <stage>(E enlevado)</stage> A noite romana combina com ócio e prazeres; vamos sair hoje? Os modelos noturnos não são extáticos, como os da escola...</p>
+
+      </sp><sp who="#vitor">
+
+      <p><foreign xml:lang="la">Augustus, ó Augustus lascivus</foreign>, preciso trabalhar mais. Tenho que me aprofundar nessa questão do <hi>chiar o/oscuro.</hi> Afinal, devo fazer jús à pensão que me concede o Imperador. Irei à Florença e à Veneza observar os mestres do Renascimento e todos aqueles que lhes sucederam: Canaleto, Tiepolo, Tintoreto, Ticiano... Como são maravilhosos!</p>
+
+      <stage>(Mesmo ambiente, algum tempo depois. Batem à porta e alguém entrega uma carta a Vítor, que ao ler, vai ficando muito triste. Olha para Agostinho e soluça:)</stage>
+</sp><sp who="#vitor">
+
+      <p>Meu pai, meu pai! <stage>(Abraça-se com seu amigo e chora)</stage> Sinto-me inútil distante dos meus, como deve estar sofrendo minha mãe! Como é duro, Agostinho, não sei suportar tanta dor, tanta angústia. Sou mesmo afilhado de Nossa Senhora das Dores, como mamãe diz! <stage>(Fica calado e mais calmo)</stage> Os fatos da minha vida sempre se alternam, num período tudo vai bem, depois, num átimo, tudo fica péssimo! Veja, estou acabando <title>A flagelação de Cristo</title> e acontece-me a morte de meu pai! Não tenho mais vontade de fazer nada, vou recolher tudo, parar o trabalho, estou confuso, sozinho! Vou voltar! Quero voltar para o Brasil!</p>
+</sp><sp who="#agostinho">
+      
+      <p>Nada mais há a fazer, Vítor! É impossível contrapor-se aos fatos do destino! <stage>(E aumentando a voz)</stage> Força, artista, força! Você tem uma missão a cumprir, a arte brasileira afirma-se através de suas criações. E preciso reagir, trabalhar com mais afinco, observar, produzir!</p>
+
+      </sp><sp who="#vitor">
+
+      <stage>(Pegando outra carta sobre a mesa)</stage>
+
+      <p>É, acho que você tem razão! O professor Araújo Porto Alegre me escreve sugerindo que vá a Paris, estudar com Léon Cogniet. A mudança de ares nos fará bem. Vamos?</p>
+
+      <stage>(Dão-se os braços e caminham até a porta, saindo.)</stage>
+</sp>
+      </div>
+      <div type="scene">
+      <head>CENA III</head>
+
+      <stage>(Paris, atelier de Léon Cogniet. Vítor, o professor e um colega.)</stage>
+  
+      <sp who="#vitor">
+
+      <p>Paris é bem diferente de Roma. Tudo acontece mais rápido, o movimento cultural é enorme, há um clima de profunda renovação!</p>
+</sp>
+      <sp who="#cogniet">
+
+      <stage>(Falando com sotaque acentuado)</stage>
+
+      <p><foreign xml:lang="fr">Ah! Les Salons, uh-là-là!</foreign> Mas isto, por ora, não deve ser o seu objetivo. Você deve aplicar-se em representar a história e, para tanto, deve conhecer bem os fatos e dispor de ampla informação sobre os bastidores dos acontecimentos, pois muitas vezes aqueles fatos que não podem ou não devem ser escritos estarão registrados nas telas...</p>
+
+      <stage>(Diz isso sorrindo interiormente, enigmático.)</stage>
+
+      </sp><sp who="#vitor">
+
+      <p>Sim, é isto mesmo. Acabo de receber a sugestão de pintar a primeira missa no Brasil e estou pensando em esboçar individualmente todos os personagens, os gentios e os conquistadores, o sacerdote e o pajé, a mata virgem esplêndida!</p>
+</sp>
+      <sp who="#cogniet">
+
+      <p>Muito bem! Você pode treinar copiando <foreign xml:lang="fr">La radeau de ia Méduse,</foreign> de Géricault.</p>
+
+      <stage>(Entrega-lhe um quadro que está encostado na parede, ao chão e chama o outro aluno, Gastaldi, que apresenta a Vítor.)</stage>
+
+      <p>Este é seu colega Gastaldi, meu aluno veterano com excelentes conhecimentos, que poderá ajudá-lo. Agora devo ir, <foreign xml:lang="fr">à bientôt!</foreign></p>
+</sp>
+      <sp who="#gastaldi">
+
+      <p>Olhe, Vítor, a combinação das tintas, na palheta, deve ser feita assim.</p>
+
+      <stage>(Faz gestos para demonstrar o que diz, agrupando em fiias tintas da mesma cor e tonalidades diierentes)</stage>
+
+      <p>Temos as cores suplementares, formadas por misturas de tons e, assim, o equilíbrio entre as tonalidades.</p>
+
+      <stage>(Vítor olha interessado, repete os gestos do colega e começa a pintar. No fundo do palco, aparece projetada <q>A degolação de São João Batista</q>. Gastaldi sai de mansinho. Victor fica pintando por longo tempo e, depois, começa a falar para a platéia:)</stage>
+
+      </sp><sp who="#vitor">
+
+      <p>Finalmente consegui acabar <title>A Primeira Missa no Brasil</title>; com ele, pretendo obter inscrição para participar do Salão de Paris. <stage>(Pegando uma carta aberta)</stage> Escutem o que me escreve Araújo Porto Alegre, à guisa de incentivo:</p>
+
+<lg>
+      <l>"Lê Caminha, ó artista,</l>
+      <l>Marcha a glória,</l>
+      <l>Já que o céu te chamou Victor na terra, </l>
+      <l>Lê Caminha e então... CAMINHA!" </l>
+</lg>
+
+<stage>(Neste momento, entra Cogniet, visivelmente agitado.)</stage>
+
+      
+</sp>
+      <sp who="#cogniet">
+
+      <p><foreign xml:lang="fr">Monsieur Vitor!</foreign> O seu trabalho <q>A Primeira Missa no Brasil</q> foi selecionado para o Salão de Paris! Os meus mais efusivos cumprimentos! <foreign xml:lang="fr">Et voilà</foreign>! A crítica foi unânime na abordagem estética de sua obra. Isto, para qualquer um, é realmente a glória! Para o primeiro brasileiro, ou melhor, para o primeiro artista do novo mundo a conseguir tal feito, <foreign xml:lang="fr">c’est un lait vraiment remarcable!</foreign></p>
+
+      <stage>(E aumentando a voz)</stage>
+
+      <p><foreign xml:lang="fr">C’est magnifique!</foreign></p>
+  
+      </sp>
+      <sp who="#vitor">
+
+      <p>É realmente verdade? Então, é muito bom, pois vou dar honra e glória ao meu país! Estou exultante!</p>
+</sp></div>
+<div type="scene">
+      <head>CENA IV</head>
+
+      <stage>(Brasil, Palácio Imperial: Dom Pedro II está em pé, a seu lado um pajem segura uma almofada onde estão duas condecorações; a seu lado, a Princesa Isabel. Em frente, sentados na primeira fila da assistência de um pequeno auditório, estão Vítor Meireles de Lima e Antônio Carlos Gomes.)</stage>
+   
+<sp who="#dpedro">
+
+      <p>Senhores, vós sois testemunhas de um ato que se realiza somente para os grandes vultos da Pátria! As comendas nos graus de Cavaleiro da Ordem da Rosa e da Ordem da Coroa são de destinação exígua pois poucos homens lhes são merecedores! E hoje é um dia de festa. Dois brasileiros notáveis recebem-nas com altivez: seus feitos vararam nossas fronteiras e chegaram ao Velho Mundo enaltecendo o Brasil!</p>
+
+      <stage>(Vira-se e apanha uma das comendas sobre a almofada do pajem, depois pega a outra e dá à Princesa, falando:)</stage>
+
+      <p>Sua Alteza Imperial, não podemos deixar os nossos homenageados sofrerem pela ordem de precedência. Queira Vossa Alteza Imperial condecorar o Maestro Antônio Carlos Gomes!</p>
+</sp><sp who="#isabel">
+      
+      <p>É uma grande honra repetir simultaneamente os seus gestos, Vossa Majestade!</p>
+
+      <stage>(Ouve-se a ária <q>Forma Sublime</q>, da Ópera de Carlos Gomes Salvatore Rosa.,)</stage>
+</sp>
+      </div>
+      <div type="scene">
+
+      <head>CENA V</head>  
+
+<sp who="#coro">
+
+<lg>
+      <l>Em 1861, com vinte e nove anos e já famoso</l>
+      <l rend="indent">[no Rio,</l>
+      <l>é professor de pintura na Imperial Academia, </l>
+      <l>Vítor retorna ao Desterro, vem preencher</l>
+      <l rend="indent">[um vazio,</l>
+      <l>pois a lembrança da mãe é a estrela que o guia.</l>
+</lg>
+    
+      <stage>(Desterro, agosto de 1861: slide de sua casa, uma paisagem da Ilha, fotos. Música da época, um encontro emocionado com sua mãe.)</stage>
+
+      </sp><sp who="#vitor">
+
+      <p>Mamãe, mamãe! <stage>(Abraçam-se chorando.)</stage></p>
+</sp><sp who="#maria">
+      
+      <p><stage>(Alquebrada)</stage> Meu filho, meu filho!</p>
+
+</sp><sp who="#vitor">
+
+      <p>Quantas vezes pensei na senhora. Foi sua imagem que me deu forças para continuar meu trabalho. A senhora me guiava com vontade, energia e paciência. Longe daqui foi difícil, mãe, muito difícil!</p>
+
+      <stage>(Andam pela casa, Vítor olha tudo.) </stage>
+
+      <p>Parece que vejo meu pai ali, naquele canto. Apesar da minha reduzida pensão, sempre mandava-lhe uma parte.</p>
+</sp><sp who="#maria">
+      
+      <p>A tua ajuda foi bem recebida, meu filho, além das encomendas de renda de bilro que faço para as senhoras daqui, posso me sustentar. Mas estou ficando com as juntas endurecidas e é mais doloroso fazer este trabalho.</p>
+
+      </sp><sp who="#vitor">
+
+      <p>Eu compreendo, mãe. Foi uma experiência extraordinária estudar em Paris. Devo tudo à senhora, que sempre me incentivou, desde os tempos do engenheiro Marciano Moreno. Ele ainda vive?</p>
+
+      <stage>(A mãe não responde, fica olhando para o filho com orgulho, mas está distante, velha e doente.)</stage>
+
+      </sp><sp who="#vitor">
+
+      <p>Aqui tudo mudou. Meu pai sentava-se naquela cadeira. Espere um pouco, mãe, vou lá em cima. E a mesma paisagem, no entanto a casa parece mudada. A senhora mora só?</p>
+
+</sp><sp who="#maria">
+
+      <p>Não, meu filho, não posso, dona Joana me ajuda em casa e vamos vivendo como Deus quer.</p>
+
+      <stage>(Tempo.)</stage>
+
+</sp><sp who="#vitor">
+
+      <p>Mãe, aqui no Desterro não há campo de trabalho para mim, preciso voltar à Corte. Trouxe a encomenda para a Irmandade do Senhor dos Passos do Hospital de Caridade. Acho que vão gostar de <q>Tobias curando o Pai Cego</q>.</p>
+
+</sp><sp who="#maria">
+
+      <p>Não tenho o direito de pedir que você fique comigo, meu filho. Eu me ajeito com o meu trabalho e a sua ajuda. Vá, meu filho, vá, mas escreva-me sempre. Que a Nossa Senhora das Dores o proteja. E escreva-me, escreva-me, isso já basta.</p>
+</sp>
+      </div>
+      <div type="scene">
+
+      <head>CENA VI</head>
+
+<sp who="#coro">
+<lg>
+      <l>Vítor está no Alto da Boa Vista </l>
+      <l>e pinta, embevecido, a paisagem, </l>
+      <l>quando deperiil ele avista </l>
+      <l>de uma linda mulher a sua imagem.</l>
+</lg>
+    <lg> 
+      <l>E obra perfeita; como a Monalisa </l>
+      <l>ela se integra à lausta natureza </l>
+      <l>e ele a percebe leve como a brisa.</l>
+      <l>E o encontro do sonho com a beleza.</l>
+</lg>
+     <lg>
+      <l>Ah! formosa mulher que lhe fascina, </l>
+      <l>deténs o amorno espaço da paixão, </l>
+      <l>tens a leveza de uma ninfa divina: </l>
+      <l>uma tela inteira para sua mão.</l>
+
+ </lg> 
+ 
+<lg> 
+      <l>Pela primeira vez, seu corpo é uma alvorada pois a chama do amor é muito lorte e repousa o coração no olhar da amada além, muito além de toda a sorte.</l>
+</lg>
+
+<lg>
+      <l>A os poucos, se atenua aquele medo,</l>
+      <l>Flávia é o amor que floresceu.</l>
+      <l>E enquanto Vítor o transforma em segredo, Flávia é tragédia e canto de Orfeu.</l></lg>
+</sp>
+      <stage>(Vítor está no Alto da Boa Vista. Olha ao redor e vê uma mulher belíssima debruçada à janela, embevecida na contemplação da natureza. Os olhares se encontram: seu corpo vibra pela primeira vez! E Flávia Minervina Mendes, sua grande paixão.)</stage>
+
+     <sp who="#vitor">
+
+      <stage>(Olhando para Flávia passa a mão nos olhos, extasiado e monologa:)</stage>
+
+      <p>E um sonho! A imagem ideal da beleza! Quantas vezes a pressenti nos museus, olhando sorrateira e animada? Serei correspondido? É linda, é linda! Será para mim? Já a amo intensamente, uma paixão, um ritual sagrado se avizinha, seremos nós, juntos, a ganhar a vida!</p>
+
+      <stage>(Olhando-a intensamente, aproxima-se da janela:)</stage>
+
+      <p>Senhora, senhora!</p>
+
+      </sp><sp who="#flavia">
+
+      <p>Pronto, Senhor! Deseja alguma coisa? Quer um copo d’água?</p>
+
+      </sp><sp who="#vitor">
+
+      <p>Não, não, estou aqui pintando a paisagem e gostaria de falar sobre a minha admiração pela senhora. Confesso que senti algo muito forte ao vê-la. Nem sei como falar... Eu lhe intimido? Não sei bem o que dizer em sua presença, estou emocionado.</p>
+
+      </sp><sp who="#flavia">
+
+      <stage>(Aproximando-se de Vítor:)</stage>
+
+      <p>Quer mesmo saber? Eu tenho este mesmo sentimento, vejo-o todas as tardes pintando esta paisagem, às vezes me esquivava, mas desde o primeiro instante soube que o amava.</p>
+
+      <stage>(Dão-se as mãos e se beijam intensamente.)</stage>
+</sp>
+</div></div>      
+<div type="act">
+      <head>ATO III</head>
+<div type="scene">
+      <head>CENA I</head>
+
+      
+<sp who="#coro">
+<lg>
+      <l>A Batalha do Riachuelo foimais uma vitória </l>
+      <l>do gênio de Meireles no estrangeiro: </l>
+      <l>a nação fica no registro da história </l>
+      <l>com o heroismo do povo brasileiro.</l>
+</lg>
+      
+<lg>
+      <l>E apesar do prêmio anunciado, </l>
+      <l>em Filadélfia, a grande exposição aconteceu. </l>
+      <l>Infelizmente, na volta, abandonado, </l>
+      <l>num velho galpão em São Cristóvão, </l>
+      <l>o imenso painel apodreceu.</l>
+</lg>
+      
+<lg>
+      <l>Vítor lembra-se de cada pincelada: </l>
+      <l>o estudo no local, a mão enternecida, </l>
+      <l>e o momento da luta emancipada </l>
+      <l>amplia-se no espaço como a vida.</l>
+</lg>
+      
+<lg>
+      <l>E o lamento de Vítor é uma tortura, </l>
+      <l>como fazer igual outra pintura?</l>
+      <l>Mas Sua Majestade determina, ao vê-lo, </l>
+      <l>que ele faça em Paris outra Riachuelo!</l>
+</lg></sp> 
+
+      <stage>(Paris: Vítor está muito triste, pintando junto ao cavalete.)</stage>
+
+      <stage>(Entra Agostinho da Motta, cumprimen- tam-se efusivamente, Agostinho traz um jornal e um cardápio de restaurante.)</stage>
+
+      <sp who="#agostinho">
+      
+      <p>Quanta honra, o teu quadro exposto ao lado da obra de Auguste Renoir ! Também, pudera ! Pareces o rei de Paris!</p>
+
+      <p><stage>(Apanha o cardápio e lê)</stage> Olha o <hi>menu</hi> do banquete de ontem :</p>
+    </sp>
+        <list type="ordered">
+      <item><foreign xml:lang="fr">potage;</foreign></item>
+      <item><foreign xml:lang="fr">bisque printanière;</foreign></item>
+      <item><foreign xml:lang="fr">crevettes, beurre et concombres;</foreign></item>
+      <item><foreign xml:lang="fr">langue de Cambrai;</foreign></item>
+      <item><foreign xml:lang="fr">truite rennaissance;</foreign></item>
+      <item><foreign xml:lang="fr">poularde à Richelieu;</foreign></item>
+      <item><foreign xml:lang="fr">sorbets au kirsch;</foreign></item>
+      <item><foreign xml:lang="fr">canetons de Rouen rôtis au sang;</foreign></item>
+      <item><foreign xml:lang="fr">turbans d’homards sauce remoulade;</foreign></item>
+      <item><foreign xml:lang="fr">deserts: fraises, cérises, amandes;</foreign></item>
+      <item><foreign xml:lang="fr">Vins Graves, Médon en garafes, Léonville, Corton, Champagne frappé;</foreign></item>
+      <item><foreign xml:lang="fr">Café du Rio et eau de vie de Parati.</foreign></item>
+</list><sp>
+      <p>Humm, humm! Até uma cachacinha do Brasil e chamada de água da vida! E <foreign xml:lang="fr">l'ambience?</foreign> O Restaurant Brebant, <foreign xml:lang="fr">tout Paris,</foreign> realmente magistral!</p>
+</sp>
+      <stage>(Vítor aquiesce, num gesto de satisfação mas permanece calado.)</stage>
+
+      <sp who="#agostinho">
+
+      <p><stage>(Abrindo o jornal)</stage> E olha o que A. de Sancy escreve: <stage>(Lê)</stage> <q>Um grande combate naval de Meirelles, episódio da guerra do Brasil, merecia uma medalha; obra conscienciosa e estudada, muitas minudências e interesse</q>. E aqui, em outra coluna: <q>Meirelles levantou a arte brasileira ao nível de altitude da arte da Europa, trabalhando mais para o seu país do que para a glória própria</q>.</p>
+
+      </sp>
+      <sp who="#vitor">
+
+      <p>Este último está certo! Pelo menos Sua Majestade pode ficar tranqüilo em relação às despesas que lhe dou. Bem... isto é muito bom, mas devemos retornar à Pátria!</p>
+</sp>
+      <sp who="#agostinho">
+
+      <p>Então vamos aproveitar estes últimos dias por aqui e saiamos hoje! A noite de Paris é imperdível, você ficará feliz... E depois, estas francesas não se cansam <foreign xml:lang="fr">jamais</foreign> quando se trata <foreign xml:lang="fr">d’un baiser d’amour!</foreign> Ah! Eu desfaleço. No outro dia, cheguei a desmaiar. Só a morte me fará abandonar tais prazeres!</p>
+
+      </sp><sp who="#vitor">
+
+      <p>Mas que entusiasmo juvenil! Que bom! Aceito o convite para caminhar às margens do Sena, pois gosto dos velhos livros dali.</p>
+</sp>
+      <stage>(Agostinho se vira para a platéia num gesto de: finalmente!)</stage>
+
+      </div>
+      <div type="scene">
+
+      <head>CENA II</head>
+   
+      <stage>(Rio de Janeiro, atelier de Vítor, onde está um jornalista que o entrevista.)</stage>
+
+<sp who="#jornalista">
+
+      <p>O Conselheiro João Alfredo convidou Pedro Américo para pintar a batalha dos Guararapes, mas ele recusou. O senhor aceitaria fazê-lo?</p>
+</sp>
+      <stage>(Neste momento, alguém bate à porta e Vitor vai abri-la. E o próprio João Alfredo)</stage>
+
+      <sp who="#vitor">
+
+      <p>Conselheiro João Alfredo, que surpresa! Entre, por favor! E muito bom vê-lo!</p>
+</sp>
+      <sp who="#joaoalfredo">
+
+      <p>Muito bons dias! Vítor, vou direto ao assunto: você aceitaria pintar um quadro imortalizando a batalha de Guararapes?</p>
+
+</sp>
+      <sp who="#vitor">
+
+      <p>Mas é claro, Conselheiro! Quando devo começar?</p>
+</sp>
+      <sp who="#joaoalfredo">
+
+      <p><stage>(Eufórico)</stage> Ótimo, ótimo, assim que você quiser! Acho que deve ir a Pernambuco, pesquisar o local. Poderá ficar hospedado no solar José Vasconcelos, onde terá todo o material que necessitar.</p>
+
+      <stage>(Entregando-lhe uma bolsa de couro bem cheia)</stage>
+
+      <p>Eis aqui um adiantamento para os primeiros gastos pessoais. Muito obrigado por sua aceitação! Havendo qualquer problema, por favor, queira comunicar-se com meu gabinete! <stage>(Estendcndo-lhe a mão)</stage> Boa viagem! <stage>(Sai.)</stage></p>
+</sp>
+      <stage>(Vítor acompanha o jornalista até a porta e se despede.)</stage>
+
+</div>
+<div type="scene">
+
+      <head>CENA III</head>
+      
+      <stage>(Vítor está pintando com Langerock num grande estúdio. Entram Rosália França e seu filho, Eduardo. Vítor faz as apresentações:)</stage>
+
+      <sp who="#vitor">
+
+      <p>Estes são minha esposa Rosália e seu filho, Eduardo França. Estão aqui comigo, pois Eduardo espera o reinicio da faculdade, em Coimbra, onde estuda. Todos nós gostamos muito deste apartamento que você alugou aqui em Bruxelas.</p>
+</sp>
+      <sp who="#langercock">
+
+      <stage>(Fala com forte sotaque alemão)</stage>
+
+      <p>É, devemos trabalhar aqui e nos lembrar da paisagem do Rio de Janeiro, para fazer o panorama.</p>
+</sp>
+      <stage>(Tarde da noite, mesmo cenário. Vítor está colocando atrás dos inúmeros cavaletes com partes da paisagem do Rio de Janeiro, pedaços de queijo e presunto, que retira de um envelope de papel pardo das padarias. Ele distribui a comida e sorri, sem perceber que Langerock o observa atrás da porta entreaberta, meio escondido e despenteado, fazendo cara de espanto. Vitor monologa:)</stage>
+
+      <sp who="#vitor">
+
+      <p>Langerock acha que devemos dar veneno aos ratos... Eles roíam as telas porque estavam famintos! Logo, saciada a fome, eles deixam nosso trabalho em paz.</p>
+</sp>
+      <stage>(Entra Langerock, embrulhado no cobertor, com cara de sono. Vítor vira-se para ele a sorrir.)</stage>
+
+      <sp who="#langercock">
+      <stage>(Outra vez o sotaque alemão)</stage>
+
+      <p>Ora, ora, Vítor, então é assim que os ratos não mais atacam as telas? Desse jeito, logo, logo, todos os ratos da Bélgica para cá virão a regalar-se!</p>
+
+      <stage>(Diz a última frase com desdém.)</stage>
+</sp>
+      <stage>(Vítor nada diz, mas deixa aparentar seu desprezo pelo sócio. Diminuem-se as luzes enquanto o cenário muda para um quarto de hotel em Paris, onde estão Vítor e Rosália.)</stage>
+
+      <sp who="#vitor">
+
+      <p>Ei-lo na <foreign xml:lang="fr">Avenue Suffren!</foreign> E longe do centro, mas espero que seja notado. Também, com o pouco caso do embaixador e o abandono de Langerock, logo após embolsar sua parte do dinheiro desse Panorama que não concluiu, eu já não me espanto. O que realmente importa é que não desisti do trabalho e <q>Panorama da Entrada da Barra do Rio de Janeiro</q> faz jús à beleza da capital do Império.</p>
+
+      </sp>
+<sp who="#coro">
+<lg>
+      <l>Agora olha Paris triunfal, </l>
+      <l>outra medalha de ouro ele arrebata, </l>
+      <l>na Grande Exposição Universal:</l>
+      <l>Eis o Panorama do Rio de Janeiro, </l>
+      <l>é a entrada da barra e a beleza da mata </l>
+      <l>cujo fascínio tocou Paris inteira.</l>
+      <l>Mas, enquanto lá a Revolução cem anos fazia, </l>
+      <l>aqui era o Império que caía: </l>
+      <l>nasce a República de mentira </l>
+      <l>e Vítor desprezado se retira.</l>
+</lg>
+</sp>
+
+</div></div>
+
+<div type="part">
+<head>EPÍLOGO</head>
+     
+      <stage>(Sala modesta, quase sem decoração e sem pinturas ou cavaletes. Vítor está só, bem mais velho, deitado numa chaise longue perto da janela.)</stage>
+
+      <sp who="#vitor"> <stage>(Monologando)</stage>
+
+      <p>Ah! Estou passando maus bocados! A república e a reforma do ensino da arte pretendem suprimir meu trabalho. Bernadelli jogou os acadêmicos fora da Escola Nacional de Belas Artes; esses jovens presunçosos não nos aceitam...</p>
+
+      <stage>(Dirigindo-se à plateia)</stage>
+
+      <p>Querem saber de uma coisa? Não devo queixar-me do desfavor da sorte! Pelo contrário! Tantos prêmios obteve o Brasil através de mim! Tornou-se mesmo mais respeitado lá fora. E é isso o que acontece quando os talentos individuais são reconhecidos Ah! Acaso os republicanos fizessem como o Imperador... Este, pelo menos recebeu o trono legitimado! Mas esta república de fancaria... realmente... Cidade de Floriano, humm!... E desterro para Nossa Senhora e para os catarinenses leais ao Imperador! Desterro ou fuzilamentos...</p>
+
+      <p>Mas o que fazer? Os homens comuns apegam-se ao dinheiro, que sempre determinou quem governa. Salvo extraordinários momentos, os governantes são aqueles que muito têm ou que muito fazem para aumentar as fortunas de quem já tem.</p>
+
+      <p>O artista, no entanto, pode sempre contar com a beleza e a harmonia e com isto, trazer a verdadeira riqueza aos seus compatriotas! Por isso, tudo o que fiz, dedico à minha Pátria, à beleza e à harmonia! Um dia, verão, estas terras tão belas, de gente tão criativa, serão também socialmente harmônicas e mais belas, mesmo que transcorram séculos...</p>
+</sp>
+      <stage>(Entram no palco dez crianças pretas, brancas, mulatas, orientais, indígenas, todas personificando anjos, que estendem as mãos abençoando Vítor e depois dançam ao seu redor, de mãos dadas.)</stage>
+
+      <stage>(Quando os anjos acabam de dançar, Vítor está morto. Ao seu redor, estão Rosália, Eduardo França, Eduardo de Sá e Rose Meryss carregada de flores, com as quais começa a cobri-lo).</stage>
+
+      <sp who="#coro">
+
+      <stage>Recomeça a declamar Cruz e Sousa: Velho Vento.</stage>
+      </sp>
+</div></body>
+  
+  </text>
+</TEI>

@@ -1,0 +1,989 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contos de um instante</title>
+        <author>Delminda Silveira</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication statement.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Source description.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="chapter">
+      <head>Edelweiss</head>
+
+      <p>— O que farias tu para me provares o teu grande afeto? — pergunta a loira Margarida a seu enamorado Alberto!</p>
+
+      <p>— Oh! Se assim te apraz, responde-lhe afoito o mancebo, subirei ao mais elevado dos Alpes, e, com risco de minha própria vida, arrancarei a flor que nasce em suas geleiras para a depositar no teu seio como troféu do meu incomparável amor!</p>
+
+      <p>— Pois bem; a bela torna, vai, traz-me o <hi>Edelweiss;</hi> eu te esperarei no vale.</p>
+      
+<milestone unit="asterisks"/>
+
+      <p>Hei-lo a escalar a imensa cordilheira, suspensa por sobre o abismo que o fascina. Lá viceja a linda flor; um instante mais, e colhê-la-á. Estende a destra, firmando-se sobre a esquerda que segura fortemente uma planta da montanha; agora sim: tocou-a, prendeu-a ...mas, no movimento que faz quebrando-a ao hostil, perde a segurança e despenha-se na voragem profunda!</p>
+
+      <p>Um grito de dor atroz reboou no vale; uma mulher parou a beira do precipício, sua vista mediu-lhe a profundeza e a vertigem derrubou-a!</p>
+
+      <p>Só a Morte - ciumenta e cruel! - guardou no frio seio o precioso e fatal - <hi>Edelweiss!</hi></p>
+</div>
+           
+<div type="chapter">
+      <head>Na Selva</head>
+      
+      <p>Na selva - à sombra da murta em flor, eles viviam felizes de amor e de inocência.</p>
+
+      <p>Eram noivos... ali se encontraram uns dias, ali se adoraram mutuamente.</p>
+
+      <p>Ela - morena linda - de olhos vivos, redondos, escuros, mimosa percorria os vales, pisando, tão de leve que nem as melindrosas violetas magoavam.</p>
+
+      <p>Ele, moreno também, terno e amoroso, beijava-a à sombra da murta em flor, murmurando idílios de ternura...</p>
+
+      <p>Eram noivos, essas juritis que ali viviam de inocência e amor.</p>
+
+      <p>Chegara, entretanto, a Primavera; era o tempo de se proverem de musgo, paina e palhinhas macias para a confecção do bercinho de novos amores...</p>
+
+      <p>E eles lá se iam pela mata que florescia, nas manhãs risonhas ou nas tardes serenas juntinhos, arrolhando carícias, em busca do necessário para o mimoso ninho que no verde capinzal escondiam.</p>
+
+      <p>E lá se iam eles, descuidados, por uma manhã risonha, caminho da floresta.</p>
+
+      <p>O companheiro afastou-se um momento em procura do sazonado fruto para a doce refeição; a meiga graciosa ficou-se a beira do regato apanhando um grão maduro que o vento espalhara do arrozal.</p>
+
+      <p>Lá no meio da floresta a figueira brava vergava carregada do miúdo fruto roxo e doce, os passarinhos trinavam, satisfeitos com a saborosa abundância.</p>
+
+      <p>Ai! Pobre juriti que deixaste, por um momento, a meiga companheira a margem do regato afastado...</p>
+
+      <p>Por ventura não te era mais doce o suco do fruto silvestre o amor da tua muita amada?</p>
+
+      <p>Ali - entre as silvas, um tronco verde pareceu mover-se... Suspende assustado o passo a inocente avezinha...</p>
+
+      <p>E, do tronco que se movera, um galho, - um braço – ajeitou despeitado a arma fatal que devia destruir todo um sonho de amor e felicidade!...</p>
+
+      <p>O caçador oculto no silvedo fez partir o chumbo mortífero... e a verde relva dobrou rorejada o sangue inocente!</p>
+
+      <p>Ai! Pobre juriti que ficaste, por um momento, a beira do regato afastado...</p>
+
+      <p>Embalde os teus gemidos de amor apiedaram depois a mata nas horas melancólicas da saudade, que a solidão da floresta não mais repercutiu, de um coração amante, os ecos de infinita ternura!...</p>
+
+      <p>Ai! Que a brisa primaveril embalando o berço dos beija-flores, suspenso do galho florido da roseira nunca mais, nem uma vez, ouviu arrulhos de ternura, nas moitas do capinzal, pois que os novos amores malograram-se no seio de onde a Morte arrebatará o amor que lhes dera vida.</p>
+</div>
+
+<div type="chapter">
+
+      <head>Marabá</head>
+<opener>
+      (Conto Brasileiro)
+</opener>
+      <p>Ela não tinha a face da cor do jambo maduro, nem seus olhos eram escuros como as amoras da selva, e nem seu cabelo negro e corredio como o das outras virgens do sertão.</p>
+
+      <p>Branca e loura — era a flor dos cactos, a formosa rainha da noite, que tem a face de neve e a coma de pálido ouro. Seus olhos azuis quais mimosas <q>graciolas</q> do prado, eram brilhantes de vida como as estrelas de uma noite escura.</p>
+
+      <p>Não era mais alvo o jasmim da mata do que a sua branca tez, nem a flor do <q>Pequiá</q> mais vermelha que sua boca mimosa, e nem o cacho do coqueiro mais dourado que sua opulenta cabeleira.</p>
+
+      <p>Mas a virgem <q>Marabá</q> não tinha sorriso...</p>
+
+      <p>Era a branca flor da <q>urumbeba</q> que desabrocha entre espinhos!</p>
+
+      <p>Se, gentil como a garça da ribeira, ela ia banhar-se à corrente, apenas a grande estrela aparecia no Céu, a formosa princesa das águas, a linda <q>napê-jaçanau</q> que abre nas ilhas verdejantes do <q>igapê</q> do rio, invejava-lhe a brancura dos seios, e, quando o sol nascente feria com suas setas de ouro as sossegadas águas, a flor rodeava de amargura e zelos, que no cristalino espelho sempre se via menos bela do que a virgem da floresta.</p>
+
+      <p>Um dia a <q>Marabá</q> voltou pensativa...</p>
+
+      <p>Ela vira a grande <q>Igára</q> do guerreiro do mar.</p>
+
+      <p>E o guerreiro branco era formoso e sorria; e o guerreiro da tribo desprezava-a porque era - <q>Marabá!</q></p>
+
+      <p>Ele tinha o rosto levemente tostado pela brisa dos mares; seus cabelos, suavemente ondeados, tinham a cor mais escura que a do fruto do castanheiro, porém não eram negros e ásperos como os das filhas do sertão.</p>
+
+      <p>Os olhos, da cor dos cabelos, brilhavam como o fulgor da glória e enlanguesciam com o quebranto do amor.</p>
+
+      <p>E o guerreiro branco sorria fitando-a...</p>
+
+      <p>Mas a virgem selvagem fugiu como a gazela gentil.</p>
+
+      <p>No outro dia, a beira do rio, a <q>Marabá</q> cantou o triste e meigo canto da <hi>mestiça</hi>; era um queixume terno e melodioso como o gemer da juriti sem companheiro.</p>
+
+      <p>Ela suspirava assim:</p>
+
+      <lg>
+      <l>Sou branca e linda como a açucena,</l>
+      <l>sou, como ela, pura e gentil;</l> 
+      <l>tenho os cabelos em cachos de ouro,</l> 
+      <l>tenho nos olhos a cor do anil.</l>
+      </lg>
+    
+      <lg>
+      <l>Sou bela e triste e sou chorosa</l> 
+      <l>qual entre espinhos a flor que abriu;</l> 
+      <l>meus olhos garçom só sentem lágrimas</l> 
+      <l>como o rocio que a flor cobriu.</l>
+      </lg>
+        
+      <lg>
+      <l>Não tem meus lábios doce sorriso,</l> 
+      <l>não tem meu peito fogo de amor;</l> 
+      <l>mas, ah! bem sinto, no seio virgem,</l>
+      <l>De estranho anelo - prazer e dor!</l>
+      </lg>
+      
+      <p>O guerreiro do mar ouviu o canto da virgem infeliz...</p>
+
+      <p>Uma tarde a <q>Igára</q> chegou pertinho; o guerreiro branco sorria; já tantas vezes sorria assim...</p>
+
+      <p>Ele colheu a <q>napê-jaçanan</q> que se levanta das águas, beijou-a, apertou-a ao peito; depois, atirou-a a virgem formosa, e o guerreiro falou: — <q>Vem!</q></p>
+
+      <p>O som do <q>boré</q> estrugio na mata; os filhos da selva iam chegar. Assustada, a virgem selvagem lançou-se as águas serenas do rio... Um momento após - a desventurada - sobre o valente coração do guerreiro branco, já sorria feliz!</p>
+
+      <p>E a grande <q>igára</q> partiu, mais veloz do que a <q>uira</q> do guerreiro <q>tupi</q>.</p>
+</div>
+
+      <div type="chapter">
+
+      <head>Agar</head> 
+
+      <p>Sobre o pálido azul do Oriente desdobrava a aurora o seu manto de púrpura e ouro; brilhante véu de luz escondera as estrelas do firmamento.</p>
+
+      <p>Além, além - pela solidão do deserto, caminhava Agar, - a escrava - sem lar, sem amor.</p>
+
+      <p>Dormia-lhe Ismael nos braços e de seus ombros delicados pendia-lhe uma cabaça com água e um alforje com pão.</p>
+
+      <p>Seus olhos tristes dirigiam-se ao Céu resplandecente, enquanto dos lábios vermelhos como a silvestre flor que vem de desabrochar, voam-lhe suavíssimas preces envoltas nos suspiros da Natureza.</p>
+
+      <p><q>Oh! Deus! - exclama, não pereça Ismael, meu filho caro, por meu seio, de cansado, negar-lhe o doce alimento. Antes que o sol desapareça nesta soledade, dá que meus olhos avistem os verdores de um Oásis em que possam repousar meus fastigados membros, e onde minha boca sequiosa encontre o veio de alguma cristalina fonte</q>.</p>
+
+      <p>E ela estendia a vista pela imensidade cujas areias brilhavam aos raios do sol ardente, como poeira de diamantes.</p>
+
+      <p>Ismael acorda.</p>
+
+      <p><q>Mãe, água!</q> debilmente balbucia com voz suave e meiga como o balido da ovelha terna.</p>
+
+      <p>Agar olha derredor...</p>
+
+      <p>Só o areal, que fulgia como uma poeira de diamantes!</p>
+
+      <p>Deixando o filhinho sobre o chão abrasador, ela afastou-se febril, em lágrimas, murmurando:</p>
+
+      <p><q>Ao menos não o verei morrer!</q></p>
+
+      <p><q>Agar, Agar!</q> - uma voz suavíssima, do alto, disse.</p>
+
+      <p>E um anjo formoso, em alvíssima nuvem brilhante tocava-lhe o ombro, como se a despertasse.</p>
+
+      <p>Agar fitava-o, pasma.</p>
+
+      <p>— Toma água dessa fonte, bebe, e dá de beber a teu filho. Deus é convosco; caminha; Ismael será o chefe de uma poderosa nação.</p>
+
+      <p>E a visão desapareceu.</p>
+
+      <p>Como um espelho de cristal, uma fonte d’água puríssima e fresca se estendia, ali, no areai do deserto inclemente.</p>
+
+      <p>Agar tomou seu filho, e, naquela maravilhosa fonte, com ele, desalterou o peito enfebrecido.</p>
+
+      <p>Ismael veio a ser o pai de um grande povo.</p>
+
+      </div>
+      <div type="chapter">
+
+      <head>Caprichosa!</head>
+
+      <p>— Quero que o mar te leve numa onda azul de rosas - dizia ela, abrindo o regaço azul cheio daquelas rosas de amor, voltarás amanhã ao alvorecer, e a brisa do mar trar-me-á o teu batei por sobre estas flores ainda frescas.</p>
+
+      <p>— Mas... não vês, llza, no horizonte, aquele negror que se estende como um véu de crepe? É a bandeira da tempestade que se arvora no campo sidéreo... é o vulcão que ameaça revoltar os mares... e deixas-me partir, sozinho, pela noite que vem?!</p>
+
+      <p>— Tu, Aldino, pescador de corais, temes? Tu, nadador sem rival receias? Não! Se a tempestade bramir, olha o farol daquele promontório; singra depressa para ali. Antes que o sol venha amanhã dourar aqueles outeiros verdes, tu adornarás meus cabelos negros com o ramo de corais prometido como presente de noivado... Um beijo, um abraço, e... adeus!</p>
+
+      <p>Lá no marulho da onda mansa envolveu-se o sussurro de um beijo, e no suave anhelito da viração marinha perdeu-se o arquejo de um suspiro de amor.</p>
+
+      <p>E a onda de rosas levou o pequeno batei de Aldino.</p>
+      
+<milestone unit="asterisks"/>
+
+      <p>Alta noite, Ilza gemia sob a pressão de um pesadelo horrível...</p>
+
+      <p>Era como se rijos braços a cerrassem mais e mais...</p>
+
+      <p>— Aldino! Aldino! - murmurou, aflita, num suspiro longo que a despertou.</p>
+
+      <p>Ergue-se, entreabre o postigo; espreita o mar...</p>
+
+      <p>O céu negro e pesado; a lua rompe a custo espessa nuvem sombria e para logo se envolve pálida naquele véu de luto, como jovem recém-viúva surpreendida demuda a face linda...</p>
+
+      <p>De repente, o tufão violento espalhou-se nos ares; o mar em vagas alterosas sacode brava a espuma alvíssima sobre os fraguedos da costa. Salsos respingos trazidos pelas refregas vêm borrifar as faces de llza, que se debruçava na escuridão, e aquelas gotas salinas que lhe caem no seio têm o sabor das lágrimas de uma dor crudelíssima...</p>
+      
+<milestone unit="asterisks"/>
+
+      <p>Quando o alvor da manhã aclarava o Céu, na praia, pendida sobre a orla espumante do mar, llza desvairada estende os braços a onda que gemia, coberta de rosas, apresentando-lhes o corpo inanimado do seu desditoso Aldino!</p>
+</div>
+
+      <div type="chapter">
+
+      <head>A Estrela Da Bonança</head>
+      
+      <p>O mar estava negro, e negro estava o Céu.</p>
+
+      <p>Temerosas vagas erguiam-se à altura dos rochedos, onde se despedaçavam com pavoroso fragor, espumantes de ameaçadora fúria.</p>
+
+      <p>Impelidos pelo tufão, corriam no espaço escuros <hi>nimbos</hi> semelhando enormes abutres pairando por sobre abismos insondáveis.</p>
+
+      <p>A natureza toda parecia envolta no luctoso véu da morte.</p>
+
+      <p>Deus! entre horrores do Céu e do Oceano, um navio rodopiava á mercê da tormenta!</p>
+
+      <p>No tombadilho, a equipagem silenciosa agrupava-se presa de terror, que o piloto, desanimado, já não mandava a manobra, perdida o rumo, a bússola desarranjada.</p>
+
+      <p>Era a hora da Ave Maria; - em meio do horror da tempestade, o capitão descobre a fronte morena, prosta-se de joelhos e convida a orar.</p>
+
+      <p>Toda a tripulação descobre-se e ajoelha sobre o tombadilho.</p>
+
+      <p>"Virgem Senhora da Bonança, Estrela, radiosa do Céu e do Mar, pelas sete dores que te pungiram o materno coração quando peregrinavas na terra; pela Cruz bendita de teu Filho Santo, estende por sobre este Céu de horrores o teu manto azul e mostra-nos no horizonte a formosa estrela da tarde - imagem tua.</p>
+
+      <p>Estampa no firmamento da noite o Sete estrelo, - símbolo das tuas dores indizíveis, e o cruzeiro brilhante, formoso emblema da salvação. Nós, pecadores agradecidos, levaremos ao sopé do teu altar augusto as rotas velas da nossa desventurada barca homenagem de fé e gratidão ao teu piedoso amor...”</p>
+
+      <p>O trovão reboou no espaço...</p>
+
+      <p>O raio fendeu a negrura do Céu.</p>
+
+      <p>Romperam-se os <hi>nimbos</hi> e a chuva caiu torrencial.</p>
+
+      <p>Lá, no longínquo horizonte, rasgou-se a cobertura da tempestade, descobrindo uma nesga de azul puríssimo, e a formosa estrela da tarde lentamente surgiu por entre os véus despedaçados da procela...</p>
+
+      <p>Era que a Virgem da Bonança estendia o seu manto azul constelado, em que resplandecia o Sete-estrelo e o cruzeiro formoso!</p>
+
+      <p>E o mar, pouco a pouco sossegado, retratava humilde a radiosa estrela bendita.</p>
+
+      <p>Depois, quando a manhã serena já dourava as ondas mansinhas, na praia, os marinheiros enastravam de flores as rotas velas da embarcação, conduzindo-as, após, reverentes, entre cânticos de louvores, ao sopé do altar em que a formosa imagem da Virgem Senhora da Bonança parecia acolher com sorriso de maternal amor o preito singelo de tanta fé e gratidão.</p>
+</div>
+      <div type="chapter">
+
+      <head>As rosas da Caridade</head> 
+
+      <p>É bem conhecida a lenda do milagre das rosas de Santa Izabel, mas tão linda, tão comovedora é, que não posso furtar-me ao desejo de intercalar entre os meus singelos - <title>Contos de um instante</title>, a interessante narrativa desse episódio em que, num momento, a Providência Divina transformou em perfumadas rosas os socorros piedosos da caridade bendita.</p>
+
+      <p>Izabel, a formosa e compassiva rainha da Hungria, era o anjo consolador dos pobres vassalos desde os arredores do seu Castelo a muitas léguas distante.</p>
+
+      <p>Um belo dia, caminhava a piedosa soberana, acompanhada unicamente de sua fiel donzela, por um dos mais escuros carreiros do campo, levando no regaço do manto, pão, ovos e outros comestíveis mais, destinados aos seus pobres, quando, em uma volta do caminho, encontra-se face a face com o severo esposo que voltava da caça pelos montes.</p>
+
+      <p>Surpreendido este de vê-la assim curvada caminhando, como se a custo levasse pesada carga, estende a mão ao regaço que ela atemorizada conchegava ao seio, dizendo: - <q>que levais aí, Senhora?</q></p>
+
+      <p><q>São rosas...</q> responde-lhe timidamente a Santa.</p>
+
+      <p><q>Vejamos essas rosas</q>, tornou ele, com irônico sorriso, pois que era passada a estação das flores e nem pelos campos, nem nos seus magníficos jardins se via desabrochar rosa alguma, - e desprendendo com violência o regaço que a caridosa mão colhia, só de rosas brancas e purpurinas viu cobrir-se o solo sobre o qual Izabel caiu de joelhos no meio da mais primorosa alcatifa!</p>
+
+      <p>Atônito, quis então o desumano Senhor reanimar a Esposa com suas carícias, porém deteve-se deslumbrado pela aparição da imagem luminosa de um crucifixo que, pairando por sobre a cabeça de Izabel, a envolvia no suavíssimo clarão de uma Benção divina...</p>
+
+      <p>O arrependimento, os remorsos pungiram o coração antes insensível, do soberbo Landgrave que, prostando-se com recolhimento verdadeiro, levantou uma daquelas maravilhosas flores, guardando-a por memória do glorioso sucesso com que Deus quisera rasgar-lhe a venda que aos olhos da alma ocultava as misérias humanas, bem como os inefáveis encantos da Caridade divina. Agora, humilde, pedia à Esposa que continuasse sua piedosa jornada, sem o menor receio, e de volta ao castelo, meditava no poder do Amor de Deus.</p>
+
+      <p>Por eterna memória deste milagre da Caridade, ao lado de um antigo carvalho cuja sombra tivera lugar tão providencial encontro, ele mandou levantar uma suntuosa coluna encimada por uma formosa Cruz - grata lembrança daquela que resplandecente mais que a coroa da realeza, viria fulgir sobre a imaculada fronte da bem-aventurada Izabel.</p>
+</div>
+
+      <div type="chapter">
+
+      <head>Uma Recordação</head> 
+
+      <p>O pequenito Leôncio morrera.</p>
+
+      <p>Dois anos apenas!...</p>
+
+      <p>Passados oito dias foram visitar a desventurada mãe.</p>
+
+      <p>Carmem vestia a cor das violetas, e, como a flor mimosa pendida à pálida fronte, chorava.</p>
+
+      <p>Palavras de consolação, de conforto, nada! Todo o remédio aplicado àquela ferida recente mais lhe avivava a grande dor, mais e mais fazia sangrar o materno coração.</p>
+
+      <p>Levantei-me, e, passeando pela sala, procurava uma idéia qualquer com que a distraísse.</p>
+
+      <p>Sobre uma das <hi>consolas</hi> de mármore havia uma grande quantidade de quinquilharias galantes; entre elas sobressaía um pequeno coração de veludo escalarte, artisticamente bordado a seda com uma coroazinha de amores e violetas, cercando em mimoso relevo de ouro a doce palavra - Amor.</p>
+
+      <p>Tomei o delicado trabalho e chegando-me a triste amiga, disse:</p>
+
+      <p>— Que gracioso coração! Será a cópia do teu, tão formoso e sempre tão cheio de amor, Carmen?</p>
+
+      <p>— E foste tu que lhe bordaste essa doce palavra?</p>
+
+      <p>Carmen levantou para mim o terno olhar magoado e, uma explosão de lágrimas e soluços mais forte do que antes, rebentou-lhe da alma angustiada.</p>
+
+      <p>Atônita, buscando acalmá-la, depus-lhe no regaço o mimoso coração de veludo escarlate que ela, num arrebatamento inexplicável, tomou, cobrindo-o de fervorosos beijos.</p>
+
+      <p>— Sabes, me disse afim, por entre soluços e lágrimas, sabes com que fios de ouro bordei essa doce palavra que me enche o coração?</p>
+
+      <p><q>Ele tinha os cabelos lindos... macios... longos... louros, muito louros caindo em graciosos anéis de ouro; um só anel, um só! daquele ouro precioso bastou-me para formar a doce palavra - Amor!</q></p>
+      
+      <p>Os fios dourados daqueles cabelos louros eram o esplendor do meu querido, e os lindos raios daquele esplendor formoso vestiam de carícias o meu pobre coração gelado pelo frio de uma eterna viuvez; então, as saudades podiam aqui abrir mais formosas, mais vividas como nos dias do meu passado feliz! Porém agora...</p>
+
+      <p>E chorava, chorava pendida a pálida fronte, qual violeta mimosa a derramar na terra orvalhos que lhe vem do Céu!</p>
+
+</div>      
+<div type="chapter">
+      <head>O Desvalido</head>
+<opener>
+      (Bem aventurados os misericordiosos)
+</opener>
+      <p>Eu estava triste...</p>
+
+      <p>Tentara escrever, mas parecia-me haver esgotado os assuntos todos.</p>
+
+      <p>Não tinha inspiração; pensava mesmo não mais poder encontrar no Céu, no mar ou sobre a terra, coisa alguma que me comovesse, me interessasse e prendesse meu espírito tomado de displicência.</p>
+
+      <p>Eis que o vi pela estrada...</p>
+
+      <p>— O desvalido — era um espectro vivo!</p>
+
+      <p>Magro, cadavérico, parecia que naquele mísero corpo nem mais um fio de sangue circulava já, tal era a espantosa cor de cera que, como um véu de morte, lhe cobria o rosto e as mãos descarnadas!</p>
+
+      <p>Arrimado a um bordão, caminhava lento, de instante a instante parando, vencido pela fraqueza que o fazia acocorar-se no chão abrasado pelo sol.</p>
+
+      <p>E o mísero chamava os transeuntes estendendo-lhes as esqueléticas mãos, falando com voz surda e entrecortada...</p>
+
+      <p>Um homem passava; o desventurado acenou-lhe.</p>
+
+      <p>O caridoso transeunte chegou-se a ele, e, complacente, escutou-lhe a cansada narrativa de amargurados revezes.</p>
+
+      <p>O infeliz pedia um meio de condução, sem o que, desfalecido, sucumbiria, em meio ao caminho.</p>
+
+      <p>O coração bem formado daquele que a Providência escolhera para a prática de uma obra misericórdia, comoveu-se, e, esquecendo por um momento seus negócios, com outros companheiros, guiados pela virtude celeste, foram em demanda do necessário em circunstâncias tais.</p>
+
+      <p>Os curiosos rodeavam já então o desvalido a quem o Anjo das infelizes não abandonava, pois o óbulo da caridade ia generosamente caindo das mãos do povo na desfalecida mão, que, entretanto, não se estendera a pedir...</p>
+
+      <p>É que a alma cristã é generosa e compassiva!</p>
+      
+<milestone unit="asterisks"/>
+
+      <p>Uma canoa tripulada por dois homens benfazejos vinha receber o infeliz. O primeiro benfeitor, auxiliado por outro de coração compadecido, ajudou o enfermo a levantar-se, conduzindo até a embarcação onde o acomodaram.</p>
+
+      <p>E a canoa vogou, abrindo, como um grande leque, a esteira nas águas serenas da formosa baía que retratava o Céu azul da minha terra como num enorme espelho de cristal  emoldurado de esmeraldas.</p>
+    
+      <p>O desvalido ia, o quanto possível, consolado, pois levava no alquebrado peito - a fé e a esperança - companheiras inseparáveis da caridade, cujo perfume celestial, ficando na alma do benfeitor, inundava-a da mais pura, nobre e santa satisfação: - a de haver praticado o bem...</p>
+      
+<milestone unit="asterisks"/>
+
+      <p>Oh! Pareceu-me ver, naquele momento, o Céu abrir-se e Deus abençoando uma vez as almas benfazejas, enquanto os anjos alegres registravam no livro de ouro das - Boas Obras - o nome daqueles que vinham de exercer a doce e sublime Caridade!</p>
+
+      <p>Ante aquela grandiosa cena de dor e comiseração, a minha alma comoveu-se, e, entre duas lágrimas eu murmurei:</p>
+
+      <p>— Bem aventurados os misericordiosos!</p>
+</div>
+
+      <div type="chapter">
+
+      <head>Decapitada!</head>
+
+      <p>— Era linda aquela borboleta azul com suas grandes asas cetinosas, iriadas como conchas de madrepérola!</p>
+
+      <p>A trombazinha graciosamente enroscada como um estame de flor, os olhos salientes, amarelos, diáfanos como contas de cristal raiado de ouro.</p>
+
+      <p>Pousada sobre o verde, levemente agitando as asas brilhantes, semelhava uma rara flor azul a desabrochar!</p>
+
+      <p>Oh! Quanto era linda aquela flor do espaço a repousar na terra!</p>
+
+      <p>Por uma tarde estiva, eu a vi a debater-se de encontro aos vidros da minha janela que dá para o jardim. Por cima, a trepadeira em flores estendida pelo telhado, debruçava-se em vergônteas floridas. Sem dúvida a borboleta viera ali atraída pelo aroma das flores. Tentei prendê-la para que não estragasse o maravilhoso tecido daquelas asas ideais, porém, tão desastradamente o fiz, que se desarmando a vidraça, quase decepou a graciosa cabecinha a falena gentil!</p>
+
+      <p>Ai! dor!... a pobrezinha caiu moribunda a meus pés!</p>
+
+      <p>Segurei-a... e senti ainda palpitantes aquelas brandas asa tão lindas, — multicores como as conchas de madrepérola; mas as cabecinhas aonde brilhavam os diáfanos olhos de cristal raiado de ouro, prendia, apenas presa por um delgado fio que a brisa para logo quebrou!</p>
+
+      <p>Desci ao jardim: ali, sob um arbusto coberto de flores, depositei, em um pequenino jazido, a desventurada borboleta azul, e no plácido recinto, desfolhei rosas e saudades, cercando-o de <q>boas noites</q>, expressivo emblema do meu pesaroso adeus.</p>
+
+      <p>O último raio do sol poente foi beijar o tumulozinho da pobre <q>decapitada</q>, e a brisa que dali vinha trazia-me, depois, como um farfalhar suave de finas asas que se debatessem...</p>
+
+      <p>Porém o meu coração doído suspirou: - nunca mais!</p>
+
+      </div>
+      
+      <div type="chapter">
+
+      <head>Pensée</head>
+
+      <p>— Nunca, se me souberes amar, Henrique, nunca eu te hei de esquecer.</p>
+
+      <p>— Assim o creio, Heloisa, e assim também o sente meu coração. Assim o tenho gravado na mente; sempre em ti pensarei; sempre merecerei o teu afeto, pois sempre hei de te adorar, ainda que nos separe o destino cruel, - sou teu.</p>
+
+      <p>Beijos, abraços e lágrimas selaram o juramento da despedida.</p>
+
+      <p>Henrique partiu.</p>
+
+      <p>Que ternas letras ao princípio! Quantas flores da alma ai trescalavam o divinal aroma...</p>
+
+      <p>— <hi>Saudades, sempre-vivas, não me deixes, miosótis, amores, cravos, perpétuas e martírios...</hi> que precioso ramalhete das flores do coração!...</p>
+      
+<milestone unit="asterisks"/>
+
+      <p>Seis meses se passaram; as cartas dele já não traziam tantos perfumes: que flor aí faltaria?</p>
+
+      <p>Que raras <hi>saudades!...</hi> e as outras flores, murchariam no <hi>jardim</hi> de Henrique?</p>
+
+      <p>Ela tentara revivê-las, regando-as com lágrimas; porém o jardim de Henrique se tornará improdutivo!</p>
+
+      <p>Naquele - horto de amores -, outrora tão fértil e onde tão delicadas flores brotaram, só duros espinhos medravam agora.</p>
+
+      <p>Esquecia-se... Henrique esquecia-se de cultivar as meigas flores do coração e as deixava fanarem-se... morrer...</p>
+
+      <p>Heloisa entristeceu e chorou como a violeta que roreja de lágrimas a terra, e gemeu como a rola abandonada na solidão. Em torno dela a luz escureceu e se fez noite...</p>
+
+      <p>Depois, um dia raiou, e no coração em que o sopro cruel do desengano desfolhara as meigas flores das ilusões, doces raio de sol penetrou que fez desabrochar mimosa flor iriada: aquela a que os franceses chamam - <foreign xml:lang="fr">Pensée</foreign>...</p>
+      
+<milestone unit="asterisks"/>
+
+      <p>Ah! A ingratidão é o sopro devastador que arrebata os mais puros sentimentos da alma; - a gratidão é o doce raio de sol que, aquecendo o coração, faz nele brotar o mais terno e sincero afeto.</p>
+</div>
+
+<div type="chapter">
+    
+      <head>Rosas de Amor</head>
+
+      <p>Rodeando a casinha branca de portas verde-gaio, coberta de telhas morenas, novinhas, as <q>rosas de amor</q> floriam todo o ano o verde rosal estendido pelo ripado da tosca cerca.</p>
+
+      <p>Rosas de amor, lindas vermelhas e perfumosas que atraiam as borboletas em bando; rosas de amor gentis, sobre as quais a madrugada derrama pérolas do Céu, sempre, sempre viçosas, cobrindo o cercado da casinha branca.</p>
+
+      <p>Mas, quem habitava aquele ninho encantador no meio de rosas?...</p>
+
+      <p>Duas pombinhas mansas, alvas como lírios brancos, vinham todas as tardes, ao toque da Ave Maria, a descansar um instante naquele rosal florido; depois, voavam juntinhas e lá se iam pousar entre os braços de uma cruz alma alva, que além se erguia, no campo, sobre um montículo relvado de violetas, e ali dormiam ao brilho das estrelas ou ao palor da lua, até á madrugada, e quando os primeiros albores bruxuleavam no Céu, hei-las que voavam alto, muito alto, até perderem-se entre os palores do alvorecer.</p>
+
+      <p>Eram as almas deles, diziam pela aldeia.</p>
+
+      <p>E as mulheres do campo, e as crianças timoratas não iam mais à tardinha proverem-se da água no cristalino veio que corria por entre moitas de lírios e açucenas, porque tinham receio de passar pela cruz branca que se erguia no montículo verde coberto de rosas violetas.</p>
+
+      <p>Mas, quem eram eles cujas almas tão castas, tão docemente irmãs vinham do Céu sob aquela aparência de meiguice e ternura, ali, beijarem-se entre as rosas de amor?...</p>
+
+      <p>Eram primos, eram noivos; um casal que se adorava, - contara, um dia, certa velha camponesa daqueles arredores.</p>
+
+      <p>Eles habitavam a casinha branca, esposada de oito dias apenas.</p>
+
+      <p>Uma tarde brincavam colhendo rosas... rosas de amor - púrpuras e cheirosas que cobriam o cercado tosco, quando, invejoso áspide que lhes espreitava a veutura, imprimiu, na mãozinha delicada, um traiçoeiro beijo... de morte!</p>
+
+      <p>Ai! que não foram os espinhos das rosas de amor que lhe arrancaram do coração amante aquele <hi>ai</hi> tão magoado!</p>
+
+      <p>E na mão pequenina pálida como uma pétala de magnólia, uma gotazinha vermelha se levanta...</p>
+
+      <p>E a jovem noiva desmaiou, tombando entre as rosas que se lhe entornaram do regaço...</p>
+
+      <p>Depois, no delírio de febre, pedia ao seu amado que a seguisse ao Paraíso.</p>
+
+      <p>Ele assim prometeu a alma adorada.</p>
+
+      <p>Dias após ela partiu para o Céu.</p>
+
+      <p>Ele prometera: e, um dia, a hora da Ave Maria, finou-se de saudades junto ao rosal sempre florido das rosas do amor!</p>
+
+      <p>E suas almas – alvas pombas meigas, tão irmãs, vêm sempre, a hora da saudade, arrulhar ternuras no antigo ninho do seu casto amor.</p>
+     
+      <p>E trementes, medrosas se aconchegam entre os braços protetores da cruz; depois, voltam ao Céu, porque só entre as flores do Paraíso, depois que a pobre Eva tornou para sempre infeliz, nunca mais rastejou a serpente maldita, invejosa sempre das venturas da mulher!".</p>
+
+      </div>
+      
+      <div type="chapter">
+
+      <head>Sonho</head>
+
+      <p>"— Não vês o floco de branca nuvem a deslizar pelo Oriente, como se doura aos raios do sol que nasce?</p>
+
+      <p>— Tal é a tua existência: - nuvem mimosa e alva que passa imaculada, até que uma luz bendita a doure com seus raios puros, para, depois, desfeita em pérolas, cair; - orvalho consolador - , sobre as florzinhas da terra. Vai; o dia desponta no Levante. Deixa que a aragem matinal faça deslizar o teu pequeno batei por entre as ilhas de nenúfares em flor; além, ele abicará; eu ai conduzirei o teu desposado.”</p>
+
+      <p>Assim, no sonho de Ivanina - a gentil pescadora, - falara um anjo de nívea roupagem e grandes asas prateadas.</p>
+
+      <p>Ivanina acorda sobressaltada. Antes de adormecer, ela fizera ao seu anjo uma doce prece, eis que vem de sondar o doce mistério que a perturba.</p>
+
+      <p>Do lado do Oriente adelgaçavam-se as brumas da manhã, descobrindo verdes montes coroados de palmeiras que semelham lindos cromos estampados em azul. Por entre margens cobertas de <hi>trepadeira</hi> florida, o lago se estendia sereno e prateado. Vestida à <hi>maruja</hi>, Ivanina - a gentil pescadora chega, desprende a barquinha, ligeira salta dentro, e, reclinando-se, deixa que a plácida corrente a conduza por entre as ilhotas de nenúfares em flor.</p>
+
+      <p>Ao suave deslizar do batei, volta-lhe o sono, e com ele o sonho encantador.</p>
+
+      <p>Agora, porém, o anjo de brancas asas prateadas e longa e nívea roupagem, coroa-lhe a fronte com as flores virginais da laranjeira, e, tomando-a pela mão, a conduz a um altar florido...</p>
+
+      <p>O batel abica à margem; Ivanina desperta assustada, cobrindo-se de vivo rubor à presença do mancebo gentil que, sorrindo, estende-lhe a destra.</p>
+
+      <p>Era aquele que devia levá-la ao altar, para com a luz de um abençoado amor dourar-lhe a existência imaculada, como o sol ao nascer doura o floco de mimosa nuvenzinha branca que se desliza pelo Oriente.</p>
+
+      </div>
+      
+<div type="chapter">
+
+      <head>Bem-me-queres</head>
+
+      <p>Sentados a sombra de frondosos salgueiros, a beira do rio, bordado de verdes moitas em flor, Jano e Clarinda descansavam enquanto pelo outeiro verde suas cabras pascem.</p>
+
+      <p>— Aposto, diz Clarinda, - a Cabrerinha gentil, que a mulher sabe amar, enquanto que o homem, só sabe fingir!</p>
+
+      <p>— Então, crês tu que o meu amor seja fingimento? - pergunta-lhe, sentido, Jano, o pastor.</p>
+
+      <p>— Oh! Não... não! acode vivamente Clarinda; só penso que o meu excede em muito o teu, disto, o contrário, só o acreditaria se de Deus o pudesse saber.</p>
+
+      <p>Jano levantou-se dizendo: - Pois bem; de Deus o saberás.</p>
+
+      <p>O verde prado cobria-se de dourados <hi>mal-me-queres,</hi> como de estrelas o céu das noites sem luar. O pastor colheu um feixe deles, e, espalhando-os no regaço de sua amada, disse: - escolhe um; eu tomarei outro e vejamos o que Deus diz.</p>
+
+      <p>Clarinda tirou um viçoso exclamando: <q>Oh! Este tem o viço e beleza do meu afeto: quero-o!</q> Jano tomou outro dizendo: <q>Prefiro este cujo centro tem uma auréola verde; é a coroa da minha esperança!</q>.</p>
+
+      <p>A Cabreirinha arrancou a primeira pétala a mimosa flor, murmurando: <q>mal-me-queres</q>; Jano repetiu imitando-a: <q>mal-me-queres...</q></p>
+
+      <p>E as duas petalazinhas de ouro foram lançadas à corrente.</p>
+
+      <p>Clarinda arrancou segunda pétala: <q>bem-me-queres</q>, disse; o pastor secundou-a: <q>bem-me-queres</q>; de novo as pétalas mimosas foram lançadas à corrente.</p>
+
+      <p>Assim prosseguiram, e o rio já carregava em suas mansas águas cristalinas mil petalazinhas de ouro; poucas já se prendiam agora ao cálice da flor.</p>
+
+      <p>Jano e Clarinda fecharam os olhos e prosseguiram a ventura.</p>
+
+      <p>Quando ambos tinham pronunciado <q>bem-me-queres</q>, e receosos, tatearam, procurando outra pétala, eis que suavíssimo canto se derramou no espaço... Abrem ao mesmo tempo os olhos; nas mãos só lhes restava o calix da graciosa flor!</p>
+
+      <p>E o sabiá, no galho florido da laranjeira, saudava aqueles ditosos amores que Deus, dos Céus, patrocinava!</p>
+      
+</div>
+<div type="chapter">
+
+      <head>A Sina</head>
+
+      <p>Apeando-se do seu negro corcel andaluz, ajaezado de brunida prata, o jovem fidalgo parou à porta da velha feiticeira, e, estendendo-lhe a mão aberta, disse: <q>lede a minha sina!</q></p>
+
+      <p>A cigana tomou-lhe a destra e nela cravando olhos escrutadores, murmurou: <q>amor... riqueza... glórias, tudo, tudo tereis, se fordes amado pela dama que vos tem preso o coração.</q></p>
+
+      <p>— E, como o sabereis? Interrogou o cavaleiro.</p>
+
+      <p>— A mais nobre donzela, tornou a cigana, mais alta, mais opulenta, talvez, do que vós, porém, a vossa gentil presença, vossa excelência e bravura bem vos tornaram merecedor de tão valioso prêmio.</p>
+
+      <p>— Porém... sou amado? volveu impaciente o mancebo.</p>
+
+      <p>— Oh! Sim...creio poder afirmá-lo, respondeu a velha.</p>
+
+      <p>— Ah! com certeza? Não mentes?</p>
+
+      <p>— Cavaleiro! duvidais? Eu poderei, talvez, provar-vo-lo.</p>
+
+      <p>- Como? dizei-lo breve! exclamou o apaixonado mancebo, jogando ao avental da cigana uma luzida moeda de ouro.</p>
+
+      <p>A feiticeira fez gesto grotesco, como agradecendo, e alongando o olhar até o horizonte disse: <q>foge o dia; a sombra da noite já envolve a terra. Apressai-vos, cavaleiro! - a nobre senhora está solitária, pensativa... quiçá pense em vós! Tomai o caminho do Castelo, penetrai no parque e segui até o terraço; aí, a encontrareis e dela própria ouvireis se sois amados.</q></p>
+
+      <p>— Como! O que me aconselhas, jamais o farei; sabeis?</p>
+
+      <p>Sou cavaleiro, sou nobre, e um nobre cavaleiro nunca praticará essa vilania!</p>
+
+      <p>— Mas se representásseis a velha feiticeira, tornou a cigana, bem o poderíeis fazer.</p>
+
+      <p>Sobresteve o fidalgo; seu rosto exprimiu repugnância; mas, após instantes, disse: - explicai-vos.</p>
+
+      <p>— Tomai este manto meu, esta usada túnica, disfarçai-vos e ide ler à nobre senhora a <foreign xml:lang="es">buena dicha</foreign>. Mas, guardai bem vosso incógnito, do contrário, expor-vos-eis a tudo perder. Ide; aqui vos esperarei; vosso ginete será bem guardado. E assim falando, a velha cigana apresentava ao jovem cavaleiro suas esquisitas vestes.</p>
+
+      <p>Obediente, desprende o fidalgo a luzida espada, desata os brunidos acicates, e, envolvendo-se nas sombrias vestes cabalísticas, tomou o bordão e dirigiu-se ao Castelo.</p>
+      
+<milestone unit="asterisks"/>
+
+      <p>Solitária, pensativa, reclinada languidamente sobre macias almofadas de luxuoso divã franjado de ouro, a nobre donzela tinha a vista perdida no extremo do Céu, lá onde o sol descendo vagaroso por entre largas faixas de ouro e verde esmaecido, purpurava com seus últimos raios as nuvenzinhas mimosas dispersas pelo horizonte.</p>
+
+      <p>O vulto alquebrado da <hi>feiticeira</hi> assomou... aproximou-se e quedou imóvel.</p>
+
+      <p>Já o sol se ocultava resplandecente.</p>
+      
+      <p>A mimosa castelã suspirou doce segredo que lhe fugiu dos lábios e se foi suavemente esconder no casto seio de uma magnólia linda que ela ternamente beijou. Já o sol desaparecera lentamente.</p>
+
+      <p>Ia a retirar-se... susta-lhe o passo voz estranha e trêmula que assim murmura:</p>
+
+      <p><q>Pensativa estável; sentis alguma dúvida sobre o vosso futuro, bela senhora? Eu vo-lo esclarecerei.</q></p>
+
+      <p>Sobressaltou-se a donzela ao ver a esquisita figura; porém, serenando, perguntou: <q>o que me quereis dizer?</q></p>
+
+      <p>— A vossa sina! Respondeu a pretensa feiticeira.</p>
+
+      <p>A fidalga estendeu a branca mâo que a <hi>feiticeira</hi> tomou estremecendo, e, examinando-a atentamente disse: <q>É nobre aquele que amais e por quem sois amada...</q>.</p>
+
+      <p>— Amada! - repetiu com eco dulcíssimo a castelã formosa.</p>
+
+      <p>— Oh! muito amado, sim! tornou com veemência a <hi>feiticeira.</hi></p>
+
+      <p>— Cavaleiro que tanto vos ama por sua nobreza e valentia, bem merece o vosso afeto, mas...</p>
+
+      <p>— Mas?!— Dizei! exclamou a donzela...</p>
+
+      <p>— Nem por sua linhagem, nem por seus haveres vos pode igualar, continuou a <hi>velha.</hi></p>
+
+      <p>—Isto o que importa? Volve a fidalga, se o meu belo cavaleiro é nobre e valente como dizeis? Continuai.</p>
+
+      <p>—Amai-lo muito? perguntou baixinha a <hi>feiticeira</hi>.</p>
+
+      <p>— Se o amo? Oh! Se o amo! disse apaixonadamente a jovem, e acrescentou como para si: demais, bem sei que o nobre marquês <name>Roland de Croix-dorée</name> pode muito dignamente vir a ser o nobre esposo da filha dos Condes de Verdmont! Eu o amo, meus pais o apreciam... porém, disse, olhando inquieta a <hi>velha feiticeira,</hi> vossa mão se torna ardente e fria!... Ele não me ama?</p>
+
+      <p>— Senhora! Interrompeu precipitadamente a <hi>feiticeira</hi>; leio nos traços de vossa mão: daqui a alguns dias, cumprir-se-á o vosso destino: sereis esposa daquele que amais e que muito, muito vos ama!</p>
+
+      <p>— Tomai! Disse a jovem castelã, oferecendo-lhe algumas moedas de ouro; mas a fingida feiticeira partira veloz e correndo saiu do parque, parou à porta da cigana, despiu-se dos misteriosos andrajos, cingiu a dourada espada prendeu os brunidos acicates e, cavalgando o impaciente andaluz, partiu á rédea solta, sem mesmo olhar a velha cigana que, com seu gesto grotesco murmurou: - quanto é feliz!...</p>
+
+      <p>Oito dias depois, no solar, celebravam-se as pomposas núpcias do nobre e valente marquês Roland de Croix-dorée, com a formosa Branca, herdeira dos nobilíssimos condes de Verdmont.</p>
+
+</div>
+
+<div type="chapter">      
+
+      <head>O Destino</head>
+
+      <p>— Eles se amavam muito!...</p>
+
+      <p>Eram felizes, mas... de uma felicidade ideal!</p>
+
+      <p>Suas almas gozavam as delícias de um afeto imenso, mas o mel da taça em que bebiam a ventura, tinha, por vezes, a acrimônia do fel.</p>
+
+      <p>Sem ele, ela vivia como a flor sem o sol; e ele sentia, longe dela, o gelo da indiferença arrefecer-lhe o coração; mas, - escravo do dever -, arrastava, além, naquela atmosfera glacial, uma existência penosa e amargurada, como o infeliz a quem privaram da liberdade. E, no entanto, eles se amavam muito!...</p>
+
+      <p>Mas quem os separava?</p>
+
+      <p>— O Destino!</p>
+
+      <p>Separava-os o destino; ele partiu. Sua alma de poeta era sensível e meiga; inspirava o amor. Trovador apaixonado, cantou na terna lira de suas ilusões, o canto da despedida.</p>
+
+      <p>O seu canto era assim:</p>
+<lg>
+      <l>Adeus, ó meiga virgem! não despertes, </l>
+      <l>ao som da minha voz;</l>
+      <l>deixa que passem nos teus sonhos lindos</l>
+      <l>as notas do meu canto...</l>
+</lg>
+<lg>
+      <l>Adeus! por longes terras vou correr,</l>
+      <l>na pátria - foragido!</l>
+      <l>Sem um beijo de amor deixas que parta </l>
+      <l>teu pobre cavalheiro!...</l>
+</lg>
+<lg>
+      <l>Nas ondas meu batei embalançando </l>
+      <l>em ti eu cismarei, </l>
+      <l>quando o luar tremer sobre a ardentia</l> 
+      <l>dos mares - na solidão!</l>
+</lg>
+<lg>
+      <l>Nos ermos, nas Campinas, vagueando, </l>
+      <l>sem ter uma esperança, </l>
+      <l>à noite pousarei em alguma choça</l> 
+      <l>bem longe do meu lar!</l>
+</lg>
+<lg>
+      <l>Na branca madrugada, entanto, a rota</l> 
+      <l>irei seguindo, além,</l> 
+      <l>por mares ou nos pobres povoados </l>
+      <l>sem nunca ter prazer.</l>
+</lg>
+<lg>
+      <l>E quando este destino me quebrar</l>
+      <l>as forças que me restam,</l>
+      <l>não quero que teus olhos se entristeçam</l>
+      <l>no dia em que eu morrer!</l>
+</lg>
+<lg>
+     
+      <l>Amor que em teus sorrisos tu me deste</l> 
+      <l>comigo eu levarei; </l>
+      <l>amor que por ti sinto não desprezes </l>
+      <l>tu que juraste - amar!</l>
+</lg>
+<lg> 
+     
+      <l>Tu amas... sim; tu amas! virgem meiga,</l> 
+      <l>adeus... não te despertes; </l>
+      <l>eu parto... que em teus sonhos o meu canto</l> 
+      <l>murmure um triste - adeus!”</l>
+</lg>
+
+      <p>E ele partiu.</p>
+
+      <p>Almas irmãs, ela tinha a sensibilidade e a ternura do poeta; inspirada de amor e de saudades, a virgem solitária, errante pela encosta do mar que o levara, alta noite, ao luar, cantava assim:</p>
+      
+<lg>
+      <l>“A voz do trovador quebrou meu sonho:</l>
+      <l>— adeus! — adeus, dizia: </l>
+      <l>e o canto era tão meigo, tão tristonho,</l> 
+      <l>tão cheio de harmonia...</l>
+</lg>
+<lg>
+      <l>A que longínquas terras, peregrinas</l> 
+      <l>Vai-te, célere assim?...</l>
+      <l>na pátria foragido... oh! que destino!...</l>
+      <l>e te partes sem mim!...</l>
+</lg>
+<lg>
+      <l>Meu pobre cavalheiro! Não esqueças</l> 
+      <l>meu terno e doce amor,</l>
+      <l>nas terras, na choupana em que adormeças,</l>
+      <l>cansado viajor.</l>
+</lg>
+<lg>
+      <l>Nas águas bonançosas, sem receio,</l> 
+      <l>soltando a barca leve, </l>
+      <l>irás pensando em mim... penso eu anseio </l>
+      <l>por tua volta breve!</l>
+</lg>
+<lg>
+      <l>À noite, sobre as ondas tremulosas,</l> 
+      <l>douradas pela lua; </l>
+      <l>irei ouvir dos mares as saudosas</l>
+      <l>canções dessa alma tua.</l>
+</lg>
+<lg>
+      <l>Se um dia tão cruel destino, entretanto,</l> 
+      <l>teu corpo languescer;</l>
+      <l>eu quero, dos teus olhos no quebranto, </l>
+      <l>a morte, afim, sorver!</l>
+</lg>
+<lg>
+      <l>E amor que no teu peito gravaste</l>
+      <l>contigo levarás;</l>
+      <l>E amor que na minha alma tu deixaste</l>
+      <l>no Céu o encontrarás.</l>
+</lg>
+<lg>
+      <l>Adeus, ó cavalheiro! - o sonho lindo,</l>
+      <l>desfez-se triste, assim!</l>
+      <l>— Tu partes... o teu fado vais seguindo...</l>
+      <l>Ai! tu partes sem mim!"</l>
+</lg>
+</div> 
+
+<div type="chapter">
+     
+      <head>Almas Gêmeas</head>
+
+      <p>— Acaso desconheces, ó muito adorada Aida, o profundo abismo que de ti me separa?</p>
+
+      <p>Dos teus prisioneiros, há já dez anos, sei, porventura, se ainda vive minha esposa?</p>
+
+      <p>Eu, bem jovem, desposei-a, julgava amá-la...ah! bem depressa conheci quanto nossas almas eram dessemelhantes! Eu não sentia mais o prazer a seu lado, e todo o amor que sonhara dar-lhe, aquele afeto imenso de esposo amante, no meu coração, se transformava em paternal carinho. Amei meus filhos com extremo; mas... eram do Céu: o Céu reclamou-os. Eu padeci longos, cruéis, martírios; a esposa não saberia, não poderia consolar- me. A pátria necessitou-me; amo a terra que me viu nascer; era cavalheiro; parti. Roto e desbaratado o exército cristão, fiquei prisioneiro dos teus irmãos do Oriente; sabes tu, ó muito minha amada, o quanto hei padecido?</p>
+
+      <p>Julgaram-me, por fim, inofensivos, tiraram-me os ferros, abriram-me as portas da horrível masmorra, e deram-me por menagem as cidades do Profeta.</p>
+
+      <p>Era ao cair da tarde; este formoso céu da Palestina cobria-se de um rico manto purpurado, com frisos de ouro, como a suntuosa veste de opulenta soberana. As rosas abriam frescas e vermelhas, quais as do pudor nas faces da desposada. Junto à fonte, sob a ramagem desfiada do salgueiro, eu te vi, - estrela brilhante do formoso céu de Alá, pálida rosa dos jardins do Oriente; eu te vi, e te adorei!</p>
+
+      <p>Os negros olhos de Aida brilharam; os seios tremeraram-lhe como brancos lírios beijados pela aragem; semicerraram-se-lhe as pálpebras como as pétalas da <hi>maravilha</hi> aos primeiros raios de sol, e duas lágrimas deles se desprenderam quais gêmeas gotas de orvalho do seio de graciosa flor.</p>
+
+      <p>— Admar... Admar, meu amado! - com voz dulçorosa a virgem muçulmana suspira, - quando o sol, como sultão que vai dormir, inclina a fronte ardente coroada de raios sobre suntuoso coxim de carmesim e ouro, a Natureza, sua favorita, dá-lhe em meigos cantos toda a ternura de sua alma, em doces perfumes, todo o amor de seu coração.</p>
+
+      <p>Que importa a violeta que à tarde abriu, tenha o sol aquecido as rosas da manhã?... A violeta ama o sol da tarde que vem docemente haurir-lhe o aroma do seio, e no delicioso perfume da melindrosa flor, o sol encontra mais doçura e vida do que nos encantos da peregrina rosa. O amor é livre como a avezinha do espaço; se apartasse do companheiro a avezinha mimosa, se a embaraçasse de chegar até ele, do galho florido do arvoredo, em meigos cantos de amor, a triste envia-lhe toda a ternura de seu inocente coração; o amante afastado lhe responde acorde, e, assim, o afeto doce e terno vence a dificuldade mais cruel.</p>
+
+      <p>O coração da mulher é a flor que entorna suavíssimo perfume se o raio do sol do amor lhe penetra o  seio… sua alma é a livre avezinha: - ama, ama sempre, embora não goze a felicidade do seu amor; e assim foi que eu te amei... assim te amo e te amarei! sempre!...</p>
+
+      <p>Quando a tarde esmorecia, e os campos eram mais verdes, e as rosas mais vermelhas abriam como caçoulas de nácar a derramar essências, eu cismava junto à fonte dos salgueiros, ouvindo o murmúrio suave das águas, o doce rumorejar da viração.</p>
+
+      <p>Contemplava os lírios que floresciam em derredor, e os lírios brancos eram em dois em uma mesma haste; os passarinhos não brincavam sós, nem as borboletas que voltejavam aos pares, como pétalas de flores levadas pela brisa.</p>
+
+      <p>Meigos pombinhos se acariciavam em um recanto da verdura; no galho mimoso de virente arbusto, sob um tufo de flores balançava-se um ninho aonde os pequeninos implumes se aconchegavam pipilando alegremente ao doce calor das asitas levantadas da avezinha mãe. Em toda a Natureza, pois, eu via uma afinidade de ternura e de amor; não havia, portanto, existência alguma semelhante a minha... nenhum ser era triste, - só -, sem os carinhos de mãe, sem as ternuras de amante; todos, enfim, gozavam a felicidade dos seus afetos; somente eu era solitária e triste como uma pobre deserdada!</p>
+
+      <p>No meu coração levantou-se então um desejo... oh! - que era belo como deve sê-lo o sonhador da liberdade! - terno e meigo como o arrulhar da pombinha enamorada; mas forte, mas grande como a impetuosa corrente que tudo arrasta, como o oceano que se espraia arrojando do seio as maravilhas do abismo! - era o desejo de amar... de ser amada!...</p>
+
+      <p>E eu sentia o peito entumecido de muito amor!</p>
+
+      <p>Teus passos quebraram o meu encantamento; eras tu a imagem evocada na minha fantasia; foste a realidade do meu ideal e eu te amei... oh! Te amei, te amo muito...</p>
+
+      <p>Seus braços se enlaçaram, seus lábios se uniram, e o brando seio de Aida; no transporte, apertou-se ao valente peito do cavalheiro, como o festão da erva mimosa ao tronco do robusto carvalho que lhe dá vida.</p>
+
+      <p>Ah! Quanto mais profundo e insuperável não era o amor que unia suas almas do que o invencível abismo que os separava!...</p>
+
+</div>
+<div type="chapter">
+
+      <head>Pérolas e Lágrimas</head>
+
+      <p>Enquanto risonha a Castelã feliz, ante o seu magnífico espelho de cristal emoldurado em relevo de ouro, prendia ao colo formoso um belíssimo colar de finas, pérolas, na pobre choupana vizinha, pelas faces descoloridas da triste órfã aldeã, desfiava-se silenciosamente o colar de pérolas não menos precioso que lhe cingia o coração.</p>
+
+      <p>Estas, eram lágrimas amargas; aquelas, jóias raras faustuosas; e no palácio esplendoroso era tudo - risos, flores e festa, enquanto que na casinha humilde, - lágrimas e suspiros só!</p>
+
+      <p>Mas porque sorria a fidalga?</p>
+
+      <p>Porque chorava a aldeã?</p>
+
+      <p>É que - lá -, o amor cantava, - aqui o amor gemia.</p>
+
+      <p>Dois corações pendiam da balança das fadas: um, pleno de felicidade, outro, repleto de amarguras; e neste sobrepujava o amor; era maior o padecer que naquele a felicidade, e gozo e ternura.</p>
+
+      <p>O jovem caçador vestido de verde, prendera o coração da singela aldeã; o gracioso fidalgo trajando veludo e ouro, merecera a preferência da orgulhosa fidalga; e, quando a pobre órfã reconheceu, sob a opulência do fidalgo, o seu lindo caçador, o coração gemer-lhe no peito, ferido de uma dor mais cruel do que a produzida pela afiada seta com que ele na floresta prostava sem vida a juriti carinhosa.</p>
+      
+<milestone unit="asterisks"/>
+
+      <p>O nobre par acabava de receber-se na capela do antigo solar.</p>
+
+      <p>— Pérolas e lágrimas...</p>
+
+      <p>— Pérolas a ornarem a fronte, o alvo colo, os lindos braços da castelã feliz; lágrimas a deslizarem-se silenciosas pelas descoloridas faces, pelo casto e pálido seio por entre as brancas mãos trêmulas e frias da aldeã desditosa.</p>
+      
+<milestone unit="asterisks"/>
+
+      <p>A tarde chegara. As crianças da aldeia por toda a parte buscavam flores; não havia mais. Rosas brancas, brancos lírios, cravos, magnólias, açucenas e jasmins, tudo ornava o grande Palácio da nobre Senhora; no campo só restavam algumas rosinhas silvestres, açucenas do vale, e as flores laranjeira eram as flores da Virgem; levaram-nas. Coroa para a fronte, palma para as mãos, ramo para o seio... eis tudo.</p>
+      
+      <p>E a noiva do Céu, era ainda assim, mais bela e ditosa do que a noiva da terra!</p>
+</div>
+
+      <div type="chapter">
+
+      <head>Fantasia</head>
+     
+      <div type="section">
+<head>
+      Pobre coração
+</head>
+
+      <p>Ele tinha os olhos garçom; o olhar desses olhos falava... Ora meigo, de indizível e sedutora ternura, ora lampejante, imperioso, irresistível no seu brilho dominador.</p>
+
+      <p>Pálido como poeta, o seu coração seria o de um poeta também? não possuiria ele uma alma terna e sensível?</p>
+
+      <p>Os cabelos lindos de um acastanhado leve, ondeavam graciosamente; o porte elegante e distinto... era um mancebo encantador!</p>
+
+      <p>Fraca e pálida como a flor abandonada, ele encontrou-a; definhada qual a folha mimosa no arrefecer do Outono.</p>
+
+      <p>Ele examinou-a... Seus olhos belos, meigos e compassivos se quedaram fitos nos olhos escuros dela; o que leria ele ali?</p>
+
+      <p>Depois, sua formosa cabeça inclinou-se sobre o brando seio da doente; auscultava-a... escutava-lhe o coração; - o que ouviria ele?</p>
+
+      <p>Um suspiro débil, penso que fugia, - avezinha errante em busca do abrigo onde repousar; - e a formosa cabeça comprimiu terna, suavemente o seio que ficava por sobre o coração.</p>
+
+      <p>Ai! pobre coração! - o que sentiste?</p>
+
+      <p>Que sensação indefinível! que inexplicável anseio te fez assim tanto palpitar?</p>
+
+      <p>Foi bem a terna saudade, a doce recordação, talvez, de um passado desfeito o que sentiste?</p>
+
+      <p>Ai! Pobre coração!...</p>
+
+      <p>A palma mimosa da <hi>sensitiva</hi> se retrai ao contato de mão; coração, coração! - porque te confrangeste assim? Oh! - folha mimosa! - porque te retraíste?</p>
+
+      <p>A avezinha livre do deserto, por vezes tem sede; - ai! se avistar a cristalina veia, quem a condenará porque vai sôfrega beber?</p>
+
+      <p>Se a gota de orvalho que o Céu mandou, tremulando fica na pétala desprendida da magnólia branca, quem há de criminar a borboleta que pela tarde estiva e vai sorver?</p>
+
+      <p>A cândida açucena tem doçura no seio; foi Deus que lha depositou ali; - que mal há pois que o beija-flor sequioso procure o doce mel naquele seio perfumado?</p>
+
+      <p>E se da luz criadora do sol benefício, acaso a violeta que na sombra pende, sentir o almo calor e amoroso o acolheu no seio em que ele docemente penetrou, se deve, porventura, censurar a misérrima que, de frio, se finava no isolamento?</p>
+
+      <p>E Deus crimiharia a inocente imbele para resistir e mui sensível para ser ingrata?!</p>
+
+      <p>O orvalho do Céu caía gota a gota, em cada manhã, sobre a planta que desfalecia; o sol aqueceu-a, cuidou-a o floricultor, e cada dia ela sentia o extremo desvelo com que a trataria. Oh! revivessem, abrindo-se em flores bem mimosas!</p>
+
+      <p>Que culpa tem as flores que se abrem agradecidas?</p>
+
+      <p>A flor encerra o gérmen, o perfume, a doçura; o coração encerra a vida, o amor, a ternura; a flor desabotoa, entornando aroma se o sol a aqueceu; o coração é como a flor: expande-se derramando a ternura se amor feriu...</p>
+
+      <p>Que culpa tem a flor? Que culpa tem o coração?</p>
+
+      <p>Ai! pobre flor abandonada!</p>
+
+      <p>Ai! pobre coração!</p>
+</div></div>
+      
+<div type="chapter">
+
+      <head>Fantasia</head>
+<div type="section">      
+<head>
+      Mística
+</head>
+
+      <p>A flor, pálida e triste, esmorecida na solidão gelada; o sol passou; e o seu calor deliu o gelo.</p>
+
+      <p>Do dia em meio ao solar ardente passava na - solidão, - a flor, o raio seu beijou; a flor corou, tremeu...</p>
+
+      <p>Lá no Infinito, nuvens escuras, nuvens de tormenta, entanto perpassavam; talvez o vendaval, talvez o raio...</p>
+
+      <p>Mas o sol vira a flor pálida e triste; o branco seio gotejava lágrimas; o sol secou-as; a flor corou, sorriu...</p>
+
+      <p>E o branco seio derramou perfumes, e a solidão se revestiu de encantos, e no perfume e na doçura grata, sonhava o sol, sonhava...</p>
+
+      <p>Mas, lá no Infinito se agrupavam nuvens... era talvez o raio, talvez o vendaval!</p>
+
+      <p>A nuvem o sol cobriu e tudo escureceu; uma lágrima de ouro foi cair da flor no branco seio, lágrima que a luz do sol tornava ardente...</p>
+
+      <p>E a flor guardou no seio a gota incandescente e tão mimosa, - alma de luz, que, envolta em seu perfume, ficou no seio dela.</p>
+
+      <p>De novo - a solidão, o gelo, e a flor mais desmaiada e triste; ai! quando volveria o sol que a alma lhe deixou no seio...</p>
+
+      <p>Quem sabe!... ficou-se luz de esperança, foi uma estrela - pálida e chorosa - errante pelo Céu!</p>
+      
+<milestone unit="asterisks"/>
+
+      <p>Viajor, viajor da vida, tu foste o sol; a flor que viste em teu caminho de urzes, guardou o teu amor, e o Céu guardou-lhe a esperança...</p>
+
+      <p>Segue teu rumo viajor da vida, mas ergue a fronte e o olhar: - não vês, lá no Infinito, uma estrela brilhando? é a Esperança!</p>
+</div></div>
+      
+<div type="chapter">
+
+      <head>A Folha</head>
+     
+<opener>
+      (De Arnault - Tradução)
+</opener>
+
+<lg>
+      <l>De tua haste desprendida,</l>
+      <l>Pobre folha emurchecida,</l>
+      <l>Aonde vás? - O que sei eu!</l>
+      <l>O roble que me sustinha O temporal abateu.</l>
+      <l>Desde então, (que sina a minha!)</l> 
+      <l>Ora o Zéfiro , ora o Norte </l>
+      <l>Impele-me débil, mesquinha,</l>
+      <l>Da mata ao campo, sozinha,</l>
+      <l>Do monte ao vale: triste sorte!</l>
+      <l>No tufão que remoinha,</l>
+      <l>Sem temer e docilmente,</l>
+      <l>Eu vou aonde tudo vai,</l>
+      <l>Da rosa a pétala que cai,</l>
+      <l>Do louro a folha virente!</l>
+</lg>
+</div>
+
+<div type="chapter">
+
+      <head>O Proscrito</head>
+
+      <p>Era forçoso partir.</p>
+
+      <p>Era um decreto dos fados; talvez um decreto de Deus!</p>
+
+      <p>Mais poderoso que o amor de um povo, mais do que o raio que de improviso cai sobre a eminência de um templo sagrado derrubando-a, força irresistível o impelia.</p>
+
+      <p>E o velho obedeceu; partiu.</p>
+
+      <p>Lá fora, em pleno oceano, a fronte pendida, a barba alvíssima e crespa como a espuma dos mares a beijar-lhe o peito em que gemia o coração que levava um nome escrito entre saudades, o velho chorava.</p>
+
+      <p>Entretanto ele sentia inocência na alma cheia de amargores, e no peito o coração repleto de amor; - o coração que levava gravado um nome...</p>
+
+      <p>O doce nome da Pátria!</p>
+
+      <p>E, lá, na vastidão intérmina do oceano, entre o Infinito azul e o Infinito Glauco, o proscrito fez vibrar as cordas a harpa gemedora de sua alma de poeta; e as aves carinhosas que atravessavam o espaço, levavam os acordes daquele <q>adeus</q> magoado, e a viração marinha suspirando nas enxárcias, repercutia, daquela dor, os gemidos a se perderem pela soledade ilimitada dos mares.</p>
+
+      <p>Descera a noite estendendo desde a altura o negro véu recamado de estrelas que se ampliava sobre as ondas em renda de alvas espumas com semeados de ardentia luminosa.</p>
+
+      <p>Enquanto a viração marinha ciciava endeixas de saudade pelas enxárcias da nau balançada em ondulações de luz, o proscrito adormecera e sonhava.</p>
+
+      <p>Era uma visão formosíssima!</p>
+
+      <p>— Um índio belo, colossal, vestido de brilhante enduápe trazendo sobre a cabeça o vistoso <hi>kanitar</hi> dos reis da selva que lhe deixava a descoberto a fronte morena, altiva, cingidos os musculosos braços e os tornozelos com ornatos de áurea plumagem, adornado o colo hercúleo de um colar de alvo marfim, entremeado de pedras brilhantes, sobraçando possante arco, e tendo na destra uma flecha de cuja extremidade pontiaguda pendia, traspassado, um coração sangrento, - joelho em terra, o índio ideal apresentava ao velho sonhador aquele emblema de afetos gotejando sangue, e tristemente murmurava: — Pátria! Pátria!</p>
+
+      <p>E o proscrito acordava suspirando, em lágrimas, um nome... O doce nome da terra amada!</p>
+
+      <p>Mas, quem era esse coração majestoso, terno como David - O rei poeta, e tão venerável como em profeta hebreu?</p>
+
+      <p>Era um monarca destronado.</p>
+
+      <p>Era um soberano a quem o seu povo, outrora, chamara - pai!</p>
+      
+<milestone unit="asterisks"/> 
+
+      <p>Um dia, o Céu de formosa terra lonaínaua, Céu de azul puríssimo, que a noite brilhava esplendorosa cruz formada de estrelas cintilantes, - escurecera.</p>
+
+      <p>Um sopro gelado, vindo de além-mar, vestira de luto os ares e as águas…</p>
+    
+      <p>Vergara o <hi>jequitibá</hi> robusto na floresta virgem e o sol empalidecera na-amplidão turbada.</p>
+
+      <p>O mar rebentava lastimoso regando as praias de suas lágrimas salinas.</p>
+
+      <p>As andorinhas que voltavam não chilreavam de contentes, antes, parecia gemerem ao chegar aos tetos da terra pátria.</p>
+
+      <p>E o vento espalhava no espaço uma melodia triste...</p>
+
+      <p>Eram nênias de magoada saudade...</p>
+
+      <p>Eram lamentos de um coração dorido...</p>
+
+      <p>Era o extremo - <q>Adeus</q> - do proscrito que adormecera- para sempre - na terra do exílio!</p>
+
+</div>
+   
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,83 @@
+/* Place project-specific CSS here */
+
+html {
+ background-color: gray;
+}
+
+#tei_wrapper {
+ max-width: 40em;
+ background-color: white;
+ padding: 5em;
+ border: solid 2px black;
+ margin-left: auto;
+ margin-right: auto;
+ margin-top: 1em;
+ margin-bottom: 1em;
+}
+
+#tei_wrapper p {
+  text-align: justify;
+}
+
+#fontebd {
+ text-align: center!important;
+ font-size: 16px;
+ font-style: italic;
+ color: white;
+}
+#fontebd a {
+ color: white;
+ text-decoration: underline;
+}
+
+@media screen and (max-width: 768px) {
+  #tei_wrapper {
+    padding: 2em;
+  }
+}
+
+titleStmt > tei-title {
+  text-align: center;
+  padding-bottom: 10px;
+  line-height: 1.5;
+  font-size:170%;
+}
+
+titleStmt > author {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+sourceDesc {
+	line-height: 1.5;
+  display: block;
+      margin-left: 50%;
+    text-align: right;
+    font-size: 80%;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+bibl {
+	display: block;
+ margin-bottom: 1em;
+}
+bibl > tei-title {
+ font-style: italic;
+}
+
+div > head {
+  font-size: 150%;
+  text-indent: -0.5em;
+  margin-top: 2em;
+}
+
+closer {
+    text-align: right;
+    display: block;	
+}
+
+opener {
+    text-align: right;
+    display: block;	
+}

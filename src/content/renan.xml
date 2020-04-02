@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pela Memória de Renan</title>
+        <author>Altino Flores</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication statement.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Pela memória de Renan</title> de Altino Flores. Florianópolis: Livraria Moderna,
+1923.</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div type="dedication">
+      <p>A seus amigos</p>
+      <p>GUSTAVO NEVES, CLEMENTINO DE BRITTO E OSWALDO MELLO.</p>
+      <p>O Autor</p>
+
+      <p>Fpolis, julho de 1923.</p>
+      </div>
+
+      <div type="epigraph">
+        <cit><quote><foreign xml:lang="fr">...ce n'est pas ordinairement pour convaincre son adversaire que l'on s'engage dans une controverse, c'est pour te profit ou l'agrément, selon les cas, de ceux qui veulent bien s’y intéresser.</foreign></quote><bibl><author>Brunetière</author></bibl></cit>
+      
+        <cit><quote><foreign xml:lang="fr">La vérité est comme les amers qui déplaisent au goût, mais qui rendent la santé.</foreign></quote><bibl><author>Balzac.</author></bibl></cit>
+      
+        <cit>
+          <quote><foreign xml:lang="fr">Ciel, laisse-moi tout dire! O ciel, source des êtres,
+      Tu vois mon âme; il faut que je parle à ces prêtres.</foreign></quote><bibl><author>Hugo</author></bibl>
+        </cit>
+
+        <cit>
+          <quote><foreign xml:lang="es">Todo hombre independiente, sincero y valeroso, tiene contra el la liga de los serviles, de los impostores y de los cobardes, que son los más</foreign></quote>
+          <bibl><author>Vargas Vila.</author></bibl>
+        </cit>
+      </div>
+
+      <div type="preface">
+      <p>Advertência</p>
+
+      <p>A cúria desta diocese tem agora a lição que merece. Tardou, mas veio. Aliás, não dependeu de mim a delonga. Escrevi imediatamente a minha réplica ao seu artigo de 6 de Janeiro deste ano, saído pelas colunas do <hi>Estado</hi>, a 29 de Dezembro de 1922. Porém, circunstâncias inelutáveis não permitiram a publicação da minha réplica pelas colunas do jornal. Então, nessa conjuntura, resolvi desdobrar a síntese primitiva em folheto polemístico, uberemente documentado.</p>
+
+      <p>O opúsculo era para vir a lume em Janeiro deste ano; mas, só agora me foi possível pô-lo em letra de forma. Podem dar testemunho de que este trabalho estava escrito desde Janeiro, além de outros, os seguintes senhores: Barreiros Filho, Haroldo Callado, Clementino de Britto, Gustavo Neves e Oswaldo Mello. Exaro aqui a ressalva, a fim de eliminar do cérebro da cúria a provável suspeita de que eu tenha levado seis largos meses na fatura destas poucas dezenas de páginas, - eu, a quem os próprios adversários leais reconhecem a prontidão do revide nos recontros polemísticos.</p>
+
+      <p>Escuse-se-me, porém, calar a razão de ordem íntima, que obstou a que mais cedo se imprimissem estas páginas.</p>
+
+      <milestone unit="asterisks"/>
+
+      <p>Alegra-me vê-las hoje enfeixadas em volume. O texto é simples. Há fatos; mais nada. Divagações, floreios, acrobacias de imagens, <hi>féeries</hi> de estilo, não os encontrará ninguém aqui. Quero bastante às linhas puras do gosto ático. Além disso, seria quase profanação falar de Renan em estilo rebuscado e farfalhudo... O seu espírito gentil amou demais a clareza e a simplicidade harmoniosa, para que não se sentisse chocado, nas alturas onde paira com os artificiosos ouropéis enastrados em torno do seu nome, muito embora os animassem intenções tão raras quanto a minha. Sua irmã Henriqueta lembrava-lhe amiúde que se podem dizer todas as coisas de um modo simples. Ao escrever este opúsculo, procurei não perder de vista o bom conselho.</p>
+
+      <milestone unit="asterisks"/>
+
+      <p>Mas, escrevendo-o, fiz obra útil?</p>
+
+      <p>Talvez: ao menos, para o povo.</p>
+
+      <p>As classes cultas nada encontrarão de novo, acerca de Renan, no meu trabalho. Demonstrar-lhes que Renan foi um sábio eminentíssimo, é repetir-lhes um truísmo.</p>
+
+      <p>Quanto à cúria, não tenho a pretensão de a convencer dessa verdade. A seus olhos, o autor da <hi>Vida de Jesus</hi> será sempre um herege da ínfima estirpe - que é mister bater e perseguir mesmo para além dos umbrais da morte. É evidente. Moisés, outrora, com a ponta do seu bastão patriarcal, fez brotar da dureza da rocha uma fonte cristalina. Que Moisés conseguiria hoje arrancar do clero uma palavra de benevolência ou de tolerância para com as consciências dissidentes?</p>
+
+      <p>Quanto ao povo, que vive entregue ao labor de cada dia e sofre o ludíbrio a que os grandes e históricos exploradores sempre o sujeitaram, algo lucrará com estas páginas. Escrevi-as para ele. É preciso que ele saiba que nem sempre a verdade se acha do lado daqueles que dela querem fazer seu monopólio. O <hi>caso Renan</hi> comprova-o. Este folheto, carecente de outros méritos, terá, todavia, quando menos, o de evidenciar o arrojo a que chegou o clero estrangeiro da minha terra, afirmando em pleno século XX, pela imprensa de uma cidade que não é nenhuma aldeia tibetana, as mais deslavadas patranhas, - que seriam risíveis se não fossem perversas.</p>
+
+      <p>Dado o ascendente de "fidelidade absoluta" que o padre se arroga, e tendo-se em vista o simples e ingênuo espírito do povo em cujo seio ele vive, claro é que esse povo aceitará tudo quanto o padre lhe afirmar, em estilo sacro, pelo púlpito ou pela gazeta. Foi o que se deu com a cúria, a propósito da personalidade nobilíssima de Ernesto Renan, a quem ela procurou deprimir, rebaixando-o ao nível de um literatelho vulgar e, sobre vulgar, plagiário.</p>
+
+      <milestone unit="asterisks"/>
+
+      <p>Existe entre mim e a filosofia do renanismo um abismo quase tão largo e tão profundo como o que se escancara entre mim e a dogmática da cúria. Se divirjo de Renan, porque correr, então, em sua defesa? Porque o vi caluniado e insultado, ele que era a encarnação da bondade e da delicadeza, - insultado e caluniado de um modo triplamente estólido: na sua vida, na sua obra e na sua memória.</p>
+
+      <p>Sim; não compartilho as ideias de Renan; mas nem por isso me assiste o direito de o cobrir de chufas e de apodos. Princípio de caridade evangélica é tratar os inimigos com ânimo paciente e suasório. Observou, porventura, a cúria esse princípio? Não. Ao contrário. O que ela fez com desplante e - porque não dizê-lo? - com ganas, foi conspurcar e atassalhar o renome do eminente historiador. Nada mais incivil, nada menos cristão! Era a violência e a inverdade apadrinhadas pelo autoritarismo sacerdotal.</p>
+
+      <p>Revoltei-me...</p>
+
+      <p>E o presente folheto é a expressão dessa revolta.</p>
+
+      <p>Agradeço ao Pai Celestial o ter-me dado forças para o escrever e meios para o publicar.</p>
+
+      <p>Florianópolis, julho de 1923</p>
+
+      <p>A. F.</p>
+      </div>
+      
+    </front>
+
+    <body>
+      <div type="chapter">
+      <head>Lance de vista ao passado</head>
+
+      <p>Comentando eu, em 1916, uns artigos do sr. Laércio Caldeira, fui asperamente guerreado pelo elemento clerical desta diocese, que, às claras, ou sob pseudônimos vários, me cobriu de sarcasmos e aleivosias. Não que o sr. Laércio Caldeira fosse católico ou precisasse de defesa alheia... Mas é que eu, com a independência costumeira, havia manifestado acerca da divindade de Jesus aquilo que constituía (e constitui) a minha opinião cristológica. Foi por isso que os reverendos padres de Florianópolis se alvoroçaram e se encarniçaram contra mim, pelo <hi>Estado</hi>, pela <hi>Opinião</hi> e até pelo próprio <hi>Dia</hi>, onde estavam sendo publicadas as minhas insulsas <hi>Considerações atuais</hi>. O respeitável monsenhor F. T., secretário do bispado, chegou, mesmo, com uma ingenuidade por assim dizer anacrônica, a inserir no <hi>Dia</hi> de 21 de Maio daquele ano, um "Protesto" que condensava, em quatro ou cinco linhas, uma intolerância multissecular. O sr. dr. T. da F., então diretor do <hi>Dia</hi>, foi, também, impiedosamente atacado pelas colunas da <hi>Opinião</hi>, pelo fato de ter aceitado aqueles meus artigos, qualificados de "anti-católicos" e "heréticos". Ia eu responder às assacadilhas, remoques e insultos dos piedosos ministros do Senhor, quando alguns fortes motivos de ordem privada me dissuadiram desse intento.</p>
+
+      <p>Desligado do catolicismo por motivos puramente intelectuais e científicos, sabia, pela lição eloquentíssima da história, que todos aqueles que emancipam o seu espírito e buscam emancipar os alheios, da tutela romana, estão irremediavelmente condenados à antipatia e às agressões por parte do clero. Esse conhecimento era, porém, absolutamente teórico. A publicação das referidas <hi>Considerações atuais</hi> serviu-me de experiência: a prática deu-me amarga demonstração do que a história, a este respeito, ensinava.</p>
+
+      <p>Impassível e destemeroso, senti passar por mim a lufada das cóleras sacerdotais. Ela passou; eu fiquei.</p>
+
+      <milestone unit="asterisks"/>
+
+      </div>
+
+      <div type="chapter">
+      <head>No presente</head>
+
+      <p>Volvidos mais de seis anos e meio, eis que de novo incorro nas censuras do clero. Desta vez, mudando de processo e de atitude, é a <hi>cúria</hi> que me enfrenta. Eu entendo nada da organização administrativa da igreja (ou do bispado). Os seus regimentos são coisa que se não publica nem se vende em livrarias... Mas, a dar crédito ao que informa o dicionário, <hi>cúria</hi> significa o <hi>tribunal eclesiático da diocese</hi>. De jeito que o que "menos me pesam a mim as fulminações da igreja - que as folhas secas que às vezes caem sobre o meu guarda-sol de cima de um ramo morto" (1).</p>
+
+      <p>Vejamos, porém, donde resulta a questão atual.</p>
+
+      <p>Comemorando-se a 28 de fevereiro de 1923 o primeiro centenário do nascimento de Ernesto Renan, publiquei no <hi>Estado</hi> de 29 de dezembro de 1922, um artigo em que chamava para aquela data a atenção dos homens ilustrados do nosso meio, especialmente dos que amam o "espírito liberto e ágil, consciente da sua força progressiva". Incidentemente, aludi aos "encarniçados adversários" que o escritor francês teve e tem entre católicos e protestantes.</p>
+
+      <p>Oito dias mais tarde, quando já nem lembrança havia da minha desenxabida prosa, a cúria fez inserir no <hi>Estado</hi> e na <hi>República</hi> o mesmo "comunicado" ou "nota" oficial em que se apressava a confessar que, de feito, a igreja detesta e malsina cordialmente o historiador das origens do cristianismo. Porém, não se contentou em declarar, de modo simples e liso, o seu desprezo pelo admirável pensador gaulês: indo mais além, aninhou a sua declaração entre diversas afirmações qual a qual menos digna e menos verdadeira.</p>
+
+      <milestone unit="asterisks"/>
+
+      </div>
+
+      <div type="chapter">
+
+      <head>As afirmações da cúria</head>
+
+      <p>Se comprimirmos, em cerrada análise, o "artigo" da cúria, dele pingarão, grossas e turvas, estas quatro gotas amaríssimas:</p>
+
+      <p>1. "A ciência de Renan é sempre mais ou menos (?) plagiária e discutível; limita-se a introduzir em França, desassimilada e caótica, a escola racionalista e sem base de Strauss e outros pseudo-críticos de além Reno".</p>
+
+      <p>2. "Quanto à sua coerência e qualidades de caráter, basta dizer que o blasfemador da divindade de Jesus Cristo mandava batizar seus filhos; o negador do milagre mandava dizer e assistia a missas por sua irmã Henriqueta; o demolidor das religiões enviava casulas e guisamentos ao sacerdote que assistira os últimos instantes de sua irmã, no Oriente".</p>
+
+      <p>3. "Renan procurou explicar o milagre da multiplicação dos pães", dizendo que o que houve foi apenas a repartição de 5 pães e 2 peixes entre "cinco mil pessoas" que acompanhavam Jesus (não incluindo "as mulheres e as crianças"), contentando-se, todavia, cada um dos presentes com "menos de um milésimo de pão", visto que "os judeus eram de uma extrema frugalidade". Para corroborar esta afirmação, cita a cúria a pág. 497 da <hi>Vida de Jesus</hi> no original. É preciso notar bem isto porque encerra desleal cambapé.</p>
+
+      <p>4. "Renan não foi sábio nem filósofo" e "não passa, com uma bagagem de algumas letras, de um romancista de mau gosto, com pretensões a historiador".</p>
+
+      <p>Tais são os pontos capitais da "nota" curial. Vejamos, agora, o terreno em que se alicerçou o tribunal eclesiástico da diocese para erguer as suas baterias de guerra.</p>
+
+      <milestone unit="asterisks"/>
+
+      </div>
+
+      <div type="chapter">
+
+      <head>O material bibliográfico e científico da cúria</head>
+
+      <p>Em abono do que assevera no seu "comunicado", não nos dá a cúria uma única citação valiosíssima, cuja autenticidade se possa verificar.</p>
+
+      <p>Refere-se, é verdade, a alguns períodos de Colani em uma vaga revista de teologia, de Estrasburgo, mas não esclarece se esse periódico é a <hi>Nouvelle Revue de Théologie</hi>, da qual o próprio Colani era diretor, ou outra...</p>
+
+      <p>Alude, igualmente, a esta linha de Herbert Spencer, que a cúria afirma ser o porta-voz da opinião inglesa acerca do autor da <hi>História de Israel</hi>: "Renan... eu nunca abri um dos seus livros".</p>
+
+      <p>Em primeiro lugar: essa curtíssima frase não exprime a opinião da "Inglaterra fria e prática". O que traduz o conceito em que "a Inglaterra fria e prática" tinha Renan, é o convite que ela lhe dirigiu, por intermédio das associações científicas, para ele ir lá fazer as célebres conferências depois reunidas em volume. Leia-se o que diz Paulo Bourget nos <hi>Ensaios de Psicologia Contemporânea</hi>: "Algumas nações estrangeiras viram finamente a verdadeira disposição-de-alma de Renan. <hi>Quando os ingleses o convidaram a realizar conferências sobre diversos pontos da história do cristianismo,</hi> o pseudo revoltado apareceu-lhes sob a sua verdadeira luz de <hi>pensador, profundamente, intimamente religioso</hi>" (2). </p>
+
+      <p>Em segundo lugar: nas obras, que tenho, de Spencer, não encontrei aquela frase. Enquanto não me for indicada, dentre a copiosa produção spenceriana, a obra, o volume e a página em que ela foi colhida, sou forçado a encará-la como apócrifa. Oxalá não tenha eu oportunidade de repetir a exclamação de Jeremias: <hi>Vere mendacium operatus est stilus mendax scribarum</hi>, - verdadeiramente o ponteiro mentiroso dos escribas gravou a mentira! (3)</p>
+
+      <p>Demos de barato que a famigerada frasezinha seja realmente de Spencer... Ainda assim, que valor tem para a cúria a opinião do célebre filósofo inglês? Nenhuma. É a própria igreja, <hi>pela pena dos seus ministros</hi>, quem o demonstra, combatendo e insultando o mestre do evolucionismo. Provemo-lo. O pe. Leonel Franca, jesuíta, diz que o saber de Spencer "revela aqui deficiências, além contradições, quase sempre superficialidade" (4). "Sua obra", escreve ainda o mesmo padre, "sua obra é mais de poeta imaginoso que de pensador profundo" (5). E o juízo acerca do evolucionismo spenceriano termina com estas palavras: "Só o entusiasmo suscitado no mundo científico pelas ideias darwinistas e a deficiência de pensadores de mais larga envergadura explicam o êxito efêmero da filosofia de Spencer" (6). O pe. Gustavo Locher, também jesuíta, é menos comedido quando escreve que, "felizmente, os leitores de Spencer ainda têm olhos para comparar a realidade com as rapsódias do filósofo darwinista" (7). Diz mais: "Viver no seio desta humanidade e falar como Spencer fala, é só possível ao talento ilusório de um homem que é cego e surdo de nascimento" (8). E a sua crítica orça pelo insulto, quando assevera que o pensador inglês, "sob a capa do título de grande filósofo", não passa de "um flibusteiro cientista" (9).</p>
+
+      <p>A cúria deve subscrever esses julgamentos porque são formulados por oficiais do mesmo ofício, e se encontram em obras que tiveram o <hi>imprimatur</hi> eclesiático... Se, para a cúria, e conforme os dizeres incontestáveis dos autores citados, Spencer não passa de um inglês <hi>deficiente, contraditório, superficial</hi>, em suma, de um "<hi>flibusteiro cientista</hi>", por que motivo o arremessa ela contra Renan como argumento capital? - Quando Spencer prejudica <hi>a igreja</hi>, a cúria acha que ele não passa de um "<hi>flibusteiro cientista</hi>"; quando porém, prejudica <hi>os inimigos da igreja</hi>, a cúria acha que ele é uma voz respeitável, o intérprete autorizado da "Inglaterra fria e prática"... É o velho sistema de dois pesos e duas medidas...</p>
+
+      <p>Há, ainda, a informação de que "os sábios católicos da Alemanha, reunidos em congresso, declararam em manifesto - que "a pretendida vida de Jesus" é uma obra superficial, de valor científico nulo e profundamente imoral". Esse período sugere-me a seguinte consideração: - Se, de fato, a <hi>Vida de Jesus</hi>, de Renan, é uma "obra superficial e de valor científico nulo", como é que despertou atenção dos <hi>sábios católicos da Alemanha</hi>, levando-os a reunirem-se "<hi>em congresso</hi>" e, finalmente, arrastando-os à declaração de guerra por meio de um "<hi>manifesto</hi>"?... Ignoro; e a cúria mesmo deve convir que um livro ordinário e frívolo não provoca celeuma de tal monta... Das duas, uma: ou a obra é poderosa e profunda, e os "sábios católicos da Alemanha" tiveram de tomar diante dela aquela atitude extraordinária; ou é reles e nua, e os referidos "sábios" gritaram, à tona: "aqui d'el-rei!" - fazendo de um argueiro um cavaleiro... De um teor ou de outro, o que merece relevado é o fato de a cúria não dizer <hi>quais eram</hi> os tais "sábios católicos da Alemanha", nem <hi>quando</hi> e <hi>onde</hi> se reuniram...</p>
+
+      <p>Eis aí os documentos científicos e bibliográficos de que se valeu o tribunal eclesiástico da diocese para vituperar o mérito de Ernesto Renan. Ajuntemos-lhes a <hi>Revista de Moguncia</hi> e a <hi>Gazeta eclesiástica</hi>, de Friburgo (que, aliás, não conheço), e teremos, assim o conjunto das armas do seu arsenal polemístico.</p>
+
+      <milestone unit="asterisks"/>
+
+    </div>
+
+      <div type="chapter">
+
+      <head>A 1a. afirmação da cúria</head>
+
+      <p>O que logo se põe em jogo é a ciência de Renan. Assevera o tribunal eclesiástico da diocese que ela "é <hi>sempre</hi> mais ou menos <hi>plagiária</hi> e <hi>discutível</hi>; limita-se a introduzir em França, desassimilada e caótica, a <hi>escola racionalista de Strauss</hi> e outros críticos de além Renos". Mas que é ciência plagiária? Não o diz a cúria, deixando a adivinhação a nosso cargo. Quereria, acaso, insinuar que a ciência do sábio francês era plagiária porque ele era racionalista como o haviam sido Hase, Schleiermacher, Paulus, Hess, Strauss?... Chegará a tal ponto a infantilidade da cúria? - Plagiário é aquele <hi>que apresenta como seu um trabalho</hi> literário, artístico ou científico <hi>produzido por outrem</hi>. Plagiário foi, assim, literariamente, o sr. d. João Becker, arcebispo de Posto Alegre, que, na sua <hi>Nona Carta Pastoral</hi> (prólogo, p. 5), furtou um bom punhado de frases ao trecho de Lamartine, constante da p. 87 do <hi>Petit Cours de Littérature Francaise</hi>, de Charles André). Ora, Renan jamais procedeu como o arcebispo d. João. Entretanto a cúria o asseverou em letra de forma. Como não desejo crer que ela, para demolir os seus adversários, baixe a lançar mão da calúnia à guisa de camartelo, espero que venha fortificar a tremenda imputação com documentos diretos e provar insofismáveis. Se não o fizer, ficarei com o direito de chamar-lhe caluniadora.</p>
+
+      <p>Que a ciência de Renan seja <hi>discutível</hi>, concordo. Eu mesmo, no meu artigo de 29 de dezembro, havia declarado que nas suas obras, segundo a opinião dos competentes, há hipóteses avançadas e falhas não despiciendas.</p>
+
+      <p>Que é que no mundo existe acima da discussão e inacessível à revisão e à correção do futuro? Nada.</p>
+
+      <p>A não ser, talvez, a matemática, que, todavia, necessita de certos artifícios de cálculo, o resto da nossa ciência está sujeito a provável ou, pelo menos, possível correção no porvir. Cada dia adiantamos um passo naquilo que Haeckel denominou os <hi>enigmas do universo e as maravilhas da vida</hi>, - e é das distâncias galgadas que, volvendo para trás os olhos, descortinamos as veredas tortuosas por onde o espírito humano avançou em conquista do saber e da civilização atual. Não há nada que encerre em si a perfeição absoluta; o relativo é a marca distintiva de todo trabalho humano. Era o que já pensava Fénelon, refutando o otimismo de Malebranche.</p>
+
+      <p>Se isso é verdade para as ciências exatas e naturais, se-lo-á, e com maior razão, para a filosofia pura e igualmente para a história de épocas recuadas, cujos documentos são raros, duvidosos e latitudinários.</p>
+
+      <p>Foram estas últimas, entretanto, as criações humanas a que Renan mais se dedicou. A sua ciência, pois, é tão <hi>discutível</hi>, como o é a ciência de Aristóteles e de Túcides, de Platão e de Sallustio, de santo Agostinho e de Suetonio, de santo Thomás de Aquino e de Maquiavel, de Guilherme Occam e de Cantu, de Francisco Bacon e de Antonio Conde, de Leibniz e de Michelet, de Kant e de Fustel de Coulanges, de Comte e, de Ranke, de Spencer e de Mommsen, de Maeckel e de Macaulay, de Farias Brito e de Oliveira Martins, etc. etc.</p>
+
+      <p>Isso é incontrastável.</p>
+
+      <p>Vejamos ainda a segunda parte da afirmação da cúria: que Renan "se limitou a introduzir em França a escola racionalista de Strauss". Esse dizer carece de verdade. Contra ele se erguem dois argumentos:</p>
+
+      <p>a) argumento interno ou doutrinário. O racionalismo de Renan é diverso do de Strauss, pelo ponto-de-partida, pela técnica e pelas conclusões. Em Strauss, a vida de Jesus não constitui, propriamente, tema biográfico; o seu livro é, antes, a miúda exegese crítica dos materiais com que se poderia esboçar uma biografia <hi>real</hi>, despida de todas as lendas que, aceitas ortodoxalmente, repeliriam Jesus para fora do chão da história. Renan, por seu turno, esforça-se por dar ao seu trabalho o cunho de uma biografia <hi>histórica</hi> e <hi>psicológica</hi>. Racionalistas ambos, divergem, entretanto, de maneira notável. Enquanto Strauss sujeita as narrativas evangélicas à explicação mítica, não se compadece Renan com esse processo, e, muito embora ache o livro de Strauss "cômodo, exato, engenhoso e consciencioso", critica-o pelo julgar "viciado nas suas partes gerais por um sistema exclusivo" (10), por ter "o defeito de se prender muito ao campo teológico e pouquíssimo ao histórico" (11) e, principalmente, por "presumir o caráter individual de Jesus menos claro do que é, talvez, na realidade" (12). Vê-se, por conseguinte, que Renan está longe de haver imitado a "escola racionalista de Strauss". </p>
+
+      <p>b) argumento <hi>externo</hi> ou <hi>histórico</hi>. A <hi>Vida de Jesus</hi> (13), de Strauss, foi dada a lume em 1835 e traduzida par ao francês por Emilio Littré em 1839-1840; enquanto a <hi>Vida de Jesus</hi>, de Renan, só foi publicada em 1863, isto é, <hi>vinte e sete anos após a tradução francesa de Strauss por Littré</hi>. Quer dizer que, quando Renan lançou a sua obra à publicidade, o "<hi>racionalismo de Strauss</hi>" <hi>já estava introduzido em França havia vinte e três anos</hi>!</p>
+
+      <p>A primeira afirmação da cúria encerra, pois, uma aleivosia, um truísmo e um erro.</p>
+
+      <milestone unit="asterisks"/>
+
+    </div>
+
+      <div type="chapter">
+
+
+      <head>A 2a. afirmação da cúria</head>
+
+      <p>Para a cúria romana o historiador do povo de Israel não teve coerência nem caráter: porque, descrendo do milagre e da divindade de Jesus, mandava, todavia, batizar seus filhos, rezar missa por alma de sua irmã Henriqueta e brindava com casulas e guisamentos o padre que assistira os últimos momentos desta, no Oriente.</p>
+
+      <p>Eis o que afirmaram os reverendos membros do tribunal eclesiástico da diocese. Afirmaram, porém, sem aduzir uma única prova sequer.</p>
+
+      <p>Isso me faz lembrar o que o meu antigo professor de religião disse uma vez em aula: que Victor Hugo havia morrido nos braços de um padre e reconciliado com a igreja... Entretanto, fui verificar depois que o grande poeta, sem embargo de levar desta para melhor a crença poderosa e santa na existência de Deus, deixará escrito no seu testamento: "Dou 50.000 francos aos pobres. Desejo ser levado no carro deles para o cemitério. RECUSO A ORAÇÃO DE TODAS AS IGREJAS; <hi>rogo, porém, uma prece a todas as almas</hi>. Creio em Deus. <hi>Victor Hugo</hi>".</p>
+
+      <p>Talvez se dê o mesmo com o caso Renan... O motivo da minha suspeita é que, conhecendo eu muitos e muitos autores que se referiram ao historiador das origens do cristianismo, não encontrei um só que aludisse ao que a cúria assevera, ou que, ao menos, pusesse em dúvida a integridade do caráter do grande escritor. Nenhum!</p>
+
+      <p>Como ignoro também quais eram as ideias religiosas de sua irmã Henriqueta, de sua mulher e dos demais parentes seus, não posso dizer que aqueles atos de Renan, aparentemente em desacordo com as suas ideias, fossem resultantes das injunções sentimentais de sua família. Mas tudo leva a crer que sim. Pessoas conheço eu, que, estando para com a igreja nas mesmas condições que se achava Renan, <hi>permitem</hi>, todavia, o batismo dos filhos e a missa por parentes falecidos, só porque tal desejam as almas piedosas e crédulas das duas esposas, das suas irmãs, etc. Tolerantes por espírito filosófico, não se interpõem entre o coração que acredita e a ilusão que se esfuma.</p>
+
+      <p>A fé pode não salvar; mas, quando é sincera, quase sempre fortalece e consola. Aliás, não é de salvação que precisamos mais, pois, filhos de Deus que somos, não nos sentimos abandonados do Pai: através das misérias e das dores terrenas, o que necessitamos é de fortaleza e de consolação, - coragem para a luta e bálsamo para as feridas.</p>
+
+      <p>Renan, mais do que ninguém, reconheceu isso. E, pelo reconhecer, é que proclamou a <hi>necessidade das religiões</hi>. A cúria, todavia, atira sobre ele o qualificativo imoral de "demolidor das religiões", querendo apresentá-lo à população das sacristias como um desvairado, um energumeno, um possesso de furor deicida. Vejamos, porém, o que diz Renan em vários passos: "Está muito longe de mim a ideia de abalar a fé de alguém" (13). "Deixemo-nos estar nas nossas igrejas respectivas, aproveitando o seu culto secular e a sua tradição de virtude, participando nas suas boas obras e gozando a poesia do seu passado. Não repeliremos senão a intolerância. Perdoemos mesmo a esse intolerância; ela é, como o egoísmo, uma das necessidades da natureza humana" (14). "A arte grega leva tanta vantagem a todas as outras artes, quando o cristianismo às outras religiões... Em outros termos, o helenismo é tanto um prodígio de beleza, como cristianismo um prodígio de santidade" (15) "Gozemos a liberdade dos filhos de Deus; mas livremo-nos de cumplicidade na diminuição de virtude que ameaçaria as nossas sociedades se o cristianismo viesse a perder forças. Que seríamos sem ele? Quem há de substituir essas grandes escolas de seriedade e de respeito como São Suplício, ou o ministério de dedicação das Irmãs de Caridade? Quem não se há de assustar com aridez de alma e com a pequenhez que invadem o mundo? A nossa dissidência com as pessoas que creem nas religiões positivas é unicamente científica; pelo coração, estamos com elas; só temos um inimigo, que também o é delas: o materialismo vulgar, a baixeza do homem interesseiro. Paz, em nome de Deus! Vivam em boa-harmonia as diversas ordens da humanidade, não falseando o seu engenho próprio com recíprocas concessões que as amesquinhariam, mas esteiando-se mutuamente. Nada deve reinar neste mundo com a exclusão do seu contrário; cumpre que nenhuma força possa suprimir as outras. A harmonia da humanidade resulta da livre emissão das notas mais discordantes. Se a ortodoxia conseguir a morte da ciência, sabemos o que acontecerá; o islamismo e a Espanha morrem por terem demasiado conscienciosamente levado ao cabo essa tarefa. Se o racionalismo quiser governar o mundo sem dar importância às necessidade religiosas da alma, temos a experiência da Revolução francesa a dizer-nos quais são as consequências de tal erro. O instinto da arte, levado ao mais alto requinte, mas sem nobreza, fez da Itália da Renascença um perigoso covil. O tédio, a parvoíce, a mediocridade são o castigo de certos países protestantes, onde, a pretexto de bom senso e de espírito cristão, foi suprimida a arte e reduzida a ciência a certa mesquinhez. Lucrécio e Santa Teresa. Aristófanes e Sócrates, Voltaire e S. Francisco de Assis, Raphael e S. Vicente de Paulo têm igual razão de ser, e a humanidade seria menor se lhe faltasse um dos elementos que a compõem" (16). "A religião de Jesus é, a alguns respeitos, a religião definitiva" (17). "Tudo que se fizer, fora desta grande e boa tradição cristã, será estéril" (18). "Jesus será sempre, em religião, o criador do sentimento puro" (19). Depois de descrever a morte do fundador do cristianismo, tem Renan estas frases admiráveis: "Repousa agora na tua flória, nobre iniciador! Acabaste a tua obra, fundaste a tua divindade. Não receies ver desabar por um erro o edifício erguido pelos teus esforços. D'ora avante, fora do alcance da fragilidade, assistirás, do alto da paz divina, às consequências infinitas dos teus atos. À custa de algumas horas de sofrimento, que nem chegaram a tocar a tua grande alma, grangeaste a mais completa imortalidade. Por milhares de anos, o mundo vai depender de ti! Bandeira das nossas contradições, serás o sinal à volta do qual se há de travar a mais ardente batalha. Mil vezes mais vivo, mil vezes mais amado depois da tua morte do que durante os dias da tua passagem na terra, virás a ser a tal ponto a pedra angular da humanidade, que arrancar o teu nome deste mundo seria abalá-lo até os seus fundamentos... Plenamente vencedor da morte, toma posse do teu reino, onde te hão de seguir, pela estrada real que traçaste, largos séculos de adoradores!" (20).</p>
+
+      <p>E a cúria não se peja de lançar ao rosto de Renan o brutal e imerecido epíteto de "demolidor das religiões"! Se ela diz isso, possuindo nós outros as obras de Renan, que a desmentem, porque não poderá dizer também que ele, separado da igreja por fundas razões morais e científicas; mandava entretanto batizar seus filhos e rezar missa por alma de sua irmã?...</p>
+
+      <p>Tudo se pode esperar da cúria. E o filósofo francês já mesmo tinha escrito: "Os partidos religiosos conservadores nunca ousaram recuar diante da calúnia" (21).</p>
+
+      <milestone unit="asterisks"/>
+
+    </div>
+
+      <div type="chapter">
+
+      <head>A 3a. afirmação da cúria</head>
+
+      <p>Para trás já vimos, catalogada entre as outras, a terceira afirmação curial: "Renan procurou explicar o milagre da multiplicação dos pães" dizendo que o que houve foi apenas a <hi>repartição</hi> de 5 pães e 2 peixes entre "5.000 pessoas" que acompanhavam Jesus (não incluindo as mulheres e as crianças), "abarrotando-se, todavia, cada um dos presentes, com "<hi>menos de um milésimo de pão</hi>", visto que "<hi>os judeus eram de uma extrema frugalidade</hi>", "sendo pena que Renan não informasse como dos restos se puderam ainda encher doze cestos!..." [Tal dito da cúria, que ela apoia à pág. 497 da <hi>Vida de Jesus</hi>, no original].</p>
+
+      <p>E a cúria acrescenta, com graciosa desenvoltura: "Para quem admite, como Renan, a autenticidade dos evangelhos", a história dos pães é "um milagre de primeira grandeza".</p>
+
+      <p>Até onde vai a "autenticidade" alegada pelos reverendos da cúria? É preciso dizer o que pensava o cristólogo francês acerca dos primeiros livros do Novo Testamento:</p>
+
+      <p>a. "Que os evangelhos são em parte lendários, isso é evidente, porque estão cheios de milagres e de sobrenatural... Em que época, por que mãos e em que condições foram redigidos os evangelhos? Tal é a questão essencial e de que depende a opinião que é mister formar da sua credulidade" (22).</p>
+
+      <p>b. "Todos sabem que cada evangelho corre com o nome de um indivíduo conhecido na história apostólica ou mesmo na evangélica. Em rigor, não nos são dados esses personagens como autores. As fórmulas - segundo Matheus - segundo Marcos - segundo Lucas - segundo João não querem dizer necessariamente que, consoante com a mais antiga opinião, fossem escritas do princípio ao fim essas narrações por Matheus, Marcos, Lucas ou João; só significam que era tradições provenientes de cada um desses apóstolos e que se acolhiam à sombra da sua autoridade" (23).</p>
+
+      <p>c. "Admito como autênticos os quatro evangelhos canônicos. Todos, no meu entender, datam do primeiro século, e são, com pequena diferença, dos autores a quem se atribuem: mas é mui diverso o seu valor histórico" (24).</p>
+
+      <p>Em suma: para Renan, os evangelhos são autênticos quanto à sua <hi>autoria</hi> (com alguma diferença) e quanto à época da sua <hi>composição</hi>; mas, não quanto ao seu valor como documentos históricos, uma vez que "estão cheios de milagres e sobrenatural". "Ora, diz ele, é regra absoluta da crítica não admitir em história circunstâncias miraculosas. Não é consequência de um sistema metafísico. É simplesmente um fato de observação. Nunca se demonstraram fatos milagrosos. Todos os desse gênero, que podemos estudar de perto, resolvem-se em ilusão ou impostura. Se houvesse um milagre provado, não poderíamos enjeitar todos os das antigas histórias por junto: porque em todo caso, admitindo que muitos fossem falsos, poderíamos crer que um ou outro fosse verdadeiro. Mas não é assim. Todos os milagres ao alcance da discussão desaparecem. Não estamos, pois, autorizados para concluir daí que os milagres apartados de nós por séculos, e sobre os quais não há meio de estabelecer discussão contraditória, também são despidos de realidade? Em outras palavras, não há milagre senão quando se crê em milagre; o que faz o sobrenatural é a fé. O catolicismo que afirma que a força miraculosa ainda não está extinta no seu seio, está sob a influência dessa lei. Os milagres, que diz fazer, não se verificam onde cumpria que se verificassem. Quem tem um meio tão simples de prova, porque não há de submetê-lo à máxima publicidade? Um milagre em Paris, na presença de sábios competentes, dava fim a tantas dúvidas. Mas é os que nos falta. Nunca se realizou um milagre perante um público que cumprisse converter, isto é, perante incrédulos. A condição do milagre é a credibilidade da testemunha. Ainda não houve nenhum na presença de quem pudesse discuti-lo e submetê-lo à crítica. Apontem-me uma exceção. Disse Cícero (<hi>De divinations</hi>, III, 57) com o seu ordinário bom-senso e sutileza: "Desde quando desapareceu essa força secreta? Não foi desde que os homens são menos crédulos?" Eis aí o que Renan escreveu no seu livro sobre os Apóstolos (25). Mas, já na Vida de Jesus (26) tinha ele dito: "Uma observação, que nunca foi desmentida, ensina-nos que só se operam milagres em tempos e em países em que se crê em milagres, na presença de pessoas que estão dispostas para lhes dar crédito. Ainda não houve um que fosse feito na presença de uma reunião de homens capazes de verificar o caráter milagroso de um fato". "Não é, pois, em nome desta ou daquela filosofia, é em nome de constante experiência, que expulsamos da história o milagre. Não dizemos: "O milagre é impossível". Dizemos: "ainda não houve milagre certificado". Apareça amanhã um taumaturgo com bem sérias garantias para ser discutido; suponhamos que se anuncia para ressuscitar um morto. Que é que se faria? Nomear-se-ia uma comissão composta de fisiologistas, de físicos, de químicos, de homens práticos na crítica histórica. Essa comissão escolheria o cadáver, certificar-se-ia de que a morte era bem real, indicaria a sala onde deveria ser feita a experiência, regularia todo o sistema de precauções necessárias para não dar entrada à dúvida. Se, em tais condições, se operasse a ressurreição, ter-se-ia alcançado uma probabilidade quase igual à certeza. Entretanto, como sempre se deve repetir uma experiência, como um homem deve ser capaz de fazer segunda vez a mesma coisa, e como na ordem do milagre não pode, haver fácil nem difícil, seria convidado o taumaturgo para reproduzir o seu ato maravilhoso em outras circunstâncias, sobre outros cadáveres, em outro meio. Se todas as vezes corresse bem o milagre, ficariam demonstradas duas coisas: a primeira seria que no mundo se passam fatos sobrenaturais; a segunda, que o poder de os produzir pertence ou é delegado a certas pessoas. Mas ninguém ignora que ainda não houve um milagre operado nestas condições; que até aqui o taumaturgo tem sempre escolhido o objeto da experiência, o meio e o público; que, demais, é quase sempre o povo que, em consequência da irresistível necessidade que tem de ver alguma coisa divina nos grandes acontecimentos e nos grandes homens, cria a seu bel-prazer as lendas maravilhosas. Até nova ordem, ater-nos-emos, portanto, a este princípio de crítica histórica — que uma notícia sobrenatural nunca pode ser admitida como tal, que implica sempre credulidade ou impostura; que o dever do historiador é interpretá-la e averiguar qual é a parte de verdade e qual a parte de erro que ela pode conter" (27). Tudo isso parece estar condensado neste raciocínio de Strauss (28), a propósito de Paulus: "Ou bem que os evangelhos são verdadeiros documentos históricos, e não pode então o milagre ser eliminado da vida de Jesus; ou bem que o milagre é incompatível com a História, e, em tal caso, não podem os evangelhos ser documentos históricos".</p>
+
+      <p>Não reconhecendo a <hi>historicidade</hi> do milagre, não podia Renan explicá-lo, como o afirma a cúria. Mesmo que existisse o milagre (no sentido em que o toma a teologia ortodoxa), nem Renan, nem a cúria, nem ninguém conseguiria explicá-lo, porque o próprio dele era ser inexplicável. Se é coisa impossível explicar um milagre, não o será menos tratando-se de dois... Porque há <hi>dois</hi> milagres de multiplicação de pães e peixes em o Novo Testamento. Referindo-se apenas a um, isto é, ao citado pelos quatro evangelistas (28), a cúria parece ignorar que, além desse, há outro, mencionado por Matheus (29) e por Marcos (30), e completamente desconhecido de Lucas e de João.</p>
+
+      <p>Convém examiná-los ambos, pondo-lhes ao fim o comentário que merecem.</p>
+
+      <p>No 1o. milagre, a multiplicação dá-se sobre <hi>cinco</hi> pães e <hi>dois</hi> peixes, no que estão de acordo os quatro evangelistas, sendo João o único a indicar a qualidade dos pães (de cevada); o número dos que comeram é em João "<hi>perto de cinco mil pessoas</hi>" (sem distinção de idade, nem de sexo), em Lucas "<hi>quase sendo mil homens</hi>", em Marcos JUSTAMENTE <hi>cinco mil homens</hi>, e em Matheus atinge a "cinco mil homens ALÉM DAS mulheres e crianças"; afinal, sobraram ainda <hi>doze</hi> cestos de fragmentos de pães e peixes, segundo os sinópticos, e somente de pães de cevada (sem peixe), segundo João.</p>
+
+      <p>No 2o. milagre (que, como vimos, é ignorado por Lucas e João), a multiplicação é operada, segundo Matheus, sobre "<hi>sete pães e uns poucos de peixinhos</hi>", e, segundo Marcos, APENAS sobre "<hi>sete pães</hi> (sem peixes); a multidão saciada é de "<hi>quatro mil homens</hi> FORA <hi>meninos e mulheres</hi>", segundo Matheus, e APENAS de "<hi>quatro mil pessoas</hi>", segundo Marcos (que não distingue sexo nem idade); por fim, os sobejos (em Matheus, <hi>pão e peixe</hi>, em Marcos, <hi>pão</hi> somente) encheram <hi>sete</hi> alcofas.</p>
+
+      <p>Ao cabo, podemos ainda perguntar: - Teria também havido a <hi>criação</hi> ou <hi>fabricação</hi> milagrosa dos cestos? - Os evangelistas emudecem sobre esse ponto. Que alguém tratasse de os adquirir por compra ou por empréstimo, para neles receber os sobejos, é uma conjectura infundada, pois o local era <hi>deserto</hi>, segundo o declaram os narradores; não menos deficiente é a hipótese de ter saído aquela multidão para o deserto, levando inutilmente cestos vazios no braço...</p>
+
+      <p><hi>Dicant paduani.</hi></p>
+
+      <p>Quem é que, a não ser os espírito emancipados, atentou já nessas discordâncias? Muitas e muitas outras, mais graves, mesmo perfeitas contradições, se encontram nos evangelhos. Falta-me, porém, espaço para as enfileirar aqui. Entretanto, a igreja vê nos referidos textos não só documentos históricos de valor irrefragável, como também escrituras <hi>sagradas, diretamente inspiradas aos seus autores pelo Espírito Santo...</hi></p>
+
+      <p>Quando há dois, três, quatro ou mais documento acerca de um fato qualquer, exige-se que todos eles estejam de acordo entre si, até nas minúcias secundárias, sendo este, mesmo, a certos respeitos, um dos sinais mais evidentes da sua validade histórica; e quando é o Espírito Santo que inspira a sua elaboração e assiste à sua escrita, temos o direito de esperar que neles não haja omissões nem divergências, pois que o Espírito Santo não é suscetível de esquecimento nem de contradição. Se, porém, os ditos documentos, com tal caráter e garantia, se apresentem eivados daquelas tachas, podemos com justiça revocar em dúvida a sua validez e concluir, no mínimo, que o Espírito Santo, como o velho Homero, às vezes cochila...</p>
+
+      <p>Dir-me-ão, porventura, que as variantes e omissões nas narrativas dos <hi>dois</hi> milagres da multiplicação dos pães, são insignificantes porque não viciam e essencial, isto é, os fatos em si. Responderei que, se é hábito exigir-se concordância entre vários documentos relativos a um fato qualquer da história profana, porque dispensar esse critério, aliás importantíssimo, quando se trata da história religiosa e, sobretudo quando o fato se prende imediatamente ao fundador da religião estudada? A fé, em história profana, alicerça-se em documentos harmônicos entre si; por que motivo permitiremos que, em história religiosa, a fé dispense a harmonia dos documentos para se apoiar gratuitamente na... <hi>boa-fé</hi>?</p>
+
+      <p>Eis aí o que eu tencionava observar após a exposição das ideias de Renan acerca do milagre em geral. Vou, agora, tratar do que a cúria afirma.</p>
+
+      <p>Diz ela que Renan, <hi>explicando</hi> o milagre na pág. 497 da <hi>Vida de Jesus</hi> (no original), achou natural que cinco mil homens, sem contar as mulheres e as crianças, houvessem ficado satisfeitos com os únicos <hi>cinco</hi> pães e os únicos <hi>dois</hi> peixes repartidos, visto que os judeus eram de uma extrema sobriedade... - Só um doido poderia escrever essa parvoíce. A cúria, entretanto, assevera que Renan escrever. Então Renan é doido?! Felizmente, não; a cúria é que é mentirosa! Verifiquemo-lo.</p>
+
+      <p>A passagem por ela citada constaria do apêndice à <hi>Vida de Jesus</hi>, e no qual Renan analisa largamente o evangelho de João. O tradutor português do referido livro não verteu o apêndice, de forma que inutilmente se procurará aquela matéria e aquela página (497) na tradução, que, aliás, não contém mais que 378 páginas, incluindo o índice. No trecho indicado pela cúria como sendo do original, efetivamente Renan se refere ao milagre (ou milagres) da multiplicação dos pães. Eis, porém, o que ele diz: "Capítulo VI, vers. 1-14: - Milagre galileu ainda esta vez idêntico a um dos referidos pelos sinóticos; trata-se da multiplicação dos pães. É claro que é um dos milagres atribuídos em vida a Jesus, - milagre a quem uma circunstância real deu lugar. Nada mais fácil que imaginar tal ilusão em consciências crédulas, ingênuas e simpáticas. "Enquanto estávamos com ele, não tivemos fome nem sede"; essa frase tão simples tornou-se um fato maravilhoso que passou a ser contado com toda sorte de amplificações". (Deixo de traduzir as linhas subsequentes porque nada adiantam à questão ventilada).</p>
+
+      <p>Que Renan aí negue o milagre, é evidente, mesmo porque, como já sabemos, ele não admite milagre de espécie alguma; mas que diga ou sequer insinue nessas linhas que, em virtude da extrema sobridade própria da raça, cada um dos cinco mil judeus, das mulheres e das crianças, que acompanhavam Jesus, se "abarrotou" <hi>(sic)</hi> com um pedaço infinitesimal dos 5 pães e dos 2 peixes por ele partidos, - é uma afirmação desonesta, forgicada para armar ao efeito entre leitores inexperto e confiantes!</p>
+
+      <p>Jamais asseverou Renan semelhantes sandice. Os padres da cúria têm uma fértil imaginação...</p>
+
+      <p>Fértil e perigosa!</p>
+
+      <milestone unit="asterisks"/>
+
+    </div>
+
+      <div type="chapter">
+
+      <head>A 4a. afirmação da cúria</head>
+
+      <p>Eis como, entre os dedos da crítica, se esfarelam as aleivosias eclesiásticas.</p>
+
+      <p>Falta-me pulverizar a quarte e última: "Renan não foi sábio nem filósofo", e "não passa, com uma bagagem de algumas letras, de um romancista de mau-gosto com pretensões de historiador".</p>
+
+      <p>O que a cúria proclama aí é a negação do que escrevi. Sim: eu disse que Renan foi sábio, filósofo e historiador; ela contesta clara e cruamente o meu dizer. Demonstrou ela, porém, por meio de análises científicas e de exposições críticas, que Renan estava longe de ser o que eu dizia? Não. Apoiou, sequer, a sua negação, em autores de reconhecido mérito e imparcialidade? Também não.</p>
+
+      <p>Quanto a mim, agora, para roborar o meu asserto, vou deixar aqui um feixe de citações forrageadas em obras de real merecimento, indicando os respectivos autores, o volume e a página. Elas dirão, melhor do que eu, que Renan foi, na verdade, um historiador, um filósofo, um sábio, a quem a pátria francesa teve razão de cobrir de honrarias quando vivo, perpetuando-lhe depois a memória em uma estátua admirável em Tréguier, sua cidade natal.</p>
+
+      <p>Antes, porém, esboçarei, a largos traços, uma notícia bio-bibliográfica do eminente pensador, a qual servirá para melhor justificar as aludidas citações (32).</p>
+
+      <p>Em 1848, aos vinte e cinco anos de idade, Renan alista-se no concurso de <hi>agrégation</hi> de filosofia e alcança o primeiro lugar com a explanação da tese sobre a Providência, ao mesmo tempo que obtém, no concurso de linguística, o prêmio Volney, pela memória apresentada sobre as línguas semíticas e que mais tarde ele publica em parte sob o título de <hi>História geral e sistema comparado das línguas semíticas</hi>; em 1849 substitui seu amigo Bersot na cadeira de filosofia no Liceu de Versalhes, e vai também à Itália, enviado em missão literária pela Academia de Inscrições e Belas-Letras, trazendo de lá as preciosas achegas com que elabora o seu trabalho sobre a filosofia árabe, intitulado <hi>Averróis e o averroismo</hi>; no ano seguinte, o Instituto da França, tabernáculo da alta cultura gaulesa, coroa-o merecidamente pela célebre memória sobre o <hi>Estudo da língua grega na idade média</hi>; do departamento dos manuscritos da Biblioteca Nacional, onde se achava desde 1851, é eleito membro da Academia de Inscrições e Belas-Letras em 1856, em substituição a Agostinho Thierry, o renovador da historiografia francesa; em 1860 resolve ir em missão científica à Síria, e logo vê o governo da sua pátria pôr-lhe à disposição todos os meios materiais, inclusive o concurso dos agentes consulares e dos oficiais da esquadra do Levante; ao regressar a Paris, em 1861, é condecorado pela Legião de Honra; em 1863 dá a lume a <hi>Vida de Jesus</hi>, e tamanha foi a guerra de intrigas e de insultos que lhe moveu o clero, que ele acabou sendo demitido em 1864 do cargo de professor de hebraico do Colégio de França, somente voltando a esse posto em 1870; em 1873 promovem-no a administrador do referido Colégio; em 1878 é eleito para a vaga de Claudia Bernard na Academia Francesa; em 1884 é promovido ao grau de comendador da Legião de Honra e nomeado membro do conselho da Ordem, etc. etc.</p>
+
+      <p>Tais são, resumidos, os principais títulos com que se abona Ernesto Renan. Um só deles bastaria para consagrar qualquer mortal. Sim: pelos cargos que ocupou, pelos diplomas e honrarias com que as instituições literárias e científicas o premiaram, pela profundeza e alcance dos seus trabalhos, Renan, queiram ou não queiram os seus detratores, é um filósofo e um sábio.</p>
+
+      <p>Senão, veja-se o que dizem os competentes(*):</p>
+
+      <p>(*) O excesso de palavras em itálico (além dos títulos das obras citadas) nos trechos seguintes, é simplesmente para salientar o que se relaciona com o valor de Renan como filósofo e como sábio.</p>
+
+      <p>Henriqueta Wurmser, à pág. 446 do segundo volume da sua <hi>História da Civilização</hi>, escrever: "Renan, filósofo e historiador, arqueólogo, linguista, é um dos mestres mais delicados do pensamento contemporâneo. Seminarista, afastado do sacerdócio por escrúpulos da consciência, permanece crente e entrega-se ao estudo dos problemas religiosos, onde introduz <hi>o mais rigoroso método histórico</hi>. Com o seu livre-exame e a sua investigação científica, destrói erros inúmeros e contribui para espalhar o espírito de dúvida. Os seus <hi>Diálogos filosóficos</hi>, os seus <hi>Ensaios</hi>, o seu <hi>Futuro da ciência</hi>, as suas <hi>Recordações</hi>, em que o pensamento se exprime com tanto encanto e tanta profundeza, fazem dele <hi>um dos filósofos mais populares do século XIX</hi>".</p>
+
+      <p>No <hi>Movimento literário do século XIX</hi>, obra esta coroada pela Academia Francesa, faz Jorge Pellissier uma penetrante análise da obra e da individualidade de Renan, da pág. 314 a 321. Nessa análise respiguei as seguintes passagens: "Foi para o estudo da <hi>história</hi> que logo se voltou Renan; e bem que ele haja tocado nas matérias mais diversas, esse estudo ficou sempre o objeto capital da sua aplicação. Sendo a história, ao mesmo tempo, ciência e arte, convinha maravilhosamente já ao seu gosto da análise, já à sua faculdade divinatriz". "Renan aplicou aos <hi>estudos históricos</hi> o método das ciências naturais, que cedo se lhe havia deparado como a lei do verdadeiro". Tal qual Michelet, <hi>tem Renan o sentimento instintivo da vida histórica... Possui no mais alto grau essa faculdade capital do historiador,</hi> que consiste em saber compreender estados diferentes daquele em que vivemos". "Não devemos escrever, disse algures, senão daquilo que amamos. Ele mesmo aplicou essa máxima sua, consagrando toda a existência a escrever a narrativa das origens cristãs <hi>em um espírito de crítica severa e de piedosa simpatia</hi>".</p>
+
+      <p>Um dos estudos mais luminosos que conheço acerca do grande sábio, é, sem dúvida, o que inseriu Paulo Bourget nos <hi>Ensaios de Psicologia Contemporânea</hi>. Ocupa 88 páginas do primeiro volume dessa obra (pág. 37 a 125) e está saturado de uma grande veneração pela têmpera moral e intelectual do eminente pensador. Contentar-me-ei em extrair desse "ensaio" uns grãos de ouro, já que não posso transplantar para aqui todo o rico filão: "Tomada em conjunto, <hi>a obra de Renan é uma obra de ciência</hi>. Ora, será legítimo considerar tal obra de outra maneira a não ser do ponto-de-vista científico?" "Ao mesmo tempo que ele (Renan) penetrava o sentido misterioso das <hi>teologias</hi> mais opostas, estudava cinco ou seis <hi>literaturas</hi>, outras tantas <hi>filosofias</hi>, todas as sortes de usos e costumes; pois a crítica atual, que conclui pela dependência das manifestações de uma época, nos obriga a conhecê-las todas para podermos explicar uma". "Nenhum escritor tem mais novidade do que ele nas ideias e nos sentimentos, porque <hi>nenhum pôs mais sinceridade</hi> na invenção das ideias e na exposição dos sentimentos". Em suma, Renan foi "<hi>um dos homens mais notáveis da sua época</hi>".</p>
+
+      <p>No seu <hi>Ano literário</hi> (Primeiro ano, pág. 425-426) registrou Gustavo Vapereau o aparecimento das duas obras de Renan: <hi>Da origem da linguagem</hi> e <hi>História geral e sistema comparado das línguas semíticas</hi>. Entre outros conceitos elogiosos, diz: "Dessas duas obras, a primeira pertence mais particularmente à <hi>filologia</hi> geral, à <hi>filosofia</hi> das línguas; a segunda é <hi>uma das fontes mais importantes</hi> do conhecimento, hoje tão em voga, das línguas orientais, mas em Renan a <hi>filosofia</hi> e a <hi>ciência</hi> estão sempre tão naturalmente ligadas, que ele põe em um quadro filosófico <hi>muita ciência</hi> e em um livro de investigações sábias <hi>muita filosofia</hi>". Na tradução do <hi>Livro de Jó</hi>, o mesmo Vapereau declara ver "mais uma prova de <hi>ciência e de talento</hi>... Não é uma simples tradução, mas uma completa restauração da obra antiga".</p>
+
+      <p>Fernando Brunetière, estudando a <hi>Evolução da Crítica desde a Renascença até os nossos dias</hi>, disse que Renan "procurou dar à crítica a certeza e a <hi>solidez científica</hi> alicerçando-a na <hi>linguística</hi> e na <hi>antropologia</hi>" (pág. 242). "Graças ao seu talento de escritor, é Renan quem tem feito passar para o uso comum da crítica geral... as aquisições realizadas por Eugênio Burnouf... <hi>Abriu-nos com isso um mundo novo"</hi>; e ainda que ele não haja exercido a profissão de crítico - pelo menos no sentido em que convencionalmente restringimos a palavra, - podeis medir por aí a grandeza do trabalho prestado; em fim, se bem que os seus trabalhos especiais nos escapem, Renan deve ocupar lugar na história ou, melhor, na evolução contemporânea" (pág. 243). Tanto Brunetière - católico rubro, papista, ultramontano - via em Renan um <hi>erudito</hi>, um <hi>historiador</hi> e um <hi>filósofo</hi>, que, referindo-se ainda ao grande escritor no seu <hi>Manual de história da Literatura francesa</hi> (pág. 514), e estudando-lhes as obras, dividiu-as em três grupos: 1o., obras de <hi>erudição</hi> pura; 2o., obras de <hi>história</hi> religiosa; 3o., obras <hi>filosóficas</hi>. E, aludindo ao <hi>Averróis e o Averroismo</hi>, à <hi>História geral e comparada das línguas semíticas</hi>, ao <hi>Ensaio sobre a origem da linguagem</hi>, ao <hi>Livro de Jó</hi> e ao <hi>Cântico dos Cânticos</hi>, disse que um dos caracteres mais belos desses livros era a "<hi>solidez científica</hi>" (pág. 512). Em suma, coagido pela evidência literária e científica de Renan "foi considerável, <hi>tão considerável como a de mais ninguém em seu tempo</hi>" (pág. 514).</p>
+
+      <p>Emilio Faguet, no segundo volume da sua <hi>História da Literatura francesa</hi>, informa-nos que Renan era "versadíssimo na língua alemã, no latim, no grego e no hebraico", e que "cedo se apaixonou pelo estudo da <hi>filosofia</hi>, da <hi>ciência das religiões</hi> e da <hi>filologia</hi>" (pág. 398). "Depois de ter abandonado as crenças religiosas da sua infância, <hi>aderiu de todo o coração à ciência</hi>, confiou-lhe todas as suas aspirações e <hi>devotou-lhe toda a sua vida" (loc. cit).</hi> Referindo-se às duas grandes obras históricas sobre o povo de Israel e as origens do cristianismo, emite estes conceitos: "Esse monumento é considerável como <hi>investigação</hi> e como <hi>saber</hi>; ainda o é mais como <hi>pensamento</hi>. Como quase todos os historiadores do século XIX, <hi>Renan é um historiador moralista.</hi> Os seus retratos de David, de Jesus, de S. Paulo, de Nero, de Marco Aurélio, são <hi>obras primas</hi> de delicada análise e de sentimento da vida. Mais interessante ainda é a sua psicologia dos povos, como na Alemanha se diz. Hebreu, grego da Ásia, grego da Europa, romano, africano, povo de Jerusalém, povo da Galileia, povo de Antioquia, povo de Corinto, povo de Roma, revivem a nossos olhos, com verdade, quem o poderá saber ao certo? mas com verossimilhança e colorido. Quase tão <hi>historiador filósofo</hi> como <hi>historiador moralista</hi>, ele segue com perspicácia maravilhosa, através de diferentes nações e como diferentes mundos, uma ideia religiosa e moral transformando-se segundo as diferentes atmosferas em que vive e os diferentes cérebros que a recebem. Essa obra é um celeiro de informações acerca da vida moral da humanidade" (pág. 399). Para Farguet, "Ernesto Renan <hi>é o maior espírito que ainda apareceu em França</hi> desde Chateaubriand e talvez desde João-Jacques Rousseau" (pág. 398).</p>
+
+      <p>Carlos Trouffleau, nas págs. 506-507 do seu <hi>Manual de Literatura francesa</hi>, diz que "<hi>o mais ilustre filósofo</hi>" do período de 1850-1890 "é Ernesto Renan". E acrescenta: "Não é possível definir, aqui, a doutrina de Renan, o seu ecletismo feito de <hi>ciência prudente</hi>, a sua <hi>inteligência vasta e profunda</hi>, os seus <hi>estudos históricos, filológicos e filosóficos</hi>; pode-se mencionar, de caminho, que ele de novo tornou possível o próprio sentimento poético das religiões e da religião cristã, defendeu os direitos do pensamento contra as teorias excessivamente experimentais de Taine, muito compreendeu e muito fez compreender. Deve-se notar, sobretudo, que ele disse o que havia compreendido, em uma língua pura, sem pedantismo nem rebuscamento, com o respeito da beleza e da verdade, que a sua Vida de Jesus, por exemplo, é tanto o poema humano do Evangelho como a sua exegese humana".</p>
+
+      <p>Todas essas citações provam à sociedade a justeza da minha afirmação primitiva, isto é, que "Renan foi um filósofo e um sábio". Diante delas, a negação da cúria fica reduzida ao que é: uma resultante da paixão ortodoxa.</p>
+
+      <p>Eu poderia cerrar aqui a série de transcrições comprobatórias; aquelas já são que farte. Mas apensarei ainda outra, da <hi>História da Literatura francesa</hi>, de Gustavo Lanson. Tendo-nos falado da dupla cultura de Renan, diz-nos o eminente historiador literário: "Entregou-se depois à <hi>ciência</hi>, trilhando-lhe as duas vias principais, as <hi>ciências da natureza</hi> e a <hi>erudição filológica</hi>; aquelas, para lhes compreender o espírito, os métodos, o alcance, e para completar a sua cultura; esta, para procurar nela a matéria do seu pensamento e o alimento da sua atividade. Ele acreditou mais ardentemente do que ninguém na <hi>ciência</hi> e entregou-lhe convictamente o futuro da humanidade. Do princípio fundamental da <hi>ciência</hi> e do determinismo dos fenômenos fez sair toda a sua obra" (pág. 1098). "Mas esse <hi>sábio</hi> que nunca jamais cessou de praticar e recomendar a busca metódica do verdadeiro, a procura corajosa do conhecimento racional, sabia os limites da razão e da ciência". A propósito da <hi>História do povo de Israel</hi> e das <hi>Origens do Cristianismo</hi>, observa Lanson: "Aqui, porém, o <hi>interesse filosófico</hi> ultrapassa o interesse <hi>de erudição ou de história</hi>. Nessas <hi>obras magistrais</hi>, que <hi>ocuparam a existência de Renan</hi>, uma concepção do universo a da vida se afirma: a mesma que nos é revelada pelos ensaios de todo gênero, em que o seu pensamento se repousava, em que se deleitava a sua fantasia, estudos de <hi>história</hi>, de <hi>crítica</hi> ou de <hi>moral</hi>, diálogos ou dramas filosóficos, e todas as alocuções, confidências, falas, onde, com uma palavra, o <hi>mestre</hi> dava o contato e o segredo da sua alma" (pág. 1098). "Fazer da verdade o alvo do pensamento, do bem o fim da ação, sendo o verdadeiro a exclusão do milagre e o bem a exclusão do egoísmo: pode-se julgar como quiser essa <hi>filosofia</hi>, mas o que ninguém tem é o direito de nela ver um divertimento de diletante indiferente"... "Hesitava-se tomar a sério um sábio que tantas reverências fazia ao idealismo, um crítico que só se parecia ocupar em distribuir água-benta. Mas era ele quem tinha razão. Era ele quem estava com a verdade, comodamente, largamente, serenamente. E o seu espírito, que lhe sobrevive, prova e excelência da sua ação, a bondade da sua doutrina" (pág. 1099). "Renan, antes de tudo, não separou a teoria da prática: sem ruído, sem ostentação, tão simplesmente que ninguém fez reparo nisso, conformou a sua vida com a sua crença. Agiu, mais do que outros muitos que bulhentamente se hão agitado. Toda a <hi>sua vida de sábio</hi>, de escritor, de homem de gabinete, é o resultado de um ato, ato voluntário e livre que representa bela soma de energia. Por fortes razões filosóficas, cessou de crer na tradição católica e saiu do seminário. Tomou pela estrada dura, perigosa, incerta, em lugar da estrada fácil. <hi>Basta esse gesto para nobilitar uma vida... Isso mostra com que doce inflexibilidade esse homem sabia praticar o respeito do seu pensamento</hi>" (pág. 1098). "A todos, literatos ou não, deu-nos ele esta lição geral: ter achado a paz de consciência e a felicidade neste pobre vida, simplesmente porque <hi>a verdade sempre o conduziu</hi>" (pág. 1101).</p>
+
+      <milestone unit="asterisks"/>
+
+    </div>
+
+      <div type="chapter">
+
+      <head>Conclusão</head>
+
+      <p>Urge concluir, e faço-o na convicção plena de haver destruído inteiramente as rudes imputações, engendradas pela cúria contra a memória de Ernesto Renan.</p>
+
+      <p>Fica demonstrado:</p>
+
+      <p>1o. que, sendo a ciência de Renan <hi>discutível</hi> (como, aliás, o é toda e qualquer ciência), não é, todavia, <hi>plagiária</hi>, como afirmou caluniosamente a cúria; e que o mérito do eminente sábio não está apenas em haver introduzido em França o racionalismo de Strauss, mesmo porque, quem fez essa importação foi Littré, vertendo em 1839-40 a <hi>Vida de Jesus</hi> do teólogo alemão;</p>
+
+      <p>2o. - que nada tem de provável a censura curial, de haver Renan mandado rezar missa por alma de sua irmã Henriqueta, e muito menos ter assistido a ela;</p>
+
+      <p>3o. - que Renan, absolutamente, não procurou <hi>explicar</hi> o milagre da multiplicação dos pães, e tampouco escreveu em parte alguma da <hi>Vida de Jesus</hi>, ou de qualquer outra obra sua, a inominável sandice que a cúria lhe atribui, isto é: que, não tendo havido milagre multiplicador, ter-se-ia dado uma simples repartição dos cinco pães e dois peixes entre cinco mil pessoas, sem contar as mulheres e as crianças, tendo, no entanto, os judeus ficado abarrotados (sic) com a migalhinha que tocara a cada um deles - por serem de extrema sobriedade...;</p>
+
+      <p>4o. - que, enquanto a cúria, alheia ao grande movimento mental da época e por intolerância para com os que fogem à sua tutela obsoleta e coercitiva, tacha Renan de "romancista de mau gosto, com pretensões a historiador", os autores atrás citados - Henriqueta Wurmser, Jorge Pellisier, Paulo Bourget, Gustavo Vapereau, Fernando Brunetière, Emilio Faguet, Carlos Troufleau e Gustavo Lanson (além de outros que eu poderia invocar se não fora supérfluo) - afirmam justamente o contrário, isto é, que Renan foi, de fato, historiador, filósofo e sábio notabilíssimo.</p>
+
+      <p>As autoridades por mim referidas são tiradas de campos vários. Algumas racionalistas, outras de credos dissidentes, e finalmente, outras, católicas, como, por exemplo, Bourget e Brunetière.</p>
+
+      <p>Este último, principalmente, foi na derradeira década da sua vida, um católico mais que fervoroso, descambando, por vezes, em lamentáveis inconveniências sectaristas. Tratando, porém, de Renan, foi-lhe impossível apagar o valor do grande sábio com a esponja da parcialidade beata, e teve de reconhecer-lhe a envergadura... talvez com descontentamento da parte das cúrias havidas e por haver.</p>
+
+      <milestone unit="asterisks"/>
+
+      </div>
+
+      <div type="chapter">
+
+      <p>E por aqui me cerro.</p>
+
+      <p>Ao povo, que leu as afirmações da cúria e nelas pareceu acreditar, por terem vindo de homens que se dizem "ministros da Verdade", entrego o julgamento do meu trabalho, no qual não aparece uma citação que se não possa verificar</p>
+
+      <p>Quanto às pessoas cultas e liberais, tenho a convicção de haver reabilitado perante elas a memória de Ernesto Renan, vilipendiada por homens que não vacilam em tripudiar sobre o túmulo daqueles que se recusaram a condensar Deus-Infinito em uma hóstia finita e que souberam colocar o seu Ideal acima da cobiça, da hipocrisia, da mentira e da intolerância.</p>
+
+      <p>Finalmente, aos padres da cúria, quero deixar estas palavras simples, extraídas da <hi>Imitação de Cristo</hi> (liv. II, cap. III): "Se quereis que vos suportem, suportai também os outros"!</p>
+
+  </div>
+
+    </body>
+    <back>
+    <div type="afterword">
+
+      <head>Posfácio</head>
+
+      <p>Estava concluindo, havia dias, este pequeno ensaio polemístico, quando passou a data do centenário de Renan (28-2-1923), a propósito da qual os jornais e revistas do mundo <hi>civilizado</hi> se referiram com mais ou menos carinho, e todos com igual nobreza.</p>
+
+      <p>Por exemplo, no Rio, entre outros, posso citar o <hi>Correio da Manhã</hi>, o <hi>Jornal do Brasil</hi>, o <hi>País</hi>, o <hi>Imparcial</hi>, a <hi>Noite</hi>, o <hi>Jornal do Comércio</hi>, etc., que dedicaram ao eminente pensador belíssimos artigos, quase todos acompanhados de retratos.</p>
+
+      <p>O <hi>Estado de S. Paulo</hi> publicou um estudo assinado pelo dr. Plínio Barreto (o qual, a meu ver, foi o que de melhor, no ponto de vista de compreensão sintética, se fez no Brasil acerca de Renan), e, mais tarde, uma correspondência do dr. Georges Dumas, datada de Paris em 9 de Março pp.</p>
+
+      <p>A correspondência do dr. Dumas não deixa de ser interessantíssima. Fala-nos das festas realizadas em homenagem à memória do autor da Vida de Jesus, e às quais ele assistiu: "Acompanhei, com diferente emoção, todas as cerimônias que tiveram por objeto honrar-lhe a memória por ocasião do centenário do seu nascimento; fui ouvir na Sorbonna Mauricio Barrès e o ministro da Instrução Pública, Léon Bérard; estive no Collegio de França para ouvir o discurso do sr. Loisy, que também deixou a Igreja por ter perdido a crença; assisti, ainda esta tarde, na Sorbonna, a uma grande sessão organizada pela Sociedade Asiática e pela Sociedade Ernesto Renan, pelas de Estudos Judaicos, de Linguística, de Psicologia e de Filosofia; ouvi seis discursos, nos quais os representantes dessas seis sociedades estudaram cada um dos aspectos do pensamento de Renan - Levy Bruhl a sua religião, Meillet a sua linguística, René Berthelot a sua filosofia, etc. etc.". "E tendo esse homem de gênio (Renan) praticado um tal culto da Razão e da Ciência, era justo que recebesse hoje a homenagem que seria a mais sensível ao seu coração - a homenagem da Ciência e da Verdade. As sociedades científicas, que se reuniram esta tarde na Sorbonna, honraram-no como ele desejaria ser honrado".</p>
+
+      <p>Isso, ao menos, consola.</p>
+
+      <p>É verdade que, de outro lado, temos a atitude da cúria, temos o papa Pio XI escrevendo uma carta ao cardial Pompili, na qual censura idênticas comemorações feitas na Itália, e temos o <hi>Osservatore Romano</hi>, órgão do Vaticano, insinuando a intriga de que a trasladação das cinzas de Renan para o Panteão seria um insulto direto aos sentimentos dos católicos franceses...</p>
+
+      <p>Porém, nada mais natural. Quem poderá impedir que as trevas noturnas acompanhem o esplendor diurno?...</p>
+
+      <p>A. F.</p>
+
+  </div>
+
+  <div type="references">
+
+      <p><hi>A Relíquia</hi>, introd. p. X.</p>
+
+      <p>Vol. I da edição deinitiva, p. 70.</p>
+
+      <p>Jeremias: VII, 8.</p>
+
+      <p>Leonal Franca S. J.: Noções de Hist. da Filos. 2a. ed. p. 1878</p>
+
+      <p>Idem, ibidem., p. 180.</p>
+
+      <p>Idem, ibidem, loc. cit.</p>
+
+      <p>Gustavo Locher S. J.: <hi>Vade mecum filos.</hi>, p.294.</p>
+
+      <p>Idem, ibidem, p. 297</p>
+
+      <p>Idem, ibidem, p. 265-266.</p>
+
+      <p>Renan: <hi>Vida de Jesus</hi>, trad. port. de Eduardo Augusto Salgado, nota 2 à p. XI da introd.</p>
+
+      <p>Idem, ibidem, introd., p. XI.</p>
+
+      <p>Idem, ibidem, nota 2 à p. XI. - Na <hi>Vida de Jesus</hi>, de Renan, a pessoa do Cristo dos Evangelhos "é substituída por outras, real e não simbólica ou mítica, qual o Jesus de Strauss e dos teólogos alemães" (Brunetière: <hi>Manuel de l'histoire de la litt. Franç.,</hi> p. 512-513.</p>
+
+      <p><hi>Os Apóstolos</hi>, trad. port. de Eduardo Augusto Salvado, introd. p. LI.</p>
+
+      <p>Ibidem, p. LV.</p>
+
+      <p>Ibidem, p. XLVIII.</p>
+
+      <p>Ibidem, p. LIX-LX.</p>
+
+      <p><hi>Vida de Jesus</hi>, p. 365.</p>
+
+      <p>Ibidem, p. 366.</p>
+
+      <p>Ibidem, p. 367.</p>
+
+      <p>Ibidem, p. 348-349.</p>
+
+      <p>Ibidem, p. 331.</p>
+
+      <p>Ibidem, introd., p. XVIII.</p>
+
+      <p>Ibidem, loc. cit., p. cit.</p>
+
+      <p>Ibidem, loc. cit., p. XXXVIII-CI. Os Evangelhos, trad. port. de Eduarda Pimenta, caps. VII, X, XIII, passim.</p>
+
+      <p>Introd., p. XLII-XLIII</p>
+
+      <p><hi>Vida de Jesus</hi>, introd. p. L.</p>
+
+      <p>Ibidem, introd., p. LI-LII.</p>
+
+      <p>Matheus: XIV, 13-21; Marcos: VI, 30-44; Lucas: XI, 11-17; João: VI, 1-13.</p>
+
+      <p>XV, 29, 32-39.</p>
+
+      <p>VII, 1-10.</p>
+
+      <p>Quem não possuir a <hi>Vida de Jesus</hi> no original, pode certificar-se da mentira da cúria, recorrendo à Biblioteca Pública Estadual, onde existe a obra em francês, catalogada sob n. 1505.</p>
+
+      <p>Cf. Dictionnaire Universel de P. Larousse, e Dictionnaire d'Histoire et Géographie de M. N. Bouillet (34a. edição correta e aumentada por L.-G. Gourrainge, in suppl.).</p>
+
+  </div>
+
+    </back>
+  </text>
+</TEI>
