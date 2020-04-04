@@ -1,8 +1,6 @@
-window.onload = () => {
 const navButton = document.getElementById('index-button')
 const navMenu = document.getElementById('side-nav')
 const teiWrapper = document.getElementById('tei_wrapper')
-const fontebd = document.getElementById('fontebd')
 const header = document.querySelector('header')
 
 //Get depth of a element in the document tree
@@ -19,9 +17,17 @@ function getElementDepth(el, root, offset=0) {
 document.querySelectorAll('#tei_wrapper head').forEach(el => {
 	let elementDepth = getElementDepth(el, teiWrapper, 3)
 	let a = document.createElement('a')
+	
 	a.innerHTML = el.innerText
 	a.setAttribute('data-depth', elementDepth)
-	a.setAttribute('href', '#' + el.id)
+	a.addEventListener('click', ev => {
+		let href = location.href
+		if (href.includes('#')) {
+			window.location = href.slice(0, href.indexOf('#') + 1) + el.id
+		} else {
+			window.location = href + '#' + el.id
+		}
+	})
 	navMenu.appendChild(a)
 })
 
@@ -44,4 +50,4 @@ document.addEventListener("scroll", () => {
    		header.style.top = '0'
    }
    lastScrollTop = st <= 0 ? 0 : st
-}, false)}
+}, false)
