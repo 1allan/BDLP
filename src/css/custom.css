@@ -11,7 +11,7 @@ html {
  border: solid 2px black;
  margin-left: auto;
  margin-right: auto;
- margin-top: 1em;
+ margin-top: 5em;
  margin-bottom: 1em;
 }
 
@@ -108,17 +108,16 @@ opener {
   box-sizing: border-box;
   position: fixed;
   margin: 0;
-  top: 0;
+  bottom: 0;
   right: -310px;
-  height: 100vh;
+  height: calc(100% - 72px);
   width: 300px;
-  z-index: 9999;
+  z-index: 0;
   padding: 20px 15px 20px 20px;
   overflow-y: scroll;
   background: white;
   color: #606060;
   border-left: 2px solid #404040;
-  box-shadow: 6px 6px 6px 6px black;
   transition: 300ms ease;
 }
 
@@ -163,7 +162,8 @@ header {
   top: 0;
   left: 0;
   width: 100%;
-  height: 80px;
+  height: 70px;
+  z-index: 999;
   background: white;
   box-shadow: 4px 0 5px 0 #404040;
   border-bottom: 2px solid black;
@@ -177,4 +177,8 @@ header > a {
   font-weight: 600;
   font-size: 1.4em;
   font-family: "Source Sans Pro", sans-serif
+}
+
+header > a:visited,  a:hover {
+  color: black
 }

@@ -87,9 +87,6 @@
 				<xsl:if test="$includeToolbox = true()">
 					<xsl:call-template name="teibpToolbox"/>
 				</xsl:if>
-				<div id="fontebd">
-					<p>Fonte: <a href="https://www.literaturabrasileira.ufsc.br">Biblioteca Digital de Literaturas de Língua Portuguesa</a></p>
-				</div>
 				<div id="tei_wrapper">
 					<xsl:apply-templates/>
 				</div>
