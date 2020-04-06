@@ -1,129 +1,135 @@
-/* Place project-specific CSS here */
+@font-face {
+	font-family: 'Source Sans Pro';
+	font-style: normal;
+	font-weight: 400;
+	src: local('Source Sans Pro Regular'), local('SourceSansPro-Regular'), url(https://fonts.gstatic.com/s/sourcesanspro/v13/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7l.woff2) format('woff2');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
 
 html {
- background-color: gray;
+	background-color: gray;
 }
 
 #tei_wrapper {
- max-width: 40em;
- background-color: white;
- padding: 5em;
- border: solid 2px black;
- margin-left: auto;
- margin-right: auto;
- margin-top: 5em;
- margin-bottom: 1em;
+	max-width: 40em;
+	background-color: white;
+	padding: 5em;
+	border: solid 2px black;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5em;
+	margin-bottom: 1em;
 }
 
 #tei_wrapper p {
-  text-align: justify;
+	text-align: justify;
 }
 
 #fontebd {
- text-align: center!important;
- font-size: 16px;
- font-style: italic;
- color: white;
+ 	text-align: center!important;
+	font-size: 16px;
+	font-style: italic;
+	color: white;
 }
 #fontebd a {
- color: white;
- text-decoration: underline;
+	color: white;
+	text-decoration: underline;
 }
 
 @media screen and (max-width: 768px) {
-  #tei_wrapper {
-    padding: 2em;
-  }
+	#tei_wrapper {
+		padding: 2em;
+	}
 }
 
 titleStmt > tei-title {
-  text-align: center;
-  padding-bottom: 10px;
-  line-height: 1.5;
-  font-size:170%;
+	text-align: center;
+	padding-bottom: 10px;
+	line-height: 1.5;
+	font-size:170%;
 }
 
 titleStmt > author {
-  text-align: center;
-  padding-bottom: 10px;
+	text-align: center;
+	padding-bottom: 10px;
 }
 
 sourceDesc {
 	line-height: 1.5;
-  display: block;
-      margin-left: 50%;
-    text-align: right;
-    font-size: 80%;
-    margin-top: 40px;
-    margin-bottom: 20px;
+	display: block;
+	margin-left: 50%;
+	text-align: right;
+	font-size: 80%;
+	margin-top: 40px;
+	margin-bottom: 20px;
 }
 
 bibl {
 	display: block;
- margin-bottom: 1em;
+ 	margin-bottom: 1em;
 }
+
 bibl > tei-title {
- font-style: italic;
+ 	font-style: italic;
 }
 
 div > head {
-  font-size: 150%;
-  text-indent: -0.5em;
-  margin-top: 2em;
+	font-size: 150%;
+	text-indent: -0.5em;
+	margin-top: 2em;
 }
 
 closer {
-    text-align: right;
-    display: block;	
+	text-align: right;
+	display: block;	
 }
 
 opener {
-    text-align: right;
-    display: block;	
+	text-align: right;
+	display: block;	
 }
 
 
 /*  */
 #index-button {
-  cursor: pointer;
-  right: 0;
-  top: 0;
-  padding: 10px;
-  width: 30px;
-  height: 30px;
-  transition: 300ms ease;
-  margin-right: 30px;
+	cursor: pointer;
+	right: 0;
+	top: 0;
+	padding: 10px;
+	width: 30px;
+	height: 30px;
+	margin-right: 40px;
+	transition: 300ms ease;
 }
 
 #index-button:hover {
-  transform: scale(1.1)
+	transform: scale(1.1)
 }
 
 #index-button img {
-  border: none;
-  width: 100%
+	border: none;
+	width: 100%
 }
 
 #side-nav {
-  box-sizing: border-box;
-  position: fixed;
-  margin: 0;
-  bottom: 0;
-  right: -310px;
-  height: calc(100% - 72px);
-  width: 300px;
-  z-index: 0;
-  padding: 20px 15px 20px 20px;
-  overflow-y: scroll;
-  background: white;
-  color: #606060;
-  border-left: 2px solid #404040;
-  transition: 300ms ease;
+	box-sizing: border-box;
+	position: fixed;
+	margin: 0;
+	bottom: 0;
+	right: -310px;
+	height: calc(100% - 70px);
+	width: 300px;
+	z-index: 0;
+	padding: 20px 15px 20px 20px;
+	overflow-y: scroll;
+	background: #000;
+	color: #999;
+	transition: 300ms ease;
 }
 
 #side-nav > span {
-  color: #404040;
-  font-size: 1.5em;
+	color: #999;
+	font-size: 1.5em;
 }
  
 a[data-depth="2"] { margin-left: 20px } 
@@ -138,47 +144,55 @@ a[data-depth="10"] { margin-left: 180px }
 a[data-depth="11"] { margin-left: 200px } 
 
 #side-nav a {
-  display: block;
-  cursor: pointer;
-  margin-bottom: 3px;
-  transition: 200ms ease;
-  text-decoration: none
+	display: block;
+	cursor: pointer;
+	margin-bottom: 3px;
+	transition: 200ms ease;
+	text-decoration: none
 }
 
 #side-nav a:hover {
-  color: #000;
-  transform: scale(1.05);
+	color: #fff;
+	transform: scale(1.05);
 }
 
 #side-nav a::before {
-  content: "\2022      ";
+	content: "\2022      ";
 }
 
 header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 70px;
-  z-index: 999;
-  background: white;
-  box-shadow: 4px 0 5px 0 #404040;
-  border-bottom: 2px solid black;
-  transition: 300ms ease;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 70px;
+	z-index: 999;
+	background: white;
+	box-shadow: 4px 0 5px 0 #999;
+	transition: 300ms ease;
 }
 
 header > a {
-  color: black;
-  text-decoration: none;
-  margin-left: 30px;
-  font-weight: 600;
-  font-size: 1.4em;
-  font-family: "Source Sans Pro", sans-serif
+	color: black;
+	text-decoration: none;
+	margin-left: 40px;
+	font-weight: 600;
+	font-size: 1.4em;
+	transition: 500ms ease;
 }
 
 header > a:visited,  a:hover {
-  color: black
+	color: #000;
+	text-decoration: none;
+}
+
+header > a:hover {
+	color: #49995b
+}
+
+header, #side-nav {
+	font-family: "Source Sans Pro", sans-serif;
 }
