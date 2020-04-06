@@ -54,7 +54,7 @@
 	<xsl:param name="theme.sleepytime" select="concat($filePrefix,'/css/sleepy.css')"/>
 	<xsl:param name="theme.terminal" select="concat($filePrefix,'/css/terminal.css')"/>
 	
-	<xsl:param name="indexMenu" select="concat($filePrefix,'/js/menu.js')"/>
+	<xsl:param name="mainJS" select="concat($filePrefix,'/js/main.js')"/>
 
 	<xd:doc xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
 		<xd:desc>
@@ -92,7 +92,7 @@
 				</div>
 				<xsl:copy-of select="$htmlFooter"/>
 				<script type="text/javascript" src="{$teibpJS}"></script>
-				<script type="text/javascript" src="{$indexMenu}"></script>
+				<script type="text/javascript" src="{$mainJS}"></script>
 			</body>
 		</html>
 	</xsl:template>

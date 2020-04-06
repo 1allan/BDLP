@@ -4,7 +4,7 @@ const teiWrapper = document.getElementById('tei_wrapper')
 const header = document.querySelector('header')
 let menuIsActive = false
 
-//Get depth of a element in the document tree
+//Get element depth in the document tree
 function getElementDepth(el, root, offset=0) {
 	let depth = 0
 	while (el.parentElement !== root) {
@@ -60,4 +60,4 @@ document.addEventListener("scroll", () => {
    		header.style.top = '0'
    }
    lastScrollTop = st <= 0 ? 0 : st
-}, false)
+})
