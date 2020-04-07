@@ -68,20 +68,18 @@
 	<xsl:template match="/" name="htmlShell" priority="99">
 		<html>
 			<header>
-			  <a href="https://www.literaturabrasileira.ufsc.br/?locale=pt_BR">BDLP</a>
-			  <div id="index-button"><img src="../images/list.svg"/></div>
+			  <a class="logo-bdlp" href="https://www.literaturabrasileira.ufsc.br/?locale=pt_BR">BDLP</a>
+			  <div id="nav-menu-button" class="open">
+				<div class="icon">
+					<span class="line top"></span>
+					<span class="line middle"></span>
+					<span class="line bottom"></span>
+				</div>
+			  </div>
 			</header>
 			<xsl:call-template name="htmlHead"/>
 			<div id="nav-menu">
-				<span>Índex</span>
-				<xsl:for-each select="head[@*]">
-					<a>
-						<xsl:attribute name="href">
-							<xsl:value-of select="concat('#', @id)"/>
-						</xsl:attribute>
-						<xsl:value-of select="title"/>
-				</a>
-				</xsl:for-each>
+				<h1>Índice</h1>
 			</div>
 			<body>
 				<xsl:if test="$includeToolbox = true()">
@@ -317,7 +315,7 @@
 	<xsl:template name="htmlHead">
 		<head>
 			<meta charset="UTF-8"/>
-                        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+            <meta name="viewport" content="width=device-width, initial-scale=1"/>
 			<script src="{$lessJS}"></script>
 			<link id="maincss" rel="stylesheet" type="text/css" href="{$teibpCSS}"/>
 			<link id="customcss" rel="stylesheet" type="text/css" href="{$customCSS}"/>

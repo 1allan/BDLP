@@ -90,24 +90,37 @@ opener {
 
 
 /*  */
-#index-button {
-	cursor: pointer;
-	right: 0;
-	top: 0;
-	padding: 10px;
-	width: 30px;
-	height: 30px;
-	margin-right: 40px;
-	transition: 300ms ease;
+#nav-menu-button {
+	height: 35px;
+	width: 35px;
+	margin-right: 30px;
+	display: inline-block;
+	position: relative;
+  	cursor: pointer;
 }
 
-#index-button:hover {
-	transform: scale(1.1)
+#nav-menu-button.open:hover .top { top: 10% }
+#nav-menu-button.open:hover .bottom { top: 86% }
+
+.line {
+	position: absolute;
+	height: 3px;
+	width: 90%;
+	background: black;
+	transition: all cubic-bezier(0.26, 0.1, 0.27, 1.55) 0.35s;
+}
+.top { top: 18% }
+.middle { top: 48% }
+.bottom { top: 78% }
+
+.icon.close .top {
+	transform: rotate(45deg);
+	top: 48%;
 }
 
-#index-button img {
-	border: none;
-	width: 100%
+.icon.close .middle, .icon.close .bottom {
+	transform: rotate(-45deg);
+	top: 48%;
 }
 
 #nav-menu {
@@ -119,7 +132,7 @@ opener {
 	height: calc(100% - 70px);
 	width: 300px;
 	z-index: 0;
-	padding: 20px 15px 20px 20px;
+	padding: 15px 15px 20px 20px;
 	overflow-y: scroll;
 	background: #000;
 	color: #999;
@@ -128,8 +141,10 @@ opener {
 
 #nav-menu.active { right: 0px }
 
-#nav-menu > span {
+#nav-menu > h1 {
 	color: #999;
+	margin: 0;
+	margin-bottom: 15px;
 	font-size: 1.5em;
 }
  
@@ -178,21 +193,21 @@ header {
 
 header.active { top: 0px }
 
-header > a {
+.logo-bdlp {
 	color: black;
 	text-decoration: none;
 	margin-left: 40px;
 	font-weight: 600;
-	font-size: 1.4em;
+	font-size: 1.5em;
 	transition: 500ms ease;
 }
 
-header > a:visited,  a:hover {
+.logo-bdlp:visited,  .logo-bdlp:hover {
 	color: #000;
 	text-decoration: none;
 }
 
-header > a:hover {
+.logo-bdlp:hover {
 	color: #49995b
 }
 
