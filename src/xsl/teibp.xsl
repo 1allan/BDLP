@@ -72,7 +72,7 @@
 			  <div id="index-button"><img src="../images/list.svg"/></div>
 			</header>
 			<xsl:call-template name="htmlHead"/>
-			<div id="side-nav">
+			<div id="nav-menu">
 				<span>Índex</span>
 				<xsl:for-each select="head[@*]">
 					<a>

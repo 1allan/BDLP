@@ -111,7 +111,7 @@ opener {
 	width: 100%
 }
 
-#side-nav {
+#nav-menu {
 	box-sizing: border-box;
 	position: fixed;
 	margin: 0;
@@ -127,7 +127,9 @@ opener {
 	transition: 300ms ease;
 }
 
-#side-nav > span {
+#nav-menu.active { right: 0px }
+
+#nav-menu > span {
 	color: #999;
 	font-size: 1.5em;
 }
@@ -143,7 +145,7 @@ a[data-depth="9"] { margin-left: 160px }
 a[data-depth="10"] { margin-left: 180px } 
 a[data-depth="11"] { margin-left: 200px } 
 
-#side-nav a {
+#nav-menu a {
 	display: block;
 	cursor: pointer;
 	margin-bottom: 3px;
@@ -151,12 +153,12 @@ a[data-depth="11"] { margin-left: 200px }
 	text-decoration: none
 }
 
-#side-nav a:hover {
+#nav-menu a:hover {
 	color: #fff;
 	transform: scale(1.05);
 }
 
-#side-nav a::before {
+#nav-menu a::before {
 	content: "\2022      ";
 }
 
@@ -165,7 +167,7 @@ header {
 	align-items: center;
 	justify-content: space-between;
 	position: fixed;
-	top: 0;
+	top: -200px;
 	left: 0;
 	width: 100%;
 	height: 70px;
@@ -174,6 +176,8 @@ header {
 	box-shadow: 4px 0 5px 0 #999;
 	transition: 300ms ease;
 }
+
+header.active { top: 0px }
 
 header > a {
 	color: black;
@@ -193,6 +197,6 @@ header > a:hover {
 	color: #49995b
 }
 
-header, #side-nav {
+header, #nav-menu {
 	font-family: "Source Sans Pro", sans-serif;
 }

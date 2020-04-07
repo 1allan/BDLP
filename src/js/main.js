@@ -1,8 +1,8 @@
 const navButton = document.getElementById('index-button')
-const navMenu = document.getElementById('side-nav')
+const navMenu = document.getElementById('nav-menu')
 const teiWrapper = document.getElementById('tei_wrapper')
 const header = document.querySelector('header')
-let menuIsActive = false
+header.classList.add('active')
 
 //Get element depth in the document tree
 function getElementDepth(el, root, offset=0) {
@@ -36,28 +36,20 @@ document.querySelectorAll('#tei_wrapper head').forEach(el => {
 //Toggle index menu on click
 document.addEventListener('click', ev => {
 	if ([navButton, ...navButton.children].includes(ev.target)) {
-		if (menuIsActive) {
-			navMenu.style.right = '-310px'
-			menuIsActive = false
-			
-		} else {
-			navMenu.style.right = '0px'
-			menuIsActive = true
-		}
-	} else if (![navMenu, ...navMenu.children].includes(ev.target)) {
-		navMenu.style.right = '-310px'
-		menuIsActive = false
-	}
+		navMenu.classList.toggle('active')
+		return
+	} 
+	navMenu.classList.remove('active')
 })
 
 //Toggle header on scroll
 let lastScrollTop = 0;
 document.addEventListener("scroll", () => {
    let st = window.pageYOffset || document.documentElement.scrollTop
-   if (st > lastScrollTop && !menuIsActive){
-   		header.style.top = '-200px'
+   if (st > lastScrollTop && !navMenu.classList.contains('active')){
+   		header.classList.remove('active')
    } else {
-   		header.style.top = '0'
+   		header.classList.add('active')
    }
    lastScrollTop = st <= 0 ? 0 : st
 })
