@@ -109,10 +109,6 @@ opener {
 .top { top: 18% }
 .middle { top: 48% }
 .bottom { top: 78% }
-#nav-menu-button .icon.close:hover .top { top: 18% }
-#nav-menu-button .icon.close:hover .bottom { top: 78% }
-.icon:hover .top { top: 10% }
-.icon:hover .bottom { top: 86% }
 
 .icon.close .top {
 	transform: rotate(45deg);

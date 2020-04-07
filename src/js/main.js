@@ -38,7 +38,6 @@ document.addEventListener('click', ev => {
 	console.log(ev.target)
 	if ([navButton, navButton.firstChild, ...navButton.firstChild.children ].includes(ev.target)) {
 		navMenu.classList.toggle('active')
-		navButton.classList.toggle('open')
 		navButton.firstChild.classList.toggle('close')
 	} else if (![navMenu, ...navMenu.children].includes(ev.target)) {
 		navMenu.classList.remove('active')
