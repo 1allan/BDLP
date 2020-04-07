@@ -37,9 +37,9 @@ document.querySelectorAll('#tei_wrapper head').forEach(el => {
 document.addEventListener('click', ev => {
 	if ([navButton, ...navButton.children].includes(ev.target)) {
 		navMenu.classList.toggle('active')
-		return
+	} else if (![navMenu, ...navMenu.children].includes(ev.target)) {
+		navMenu.classList.remove('active')
 	} 
-	navMenu.classList.remove('active')
 })
 
 //Toggle header on scroll
