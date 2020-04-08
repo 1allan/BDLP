@@ -46,12 +46,13 @@
 	-->
 	<xsl:param name="filePrefix" select="'..'"/>
 	
-	<xsl:param name="teibpCSS" select="concat($filePrefix,'/css/teibp.css')"/>
-	<xsl:param name="customCSS" select="concat($filePrefix,'/css/custom.css')"/>
+	<xsl:param name="teibpcss" select="concat($filePrefix,'/css/teibp.css')"/>
+	<xsl:param name="customcss" select="concat($filePrefix,'/css/custom.css')"/>
 	<xsl:param name="teibpJS" select="concat($filePrefix,'/js/teibp.js')"/>
 	<xsl:param name="theme.default" select="concat($filePrefix,'/css/teibp.css')"/>
 	<xsl:param name="theme.sleepytime" select="concat($filePrefix,'/css/sleepy.css')"/>
 	<xsl:param name="theme.terminal" select="concat($filePrefix,'/css/terminal.css')"/>
+	<xsl:param name="mediaqueries" select="concat($filePrefix,'/css/mediaqueries.css')"/>
 	
 	<xsl:param name="mainJS" select="concat($filePrefix,'/js/main.js')"/>
 
@@ -319,8 +320,9 @@
 			<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Oxygen:300,400"/>
 			<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700"/>
 			<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto" />
-			<link id="maincss" rel="stylesheet" type="text/css" href="{$teibpCSS}"/>
-			<link id="customcss" rel="stylesheet" type="text/css" href="{$customCSS}"/>
+			<link id="maincss" rel="stylesheet" type="text/css" href="{$teibpcss}"/>
+			<link id="customcss" rel="stylesheet" type="text/css" href="{$customcss}"/>
+			<link id="mediaqueries" rel="stylesheet" type="text/css" href="{$mediaqueries}"/>
 
 			<xsl:call-template name="tagUsage2style"/>
 			<xsl:call-template name="rendition2style"/>
