@@ -1,6 +1,6 @@
 const navButton = document.getElementById('nav-menu-button')
 const navMenu = document.getElementById('nav-menu')
-const teiWrapper = document.getElementById('tei_wrapper')
+const teiWrapper = document.getElementById('tei-wrapper')
 const header = document.querySelector('header')
 header.classList.add('active')
 
@@ -15,7 +15,7 @@ function getElementDepth(el, root, offset=0) {
 }
 
 //Generate indexes
-document.querySelectorAll('#tei_wrapper head').forEach(el => {
+document.querySelectorAll('#tei-wrapper head').forEach(el => {
 	let elementDepth = getElementDepth(el, teiWrapper, 3)
 	let a = document.createElement('a')
 	

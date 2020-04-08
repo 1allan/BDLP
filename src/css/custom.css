@@ -2,7 +2,7 @@ html {
 	background-color: gray;
 }
 
-#tei_wrapper {
+#tei-wrapper {
 	max-width: 40em;
 	background-color: white;
 	padding: 5em;
@@ -12,19 +12,8 @@ html {
 	margin-bottom: 1em;
 }
 
-#tei_wrapper p {
+#tei-wrapper p {
 	text-align: justify;
-}
-
-#fontebd {
- 	text-align: center!important;
-	font-size: 16px;
-	font-style: italic;
-	color: white;
-}
-#fontebd a {
-	color: white;
-	text-decoration: underline;
 }
 
 titleStmt > tei-title {

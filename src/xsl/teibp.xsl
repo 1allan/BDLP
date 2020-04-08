@@ -85,7 +85,7 @@
 				<xsl:if test="$includeToolbox = true()">
 					<xsl:call-template name="teibpToolbox"/>
 				</xsl:if>
-				<div id="tei_wrapper">
+				<div id="tei-wrapper">
 					<xsl:apply-templates/>
 				</div>
 				<xsl:copy-of select="$htmlFooter"/>
