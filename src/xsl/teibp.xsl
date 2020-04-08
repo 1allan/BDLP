@@ -400,11 +400,11 @@
 		</xd:desc>
 	</xd:doc>
 	<xsl:variable name="htmlFooter">
-		<footer> Powered by <a href="{$teibpHome}">TEI Boilerplate</a>. TEI Boilerplate is licensed under a <a
-				href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0
-				Unported License</a>. <a href="http://creativecommons.org/licenses/by/3.0/"><img
-					alt="Creative Commons License" style="border-width:0;"
-					src="http://i.creativecommons.org/l/by/3.0/80x15.png"/></a>
+		<footer> 
+			<span>Powered by <a href="{$teibpHome}">TEI Boilerplate</a>.</span>
+			<span>TEI Boilerplate is licensed under a <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.</span>
+			<a href="http://creativecommons.org/licenses/by/3.0/">
+			<img alt="Creative Commons License" style="border-width:0;" src="http://i.creativecommons.org/l/by/3.0/80x15.png"/></a>
 		</footer>
 	</xsl:variable>
 

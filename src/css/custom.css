@@ -191,3 +191,22 @@ header, #nav-menu {
 	font-size: 16px;
 	line-height: 1.7;
 }
+
+footer {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-evenly;
+	align-items: center;
+	height: 80px;
+	margin-bottom: 10px;
+	border: none;
+}
+
+footer  a {
+	color: #000;
+	transition: 500ms ease;
+}
+
+footer a:visited {
+	color: #000;
+}
