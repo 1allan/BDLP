@@ -161,7 +161,9 @@ a[data-depth="11"] { margin-left: 200px }
 	cursor: pointer;
 	margin-bottom: 3px;
 	transition: 200ms ease;
-	text-decoration: none
+	text-decoration: none;
+	padding-left: 0.8em;
+    text-indent: -0.8em;
 }
 
 #nav-menu a:hover {
@@ -195,19 +197,24 @@ header.active { top: 0px }
 	text-decoration: none;
 	margin-left: 40px;
 	font-weight: 600;
-	font-size: 1.5em;
+	font-size: 1.4em;
 	transition: 500ms ease;
-}
+	text-transform: uppercase;
+	font-family: "Source Sans Pro", sans-serif;
+} 
 
-.logo-bdlp:visited,  .logo-bdlp:hover {
+a.logo-bdlp  {
 	color: #000;
 	text-decoration: none;
 }
 
-.logo-bdlp:hover {
-	color: #49995b
+a.logo-bdlp:hover, a.logo-bdlp:active  {
+  color: #66D37E;
 }
 
 header, #nav-menu {
-	font-family: "Source Sans Pro", sans-serif;
+	font-family: "Oxygen", sans-serif;
+	font-weight: 300;
+	font-size: 16px;
+	line-height: 1.7;
 }

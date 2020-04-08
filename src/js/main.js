@@ -35,7 +35,6 @@ document.querySelectorAll('#tei_wrapper head').forEach(el => {
 
 //Toggle index menu on click
 document.addEventListener('click', ev => {
-	console.log(ev.target)
 	if ([navButton, navButton.firstChild, ...navButton.firstChild.children ].includes(ev.target)) {
 		navMenu.classList.toggle('active')
 		navButton.firstChild.classList.toggle('close')
