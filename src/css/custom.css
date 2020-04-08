@@ -63,7 +63,6 @@ opener {
 	display: block;	
 }
 
-
 #nav-menu-button {
 	height: 35px;
 	width: 35px;
@@ -72,7 +71,6 @@ opener {
 	position: relative;
   	cursor: pointer;
 }
-
 
 .line {
 	position: absolute;
@@ -85,12 +83,12 @@ opener {
 .middle { top: 48% }
 .bottom { top: 78% }
 
-.icon.close .top {
+#nav-menu-button.close .top {
 	transform: rotate(45deg);
 	top: 48%;
 }
 
-.icon.close .middle, .icon.close .bottom {
+#nav-menu-button.close .middle, #nav-menu-button.close .bottom {
 	transform: rotate(-45deg);
 	top: 48%;
 }

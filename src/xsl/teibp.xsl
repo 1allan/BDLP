@@ -70,11 +70,9 @@
 			<header>
 			  <a class="logo-bdlp" href="https://www.literaturabrasileira.ufsc.br/?locale=pt_BR">BDLP</a>
 			  <div id="nav-menu-button" class="open">
-				<div class="icon">
-					<span class="line top"></span>
-					<span class="line middle"></span>
-					<span class="line bottom"></span>
-				</div>
+				<span class="line top"></span>
+				<span class="line middle"></span>
+				<span class="line bottom"></span>
 			  </div>
 			</header>
 			<xsl:call-template name="htmlHead"/>
