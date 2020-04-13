@@ -63,7 +63,7 @@ opener {
 	display: block;	
 }
 
-#nav-menu-button {
+#index-menu-button {
 	height: 35px;
 	width: 35px;
 	margin-right: 30px;
@@ -83,17 +83,17 @@ opener {
 .middle { top: 48% }
 .bottom { top: 78% }
 
-#nav-menu-button.close .top {
+#index-menu-button.close .top {
 	transform: rotate(45deg);
 	top: 48%;
 }
 
-#nav-menu-button.close .middle, #nav-menu-button.close .bottom {
+#index-menu-button.close .middle, #index-menu-button.close .bottom {
 	transform: rotate(-45deg);
 	top: 48%;
 }
 
-#nav-menu {
+#index-menu {
 	box-sizing: border-box;
 	position: fixed;
 	margin: 0;
@@ -109,9 +109,9 @@ opener {
 	transition: 300ms ease;
 }
 
-#nav-menu.active { right: 0px }
+#index-menu.active { right: 0px }
 
-#nav-menu > h1 {
+#index-menu > h1 {
 	color: #999;
 	margin: 0;
 	margin-bottom: 15px;
@@ -129,7 +129,7 @@ a[data-depth="9"] { margin-left: 160px }
 a[data-depth="10"] { margin-left: 180px } 
 a[data-depth="11"] { margin-left: 200px } 
 
-#nav-menu a {
+#index-menu a {
 	display: block;
 	cursor: pointer;
 	margin-bottom: 3px;
@@ -139,12 +139,12 @@ a[data-depth="11"] { margin-left: 200px }
     text-indent: -0.8em;
 }
 
-#nav-menu a:hover {
+#index-menu a:hover {
 	color: #fff;
 	transform: scale(1.05);
 }
 
-#nav-menu a::before {
+#index-menu a::before {
 	content: "\2022      ";
 }
 

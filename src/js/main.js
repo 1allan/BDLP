@@ -1,5 +1,5 @@
-const navButton = document.getElementById('nav-menu-button')
-const navMenu = document.getElementById('nav-menu')
+const menuButton = document.getElementById('index-menu-button')
+const indexMenu = document.getElementById('index-menu')
 const teiWrapper = document.getElementById('tei-wrapper')
 const header = document.querySelector('header')
 header.classList.add('active')
@@ -30,17 +30,17 @@ document.querySelectorAll('#tei-wrapper head').forEach(el => {
 		}
 		scrollBy(0, -80)
 	})
-	navMenu.appendChild(a)
+	indexMenu.appendChild(a)
 })
 
 //Toggle index menu on click
 document.addEventListener('click', ev => {
-	if ([navButton, ...navButton.children ].includes(ev.target)) {
-		navMenu.classList.toggle('active')
-		navButton.classList.toggle('close')
-	} else if (![navMenu, ...navMenu.children].includes(ev.target)) {
-		navMenu.classList.remove('active')
-		navButton.classList.remove('close')
+	if ([menuButton, ...menuButton.children ].includes(ev.target)) {
+		indexMenu.classList.toggle('active')
+		menuButton.classList.toggle('close')
+	} else if (![indexMenu, ...indexMenu.children].includes(ev.target)) {
+		indexMenu.classList.remove('active')
+		menuButton.classList.remove('close')
 	} 
 })
 
@@ -48,7 +48,7 @@ document.addEventListener('click', ev => {
 let lastScrollTop = 0;
 document.addEventListener("scroll", () => {
    let st = window.pageYOffset || document.documentElement.scrollTop
-   if (st > lastScrollTop && !navMenu.classList.contains('active')){
+   if (st > lastScrollTop && !indexMenu.classList.contains('active')){
    		header.classList.remove('active')
    } else {
    		header.classList.add('active')
