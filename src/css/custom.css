@@ -3,7 +3,7 @@ html {
 }
 
 a, a:visited, a:hover {
-	color: black;
+	color: inherit;
 	text-decoration: none;
 }
 
@@ -112,7 +112,6 @@ a[data-depth="11"] { margin-left: 200px }
 	text-decoration: none;
 	padding-left: 0.8em;
 	text-indent: -0.8em;
-	color: inherit;
 }
 
 #index-menu a:hover {
@@ -176,15 +175,40 @@ header nav {
 	transition: 300ms;
 }
 
-.menu-button:hover {
-	transform: scale(1.1);
-}
-
 #index-button {
 	height: 35px;
 	width: 35px;
 	display: inline-block;
 	position: relative;
+}
+
+#index-button:hover {
+	transform: scale(1.1)
+}
+
+#download-button {
+	position: relative;
+	z-index: 99;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 600;
+	color: #808080;
+}
+
+#download-button:hover {
+	color: black;
+}
+
+#download-button > span {
+	position: absolute;
+	top: 50%;
+	left: 0;
+	width: 100%;
+	transition: 300ms;
+}
+
+#download-button:hover span {
+	top: 90%;
+	border: 1px solid #66D37E
 }
 
 .line {
