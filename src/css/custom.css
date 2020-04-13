@@ -1,5 +1,5 @@
 html {
-	background-color: gray;
+	background-color: #999;
 }
 
 a, a:visited, a:hover {
@@ -9,7 +9,7 @@ a, a:visited, a:hover {
 
 #tei-wrapper {
 	max-width: 40em;
-	background-color: white;
+	background-color: #fff;
 	padding: 5em;
 	margin-left: auto;
 	margin-right: auto;
@@ -133,7 +133,7 @@ header {
 	width: 100%;
 	height: 70px;
 	z-index: 999;
-	background: white;
+	background: #fff;
 	box-shadow: 4px 0 5px 0 #999;
 	transition: 300ms ease;
 }
@@ -141,7 +141,7 @@ header {
 header.active { top: 0px }
 
 .logo-bdlp {
-	color: black;
+	color: #000;
 	text-decoration: none;
 	margin-left: 40px;
 	font-weight: 600;
@@ -195,7 +195,7 @@ header nav {
 }
 
 #download-button:hover {
-	color: black;
+	color: #000;
 }
 
 #download-button > span {
@@ -215,7 +215,7 @@ header nav {
 	position: absolute;
 	height: 3px;
 	width: 90%;
-	background: black;
+	background: #000;
 	transition: all cubic-bezier(0.26, 0.1, 0.27, 1.55) 0.35s;
 }
 .top { top: 18% }
