@@ -1,8 +1,12 @@
 const menuButton = document.getElementById('index-button')
+const downloadButton = document.getElementById('download-button')
 const indexMenu = document.getElementById('index-menu')
 const teiWrapper = document.getElementById('tei-wrapper')
 const header = document.querySelector('header')
+let url = window.location.href.split('/')
+
 header.classList.add('active')
+downloadButton.firstChild.setAttribute('download', url[url.length - 1].slice(0, url[url.length - 1].indexOf('#')))
 
 //Get element depth in the document tree
 function getElementDepth(el, root, offset=0) {

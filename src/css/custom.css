@@ -2,6 +2,11 @@ html {
 	background-color: gray;
 }
 
+a, a:visited, a:hover {
+	color: black;
+	text-decoration: none;
+}
+
 #tei-wrapper {
 	max-width: 40em;
 	background-color: white;
@@ -146,11 +151,6 @@ header.active { top: 0px }
 	font-family: "Source Sans Pro", sans-serif;
 } 
 
-a.logo-bdlp  {
-	color: #000;
-	text-decoration: none;
-}
-
 a.logo-bdlp:hover, a.logo-bdlp:active  {
   color: #66D37E;
 }
@@ -218,14 +218,8 @@ footer {
 }
 
 footer  a {
-	color: #000;
 	transition: 500ms ease;
 }
-
-footer a:visited {
-	color: #000;
-}
-
 
 
 /* The style below is for preventing FOUC. Keep it at the and of this file, always! */
