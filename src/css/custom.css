@@ -111,7 +111,8 @@ a[data-depth="11"] { margin-left: 200px }
 	transition: 200ms ease;
 	text-decoration: none;
 	padding-left: 0.8em;
-    text-indent: -0.8em;
+	text-indent: -0.8em;
+	color: inherit;
 }
 
 #index-menu a:hover {
