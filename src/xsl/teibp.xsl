@@ -66,20 +66,20 @@
 	<xsl:key name="ids" match="//*" use="@xml:id"/>
 
 	<xsl:template match="/" name="htmlShell" priority="99">
-		<html>
-			<header>
-				<a class="logo-bdlp" href="https://www.literaturabrasileira.ufsc.br/?locale=pt_BR">BDLP</a>
-				<div id="nav-menu-button" class="open">
-					<span class="line top"></span>
-					<span class="line middle"></span>
-					<span class="line bottom"></span>
-				</div>
-			</header>
+		<html style="display: hide">
 			<xsl:call-template name="htmlHead"/>
-			<div id="nav-menu">
-				<h1>Índice</h1>
-			</div>
 			<body>
+				<header>
+					<a class="logo-bdlp" href="https://www.literaturabrasileira.ufsc.br/?locale=pt_BR">BDLP</a>
+					<div id="nav-menu-button" class="open">
+						<span class="line top"></span>
+						<span class="line middle"></span>
+						<span class="line bottom"></span>
+					</div>
+				</header>
+				<div id="nav-menu">
+					<h1>Índice</h1>
+				</div>
 				<xsl:if test="$includeToolbox = true()">
 					<xsl:call-template name="teibpToolbox"/>
 				</xsl:if>
@@ -312,6 +312,8 @@
 	</xd:doc>
 	<xsl:template name="htmlHead">
 		<head>
+			<!-- Prevent FOUC -->
+    		<style> html { visibility: hidden; opacity: 0; } </style>
 			<meta charset="UTF-8"/>
             <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
