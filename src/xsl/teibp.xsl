@@ -68,6 +68,7 @@
 	<xsl:template match="/" name="htmlShell" priority="99">
 			<html>
 			<xsl:call-template name="htmlHead"/>
+			<style>.hidden { display: hidden; opacity: 0 }</style>
 			<body class="hidden">
 				<header>
 					<a class="logo-bdlp" href="https://www.literaturabrasileira.ufsc.br/?locale=pt_BR">BDLP</a>
