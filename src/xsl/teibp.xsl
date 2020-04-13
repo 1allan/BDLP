@@ -66,9 +66,9 @@
 	<xsl:key name="ids" match="//*" use="@xml:id"/>
 
 	<xsl:template match="/" name="htmlShell" priority="99">
-		<html style="display: hide">
+			<html>
 			<xsl:call-template name="htmlHead"/>
-			<body>
+			<body class="hidden">
 				<header>
 					<a class="logo-bdlp" href="https://www.literaturabrasileira.ufsc.br/?locale=pt_BR">BDLP</a>
 					<nav>
@@ -318,11 +318,6 @@
 	</xd:doc>
 	<xsl:template name="htmlHead">
 		<head>
-			<!-- 
-				The line below is used to prevent FOUC, as well as the last one at custom.css file. 
-				Don't remove them, until you implement another solution :)
-			 -->
-    		<style> html { visibility: hidden; opacity: 0; } </style>
 			<meta charset="UTF-8"/>
             <meta name="viewport" content="width=device-width, initial-scale=1"/>
 

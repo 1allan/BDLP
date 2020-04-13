@@ -59,3 +59,5 @@ document.addEventListener("scroll", () => {
    }
    lastScrollTop = st <= 0 ? 0 : st
 })
+
+window.onload = () => document.body.classList.remove('fouc')
