@@ -71,14 +71,14 @@
 			<body>
 				<header>
 					<a class="logo-bdlp" href="https://www.literaturabrasileira.ufsc.br/?locale=pt_BR">BDLP</a>
-					<div>
-
-						<div id="index-menu-button" class="open">
+					<nav>
+						<div class="menu-button">Baixar texto</div>
+						<div id="index-button" class="menu-button open">
 							<span class="line top"></span>
 							<span class="line middle"></span>
 							<span class="line bottom"></span>
 						</div>
-					</div>
+					</nav>
 				</header>
 				<div id="index-menu">
 					<h1>Índice</h1>

@@ -1,4 +1,4 @@
-const menuButton = document.getElementById('index-menu-button')
+const menuButton = document.getElementById('index-button')
 const indexMenu = document.getElementById('index-menu')
 const teiWrapper = document.getElementById('tei-wrapper')
 const header = document.querySelector('header')
