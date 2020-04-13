@@ -12,6 +12,10 @@
         margin-right: 20px;
     }
 
+    .menu-button {
+        margin-left: 30px;
+    }
+
     #index-menu {
         top: 60px;
         height: calc(100vh - 60px);
