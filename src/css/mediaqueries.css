@@ -22,5 +22,18 @@
         padding: 2em;
         margin-top: 4em;
     }
+
+}
+
+@media screen and (max-width: 450px) {
     
+    l {
+        padding-left: 50%;
+        text-indent: -110%;
+    }
+
+    lg {
+        margin-bottom: 50px;
+    }
+
 }

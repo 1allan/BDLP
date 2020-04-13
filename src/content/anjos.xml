@@ -4,14 +4,15 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title>Eu</title>
+		<author>Augusto dos Anjos</author>
       </titleStmt>
       <publicationStmt>
-        <p>Publication statement.</p>
+        <p>Obra disponível em formato TEI</p>
       </publicationStmt>
       <sourceDesc>
-        <p>Source description.</p>
-      </sourceDesc>
+        <bibl><title>Augusto dos Anjos: Obra Completa</title> Alexei Bueno (Org.): Rio de Janeiro: Nova Aguilar, 1995, 883 p.</bibl>
+	  </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text>
