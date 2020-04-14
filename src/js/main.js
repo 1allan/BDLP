@@ -60,4 +60,37 @@ document.addEventListener("scroll", () => {
    lastScrollTop = st <= 0 ? 0 : st
 })
 
-window.onload = () => document.body.classList.remove('hidden')
+const getStandardHeight = el => {
+	el.innerText = 'l'
+	return el.getBoundingClientRect().height
+}
+
+window.onload = () => {
+	let lines = document.querySelectorAll('l')
+	let originalText = lines[0].innerText
+	let h = getStandardHeight(lines[0])
+	lines[0].innerText = originalText
+	
+	for(let i = 0; i < lines.length; i++) {
+		let lastWordIndex = 0
+		if (lines[i].getBoundingClientRect().height > h) {
+			let text = lines[i].innerText.split(' ')
+			lines[i].innerText = ''
+			
+			for (let j = 0; j < text.length; j++ ) {
+				lines[i].innerHTML += `${text[j]} `
+				
+				if (lines[i].getBoundingClientRect().height > h){
+					lastWordIndex = j
+					lines[i].innerHTML = lines[i].innerHTML.slice(0, lines[i].innerHTML.indexOf(text[i]))
+					break
+				}
+			}
+			let clone = lines[i].cloneNode()
+			clone.innerHTML = `[ ${text.slice(lastWordIndex).join(' ')}`
+			clone.style.textAlign = 'right'
+			lines[i].parentNode.insertBefore(clone, lines[i].nextSibling)
+		}		
+	}
+	document.body.classList.remove('hidden')
+}

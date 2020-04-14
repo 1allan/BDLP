@@ -245,3 +245,8 @@ footer {
 footer  a {
 	transition: 500ms ease;
 }
+
+l {
+	padding-left: 0;
+	text-indent: 0;
+}
