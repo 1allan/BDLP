@@ -82,7 +82,7 @@ window.onload = () => {
 				
 				if (lines[i].getBoundingClientRect().height > h){
 					lastWordIndex = j
-					lines[i].innerHTML = lines[i].innerHTML.slice(0, lines[i].innerHTML.indexOf(text[i]))
+					lines[i].innerHTML = lines[i].innerHTML.slice(0, lines[i].innerHTML.indexOf(text[j]))
 					break
 				}
 			}
