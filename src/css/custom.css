@@ -250,3 +250,8 @@ l {
 	padding-left: 0;
 	text-indent: 0;
 }
+
+l.right { 
+	text-align: justify;
+	text-align-last: right;
+}
