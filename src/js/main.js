@@ -60,15 +60,12 @@ document.addEventListener("scroll", () => {
    lastScrollTop = st <= 0 ? 0 : st
 })
 
-const getStandardHeight = el => {
-	el.innerText = 'l'
-	return el.getBoundingClientRect().height
-}
-
-window.onload = () => {
+//
+function formatLTags() {
 	let lines = document.querySelectorAll('l')
 	let originalText = lines[0].innerText
-	let h = getStandardHeight(lines[0])
+	lines[0].innerText = 'l'
+	let h = lines[0].getBoundingClientRect().height
 	lines[0].innerText = originalText
 	
 	for(let i = 0; i < lines.length; i++) {
@@ -76,5 +73,11 @@ window.onload = () => {
 			lines[i].classList.add('right')
 		}		
 	}
-	document.body.classList.remove('hidden')
 }
+
+window.addEventListener('load', () => {
+	formatLTags()
+	document.body.classList.remove('hidden')
+})
+
+window.addEventListener('orientationchange', () => formatLTags(), false)
