@@ -61,7 +61,7 @@ document.addEventListener("scroll", () => {
 })
 
 //
-function formatLTags() {
+function formatPoetry() {
 	let lines = document.querySelectorAll('l')
 	let originalText = lines[0].innerText
 	lines[0].innerText = 'l'
@@ -71,13 +71,19 @@ function formatLTags() {
 	for(let i = 0; i < lines.length; i++) {
 		if (lines[i].getBoundingClientRect().height > h) {
 			lines[i].classList.add('right')
-		}		
+		} else {
+			lines[i].classList.remove('right')
+		}
 	}
 }
 
 window.addEventListener('load', () => {
-	formatLTags()
+	formatPoetry()
 	document.body.classList.remove('hidden')
 })
 
-window.addEventListener('orientationchange', () => formatLTags(), false)
+window.addEventListener('orientationchange', () => {
+	setTimeout(() => {
+		formatPoetry()
+	}, 300)
+})
