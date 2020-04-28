@@ -60,30 +60,6 @@ document.addEventListener("scroll", () => {
    lastScrollTop = st <= 0 ? 0 : st
 })
 
-//
-function formatPoetry() {
-	let lines = document.querySelectorAll('l')
-	let originalText = lines[0].innerText
-	lines[0].innerText = 'l'
-	let h = lines[0].getBoundingClientRect().height
-	lines[0].innerText = originalText
-	
-	for(let i = 0; i < lines.length; i++) {
-		if (lines[i].getBoundingClientRect().height > h) {
-			lines[i].classList.add('right')
-		} else {
-			lines[i].classList.remove('right')
-		}
-	}
-}
-
 window.addEventListener('load', () => {
-	formatPoetry()
 	document.body.classList.remove('hidden')
-})
-
-window.addEventListener('orientationchange', () => {
-	setTimeout(() => {
-		formatPoetry()
-	}, 300)
 })
