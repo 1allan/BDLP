@@ -247,11 +247,6 @@ footer a {
 }
 
 l {
-	padding-left: 0;
-	text-indent: 0;
-}
-
-l.right { 
-	text-align: justify;
-	text-align-last: right;
+	padding-left: 25%;
+	text-indent: -40%;
 }
