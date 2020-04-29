@@ -1,3 +1,8 @@
+@font-face {
+	font-family: 'Merriweather';
+	src: url(../fonts/Merriweather/Merriweather-Regular.ttf);
+}
+
 html {
 	background-color: #999;
 }
@@ -248,5 +253,11 @@ footer a {
 
 l {
 	padding-left: 25%;
-	text-indent: -40%;
+	text-indent: -30%;
+}
+
+opener {
+	font-family: 'Merriweather', serif;
+	font-weight: 700;
+	font-size: .7em;
 }
