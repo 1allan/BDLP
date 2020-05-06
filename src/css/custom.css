@@ -1,6 +1,6 @@
 @font-face {
-	font-family: 'Merriweather';
-	src: url(../fonts/Merriweather/Merriweather-Regular.ttf);
+	font-family: 'Roboto Mono';
+	src: url(../fonts/Roboto_Mono/RobotoMono-Regular.ttf);
 }
 
 html {
@@ -232,7 +232,7 @@ l {
 }
 
 opener, closer {
-	font-family: 'Merriweather', serif;
+	font-family: 'Roboto Mono', serif;
 	font-size: .7em;
 }
 
