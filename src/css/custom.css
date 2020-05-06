@@ -59,7 +59,7 @@ bibl > tei-title {
 
 div > head {
 	font-size: 150%;
-	text-indent: -0.5em;
+	text-indent: 0;
 	margin-top: 2em;
 }
 
@@ -256,7 +256,31 @@ l {
 	text-indent: -30%;
 }
 
-opener {
+opener, closer {
 	font-family: 'Merriweather', serif;
 	font-size: .7em;
+}
+
+closer {
+	text-align: left;
+}
+
+dateline {
+	padding-left: 2.5%
+}
+
+quote::before, quote::after {
+	content: ''
+}
+
+div[type="part"] > head:first-child {
+	border-bottom: 1px solid #999
+}
+
+div[type="poem"] > head:first-child {
+	font-size: 130%
+}
+
+div[type="poem"] {
+	margin-bottom: 15%;
 }

@@ -6,10 +6,6 @@
       <titleStmt>
         <title>Obra Completa</title>
         <author>Augusto dos Anjos</author>
-        <respStmt>
-          <resp>Encoded by</resp>
-          <name xml:id="AM">Adiel Mittmann</name>
-        </respStmt>
       </titleStmt>
       <publicationStmt>
         <distributor>Stichotheque</distributor>
@@ -38,6 +34,10 @@
           <date>1996</date>
           <ref target="http://search.ebscohost.com/login.aspx?direct=true&amp;db=cat07205a&amp;AN=uls.139458&amp;lang=pt-br&amp;site=eds-live&amp;scope=site"/>
         </bibl>
+        <respStmt>
+          <resp>Codificado por</resp>
+          <name xml:id="AM">Adiel Mittmann</name>
+        </respStmt>
       </sourceDesc>
     </fileDesc>
   </teiHeader>
