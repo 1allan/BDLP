@@ -240,10 +240,6 @@ closer {
 	text-align: left;
 }
 
-dateline {
-	padding-left: 2.5%
-}
-
 quote::before, quote::after {
 	content: ''
 }
