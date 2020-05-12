@@ -95,7 +95,7 @@
 			</body>
 		</html>
 	</xsl:template>
-	
+
 	<xd:doc>
     <xd:desc>
       <xd:p>Basic copy template, copies all attribute nodes from source XML tree to output
@@ -561,5 +561,39 @@
         </xsl:copy>
     </xsl:template>
 
+	<xsl:template name="loop">
+		<xsl:param name="num" />
+		<xsl:param name="content" />
+		<xsl:param name="content-pos" />
+		<xsl:param name="current" select="1" />
+		
+		<td>
+			<xsl:if test="$current = $content-pos">
+				<xsl:value-of select="$content"/>
+			</xsl:if>
+		</td>
+		
+		<xsl:if test="$current &lt; $num">
+			<xsl:call-template name="loop">
+				<xsl:with-param name="num" select="$num" />
+				<xsl:with-param name="current" select="$current + 1" />
+			</xsl:call-template>
+		</xsl:if>
+	</xsl:template>
+
+	<xsl:template match="tei:l">
+		<xsl:variable name="sec-qnt" select="count(./tei:sec)"/>
+		<table>
+			<xsl:for-each select="./tei:sec"> 
+				<tr>
+					<xsl:call-template name="loop">
+						<xsl:with-param name="num" select="$sec-qnt"/>
+						<xsl:with-param name="content" select="."/>
+						<xsl:with-param name="content-pos" select="position()"/>
+					</xsl:call-template>
+				</tr>
+			</xsl:for-each>
+		</table>
+	</xsl:template>
 	
 </xsl:stylesheet>
