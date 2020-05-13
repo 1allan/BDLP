@@ -561,18 +561,21 @@
         </xsl:copy>
     </xsl:template>
 
-	<xsl:template name="t-cells">
+	<xsl:template name="generate-cells">
 		<xsl:param name="num" />
 		<xsl:param name="content" />
 		<xsl:param name="content-pos" />
 		<xsl:param name="current" select="1" />
-		<sec>
-			<xsl:if test="$current = $content-pos">
-				<xsl:value-of select="$content"/>
-			</xsl:if>
-		</sec>
+
+		<xsl:choose>
+			<xsl:when test="$current = $content-pos">
+				<part><xsl:value-of select="$content"/></part>
+			</xsl:when>
+			<xsl:otherwise><empty-cell/></xsl:otherwise>
+		</xsl:choose>
+
 		<xsl:if test="$current &lt; $num">
-			<xsl:call-template name="t-cells">
+			<xsl:call-template name="generate-cells">
 				<xsl:with-param name="num" select="$num" />
 				<xsl:with-param name="current" select="$current + 1" />
 				<xsl:with-param name="content-pos" select="$content-pos"/>
@@ -581,17 +584,17 @@
 		</xsl:if>
 	</xsl:template>
 
-	<xsl:template match="tei:l[@type='broken']">
-		<xsl:variable name="sec-qnt" select="count(./tei:sec)"/>
-		<l type="broken">
-			<xsl:for-each select="./tei:sec"> 
-				<part>
-					<xsl:call-template name="t-cells">
-						<xsl:with-param name="num" select="$sec-qnt"/>
+	<xsl:template match="tei:l[@type='dialogue']">
+		<xsl:variable name="part-qnt" select="count(./tei:part)"/>
+		<l type="dialogue">
+			<xsl:for-each select="./tei:part"> 
+				<row>
+					<xsl:call-template name="generate-cells">
+						<xsl:with-param name="num" select="$part-qnt"/>
 						<xsl:with-param name="content" select="."/>
 						<xsl:with-param name="content-pos" select="position()"/>
 					</xsl:call-template>
-				</part>
+				</row>
 			</xsl:for-each>
 		</l>
 	</xsl:template>
