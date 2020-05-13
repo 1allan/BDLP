@@ -561,32 +561,32 @@
         </xsl:copy>
     </xsl:template>
 
-	<xsl:template name="loop">
+	<xsl:template name="t-cells">
 		<xsl:param name="num" />
 		<xsl:param name="content" />
 		<xsl:param name="content-pos" />
 		<xsl:param name="current" select="1" />
-		
 		<td>
 			<xsl:if test="$current = $content-pos">
 				<xsl:value-of select="$content"/>
 			</xsl:if>
 		</td>
-		
 		<xsl:if test="$current &lt; $num">
-			<xsl:call-template name="loop">
+			<xsl:call-template name="t-cells">
 				<xsl:with-param name="num" select="$num" />
 				<xsl:with-param name="current" select="$current + 1" />
+				<xsl:with-param name="content-pos" select="$content-pos"/>
+				<xsl:with-param name="content" select="$content"/>
 			</xsl:call-template>
 		</xsl:if>
 	</xsl:template>
 
-	<xsl:template match="tei:l">
+	<xsl:template match="tei:l[@type='broken']">
 		<xsl:variable name="sec-qnt" select="count(./tei:sec)"/>
 		<table>
 			<xsl:for-each select="./tei:sec"> 
 				<tr>
-					<xsl:call-template name="loop">
+					<xsl:call-template name="t-cells">
 						<xsl:with-param name="num" select="$sec-qnt"/>
 						<xsl:with-param name="content" select="."/>
 						<xsl:with-param name="content-pos" select="position()"/>
