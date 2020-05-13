@@ -566,11 +566,11 @@
 		<xsl:param name="content" />
 		<xsl:param name="content-pos" />
 		<xsl:param name="current" select="1" />
-		<td>
+		<sec>
 			<xsl:if test="$current = $content-pos">
 				<xsl:value-of select="$content"/>
 			</xsl:if>
-		</td>
+		</sec>
 		<xsl:if test="$current &lt; $num">
 			<xsl:call-template name="t-cells">
 				<xsl:with-param name="num" select="$num" />
@@ -583,17 +583,17 @@
 
 	<xsl:template match="tei:l[@type='broken']">
 		<xsl:variable name="sec-qnt" select="count(./tei:sec)"/>
-		<table>
+		<l type="broken">
 			<xsl:for-each select="./tei:sec"> 
-				<tr>
+				<part>
 					<xsl:call-template name="t-cells">
 						<xsl:with-param name="num" select="$sec-qnt"/>
 						<xsl:with-param name="content" select="."/>
 						<xsl:with-param name="content-pos" select="position()"/>
 					</xsl:call-template>
-				</tr>
+				</part>
 			</xsl:for-each>
-		</table>
+		</l>
 	</xsl:template>
 	
 </xsl:stylesheet>

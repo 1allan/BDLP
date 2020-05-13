@@ -255,3 +255,11 @@ div[type="poem"] > head:first-child {
 div[type="poem"] {
 	margin-bottom: 15%;
 }
+
+l[type="broken"] {
+	display: table;
+	padding-left: 0;
+	text-indent: 0;
+}
+l[type="broken"] part { display: table-row }
+l[type="broken"] part sec { display: table-cell }
