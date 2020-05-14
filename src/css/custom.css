@@ -258,8 +258,9 @@ div[type="poem"] {
 
 l[type="dialogue"] {
 	display: table;
-	padding-left: 0;
+	padding-left: 2.5%;
 	text-indent: 0;
 }
 l[type="dialogue"] row { display: table-row }
 l[type="dialogue"] row part, empty-cell { display: table-cell }
+l[type="dialogue"] part:first-child { min-width: 100px; }
