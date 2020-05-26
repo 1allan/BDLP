@@ -264,3 +264,15 @@ l[type="dialogue"] {
 l[type="dialogue"] row { display: table-row }
 l[type="dialogue"] row part, empty-cell { display: table-cell }
 l[type="dialogue"] part:first-child { min-width: 100px; }
+
+TEI p.title {
+	display: block;
+	font-family: Arvo, sans-serif;
+	font-weight: normal;
+}
+
+div > p.title {
+	font-size: 150%;
+	text-indent: 0;
+	margin-top: 2em;
+}
