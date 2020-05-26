@@ -1,0 +1,432 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <link rel="stylesheet" type="tex</span>href="https://fonts.googleapis.com/css?family=Oxygen:300,400"/>
+    <link rel="stylesheet" type="tex</span>href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700"/>
+    <link rel="stylesheet" type="tex</span>href="https://fonts.googleapis.com/css?family=Roboto"/>
+    <link id="maincss" rel="stylesheet" type="tex</span>href="../css/teibp.css"/>
+    <link id="customcss" rel="stylesheet" type="tex</span>href="../css/custom.css"/>
+    <link id="mediaqueries" rel="stylesheet" type="tex</span>href="../css/mediaqueries.css"/>
+    
+    <style type="text/css">[rendition~="#b"]{ font-weight:bold;}
+[rendition~="#i"]{ font-style:italic;}
+[rendition~="#u"]{ text-decoration:underline;}
+[rendition~="#n"]{ font-weight:normal; text-decoration:none; font-style:normal;}
+[rendition~="#mono"]{ font-family:Monaco,Courier,monospace;}
+[rendition~="#super"]{ vertical-align:super; font-size:80%;}
+[rendition~="#sub"]{ vertical-align:sub; font-size:80%;}
+[rendition~="#lowercase"]{ text-transform:lowercase;}
+[rendition~="#uppercase"]{ text-transform:uppercase;}
+[rendition~="#capitalize"]{ text-transform:capitalize;}
+[rendition~="#small-caps"]{ font-variant:small-caps;}
+[rendition~="#block"]{ display:block;}
+[rendition~="#block-margins"]{ display:block; margin-top:1em; margin-bottom:1em;}
+[rendition~="#blockquote"]{ display:block; font-size:90%; margin-left:3em; padding-left:1em; border-left: 1px solid gray; margin-top:.75em; margin-bottom:.75em; padding-top:.75em; padding-bottom:.75em;}
+[rendition~="#blockquote"]:before{ content:"" !important;}
+[rendition~="#blockquote"]:after{ content:"" !important;}
+[rendition~="#codeblock"]{ display: block; font-size: 80%; margin-left: 1em; padding-left: 1em; border-left: 1px solid gray; margin-top: .75em; margin-bottom: .75em; padding-top: .75em; padding-bottom: .75em; font-family:Monaco,Courier,monospace; white-space:pre;}
+[rendition~="#inline"]{ display:inline;}
+[rendition~="#center"]{ display:block; text-align:center; margin-left:auto; margin-right:auto;}
+[rendition~="#left"]{ text-align:left;}
+[rendition~="#right"]{ text-align:right;}
+[rendition~="#justify"]{ text-align:justify;}
+[rendition~="#center-block"]{ display:block; margin-left:auto; margin-right:auto;}
+[rendition~="#hang"]{ display:block; padding-left:2.5em; text-indent:-2.5em;}
+[rendition~="#l-indent-01"]{ display:block; padding-left:4em; text-indent:-2em;}
+[rendition~="#l-indent-02"]{ display:block; padding-left:6em; text-indent:-2em;}
+[rendition~="#l-indent-03"]{ display:block; padding-left:8em; text-indent:-2em;}
+[rendition~="#l-indent-04"]{ display:block; padding-left:10em; text-indent:-2em;}
+[rendition~="#l-indent-05"]{ display:block; padding-left:12em; text-indent:-2em;}
+[rendition~="#l-indent-06"]{ display:block; padding-left:14em; text-indent:-2em;}
+[rendition~="#l-indent-07"]{ display:block; padding-left:16em; text-indent:-2em;}
+[rendition~="#l-indent-08"]{ display:block; padding-left:18em; text-indent:-2em;}
+[rendition~="#indent"]:before{ /* text-indent:4em; */ /* The above method of describing an indentation for, say, a paragraph is preferred. The method being used is in response to a bug in some browsers whereby a block element, like a paragraph, is erroneously re-indented after interruption by another block element (like a list, which is valid inside a paragraph). */ content:"\A0\A0\A0\A0\A0\A0";}
+[rendition~="#small"]{ font-size:80%;}
+[rendition~="#x-small"]{ font-size:70%;}
+[rendition~="#xx-small"]{ font-size:60%;}
+[rendition~="#large"]{ font-size:110%;}
+[rendition~="#x-large"]{ font-size:115%;}
+[rendition~="#xxx-large"]{ font-size:120%;}
+[rendition~="#bracket"]{ }
+[rendition~="#bracket"]:before{ content:"&lt;";}
+[rendition~="#bracket"]:after{ content:"&gt;";}
+[rendition~="#red"]{ color:red;}
+</style>
+    
+    <script type="text/javascript">
+		  var _gaq = _gaq || [];
+		  //include analytics account below.
+		  _gaq.push(['_setAccount', 'UA-XXXXXXXX-X']);
+		  _gaq.push(['_trackPageview']);
+		
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+		</script>
+  </head>
+  <style>.hidden { display: hidden; opacity: 0 }</style>
+  <body class="hidden">
+    <header>
+      <a class="logo-bdlp" href="https://www.literaturabrasileira.ufsc.br/?locale=pt_BR">BDLP</a>
+      <nav>
+        <div id="index-button" class="menu-button open">
+          <span class="line top"/>
+          <span class="line middle"/>
+          <span class="line bottom"/>
+        </div>
+      </nav>
+    </header>
+    <div id="index-menu">
+      <h1>&#205;ndice</h1>
+    </div>
+    <div id="tei-wrapper">
+      <TEI id="idm45178203469704">
+	<teiHeader id="idm45178210216552">
+		<fileDesc id="idm45178208443288">
+			<titleStmt id="idm45178210363656">
+				<tei-title id="idm45178205373544" type="main">TEI Boilerplate</tei-title>
+				<tei-title id="idm45178209399464" type="sub">A template for TEI P5</tei-title>
+			</titleStmt>
+			<publicationStmt id="idm45178209694248">
+				<pubPlace id="idm45178205376168">Bloomington, IN</pubPlace>
+				<publisher id="idm45178205937928">Digital Culture Lab, School of Library &amp; Information Science, Indiana University</publisher>
+				<availability status="free" id="idm45178206664488">
+					<p id="idm45178207573080">Copyright &#169; 2012. TEI Boilerplate</p>
+					<p id="idm45178209674584">
+					<a href="http://creativecommons.org/licenses/by/3.0/" n="license" target="http://creativecommons.org/licenses/by/3.0/"><figure xmlns="http://www.tei-c.org/ns/1.0" style="border-width:0;" id="idm45178210162168"><figure xmlns="http://www.w3.org/1999/xhtml"><img alt="Creative Commons License" src="http://i.creativecommons.org/l/by/3.0/80x15.png"/></figure></figure></a><lb id="idm45178208400296"/>TEI Boilerplate is licensed under a <a href="http://creativecommons.org/licenses/by/3.0/" n="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.
+					</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc id="idm45178203665960">
+			
+                 <p id="idm45178203438792">This TEI/XML document is the original source</p>
+         	
+         	
+			
+			
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc id="idm45178208087144">
+			<tagsDecl id="idm45178209535720">	
+				
+				<rendition id="b" n="tiebp:bold" scheme="css">
+					font-weight:bold;
+				</rendition> 
+				
+				<rendition id="i" n="tiebp:italic" scheme="css">
+					font-style:italic;
+				</rendition> 
+				
+				<rendition id="u" n="tiebp:underline" scheme="css">
+					text-decoration:underline;
+				</rendition> 
+				
+				<rendition id="n" n="teibp:normal" scheme="css">
+					font-weight:normal;
+					text-decoration:none;
+					font-style:normal;
+				</rendition>
+				
+				<rendition id="mono" n="teibp:mono" scheme="css">
+					font-family:Monaco,Courier,monospace;
+				</rendition>
+				
+				<rendition id="super" n="tiebp:super" scheme="css">
+					vertical-align:super;
+					font-size:80%;
+				</rendition>
+				
+				<rendition id="sub" n="tiebp:sub" scheme="css">
+					vertical-align:sub;
+					font-size:80%;
+				</rendition>
+				
+				<rendition id="lowercase" n="tiebp:lowercase" scheme="css">
+					text-transform:lowercase;
+				</rendition>
+				
+				<rendition id="uppercase" n="tiebp:uppercase" scheme="css">
+					text-transform:uppercase;
+				</rendition>
+				
+				<rendition id="capitalize" n="tiebp:capitalize" scheme="css">
+					text-transform:capitalize;
+				</rendition>
+				
+				<rendition id="small-caps" n="tiebp:small-caps" scheme="css">
+					font-variant:small-caps;
+				</rendition>
+				
+				
+				<rendition id="block" n="tiebp:block" scheme="css">
+					display:block;
+				</rendition> 
+				<rendition id="block-margins" n="teibp:block-margins" scheme="css">
+					display:block;
+					margin-top:1em;
+					margin-bottom:1em;
+				</rendition>
+				<rendition id="blockquote" n="tiebp:blockquote" scheme="css">
+					display:block;
+					font-size:90%;
+					margin-left:3em;
+					padding-left:1em;
+					border-left: 1px solid gray;
+					margin-top:.75em;
+					margin-bottom:.75em;
+					padding-top:.75em;
+					padding-bottom:.75em;
+				</rendition>
+				
+				<rendition corresp="#blockquote" n="tiebp:blockquote" scheme="css" scope="before" id="idm45178207564776">
+					
+					content:"" !important;
+				</rendition>
+				
+				<rendition corresp="#blockquote" n="tiebp:blockquote" scheme="css" scope="after" id="idm45178205390632">
+					
+					content:"" !important;
+				</rendition>
+				
+				<rendition id="codeblock" n="teibp:codeblock" scheme="css">
+					display: block;
+					font-size: 80%;
+					margin-left: 1em;
+					padding-left: 1em;
+					border-left: 1px solid gray;
+					margin-top: .75em;
+					margin-bottom: .75em;
+					padding-top: .75em;
+					padding-bottom: .75em;
+					font-family:Monaco,Courier,monospace;
+					white-space:pre;
+				</rendition>
+				
+				
+				
+				<rendition id="inline" n="teibp:inline" scheme="css">
+					display:inline;
+				</rendition>
+				
+				
+				<rendition id="center" n="tiebp:center" scheme="css">
+					display:block;
+					text-align:center;
+					margin-left:auto;
+					margin-right:auto;
+				</rendition>
+				
+				<rendition id="left" n="teibp:left" scheme="css">
+					text-align:left;
+				</rendition>
+				
+				<rendition id="right" n="teibp:right" scheme="css">
+					text-align:right;
+				</rendition>
+				
+				<rendition id="justify" n="teibp:justify" scheme="css">
+					text-align:justify;
+				</rendition>
+				
+				<rendition id="center-block" n="tiebp:center-block" scheme="css">
+					display:block;
+					margin-left:auto;
+					margin-right:auto;
+				</rendition>
+				
+				
+				<rendition id="hang" n="teibp:hang" scheme="css">
+					display:block;
+					padding-left:2.5em;
+					text-indent:-2.5em;
+				</rendition>
+				
+				
+				<rendition id="l-indent-01" n="tiebp:l-indent-01" scheme="css">
+					display:block;
+					padding-left:4em;
+					text-indent:-2em;
+				</rendition>
+				
+				<rendition id="l-indent-02" n="tiebp:l-indent-02" scheme="css">
+					display:block;
+					padding-left:6em;
+					text-indent:-2em;
+				</rendition>
+				
+				<rendition id="l-indent-03" n="tiebp:l-indent-03" scheme="css">
+					display:block;
+					padding-left:8em;
+					text-indent:-2em;
+				</rendition>
+				
+				<rendition id="l-indent-04" n="tiebp:l-indent-04" scheme="css">
+					display:block;
+					padding-left:10em;
+					text-indent:-2em;
+				</rendition>
+				
+				<rendition id="l-indent-05" n="tiebp:l-indent-05" scheme="css">
+					display:block;
+					padding-left:12em;
+					text-indent:-2em;
+				</rendition>
+				
+				<rendition id="l-indent-06" n="tiebp:l-indent-06" scheme="css">
+					display:block;
+					padding-left:14em;
+					text-indent:-2em;
+				</rendition>
+				
+				<rendition id="l-indent-07" n="tiebp:l-indent-07" scheme="css">
+					display:block;
+					padding-left:16em;
+					text-indent:-2em;
+				</rendition>
+				
+				<rendition id="l-indent-08" n="tiebp:l-indent-08" scheme="css">
+					display:block;
+					padding-left:18em;
+					text-indent:-2em;
+				</rendition>
+				
+				<rendition id="indent" n="tiebp:indent" scheme="css" scope="before">
+					/* text-indent:4em; */
+					/* The above method of describing an indentation for, say, a paragraph is preferred.
+					The method being used is in response to a bug in some browsers whereby a block
+					element, like a paragraph, is erroneously re-indented after interruption by another 
+					block element (like a list, which is valid inside a paragraph). */
+					content:"\A0\A0\A0\A0\A0\A0";
+				</rendition>
+				
+				
+				
+				<rendition id="small" n="tiebp:small" scheme="css">
+					font-size:80%;
+				</rendition>
+				
+				<rendition id="x-small" n="tiebp:x-small" scheme="css">
+					font-size:70%;
+				</rendition>
+				
+				<rendition id="xx-small" n="tiebp:xx-small" scheme="css">
+					font-size:60%;
+				</rendition>
+				
+				<rendition id="large" n="tiebp:large" scheme="css">
+					font-size:110%;
+				</rendition>
+				
+				<rendition id="x-large" n="tiebp:x-large" scheme="css">
+					font-size:115%;
+				</rendition>
+				
+				<rendition id="xxx-large" n="tiebp:xxx-large" scheme="css">
+					font-size:120%;
+				</rendition>
+				
+				<rendition id="bracket" n="teibp:bracket" scheme="css"/>
+				
+				<rendition corresp="#bracket" n="tiebp:bracket" scheme="css" scope="before" id="idm45178209597992">
+					content:"&lt;";
+				</rendition>
+				
+				<rendition corresp="#bracket" n="tiebp:bracket" scheme="css" scope="after" id="idm45178204847848">
+					content:"&gt;";
+				</rendition>
+				<rendition id="red" scheme="css" n="custom:red">
+					color:red;
+				</rendition>
+			</tagsDecl>
+		</encodingDesc>
+	</teiHeader>
+	<text id="idm45178207827016">
+		<body xmlns="http://www.tei-c.org/ns/1.0" lang="">
+			<div xmlns="http://www.w3.org/1999/xhtml" type="dedication" id="acs0000001-02-i000">
+				<index corresp="acs0000001-02-i000-md.xml" indexName="text" id="idm45178210390248"/>
+				<span class="-teibp-pb" lang="en" id="idm45178210214808"><span class="-teibp-pageNum"><span class="-teibp-pbNote">page: </span>[v] </span><span class="-teibp-pbFacs"><a class="gallery-facs" rel="prettyPhoto[gallery1]" onclick="showFacs('[v]','../images/acs0000001-02-010.jpg','idm45178210214808')"><img alt="view page image(s)" class="-teibp-thumbnail" src="../images/acs0000001-02-010.jpg"/></a></span></span>
+				<span class="title">Dedication
+					<hi rendition="#x-small #block" style="margin-top:2em;" id="idm45178206663400">to</hi>
+					<persName key="mazzini" rendition="#block" style="margin-top:0;" id="idm45178208075512">Joseph
+						Mazzini</persName>
+				</head>
+				<lg id="idm45178203686376">
+					<l n="1" id="idm45178203704648">
+						<hi rendition="#small-caps" id="idm45178208022360"> Take</hi>, since you bade it should bear,</l>
+					<l n="2" rendition="#l-indent-01" id="idm45178206057208"> These, of the seed of your sowing,</l>
+					<l n="3" rendition="#l-indent-02" id="idm45178208399912"> Blossom or berry or weed.</l>
+					<l n="4" id="idm45178209227752"> Sweet though they be not, or fair,</l>
+					<l n="5" rendition="#l-indent-01" id="idm45178203673832"> That the dew of your word kept growing,</l>
+					<l n="6" rendition="#l-indent-02" id="idm45178203682872"> Sweet at least was the seed.</l>
+				</lg>
+				<lg id="idm45178203695272">
+					<l n="7" id="idm45178203697992"> Men bring you love-offerings of tears,</l>
+					<l n="8" rendition="#l-indent-01" id="idm45178203703832"> And sorrow the kiss that assuages,</l>
+					<l n="9" rendition="#l-indent-02" id="idm45178203710040"> And slaves the hate-offering of wrongs,</l>
+					<l n="10" id="idm45178205040888"> And time the thanksgiving of years,</l>
+					<l n="11" rendition="#l-indent-01" id="idm45178206642424"> And years the thanksgiving of ages;</l>
+					<l n="12" rendition="#l-indent-02" id="idm45178208316952"> I bring you my handful of songs.</l>
+				</lg>
+				<lg id="idm45178210399736">
+					<l n="13" id="idm45178210397224"> If a perfume be left, if a bloom,</l>
+					<l n="14" rendition="#l-indent-01" id="idm45178210260552"> Let it live till <placeName id="idm45178208964760">
+						<country key="it" id="idm45178206313592">Italia</country>
+					</placeName> be risen,</l>
+					<l n="15" rendition="#l-indent-02" id="idm45178203708344"> To be strewn in the dust of her car</l>
+					<l n="16" id="idm45178203667896"> When her voice shall awake from the tomb</l>
+					<l n="17" rendition="#l-indent-01" id="idm45178203674424">
+						<placeName id="idm45178203677112"><country key="gb-eng" id="idm45178203676984">England</country></placeName>, and <placeName id="idm45178203686024"><country key="fr" id="idm45178203696984">France</country></placeName> from her prison,</l>
+					<l n="18" rendition="#l-indent-02" id="idm45178203695736"> Sisters, a star by a star.</l>
+				</lg>
+				<span class="-teibp-pb" lang="en" id="idm45178203701384"><span class="-teibp-pageNum"><span class="-teibp-pbNote">page: </span>vi </span><span class="-teibp-pbFacs"><a class="gallery-facs" rel="prettyPhoto[gallery1]" onclick="showFacs('vi','../images/acs0000001-02-011.jpg','idm45178203701384')"><img alt="view page image(s)" class="-teibp-thumbnail" src="../images/acs0000001-02-011.jpg"/></a></span></span>
+				<lg id="idm45178203705832">
+					<l n="19" id="idm45178209596360"> I bring you the sword of a song,</l>
+					<l n="20" rendition="#l-indent-01" id="idm45178206791240"> The sword of my spirit's desire,</l>
+					<l n="21" rendition="#l-indent-02" id="idm45178209997096"> Feeble; but laid at your feet,</l>
+					<l n="22" id="idm45178208323112"> That which was weak shall be strong,</l>
+					<l n="23" rendition="#l-indent-01" id="idm45178205393512"> That which was cold shall take fire,</l>
+					<l n="24" rendition="#l-indent-02" id="idm45178205379080"> That which was bitter be sweet.</l>
+				</lg>
+				<lg id="idm45178210161080">
+					<l n="25" id="idm45178210162696"> It was wrought not with hands to smite,</l>
+					<l n="26" rendition="#l-indent-01" id="idm45178204826280"> Nor hewn after swordsmiths' fashion,</l>
+					<l n="27" rendition="#l-indent-02" id="idm45178204829352"> Nor tempered on anvil of steel;</l>
+					<l n="28" id="idm45178207825336"> But with visions and dreams of the night,</l>
+					<l n="29" rendition="#l-indent-01" id="idm45178208399336"> But with hope, and the patience of passion,</l>
+					<l n="30" rendition="#l-indent-02" id="idm45178209411064"> And the signet of love for a seal.</l>
+				</lg>
+				<lg id="idm45178210163224">
+					<l n="31" id="idm45178204825208"> Be it witness, till one more strong,</l>
+					<l n="32" rendition="#l-indent-01" id="idm45178204828408"> Till a loftier lyre, till a rarer</l>
+					<l n="33" rendition="#l-indent-02" id="idm45178209677240"> Lute praise her better than I,</l>
+					<l n="34" id="idm45178203688088"> Be it witness before you, my song,</l>
+					<l n="35" rendition="#l-indent-01" id="idm45178210346520"> That I knew her, the world's banner-bearer,</l>
+					<l n="36" rendition="#l-indent-02" id="idm45178207720856"> Who shall cry the republican cry.</l>
+				</lg>
+				<lg id="idm45178208111672">
+					<l n="37" id="idm45178204209176"> Yea, even she as at first,</l>
+					<l n="38" rendition="#l-indent-01" id="idm45178203683336"> Yea, she alone and none other,</l>
+					<l n="39" rendition="#l-indent-02" id="idm45178206079608"> Shall cast down, shall build up, shall bring home;</l>
+					<l n="40" id="idm45178209651288"> Slake earth's hunger and thirst,</l>
+					<l n="41" rendition="#l-indent-01" id="idm45178198119320"> Lighten, and lead as a mother;</l>
+					<l n="42" rendition="#l-indent-02" id="idm45178206879208"> First name of the world's names, <placeName id="idm45178206668504"><settlement key="rome" type="city" id="idm45178206668376">Rome</settlement></placeName>.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>
+    </div>
+    <footer>
+      <span>Powered by <a href="http://dcl.slis.indiana.edu/teibp/">TEI Boilerplate</a>.</span>
+      <span>TEI Boilerplate is licensed under a <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.</span>
+      <a href="http://creativecommons.org/licenses/by/3.0/">
+        <img alt="Creative Commons License" style="border-width:0;" src="http://i.creativecommons.org/l/by/3.0/80x15.png"/>
+      </a>
+    </footer>
+    <script type="text/javascript" src="../js/teibp.js"></script>
+    <script type="text/javascript" src="../js/main.js"></script>
+  </body>
+</html>

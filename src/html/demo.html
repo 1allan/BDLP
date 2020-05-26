@@ -1,0 +1,719 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+ </span>a charset="UTF-8"/>
+ </span>a name="viewport" content="width=device-width, initial-scale=1"/>
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Oxygen:300,400"/>
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700"/>
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto"/>
+    <link id="maincss" rel="stylesheet" type="text/css" href="../css/teibp.css"/>
+    <link id="customcss" rel="stylesheet" type="text/css" href="../css/custom.css"/>
+    <link id="mediaqueries" rel="stylesheet" type="text/css" href="../css/mediaqueries.css"/>
+    
+    <style type="text/css">[rendition~="#b"]{ font-weight:bold;}
+[rendition~="#i"]{ font-style:italic;}
+[rendition~="#u"]{ text-decoration:underline;}
+[rendition~="#n"]{ font-weight:normal; text-decoration:none; font-style:normal;}
+[rendition~="#mono"]{ font-family:Monaco,Courier,monospace;}
+[rendition~="#super"]{ vertical-align:super; font-size:80%;}
+[rendition~="#sub"]{ vertical-align:sub; font-size:80%;}
+[rendition~="#lowercase"]{ text-transform:lowercase;}
+[rendition~="#uppercase"]{ text-transform:uppercase;}
+[rendition~="#capitalize"]{ text-transform:capitalize;}
+[rendition~="#small-caps"]{ font-variant:small-caps;}
+[rendition~="#block"]{ display:block;}
+[rendition~="#blockquote"]{ display:block; font-size:90%; margin-left:3em; padding-left:1em; border-left: 1px solid gray; margin-top:.75em; margin-bottom:.75em; padding-top:.75em; padding-bottom:.75em;}
+[rendition~="#blockquote"]:before{ content:"" !important;}
+[rendition~="#blockquote"]:after{ content:"" !important;}
+[rendition~="#codeblock"]{ display: block; font-size: 80%; margin-left: 1em; padding-left: 1em; border-left: 1px solid gray; margin-top: .75em; margin-bottom: .75em; padding-top: .75em; padding-bottom: .75em; font-family:Monaco,Courier,monospace; white-space:pre;}
+[rendition~="#inline"]{ display:inline;}
+[rendition~="#center"]{ display:block; text-align:center; margin-left:auto; margin-right:auto;}
+[rendition~="#left"]{ text-align:left;}
+[rendition~="#right"]{ text-align:right;}
+[rendition~="#justify"]{ text-align:justify;}
+[rendition~="#center-block"]{ display:block; margin-left:auto; margin-right:auto;}
+[rendition~="#hang"]{ display:block; padding-left:2.5em; text-indent:-2.5em;}
+[rendition~="#l-indent-01"]{ display:block; padding-left:4em; text-indent:-2em;}
+[rendition~="#l-indent-02"]{ display:block; padding-left:6em; text-indent:-2em;}
+[rendition~="#l-indent-03"]{ display:block; padding-left:8em; text-indent:-2em;}
+[rendition~="#l-indent-04"]{ display:block; padding-left:10em; text-indent:-2em;}
+[rendition~="#l-indent-05"]{ display:block; padding-left:12em; text-indent:-2em;}
+[rendition~="#l-indent-06"]{ display:block; padding-left:14em; text-indent:-2em;}
+[rendition~="#l-indent-07"]{ display:block; padding-left:16em; text-indent:-2em;}
+[rendition~="#l-indent-08"]{ display:block; padding-left:18em; text-indent:-2em;}
+[rendition~="#indent"]:before{ /* text-indent:4em; */ /* The above method of describing an indentation for, say, a paragraph is preferred. The method being used is in response to a bug in some browsers whereby a block element, like a paragraph, is erroneously re-indented after interruption by another block element (like a list, which is valid inside a paragraph). */ content:"\A0\A0\A0\A0\A0\A0";}
+[rendition~="#small"]{ font-size:90%;}
+[rendition~="#x-small"]{ font-size:85%;}
+[rendition~="#xx-small"]{ font-size:80%;}
+[rendition~="#large"]{ font-size:110%;}
+[rendition~="#x-large"]{ font-size:115%;}
+[rendition~="#xxx-large"]{ font-size:120%;}
+[rendition~="#bracket"]{ }
+[rendition~="#bracket"]:before{ content:"&lt;";}
+[rendition~="#bracket"]:after{ content:"&gt;";}
+</style>
+    
+    <script type="text/javascript">
+		  var _gaq = _gaq || [];
+		  //include analytics account below.
+		  _gaq.push(['_setAccount', 'UA-XXXXXXXX-X']);
+		  _gaq.push(['_trackPageview']);
+		
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+		</script>
+  </head>
+  <style>.hidden { display: hidden; opacity: 0 }</style>
+  <body class="hidden">
+    <header>
+      <a class="logo-bdlp" href="https://www.literaturabrasileira.ufsc.br/?locale=pt_BR">BDLP</a>
+      <nav>
+        <div id="index-button" class="menu-button open">
+          <span class="line top"/>
+          <span class="line middle"/>
+          <span class="line bottom"/>
+        </div>
+      </nav>
+    </header>
+    <div id="index-menu">
+      <h1>&#205;ndice</h1>
+    </div>
+    <div id="tei-wrapper">
+      <TEI id="idm45178209086440">
+  <teiHeader id="idm45178209935592">
+    <fileDesc id="idm45178209935096">
+      <titleStmt id="idm45178209484168">
+        <tei-title id="idm45178210264600">TEI Boilerplate Examples &amp; Features</tei-title>
+      </titleStmt>
+      <publicationStmt id="idm45178207515176">
+        <pubPlace id="idm45178203668344">Bloomington, IN</pubPlace>
+        <publisher id="idm45178206089144">Digital Culture Lab, School of Library &amp; Information Science, Indiana University</publisher>
+        <availability status="free" id="idm45178210364968">
+          <p id="idm45178209430216">Copyright &#169; 2012. TEI Boilerplate</p>
+          <p id="idm45178209434984">
+            <a href="http://creativecommons.org/licenses/by/3.0/" n="license" target="http://creativecommons.org/licenses/by/3.0/"><figure xmlns="http://www.tei-c.org/ns/1.0" style="border-width:0;" id="idm45178209522424"><figure xmlns="http://www.w3.org/1999/xhtml"><img alt="Creative Commons License" src="http://i.creativecommons.org/l/by/3.0/80x15.png"/></figure></figure></a><lb id="idm45178206873864"/>TEI Boilerplate is licensed under a <a href="http://creativecommons.org/licenses/by/3.0/" n="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc id="idm45178208164888">
+        <p id="idm45178206000792">This TEI/XML document is the original source</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc id="idm45178209060008">
+      <tagsDecl id="idm45178206074888">
+        
+        <rendition id="b" n="tiebp:bold" scheme="css">
+          font-weight:bold;
+        </rendition> 
+        
+        <rendition id="i" n="tiebp:italic" scheme="css">
+          font-style:italic;
+        </rendition> 
+        
+        <rendition id="u" n="tiebp:underline" scheme="css">
+          text-decoration:underline;
+        </rendition> 
+        
+        <rendition id="n" n="teibp:normal" scheme="css">
+          font-weight:normal;
+          text-decoration:none;
+          font-style:normal;
+        </rendition>
+        
+        <rendition id="mono" n="teibp:mono" scheme="css">
+          font-family:Monaco,Courier,monospace;
+        </rendition>
+        
+        <rendition id="super" n="tiebp:super" scheme="css">
+          vertical-align:super;
+          font-size:80%;
+        </rendition>
+        
+        <rendition id="sub" n="tiebp:sub" scheme="css">
+          vertical-align:sub;
+          font-size:80%;
+        </rendition>
+        
+        <rendition id="lowercase" n="tiebp:lowercase" scheme="css">
+          text-transform:lowercase;
+        </rendition>
+        
+        <rendition id="uppercase" n="tiebp:uppercase" scheme="css">
+          text-transform:uppercase;
+        </rendition>
+        
+        <rendition id="capitalize" n="tiebp:capitalize" scheme="css">
+          text-transform:capitalize;
+        </rendition>
+        
+        <rendition id="small-caps" n="tiebp:small-caps" scheme="css">
+          font-variant:small-caps;
+        </rendition>
+        
+        
+        <rendition id="block" n="tiebp:block" scheme="css">
+          display:block;
+        </rendition> 
+        
+        <rendition id="blockquote" n="tiebp:blockquote" scheme="css">
+          display:block;
+          font-size:90%;
+          margin-left:3em;
+          padding-left:1em;
+          border-left: 1px solid gray;
+          margin-top:.75em;
+          margin-bottom:.75em;
+          padding-top:.75em;
+          padding-bottom:.75em;
+        </rendition>
+        
+        <rendition corresp="#blockquote" n="tiebp:blockquote" scheme="css" scope="before" id="idm45178209296376">
+          
+          content:"" !important;
+        </rendition>
+        
+        <rendition corresp="#blockquote" n="tiebp:blockquote" scheme="css" scope="after" id="idm45178203421096">
+          
+          content:"" !important;
+        </rendition>
+        
+        <rendition id="codeblock" n="teibp:codeblock" scheme="css">
+          display: block;
+          font-size: 80%;
+          margin-left: 1em;
+          padding-left: 1em;
+          border-left: 1px solid gray;
+          margin-top: .75em;
+          margin-bottom: .75em;
+          padding-top: .75em;
+          padding-bottom: .75em;
+          font-family:Monaco,Courier,monospace;
+          white-space:pre;
+        </rendition>
+        
+        
+        
+        <rendition id="inline" n="teibp:inline" scheme="css">
+          display:inline;
+        </rendition>
+        
+        
+        <rendition id="center" n="tiebp:center" scheme="css">
+          display:block;
+          text-align:center;
+          margin-left:auto;
+          margin-right:auto;
+        </rendition>
+        
+        <rendition id="left" n="teibp:left" scheme="css">
+          text-align:left;
+        </rendition>
+        
+        <rendition id="right" n="teibp:right" scheme="css">
+          text-align:right;
+        </rendition>
+        
+        <rendition id="justify" n="teibp:justify" scheme="css">
+          text-align:justify;
+        </rendition>
+        
+        <rendition id="center-block" n="tiebp:center-block" scheme="css">
+          display:block;
+          margin-left:auto;
+          margin-right:auto;
+        </rendition>
+        
+        
+        <rendition id="hang" n="teibp:hang" scheme="css">
+          display:block;
+          padding-left:2.5em;
+          text-indent:-2.5em;
+        </rendition>
+        
+        
+        <rendition id="l-indent-01" n="tiebp:l-indent-01" scheme="css">
+          display:block;
+          padding-left:4em;
+          text-indent:-2em;
+        </rendition>
+        
+        <rendition id="l-indent-02" n="tiebp:l-indent-02" scheme="css">
+          display:block;
+          padding-left:6em;
+          text-indent:-2em;
+        </rendition>
+        
+        <rendition id="l-indent-03" n="tiebp:l-indent-03" scheme="css">
+          display:block;
+          padding-left:8em;
+          text-indent:-2em;
+        </rendition>
+        
+        <rendition id="l-indent-04" n="tiebp:l-indent-04" scheme="css">
+          display:block;
+          padding-left:10em;
+          text-indent:-2em;
+        </rendition>
+        
+        <rendition id="l-indent-05" n="tiebp:l-indent-05" scheme="css">
+          display:block;
+          padding-left:12em;
+          text-indent:-2em;
+        </rendition>
+        
+        <rendition id="l-indent-06" n="tiebp:l-indent-06" scheme="css">
+          display:block;
+          padding-left:14em;
+          text-indent:-2em;
+        </rendition>
+        
+        <rendition id="l-indent-07" n="tiebp:l-indent-07" scheme="css">
+          display:block;
+          padding-left:16em;
+          text-indent:-2em;
+        </rendition>
+        
+        <rendition id="l-indent-08" n="tiebp:l-indent-08" scheme="css">
+          display:block;
+          padding-left:18em;
+          text-indent:-2em;
+        </rendition>
+        
+        <rendition id="indent" n="tiebp:indent" scheme="css" scope="before">
+          /* text-indent:4em; */
+          /* The above method of describing an indentation for, say, a paragraph is preferred.
+          The method being used is in response to a bug in some browsers whereby a block
+          element, like a paragraph, is erroneously re-indented after interruption by another 
+          block element (like a list, which is valid inside a paragraph). */
+          content:"\A0\A0\A0\A0\A0\A0";
+        </rendition>
+        
+        
+        
+        <rendition id="small" n="tiebp:small" scheme="css">
+          font-size:90%;
+        </rendition>
+        
+        <rendition id="x-small" n="tiebp:x-small" scheme="css">
+          font-size:85%;
+        </rendition>
+        
+        <rendition id="xx-small" n="tiebp:xx-small" scheme="css">
+          font-size:80%;
+        </rendition>
+        
+        <rendition id="large" n="tiebp:large" scheme="css">
+          font-size:110%;
+        </rendition>
+        
+        <rendition id="x-large" n="tiebp:x-large" scheme="css">
+          font-size:115%;
+        </rendition>
+        
+        <rendition id="xxx-large" n="tiebp:xxx-large" scheme="css">
+          font-size:120%;
+        </rendition>
+        
+        <rendition id="bracket" n="teibp:bracket" scheme="css"/>
+        
+        <rendition corresp="#bracket" n="tiebp:bracket" scheme="css" scope="before" id="idm45178208045960">
+          content:"&lt;";
+        </rendition>
+        
+        <rendition corresp="#bracket" n="tiebp:bracket" scheme="css" scope="after" id="idm45178207862056">
+          content:"&gt;";
+        </rendition>
+        
+      </tagsDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text id="idm45178210249112">
+    <body xmlns="http://www.tei-c.org/ns/1.0" lang="">
+      <div xmlns="http://www.w3.org/1999/xhtml" id="idm45178205985688">
+        <span class="title">Nested <gi id="idm45178208079096">div</gi> elements and headings</head>
+        <p id="idm45178203684168">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam gravida, urna eget venenatis mollis, ipsum tellus hendrerit tellus, sed vestibulum urna quam eget enim. Pellentesque odio lacus, laoreet quis commodo eu, vehicula congue purus. 
+        </p>
+        <div id="idm45178208910216">
+          <head id="idm45178209302952">Nested <gi id="idm45178206792520">div</gi> elements and headings</head>
+          <p id="idm45178208079480">
+            Vivamus rhoncus erat mi. Vestibulum sapien sapien, pulvinar id vehicula in, porta tristique ligula. Sed commodo diam sit amet dui posuere luctus. Morbi tempus sem adipiscing nisl molestie pharetra. 
+          </p>
+          <div id="idm45178210209848">
+            <head id="idm45178203422856">Nested <gi id="idm45178206037496">div</gi> elements and headings</head>
+            <p id="idm45178208022456">
+              Sed fermentum dui vel enim consectetur malesuada. Sed a mi felis. Curabitur sit amet mi augue, ac volutpat leo. Maecenas vitae condimentum orci. Morbi non quam sed neque tincidunt tempus posuere sit amet purus.
+            </p>
+            <div id="idm45178207790120">
+              <head id="idm45178208346680">Nested <gi id="idm45178207591944">div</gi> elements and headings</head>
+              <div id="idm45178203689256">
+                <head id="idm45178209695096">Nested <gi id="idm45178208642648">div</gi> elements and headings</head>
+                <div id="idm45178210254696">
+                  <head id="idm45178208561208">Nested <gi id="idm45178207603192">div</gi> elements and headings</head>
+                  <p id="idm45178205957704">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam gravida, urna eget venenatis mollis, ipsum tellus hendrerit tellus, sed vestibulum urna quam eget enim. Pellentesque odio lacus, laoreet quis commodo eu, vehicula congue purus. Aliquam urna urna, egestas eu feugiat sed, accumsan vitae dui.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div xmlns="http://www.w3.org/1999/xhtml" id="idm45178208341272">
+        <head id="idm45178209615560">Lists</head>
+        <list id="idm45178210363736">
+          <head id="idm45178209606968"><soCalled id="idm45178208275336">Untyped</soCalled> or bulleted</head>
+          <item id="idm45178206648776">John</item>
+          <item id="idm45178209763176">George</item>
+          <item id="idm45178210247784">Paul</item>
+          <item id="idm45178207812760">Ringo</item>
+        </list>
+        <list type="ordered" id="idm45178205851496">
+          <head id="idm45178210388520">ordered</head>
+          <item id="idm45178206406984">John</item>
+          <item id="idm45178208256392">George</item>
+          <item id="idm45178203426440">Paul</item>
+          <item id="idm45178209993512">Ringo</item>
+        </list>
+        <list type="simple" id="idm45178205576328">
+          <head id="idm45178210080488">simple</head>
+          <item id="idm45178209701400">John</item>
+          <item id="idm45178208941304">George</item>
+          <item id="idm45178206913864">Paul</item>
+          <item id="idm45178208526648">Ringo</item>
+        </list>
+        <list type="gloss" id="idm45178206804440">
+          <head id="idm45178209093576">gloss</head>
+          <label id="idm45178208377944">rhythm guitar</label>
+          <item id="idm45178208164216">John</item>
+          <label id="idm45178205988248">lead guitar</label>
+          <item id="idm45178203426056">George</item>
+          <label id="idm45178203715544">bass</label>
+          <item id="idm45178208346008">Paul</item>
+          <label id="idm45178208341992">drums</label>
+          <item id="idm45178209089224">Ringo</item>
+        </list>
+        <list id="idm45178207505976">
+          <head id="idm45178210443720">Nested</head>
+          <item id="idm45178209091768">The Beatles
+            <list id="idm45178208195768">
+              <item id="idm45178207871496">John</item>
+              <item id="idm45178209576424">George</item>
+              <item id="idm45178209943224">Paul</item>
+              <item id="idm45178208054952">Ringo</item>
+            </list>
+          </item>
+          <item id="idm45178208396808">The Stones
+            <list id="idm45178206016728">
+              <item id="idm45178208055384">Mick</item>
+              <item id="idm45178210068776">Keith</item>
+              <item id="idm45178209994440">Brian</item>
+              <item id="idm45178205843512">Charlie</item>
+              <item id="idm45178205886760">Bill</item>
+            </list>
+          </item>
+        </list>
+      </div>
+      <div xmlns="http://www.w3.org/1999/xhtml" id="idm45178210159672">
+        <head id="idm45178210026184">Tables</head>
+        <note id="idm45178209888024">Table examples are taken, with minor modifications, from the <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/FT.html" target="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/FT.html">TEI P5 Guidelines</a>.</note>
+        <table rows="2" cols="2" id="idm45178209926440">
+          <head rendition="#i" id="idm45178209751592">Report of the conduct and progress
+            of Ernest Pontifex. Upper Vth form &#8212; half
+            term ending Midsummer 1851</head>
+          <row id="idm45178209083352">
+            <cell role="label" id="idm45178209295928">Classics</cell>
+            <cell id="idm45178209201976">Idle listless and unimproving</cell>
+          </row>
+          <row id="idm45178208639240">
+            <cell role="label" id="idm45178209078088">Mathematics</cell>
+            <cell id="idm45178207827512">ditto</cell>
+          </row>
+          <row id="idm45178210234520">
+            <cell role="label" id="idm45178209081896">Divinity</cell>
+            <cell id="idm45178207547528">ditto</cell>
+          </row>
+          <row id="idm45178210067384">
+            <cell role="label" id="idm45178209610648">Conduct in house</cell>
+            <cell id="idm45178209268584">Orderly</cell>
+          </row>
+          <row id="idm45178208946264">
+            <cell role="label" id="idm45178207516600">General conduct</cell>
+            <cell id="idm45178206800712">Not satisfactory, on
+              account of his great unpunctuality and inattention to
+              duties</cell>
+          </row>
+        </table>
+        <table rows="4" cols="4" id="idm45178207604296">
+          <head id="idm45178210267992">Poor Man's Lodgings in Norfolk (Mayhew, 1843)</head>
+          <row role="label" id="idm45178206892280">
+            <cell id="idm45178208067672"/>
+            <cell id="idm45178209888552">Dossing Cribs or Lodging Houses</cell>
+            <cell id="idm45178209511112">Beds</cell>
+            <cell id="idm45178207864680">Needys or Nightly Lodgers</cell>
+          </row>
+          <row id="idm45178208072776">
+            <cell role="label" id="idm45178208378472">Bury St Edmund's</cell>
+            <cell id="idm45178203514152">5</cell>
+            <cell id="idm45178209411832">8</cell>
+            <cell id="idm45178208324504">128</cell>
+          </row>
+          <row id="idm45178206001288">
+            <cell role="label" id="idm45178210230696">Thetford</cell>
+            <cell id="idm45178209087160">3</cell>
+            <cell id="idm45178207806424">6</cell>
+            <cell id="idm45178208151144">36</cell>
+          </row>
+          <row id="idm45178210143832">
+            <cell role="label" id="idm45178208066792">Attleboro'</cell>
+            <cell id="idm45178209887672">3</cell>
+            <cell id="idm45178209890488">5</cell>
+            <cell id="idm45178207863800">20</cell>
+          </row>
+          <row id="idm45178210144904">
+            <cell role="label" id="idm45178208070536">Wymondham</cell>
+            <cell id="idm45178208376008">1</cell>
+            <cell id="idm45178209762664">11</cell>
+            <cell id="idm45178209657272">22</cell>
+          </row>
+        </table>
+      </div>
+      <div xmlns="http://www.w3.org/1999/xhtml" id="idm45178206913416">
+        <head id="idm45178209698328"><gi id="idm45178207580168">choice</gi> and the <soCalled id="idm45178207886296">Janus-Faced</soCalled> elements</head>
+        <p id="idm45178206574360"><gi id="idm45178209257592">choice</gi> is commonly used to group a pair of the so-called <soCalled id="idm45178208045576">Janus-Faced</soCalled> elements, e.g., <gi id="idm45178209609400">orig</gi> &amp; <gi id="idm45178208325384">reg</gi>, <gi id="idm45178205389736">abbr</gi> &amp; <gi id="idm45178207515848">expan</gi>, or <gi id="idm45178209764120">sic</gi> &amp; <gi id="idm45178209930952">corr</gi>.</p>
+        <p id="idm45178207594440">The default behavior of TEI Boilerplate is to display both items in the the <gi id="idm45178207548376">choice</gi>, with the second item enclosed in parentheses.</p>
+        <p id="idm45178209536920">For instance:
+          <quote rendition="#blockquote" id="idm45178209538296">
+            The <title id="idm45178210068232"><choice id="idm45178210068104"><abbr id="idm45178207087000">TEI</abbr><expan id="idm45178207088456">Text Encoding Initiative</expan></choice> Guidelines</title> may be used to encode a wide <choice id="idm45178208524824"><sic id="idm45178208524696">vareity</sic><corr id="idm45178208526008">variety</corr></choice> of document types and genres.</quote>
+        </p>
+      </div>
+      <div xmlns="http://www.w3.org/1999/xhtml" id="idm45178209940808">
+        <head id="idm45178206805976">Verse inside <gi id="idm45178208907960">floatingText</gi></head>
+        <head style="font-size:12pt" id="idm45178208113672">and facsimile page images<lb id="idm45178209462184"/> <code id="idm45178209079352">&lt;pb facs="../images/page01.jpg"/&gt;</code></head>
+        <floatingText id="acs0000001-05-i002-content" n="Grand Chorus of Birds from Aristophanes" type="poem">
+         <note id="idm45178209069240">From <title id="idm45178209265944"><a href="http://www.swinburneproject.org/" target="http://www.swinburneproject.org/">The Algernon Charles Swinburne Project</a>.</title></note>
+          <front id="front002">
+            <titlePage type="full" id="idm45178203519832">
+              <span class="-teibp-pb" lang="en" id="idm45178206073400"><span class="-teibp-pageNum"><span class="-teibp-pbNote">page: </span>41 </span><span class="-teibp-pbFacs"><a class="gallery-facs" rel="prettyPhoto[gallery1]" onclick="showFacs('41','../images/birds_41.jpg','idm45178206073400')"><img alt="view page image(s)" class="-teibp-thumbnail" src="../images/birds_41.jpg"/></a></span></span>
+              <docTitle id="idm45178209761416">
+                <titlePart rendition="#center #uc" type="main" id="idm45178210293848">Grand Chorus of Birds <lb id="idm45178207894280"/><hi rendition="#small" id="idm45178203652184">from</hi>
+                  <lb id="idm45178210088072"/><persName key="aristophanes" id="idm45178210087944">Aristophanes</persName></titlePart>
+                <lb id="idm45178208254680"/>
+                <titlePart rendition="#center #small #i" type="sub" id="idm45178210281400">Attempted in English verse after the original
+                  metre</titlePart>
+              </docTitle>
+            </titlePage>
+            <span class="-teibp-pb" lang="en" id="idm45178208300968"><span class="-teibp-pageNum"><span class="-teibp-pbNote">page: </span>42 </span><span class="-teibp-pbFacs"><a class="gallery-facs" rel="prettyPhoto[gallery1]" onclick="showFacs('42','../images/birds_42.jpg','idm45178208300968')"><img alt="view page image(s)" class="-teibp-thumbnail" src="../images/birds_42.jpg"/></a></span></span>
+            <div id="preface002" rendition="#small #justify #center-block" style="width:30em;" type="preface">
+              <p id="idm45178208340264"> I <hi rendition="#sc" id="idm45178207608920">was</hi> allured into the audacity of this experiment by
+                consideration of a fact which hitherto does not seem to have been taken into consideration
+                by any translator of the half divine humourist in whose incomparable genius the highest
+                qualities of Rabelais were fused and harmonized with the supremest gifts of <persName key="shelley" id="idm45178205983608">Shelley</persName>:
+                namely, that his marvellous metrical invention of the anap&#230;stic heptameter was almost
+                exactly reproducible in a language to which all variations and combinations of anap&#230;stic, 
+                iambic, or trochaic metre are as natural and pliable as all dactylic and spondaic forms of
+                verse are unnatural and abhorrent. As it happens, this highest central interlude of a most
+                adorable masterpiece is as easy to detach from its dramatic setting, and even from its
+                lyrical context, as it was easy to give line for line of it in English. In two metrical
+                points only does my version vary from the verbal pattern of the original. I have of course
+                added rhymes, and double rhymes, as necessary makeweights for the imperfection of an
+                otherwise inadequate language; and equally of course I have not attempted the impossible
+                and undesirable task of reproducing the rare exceptional effect of a line overcharged on
+                purpose with a preponderance of heavy-footed spondees: and this for the obvious reason
+                that even if such a line&#8212;which I doubt&#8212;could be exactly represented, foot by foot and
+                pause for pause, in English, this English line would no more be a verse in any proper
+                sense of the word than is the line I am writing at this moment. And my main intention, or
+                at least my main desire, in the undertaking of this brief adventure, was to renew as far
+                as possible for English ears the music of this resonant and triumphant metre, which goes
+                ringing at full gallop as of horses who <cit rendition="#block" id="idm45178210016760">
+                  <quote rendition="#blockquote" style="margin-left:5em;" id="idm45178208101464">
+                    <lg id="idm45178203398120">
+                      <l part="F" rendition="#l-indent-06" id="idm45178207826728"><q next="#e171f002" id="idm45178209606760">dance as &#8217;twere to the music</q></l>
+                      <l part="I" id="idm45178210386840"><q prev="#e170f002" id="idm45178210307128">Their own hoofs make.</q></l>
+                    </lg>
+                  </quote>
+                </cit> I would not seem over curious in search of an apt or inapt quotation: but nothing
+                can be fitter than a verse of <persName key="shakespeare" id="idm45178209412200">Shakespeare's</persName> to praise at once and to describe the most
+                typical verse of <persName key="aristophanes" id="idm45178206085160">Aristophanes</persName>. </p>
+            </div>
+            <span class="-teibp-pb" lang="en" id="idm45178208915272"><span class="-teibp-pageNum"><span class="-teibp-pbNote">page: </span>43 </span><span class="-teibp-pbFacs"><a class="gallery-facs" rel="prettyPhoto[gallery1]" onclick="showFacs('43','../images/birds_43.jpg','idm45178208915272')"><img alt="view page image(s)" class="-teibp-thumbnail" src="../images/birds_43.jpg"/></a></span></span>
+          </front>
+          <body xmlns="http://www.tei-c.org/ns/1.0" lang="">
+            <head xmlns="http://www.w3.org/1999/xhtml" rendition="#center" id="idm45178208908584">THE BIRDS
+              <lb id="idm45178208325000"/>
+              <cit rendition="#small" id="idm45178208280520">
+                <bibl id="idm45178210077112"><biblScope type="ll" id="idm45178210076984">(685-723)</biblScope></bibl>
+              </cit>
+            </head>
+            <lg xmlns="http://www.w3.org/1999/xhtml" id="idm45178207750408">
+              <l n="1" id="idm45178209462680">Come on then, ye dwellers by nature in darkness, and like to the leaves'
+                generations,</l>
+              <l n="2" id="idm45178207885912">That are little of might, that are moulded of mire, unenduring and shadowlike
+                nations,</l>
+              <l n="3" id="idm45178209999944">Poor plumeless ephemerals, comfortless mortals, as visions of creatures fast
+                fleeing,</l>
+              <l n="4" id="idm45178210219864">Lift up your mind unto us that are deathless, and dateless the date of our
+                being:</l>
+              <l n="5" id="idm45178206043432">Us, children of heaven, us, ageless for aye, us, all of whose thoughts are
+                eternal;</l>
+              <l n="6" id="idm45178206395336">That ye may from henceforth, having heard of us all things aright as to matters
+                supernal,</l>
+              <l n="7" id="idm45178208601384">Of the being of birds and beginning of gods, and of streams, and the dark beyond
+                reaching,</l>
+              <l n="8" id="idm45178207933912">Truthfully knowing aright, in my name bid <persName key="prodicus" id="idm45178209417512">Prodicus</persName> pack with his preaching.</l>
+            </lg>
+            <lg xmlns="http://www.w3.org/1999/xhtml" id="idm45178210319272">
+              <l n="9" id="idm45178210319016">It was Chaos and Night at the first, and the blackness of darkness, and hell's
+                broad border,</l>
+              <l n="10" id="idm45178206004440">Earth was not, nor air, neither heaven; when in depths of the womb of the dark
+                without order</l>
+              <l n="11" id="idm45178203423576">First thing first-born of the black-plumed Night was a wind-egg hatched in her
+                bosom,</l>
+              <l n="12" id="idm45178206425048">Whence timely with seasons revolving again sweet Love burst out as a blossom,</l>
+              <span class="-teibp-pb" lang="en" id="idm45178210235576"><span class="-teibp-pageNum"><span class="-teibp-pbNote">page: </span>44 </span><span class="-teibp-pbFacs"><a class="gallery-facs" rel="prettyPhoto[gallery1]" onclick="showFacs('44','../images/birds_44.jpg','idm45178210235576')"><img alt="view page image(s)" class="-teibp-thumbnail" src="../images/birds_44.jpg"/></a></span></span>
+              <l n="13" id="idm45178210589832">Gold wings glittering forth of his back, like whirlwinds gustily turning.</l>
+              <l n="14" id="idm45178208143960">He, after his wedlock with Chaos, whose wings are of darkness, in hell
+                broad-burning,</l>
+              <l n="15" id="idm45178206051272">For his nestlings begat him the race of us first, and upraised us to light
+                new-lighted.</l>
+              <l n="16" id="idm45178209788328">And before this was not the race of the gods, until all things by Love were
+                united;</l>
+              <l n="17" id="idm45178208491080">And of kind united with kind in communion of nature the sky and the sea are</l>
+              <l n="18" id="idm45178206847944">Brought forth, and the earth, and the race of the gods everlasting and blest. So
+                that we are</l>
+              <l n="19" id="idm45178205921608">Far away the most ancient of all things blest. And that we are of Love's
+                generation</l>
+              <l n="20" id="idm45178210096168">There are manifest manifold signs. We have wings, and with us have the Loves
+                habitation;</l>
+              <l n="21" id="idm45178208640040">And manifold fair young folk that forswore love once, ere the bloom of them
+                ended,</l>
+              <l n="22" id="idm45178206949960">Have the men that pursued and desired them subdued, by the help of us only
+                befriended,</l>
+              <l n="23" id="idm45178205984792">With such baits as a quail, a flamingo, a goose, or a cock's comb staring and
+                splendid.</l>
+            </lg>
+            <lg xmlns="http://www.w3.org/1999/xhtml" id="idm45178210280712">
+              <l n="24" id="idm45178203513640">All best good things that befall men come from us birds, as is plain to all
+                reason:</l>
+              <l n="25" id="idm45178208344936">For first we proclaim and make known to them spring, and the winter and autumn in
+                season;</l>
+              <l n="26" id="idm45178208345592">Bid sow, when the crane starts clanging for <placeName id="idm45178206993256"><bloc key="africa" id="idm45178208304600">Afric</bloc></placeName>, in shrill-voiced emigrant
+                number,</l>
+              <l n="27" id="idm45178205765624">And calls to the pilot to hang up his rudder again for the season, and
+                slumber;</l>
+              <l n="28" id="idm45178208550984">And then weave cloak for <persName key="orestes" id="idm45178203589720">Orestes</persName> the thief, lest he strip men of theirs if it
+                freezes.</l>
+              <l n="29" id="idm45178210393240">And again thereafter the kite reappearing announces a change in the breezes,</l>
+              <span class="-teibp-pb" lang="en" id="idm45178210145640"><span class="-teibp-pageNum"><span class="-teibp-pbNote">page: </span>45 </span><span class="-teibp-pbFacs"><a class="gallery-facs" rel="prettyPhoto[gallery1]" onclick="showFacs('45','../images/birds_45.jpg','idm45178210145640')"><img alt="view page image(s)" class="-teibp-thumbnail" src="../images/birds_45.jpg"/></a></span></span>
+              <l n="30" id="idm45178203472088">And that here is the season for shearing your sheep of their spring wool. Then
+                does the swallow</l>
+              <l n="31" id="idm45178210216408">Give you notice to sell your greatcoat, and provide something light for the heat
+                that's to follow.</l>
+              <l n="32" id="idm45178210264136">Thus are we as <persName key="ammon" id="idm45178208105960">Ammon</persName> or <rs key="delphic_oracle" id="idm45178208155624">
+                <placeName key="delphi" id="idm45178210263096"><settlement type="town" id="idm45178209487352">Delphi</settlement></placeName></rs> unto you, 
+                <persName key="dodona" id="idm45178207881464">Dodona</persName>, nay, <persName key="apollo" id="idm45178207873000">Phoebus Apollo</persName>.</l>
+              <l n="33" id="idm45178209789448"> For, as first ye come all to get auguries of birds, even such is in all things
+                your carriage,</l>
+              <l n="34" id="idm45178208439832">Be the matter a matter of trade, or of earning your bread, or of any one's
+                marriage.</l>
+              <l n="35" id="idm45178208020296">And all things ye lay to the charge of a bird that belong to discerning
+                prediction:</l>
+              <l n="36" id="idm45178208072104">Winged fame is a bird, as you reckon: you sneeze, and the sign's as a bird for
+                conviction:</l>
+              <l n="37" id="idm45178206851224">All tokens are <q id="idm45178207728776">birds</q> with you&#8212;sounds too, and lackeys, and donkeys. Then
+                must it not follow</l>
+              <l n="38" id="idm45178210149784">That we <hi rendition="#sc" id="idm45178209467640">are</hi> to you all as the manifest godhead that speaks in prophetic
+                <persName key="apollo" id="idm45178207803000">Apollo</persName>?</l>
+            </lg>
+            <signed xmlns="http://www.w3.org/1999/xhtml" rendition="#indent #small #i" id="idm45178208046472">
+              <date when="1880-10-19" id="idm45178208909096">October <hi rendition="#n" id="idm45178209515080">19, 1880</hi>.</date>
+            </signed>
+          </body>
+          <back id="idm45178208391496"><div n="[notes]" id="idm45178208391368"/></back></floatingText>
+      </div>
+      <div xmlns="http://www.w3.org/1999/xhtml" id="idm45178206800200">
+        <head id="idm45178206799944">Automatic generation of quotation marks for nested <gi id="idm45178206573976">q</gi>, <gi id="idm45178207884488">quote</gi>, and <gi id="idm45178208481176">soCalled</gi></head>
+        <p id="idm45178207853976">Michael said, <q id="idm45178209555752">Those so-called <soCalled id="idm45178209555496">superheroes</soCalled> just screamed, <q id="idm45178210313160">Avengers Assemble!</q></q>
+        </p>
+      </div>
+      <div xmlns="http://www.w3.org/1999/xhtml" id="idm45178205388728">
+        <head id="idm45178203427768">Bibliography</head>
+        <div id="works_cited">
+          <listBibl id="idm45178208280152">
+            <bibl rendition="#hang" id="adams1918">Adams, Henry. <title level="m" id="idm45178209695960">The Education of Henry Adams: An Autobiography</title>. Boston: Houghton Mifflin, 1918.</bibl> 
+            <bibl rendition="#hang" id="arnold">Arnold, Matthew. &#8220;To Francis Turner Palgrave.&#8221; 9 Oct. 1867. Letter <a href="http://rotunda.upress.virginia.edu/arnold/display.xqy?letter=V3P176D1" target="http://rotunda.upress.virginia.edu/arnold/display.xqy?letter=V3P176D1">V3P176D1</a> of <title level="m" id="idm45178209390152"><a href="http://rotunda.upress.virginia.edu/arnold/" target="http://rotunda.upress.virginia.edu/arnold/">The Letters of Matthew Arnold: A Digital Edition</a></title>. Charlottesville: U of Virginia P, 2006.</bibl>
+            <bibl rendition="#hang" id="idm45178209814424">Rev. of <title level="m" id="idm45178209551608">Atalanta in Calydon</title>, by Algernon Charles Swinburne. <title level="m" id="idm45178206076632">Saturday Review of Politics, Literature, Science and Art</title> <date when="1865-05-06" id="idm45178208160296">6 May 1865</date>: 540-42.</bibl>
+            <bibl rendition="#hang" id="eliot1920"><author id="idm45178205385848">Eliot, T.S.</author> <title level="a" id="idm45178209302344">Swinburne as Critic.</title> <title level="m" id="idm45178208430296">The Sacred Wood: Essays on Poetry and Criticism</title>. London: Methuen, <date when="1920" id="idm45178203480312">1920</date>. 17-23.</bibl>
+            <bibl rendition="#hang" id="gosse1917">Gosse, Edmund. <title level="m" id="idm45178209920168">The Life of Algernon Charles Swinburne.</title>. New York: Macmillan, 1917.</bibl>
+            <bibl rendition="#hang" id="lamb1835a">Lamb, Charles. <a href="http://openlibrary.org/books/OL19367516M/Specimens_of_English_dramatic_poets" target="http://openlibrary.org/books/OL19367516M/Specimens_of_English_dramatic_poets"><title level="m" id="idm45178206890472">Specimens of English Dramatic Poets, Who Lived about the Time of Shakespeare.</title> Vol. 1.</a> London: Moxon, 1849.</bibl>
+            <bibl rendition="#hang" id="lamb1835b">Lamb, Charles. <a href="http://openlibrary.org/books/OL24358091M/Specimens_of_English_dramatic_poets_who_lived_about_the_time_of_Shakespeare" target="http://openlibrary.org/books/OL24358091M/Specimens_of_English_dramatic_poets_who_lived_about_the_time_of_Shakespeare"><title level="m" id="idm45178209936696">Specimens of English Dramatic Poets, Who Lived about the Time of Shakespeare.</title> Vol. 2.</a> London: Moxon, 1835.</bibl>
+            <bibl rendition="#hang" id="queenmother1861b">Rev. of <title level="m" id="idm45178206703976">The Queen-Mother and Rosamond</title>, by Algernon Charles Swinburne. <title level="m" id="idm45178209490696">John Bull</title> <date when="1861-04-06" id="idm45178209452008">6 Apr. 1861</date>: 219.</bibl>
+            <bibl rendition="#hang" id="walsh2012"><a href="http://swinburneproject.org/" target="http://swinburneproject.org/">The Algernon Charles Swinburne Project</a>. Ed. John A. Walsh. Vers. 3.0 (March 2012). Digital Culture Lab, School of Library and Information Science, Indiana U. 14 April 2012. <a href="http://www.swinburnearchive.org/" rendition="#bracket" target="http://www.swinburnearchive.org/">http://www.swinburnearchive.org/</a>.</bibl>
+          </listBibl>
+        </div>
+      </div>
+      <div xmlns="http://www.w3.org/1999/xhtml" id="idm45178208914904">
+        <head id="idm45178208914648">Code in <gi id="idm45178207883528">egXML</gi></head>
+        <egXML style="width:50em;" id="idm45178207883144"><span xmlns:xs="http://www.w3.org/2001/XMLSchema" class="eg-element">&lt;div</span> <span xmlns:xs="http://www.w3.org/2001/XMLSchema" class="eg-att">xml:id=</span><span xmlns:xs="http://www.w3.org/2001/XMLSchema" class="eg-attvalue">"div00013"</span> <span xmlns:xs="http://www.w3.org/2001/XMLSchema" class="eg-att">type=</span><span xmlns:xs="http://www.w3.org/2001/XMLSchema" class="eg-attvalue">"dedication"</span> <span xmlns:xs="http://www.w3.org/2001/XMLSchema" class="eg-att">rendition=</span><span xmlns:xs="http://www.w3.org/2001/XMLSchema" class="eg-attvalue">"#x-small"</span><span xmlns:xs="http://www.w3.org/2001/XMLSchema" class="eg-element">&gt;<span class="eg-text">
+  </span><span class="eg-element">&lt;pb</span> <span class="eg-att">n=</span><span class="eg-attvalue">"84"</span> <span class="eg-att">facs=</span><span class="eg-attvalue">"http://purl.dlib.indiana.edu/iudl/swinburne/large/acs0000001-05-099"</span><span class="eg-element">/&gt;</span><span class="eg-text">
+  </span><span class="eg-element">&lt;head</span> <span class="eg-att">rendition=</span><span class="eg-attvalue">"#center-block #uppercase"</span><span class="eg-element">&gt;<span class="eg-text">To Walter Theodore Watts</span>&lt;/head&gt;</span><span class="eg-text">
+  </span><span class="eg-element">&lt;epigraph</span><span class="eg-element">&gt;<span class="eg-text">
+    </span><span class="eg-element">&lt;cit</span> <span class="eg-att">rendition=</span><span class="eg-attvalue">"#center-block #blockquote"</span><span class="eg-element">&gt;<span class="eg-text">
+      </span><span class="eg-element">&lt;quote</span><span class="eg-element">&gt;<span class="eg-text">
+        </span><span class="eg-element">&lt;l</span> <span class="eg-att">rendition=</span><span class="eg-attvalue">"#inline"</span><span class="eg-element">&gt;<span class="eg-text">&#8220;We are what suns and winds and waters make us.&#8221;</span>&lt;/l&gt;</span><span class="eg-text">
+      </span>&lt;/quote&gt;</span><span class="eg-text">
+      </span><span class="eg-element">&lt;bibl</span> <span class="eg-att">rendition=</span><span class="eg-attvalue">"#small-caps"</span><span class="eg-element">&gt;<span class="eg-text">&#8212;Landor.</span>&lt;/bibl&gt;</span><span class="eg-text">
+    </span>&lt;/cit&gt;</span><span class="eg-text">
+  </span>&lt;/epigraph&gt;</span><span class="eg-text">
+  </span><span class="eg-element">&lt;lg</span> <span class="eg-att">rendition=</span><span class="eg-attvalue">"#i"</span> <span class="eg-att">style=</span><span class="eg-attvalue">"margin-left:7em;"</span> <span class="eg-att">type=</span><span class="eg-attvalue">"sonnet"</span><span class="eg-element">&gt;<span class="eg-text">
+    </span><span class="eg-element">&lt;lg</span> <span class="eg-att">rendition=</span><span class="eg-attvalue">"#sublg"</span> <span class="eg-att">type=</span><span class="eg-attvalue">"octet"</span><span class="eg-element">&gt;<span class="eg-text">
+      </span><span class="eg-element">&lt;l</span> <span class="eg-att">n=</span><span class="eg-attvalue">"1"</span><span class="eg-element">&gt;<span class="eg-element">&lt;hi</span> <span class="eg-att">rendition=</span><span class="eg-attvalue">"#small-caps"</span><span class="eg-element">&gt;<span class="eg-text">Sea</span>&lt;/hi&gt;</span><span class="eg-text">, wind, and sun, with light 
+        and sound and breath</span>&lt;/l&gt;</span><span class="eg-text">
+      </span><span class="eg-element">&lt;l</span> <span class="eg-att">n=</span><span class="eg-attvalue">"2"</span> <span class="eg-att">rendition=</span><span class="eg-attvalue">"#l-indent-01"</span><span class="eg-element">&gt;<span class="eg-text">The spirit of man fulfilling&#8212;these
+        create</span>&lt;/l&gt;</span><span class="eg-text">
+      </span><span class="eg-element">&lt;l</span> <span class="eg-att">n=</span><span class="eg-attvalue">"3"</span> <span class="eg-att">rendition=</span><span class="eg-attvalue">"#l-indent-01"</span><span class="eg-element">&gt;<span class="eg-text">That joy wherewith man's life grown 
+        passionate</span>&lt;/l&gt;</span><span class="eg-text">
+      </span><span class="eg-element">&lt;l</span> <span class="eg-att">n=</span><span class="eg-attvalue">"4"</span><span class="eg-element">&gt;<span class="eg-text">Gains heart to hear and sense to read and faith</span>&lt;/l&gt;</span><span class="eg-text">
+      </span><span class="eg-element">&lt;l</span> <span class="eg-att">n=</span><span class="eg-attvalue">"5"</span><span class="eg-element">&gt;<span class="eg-text">To know the secret word our Mother saith</span>&lt;/l&gt;</span><span class="eg-text">
+      </span><span class="eg-element">&lt;l</span> <span class="eg-att">n=</span><span class="eg-attvalue">"6"</span> <span class="eg-att">rendition=</span><span class="eg-attvalue">"#l-indent-01"</span><span class="eg-element">&gt;<span class="eg-text">In silence, and to see, though doubt 
+        wax great,</span>&lt;/l&gt;</span><span class="eg-text">
+      </span><span class="eg-element">&lt;l</span> <span class="eg-att">n=</span><span class="eg-attvalue">"7"</span> <span class="eg-att">rendition=</span><span class="eg-attvalue">"#l-indent-01"</span><span class="eg-element">&gt;<span class="eg-text">Death as the shadow cast by life
+        on fate,</span>&lt;/l&gt;</span><span class="eg-text">
+      </span><span class="eg-element">&lt;l</span> <span class="eg-att">n=</span><span class="eg-attvalue">"8"</span><span class="eg-element">&gt;<span class="eg-text">Passing, whose shade we call the shadow of death.</span>&lt;/l&gt;</span><span class="eg-text">
+    </span>&lt;/lg&gt;</span><span class="eg-text">
+    </span><span class="eg-element">&lt;lg</span> <span class="eg-att">rendition=</span><span class="eg-attvalue">"#sublg"</span> <span class="eg-att">type=</span><span class="eg-attvalue">"sextet"</span> <span class="eg-att">style=</span><span class="eg-attvalue">"margin-top:1.5em;"</span><span class="eg-element">&gt;<span class="eg-text">
+      </span><span class="eg-element">&lt;l</span> <span class="eg-att">n=</span><span class="eg-attvalue">"9"</span><span class="eg-element">&gt;<span class="eg-text">Brother, to whom our Mother as to me</span>&lt;/l&gt;</span><span class="eg-text">
+      </span><span class="eg-element">&lt;l</span> <span class="eg-att">n=</span><span class="eg-attvalue">"10"</span> <span class="eg-att">rendition=</span><span class="eg-attvalue">"#l-indent-01"</span><span class="eg-element">&gt;<span class="eg-text">Is dearer than all dreams of days 
+        undone,</span>&lt;/l&gt;</span><span class="eg-text">
+      </span><span class="eg-element">&lt;l</span> <span class="eg-att">n=</span><span class="eg-attvalue">"11"</span><span class="eg-element">&gt;<span class="eg-text">This song I give you of the sovereign three</span>&lt;/l&gt;</span><span class="eg-text">
+      </span><span class="eg-element">&lt;l</span> <span class="eg-att">n=</span><span class="eg-attvalue">"12"</span> <span class="eg-att">rendition=</span><span class="eg-attvalue">"#l-indent-01"</span><span class="eg-element">&gt;<span class="eg-text">That are as life and sleep and death 
+        are, one:</span>&lt;/l&gt;</span><span class="eg-text">
+      </span><span class="eg-element">&lt;l</span> <span class="eg-att">n=</span><span class="eg-attvalue">"13"</span><span class="eg-element">&gt;<span class="eg-text">A song the sea-wind gave me from the sea,</span>&lt;/l&gt;</span><span class="eg-text">
+      </span><span class="eg-element">&lt;l</span> <span class="eg-att">n=</span><span class="eg-attvalue">"14"</span> <span class="eg-att">rendition=</span><span class="eg-attvalue">"#l-indent-01"</span><span class="eg-element">&gt;<span class="eg-text">Where nought of man's endures before 
+        the sun.</span>&lt;/l&gt;</span><span class="eg-text">
+    </span>&lt;/lg&gt;</span><span class="eg-text">
+  </span>&lt;/lg&gt;</span><span class="eg-text">
+</span>&lt;/div&gt;</span></egXML>
+      </div>
+      <div xmlns="http://www.w3.org/1999/xhtml" id="idm45178208265864">
+        <head id="idm45178203517224">Images and captions</head>
+        <p id="idm45178203516840">TEI <gi id="idm45178204850408">graphic</gi> elements are transformed to HTML <gi id="idm45178206888984">img</gi> elements so that images may be displayed in the browser.</p>
+        <figure xmlns="http://www.tei-c.org/ns/1.0" id="idm45178206045720"><figure xmlns="http://www.w3.org/1999/xhtml"><img alt="A playful image of the TEI Boilerplate team." src="../images/tv_new_yo_gabba_gabba.jpg"/><head id="idm45178206045464">The TEI Boilerplate Team</head></figure></figure>
+      </div>
+    </body>
+  </text>
+</TEI>
+    </div>
+    <footer>
+      <span>Powered by <a href="http://dcl.slis.indiana.edu/teibp/">TEI Boilerplate</a>.</span>
+      <span>TEI Boilerplate is licensed under a <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.</span>
+      <a href="http://creativecommons.org/licenses/by/3.0/">
+        <img alt="Creative Commons License" style="border-width:0;" src="http://i.creativecommons.org/l/by/3.0/80x15.png"/>
+      </a>
+    </footer>
+    <script type="text/javascript" src="../js/teibp.js"></script>
+    <script type="text/javascript" src="../js/main.js"></script>
+  </body>
+</html>
