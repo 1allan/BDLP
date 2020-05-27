@@ -561,42 +561,39 @@
         </xsl:copy>
     </xsl:template>
 
-	<xsl:template name="generate-cells">
-		<xsl:param name="num" />
-		<xsl:param name="content" />
-		<xsl:param name="content-pos" />
-		<xsl:param name="current" select="1" />
-
-		<xsl:choose>
-			<xsl:when test="$current = $content-pos">
-				<part><xsl:value-of select="$content"/></part>
-			</xsl:when>
-			<xsl:otherwise><empty-cell/></xsl:otherwise>
-		</xsl:choose>
-
-		<xsl:if test="$current &lt; $num">
-			<xsl:call-template name="generate-cells">
-				<xsl:with-param name="num" select="$num" />
-				<xsl:with-param name="current" select="$current + 1" />
-				<xsl:with-param name="content-pos" select="$content-pos"/>
-				<xsl:with-param name="content" select="$content"/>
-			</xsl:call-template>
-		</xsl:if>
-	</xsl:template>
-
-	<xsl:template match="tei:l[@type='dialogue']">
-		<xsl:variable name="part-qnt" select="count(./tei:part)"/>
+	<!-- format theater speeches -->
+	<xsl:template match="tei:l[@part='I']">
 		<l type="dialogue">
-			<xsl:for-each select="./tei:part"> 
-				<row>
-					<xsl:call-template name="generate-cells">
-						<xsl:with-param name="num" select="$part-qnt"/>
-						<xsl:with-param name="content" select="."/>
-						<xsl:with-param name="content-pos" select="position()"/>
-					</xsl:call-template>
-				</row>
-			</xsl:for-each>
+			<row>
+				<xsl:value-of select="."/>
+				<empty-cell/>
+				<empty-cell/>
+			</row>
+			<xsl:choose>
+				<xsl:when test="following-sibling::*[1]/@part='M'">
+					<row>
+						<empty-cell/>
+						<xsl:value-of select="following-sibling::*[1]"/>
+						<empty-cell/>
+					</row>
+					<row>
+						<empty-cell/>
+						<empty-cell/>
+						<xsl:value-of select="following-sibling::*[2]"/>
+					</row>
+				</xsl:when>
+				<xsl:otherwise>
+					<row>
+						<empty-cell/>
+						<empty-cell/>
+						<xsl:value-of select="following-sibling::*[1]"/>
+					</row>
+				</xsl:otherwise>
+			</xsl:choose>
+			
 		</l>
 	</xsl:template>
-	
+	<xsl:template match="tei:l[@part='M']"/>
+	<xsl:template match="tei:l[@part='F']"/>
+
 </xsl:stylesheet>
