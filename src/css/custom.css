@@ -231,7 +231,7 @@ l {
 	text-indent: -30%;
 }
 
-opener, closer {
+opener, closer, argument[rend="inspired"] {
 	font-family: 'Roboto Mono', serif;
 	font-size: .7em;
 }
