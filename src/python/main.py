@@ -21,7 +21,7 @@ for filename in listdir('../content/'):
         for elem in newdom.iter():
             tag = elem.tag[elem.tag.index('}') + 1:]
 
-            if tag == 'head':
+            if tag == 'head' and 'type' not in elem.attrib:
                 elem.tag = elem.tag.replace(tag, 'p')
                 elem.attrib['class'] = 'title'
 

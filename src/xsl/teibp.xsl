@@ -314,7 +314,7 @@
 		</xd:desc>
 	</xd:doc>
 	<xsl:template name="htmlHead">
-		<head>
+		<head type="document-head">
 			<meta charset="UTF-8"/>
             <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
