@@ -231,7 +231,7 @@ l {
 	text-indent: -30%;
 }
 
-opener, closer, argument[rend="inspired"] {
+opener, closer, [rend="inspiration"] {
 	font-family: 'Roboto Mono', serif;
 	font-size: .7em;
 }
@@ -265,6 +265,7 @@ l[type="dialogue"] row { display: table-row }
 l[type="dialogue"] row part, empty-cell { display: table-cell }
 l[type="dialogue"] part:first-child { min-width: 100px; }
 
+/* html files style */
 TEI p.title {
 	display: block;
 	font-family: Arvo, sans-serif;
