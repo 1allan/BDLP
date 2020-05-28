@@ -565,7 +565,7 @@
 	<xsl:template match="tei:l[@part='I']">
 		<l type="dialogue">
 			<row>
-				<xsl:value-of select="."/>
+				<part><xsl:value-of select="."/></part>
 				<empty-cell/>
 				<empty-cell/>
 			</row>
@@ -573,20 +573,20 @@
 				<xsl:when test="following-sibling::*[1]/@part='M'">
 					<row>
 						<empty-cell/>
-						<xsl:value-of select="following-sibling::*[1]"/>
+						<part><xsl:value-of select="following-sibling::*[1]"/></part>
 						<empty-cell/>
 					</row>
 					<row>
 						<empty-cell/>
 						<empty-cell/>
-						<xsl:value-of select="following-sibling::*[2]"/>
+						<part><xsl:value-of select="following-sibling::*[2]"/></part>
 					</row>
 				</xsl:when>
 				<xsl:otherwise>
 					<row>
 						<empty-cell/>
 						<empty-cell/>
-						<xsl:value-of select="following-sibling::*[1]"/>
+						<part><xsl:value-of select="following-sibling::*[1]"/></part>
 					</row>
 				</xsl:otherwise>
 			</xsl:choose>
