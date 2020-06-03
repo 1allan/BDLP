@@ -231,7 +231,7 @@ l {
 	text-indent: -30%;
 }
 
-opener, closer, [rend="inspiration"], relatedItem[type="translatedFrom"] {
+opener, closer, [rend="inspired"], argument[rend="translatedFrom"] {
 	font-family: 'Roboto Mono', serif;
 	font-size: .7em;
 }

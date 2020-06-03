@@ -48,23 +48,20 @@
         <div type="poem" aoidos:meter="10">
           <head>MONÓLOGO DE UMA SOMBRA</head>
 
-            <lg>
-              <l>— Na direção do sol, quando transmonta.</l>
-              <l part="I">— Longe?</l>
-              <l part="M">— Não muito.</l>
-              <l part="F">— Tens razão: partamos.</l>
-              <l part="I">— E quereis ir?...</l>
-              <l part="F">— Na direção do ocaso.</l>
-            </lg>
+          <lg>
+            <l>— Na direção do sol, quando transmonta.</l>
+            <l part="I">— Longe?</l>
+            <l part="M">— Não muito.</l>
+            <l part="F">— Tens razão: partamos.</l>
+            <l part="I">— E quereis ir?...</l>
+            <l part="F">— Na direção do ocaso.</l>
+          </lg>
 
-            <relatedItem type="translatedFrom">
-              <bibl>
-                <author>Tolkien, J.R.R.</author>
-                <title level="m">The Hobbit</title>.
-                <publisher>Collins</publisher>
-                <date>1997</date>
-              </bibl>
-            </relatedItem>  
+
+          <opener>
+            <argument rend="inspired"><p>(Lendo o “Poema de Maio”)</p></argument>
+          </opener>
+              
           <lg>
             <l>“Sou uma Sombra! Venho de outras eras,</l>
             <l>Do cosmopolitismo das moneras...</l>
