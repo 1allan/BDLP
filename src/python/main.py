@@ -64,4 +64,4 @@ def main(keep_header=True):
 
 
 if __name__ == '__main__':
-    main(keep_header=('--keep-header' not in sys.argv))
+    main(keep_header=('--keep-header' in sys.argv))
