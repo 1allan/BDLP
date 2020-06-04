@@ -73,6 +73,10 @@ opener {
 	display: block;	
 }
 
+epigraph {
+	text-indent: 6em
+}
+
 #index-menu {
 	box-sizing: border-box;
 	position: fixed;
