@@ -236,6 +236,10 @@ opener, closer, [rend="inspired"], argument[rend="translatedFrom"] {
 	font-size: .7em;
 }
 
+[rend="inspired"], argument[rend="translatedFrom"] {
+	font-size: .85em;
+}
+
 closer {
 	text-align: left;
 }
