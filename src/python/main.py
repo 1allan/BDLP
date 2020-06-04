@@ -1,4 +1,4 @@
-import os
+import os, sys
 from lxml import etree
 
 dir_list = ['../js/main.js', '../css/custom.css', '../css/teibp.css', '../css/mediaqueries.css']
@@ -12,15 +12,17 @@ def load_files(directories):
     
     return output
 
+
 def replace(string, blacklist):
     for key, value in blacklist.items():
         if key in string:
             string = string.replace(key, value)
     return string
 
-def main():
+
+def main(keep_header=True):
     
-    files = load_files(dir_list)
+    ext_files = load_files(dir_list)
     xslt = etree.parse('../xsl/teibp.xsl')
     transform = etree.XSLT(xslt)
 
@@ -36,13 +38,16 @@ def main():
                     element.tag = element.tag.replace(tag, 'p')
                     element.attrib['class'] = 'title'
 
-                if tag == 'script' and 'src' in element.attrib and element.attrib['src'] in files:
-                    element.text = f"\n {files[element.attrib['src']]} \n"
+                if tag == 'script' and 'src' in element.attrib and element.attrib['src'] in ext_files:
+                    element.text = f"\n {ext_files[element.attrib['src']]} \n"
                     element.attrib.pop('src')
                 
-                if tag == 'link' and element.attrib['href'] in files:
+                if tag == 'link' and element.attrib['href'] in ext_files:
                     element.tag = element.tag.replace(tag, 'style')
-                    element.text = f"\n {files[element.attrib['href']]} \n"
+                    element.text = f"\n {ext_files[element.attrib['href']]} \n"
+
+                if tag == 'header' and not keep_header:
+                    element.getparent().remove(element)
 
                 if element.text == None:
                     element.text = ' '
@@ -57,5 +62,6 @@ def main():
             print(filename + ' failed')
             print(exc, '\n')
 
+
 if __name__ == '__main__':
-    main()
+    main(keep_header=('--keep-header' not in sys.argv))

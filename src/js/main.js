@@ -1,10 +1,9 @@
 const menuButton = document.getElementById('index-button')
 const indexMenu = document.getElementById('index-menu')
 const teiWrapper = document.getElementById('tei-wrapper')
-const header = document.querySelector('header')
+const header = document.querySelector('header') || null
 let url = window.location.href.split('/')
 
-header.classList.add('active')
 
 //Get element depth in the document tree
 function getElementDepth(el, root, offset=0) {
@@ -16,9 +15,12 @@ function getElementDepth(el, root, offset=0) {
 	return depth - offset
 }
 
-//Generate indexes
-document.querySelectorAll('#tei-wrapper head, p.title').forEach(el => {
-	let elementDepth = getElementDepth(el, teiWrapper, 3)
+if (header) {
+	header.classList.add('active')
+	
+	//Generate indexes
+	document.querySelectorAll('#tei-wrapper head, p.title').forEach(el => {
+		let elementDepth = getElementDepth(el, teiWrapper, 3)
 	let a = document.createElement('a')
 	
 	a.innerHTML = el.innerText
@@ -33,30 +35,31 @@ document.querySelectorAll('#tei-wrapper head, p.title').forEach(el => {
 		scrollBy(0, -80)
 	})
 	indexMenu.appendChild(a)
-})
+	})
 
-//Toggle index menu on click
-document.addEventListener('click', ev => {
-	if ([menuButton, ...menuButton.children ].includes(ev.target)) {
-		indexMenu.classList.toggle('active')
-		menuButton.classList.toggle('close')
-	} else if (![indexMenu, ...indexMenu.children].includes(ev.target)) {
-		indexMenu.classList.remove('active')
-		menuButton.classList.remove('close')
-	} 
-})
+	//Toggle index menu on click
+	document.addEventListener('click', ev => {
+		if ([menuButton, ...menuButton.children ].includes(ev.target)) {
+			indexMenu.classList.toggle('active')
+			menuButton.classList.toggle('close')
+		} else if (![indexMenu, ...indexMenu.children].includes(ev.target)) {
+			indexMenu.classList.remove('active')
+			menuButton.classList.remove('close')
+		} 
+	})
 
-//Toggle header on scroll
-let lastScrollTop = 0;
-document.addEventListener("scroll", () => {
-   let st = window.pageYOffset || document.documentElement.scrollTop
-   if (st > lastScrollTop && !indexMenu.classList.contains('active')){
-   		header.classList.remove('active')
-   } else {
-   		header.classList.add('active')
-   }
-   lastScrollTop = st <= 0 ? 0 : st
-})
+	//Toggle header on scroll
+	let lastScrollTop = 0;
+	document.addEventListener("scroll", () => {
+		let st = window.pageYOffset || document.documentElement.scrollTop
+		if (st > lastScrollTop && !indexMenu.classList.contains('active')){
+			header.classList.remove('active')
+		} else {
+			header.classList.add('active')
+		}
+		lastScrollTop = st <= 0 ? 0 : st
+	})
+}
 
 window.addEventListener('load', () => {
 	document.body.classList.remove('hidden')
