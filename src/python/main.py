@@ -1,38 +1,61 @@
+import os
 from lxml import etree
-from os import listdir
 
-trash = {
-    '\\n': '',
-}
+dir_list = ['../js/main.js', '../css/custom.css', '../css/teibp.css', '../css/mediaqueries.css']
 
-def treat_string(string, blacklist):
-    for key in blacklist:
+def load_files(directories):
+    output = dict()
+    
+    for d in directories:
+        with open(d, 'r') as f:
+            output[d] = f.read()
+    
+    return output
+
+def replace(string, blacklist):
+    for key, value in blacklist.items():
         if key in string:
-            string = string.replace(key, blacklist[key])
+            string = string.replace(key, value)
     return string
 
-for filename in listdir('../content/'):
-    try:
-        dom = etree.parse('../content/' + filename)
-        xslt = etree.parse('../xsl/teibp.xsl')
-        transform = etree.XSLT(xslt)
-        newdom = transform(dom)
-
-        for elem in newdom.iter():
-            tag = elem.tag[elem.tag.index('}') + 1:]
-
-            if tag == 'head' and 'type' not in elem.attrib:
-                elem.tag = elem.tag.replace(tag, 'p')
-                elem.attrib['class'] = 'title'
-
-            if elem.text == None:
-                elem.text = ' '
-            
-        output = str(etree.tostring(newdom, pretty_print=True), 'utf-8')
-        filename = treat_string(filename, {' ': '_', '.xml': '.html'})
-        with open('../html/' + filename, 'w') as f:
-            f.write(treat_string(output, trash))
+def main():
     
-    except Exception as exc:
-        print(filename + ' failed')
-        print(exc, '\n')
+    files = load_files(dir_list)
+    xslt = etree.parse('../xsl/teibp.xsl')
+    transform = etree.XSLT(xslt)
+
+    for filename in os.listdir('../content/'):
+        try:
+            dom = etree.parse('../content/' + filename)
+            newdom = transform(dom)
+
+            for element in newdom.iter():
+                tag = element.tag[element.tag.index('}') + 1:]
+
+                if tag == 'head' and 'type' not in element.attrib:
+                    element.tag = element.tag.replace(tag, 'p')
+                    element.attrib['class'] = 'title'
+
+                if tag == 'script' and 'src' in element.attrib and element.attrib['src'] in files:
+                    element.text = f"\n {files[element.attrib['src']]} \n"
+                    element.attrib.pop('src')
+                
+                if tag == 'link' and element.attrib['href'] in files:
+                    element.tag = element.tag.replace(tag, 'style')
+                    element.text = f"\n {files[element.attrib['href']]} \n"
+
+                if element.text == None:
+                    element.text = ' '
+                
+            output = str(etree.tostring(newdom, method="html", pretty_print=True), 'utf-8')
+            filename = replace(filename, {' ': '_', '.xml': '.html'})
+            
+            with open('../html/' + filename, 'w') as f:
+                f.write(output.replace('\\n', ''))
+            
+        except Exception as exc:
+            print(filename + ' failed')
+            print(exc, '\n')
+
+if __name__ == '__main__':
+    main()
