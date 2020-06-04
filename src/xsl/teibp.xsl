@@ -79,10 +79,10 @@
 							<span class="line bottom"></span>
 						</div>
 					</nav>
+					<div id="index-menu">
+						<h1>Índice</h1>
+					</div>
 				</header>
-				<div id="index-menu">
-					<h1>Índice</h1>
-				</div>
 				<xsl:if test="$includeToolbox = true()">
 					<xsl:call-template name="teibpToolbox"/>
 				</xsl:if>
