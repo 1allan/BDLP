@@ -21,20 +21,20 @@ if (header) {
 	//Generate indexes
 	document.querySelectorAll('#tei-wrapper head, p.title').forEach(el => {
 		let elementDepth = getElementDepth(el, teiWrapper, 3)
-	let a = document.createElement('a')
-	
-	a.innerHTML = el.innerText
-	a.setAttribute('data-depth', elementDepth)
-	a.addEventListener('click', ev => {
-		let href = location.href
-		if (href.includes('#')) {
-			window.location = href.slice(0, href.indexOf('#') + 1) + el.id
-		} else {
-			window.location = href + '#' + el.id
-		}
-		scrollBy(0, -80)
-	})
-	indexMenu.appendChild(a)
+		let a = document.createElement('a')
+		
+		a.innerHTML = el.innerText
+		a.setAttribute('data-depth', elementDepth)
+		a.addEventListener('click', ev => {
+			let href = location.href
+			if (href.includes('#')) {
+				window.location = href.slice(0, href.indexOf('#') + 1) + el.id
+			} else {
+				window.location = href + '#' + el.id
+			}
+			scrollBy(0, -80)
+		})
+		indexMenu.appendChild(a)
 	})
 
 	//Toggle index menu on click
