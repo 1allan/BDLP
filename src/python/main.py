@@ -20,7 +20,7 @@ def replace(string, blacklist):
     return string
 
 
-def main(keep_header=True):
+def main(remove_header=True):
     
     ext_files = load_files(dir_list)
     xslt = etree.parse('../xsl/teibp.xsl')
@@ -45,8 +45,10 @@ def main(keep_header=True):
                 if tag == 'link' and element.attrib['href'] in ext_files:
                     element.tag = element.tag.replace(tag, 'style')
                     element.text = f"\n {ext_files[element.attrib['href']]} \n"
+                    element.attrib.clear()
+                    element.attrib['type'] = 'text/css'
 
-                if tag == 'header' and not keep_header:
+                if tag == 'header' and remove_header:
                     element.getparent().remove(element)
 
                 if element.text == None:
@@ -64,4 +66,4 @@ def main(keep_header=True):
 
 
 if __name__ == '__main__':
-    main(keep_header=('--keep-header' in sys.argv))
+    main(remove_header=('--remove-header' in sys.argv))
