@@ -1,14 +1,14 @@
 import os, sys
 from lxml import etree
 
-static_dir = './files/'
+static = './static/'
 
 def load_static_files():
     output = dict()
     
-    for d in os.listdir(static_dir):
-        with open(static_dir + d, 'r') as f:
-            output[static_dir + d] = f.read()
+    for d in os.listdir(static):
+        with open(static + d, 'r') as f:
+            output[static + d] = f.read()
     
     return output
 
@@ -22,7 +22,7 @@ def replace(string, blacklist):
 
 def main(input_dir, output_dir, remove_header=True):
     static_files = load_static_files()
-    xslt = etree.parse(static_dir + 'teibp.xsl')
+    xslt = etree.parse(static + 'teibp.xsl')
     transform = etree.XSLT(xslt)
     
     files = os.listdir(input_dir) if os.path.isdir(input_dir) else list(input_dir[input_dir.rindex('/') + 1:])
@@ -35,27 +35,28 @@ def main(input_dir, output_dir, remove_header=True):
 
             for element in newdom.iter():
                 tag = element.tag[element.tag.index('}') + 1:]
+                
+                if tag == 'header' and remove_header:
+                    element.getparent().remove(element)
 
                 if tag == 'head' and 'type' not in element.attrib:
                     element.tag = element.tag.replace(tag, 'p')
                     element.attrib['class'] = 'title'
 
                 if tag == 'script' and 'src' in element.attrib:
-                    src = static_dir + element.attrib['src'][element.attrib['src'].rindex('/') + 1:]
+                    src = static + element.attrib['src'][element.attrib['src'].rindex('/') + 1:]
                     if src in static_files:
                         element.text = f"\n {static_files[src]} \n"
                         element.attrib.pop('src')
                 
                 if tag == 'link':
-                    href = static_dir + element.attrib['href'][element.attrib['href'].rindex('/') + 1:]
+                    href = static + element.attrib['href'][element.attrib['href'].rindex('/') + 1:]
                     if href in static_files and href[href.rindex('.') + 1:] == 'css':
                         element.tag = element.tag.replace(tag, 'style')
                         element.text = f"\n {static_files[href]} \n"
                         element.attrib.clear()
                         element.attrib['type'] = 'text/css'
 
-                if tag == 'header' and remove_header:
-                    element.getparent().remove(element)
 
                 if element.text == None:
                     element.text = ' '
