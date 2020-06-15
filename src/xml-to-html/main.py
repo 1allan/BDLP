@@ -78,9 +78,9 @@ def main(input_dir, output_dir, remove_header=True):
             if output_dir == '.':
                 output_dir = './'
 
-            output_dir = filename[filename.rindex('/') + 1:] if '/' in filename else filename
+            filename = filename[filename.rindex('/') + 1:] if '/' in filename else filename
             
-            with open(output_dir, 'w') as f:
+            with open(output_dir + filename, 'w') as f:
                 f.write(output.replace('\\n', ''))
             
         except Exception as exc:

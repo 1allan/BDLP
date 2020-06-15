@@ -73,10 +73,6 @@ opener {
 	display: block;	
 }
 
-epigraph {
-	text-indent: 6em
-}
-
 #index-menu {
 	box-sizing: border-box;
 	position: fixed;
@@ -252,12 +248,24 @@ quote::before, quote::after {
 	content: ''
 }
 
+quote l {
+	text-indent: -16%;
+}
+
+salute {
+	text-indent: 13%;
+}
+
+epigraph bibl {
+	text-indent: 19%;
+}
+
 div[type="part"] > head:first-child {
 	border-bottom: 1px solid #999
 }
 
 div[type="poem"] > head:first-child {
-	font-size: 130%
+	font-size: 100%
 }
 
 div[type="poem"] {
@@ -273,6 +281,20 @@ l[type="dialogue"] row { display: table-row }
 l[type="dialogue"] row part, empty-cell { display: table-cell }
 l[type="dialogue"] part:first-child { min-width: 100px; }
 
+a.note {
+	font-size: .65em;
+	color: mediumblue;
+}
+
+
+foot a.note {
+	font-size: .7em
+}
+
+foot span {
+	font-size: .8em
+}
+
 /* html files style */
 TEI p.title {
 	display: block;
@@ -285,7 +307,7 @@ div[type="part"] > p.title {
 }
 
 div > p.title {
-	font-size: 1.1em;
+	font-size: 1em;
 	text-indent: 0;
 	margin-top: 2em;
 }
