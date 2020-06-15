@@ -25,8 +25,12 @@ def main(input_dir, output_dir, remove_header=True):
     xslt = etree.parse(static + 'teibp.xsl')
     transform = etree.XSLT(xslt)
     
-    files = os.listdir(input_dir) if os.path.isdir(input_dir) else [input_dir[input_dir.rindex('/') + 1:]]
-    input_dir = input_dir[:input_dir.rindex('/') + 1]
+    if os.path.isdir(input_dir):
+        files = os.listdir(input_dir)
+        input_dir = input_dir[:input_dir.rindex('/') + 1]
+    else:
+        files = [input_dir]
+        input_dir = ''
     
     for filename in files:
         try:
@@ -74,7 +78,9 @@ def main(input_dir, output_dir, remove_header=True):
             if output_dir == '.':
                 output_dir = './'
 
-            with open(output_dir + filename, 'w') as f:
+            output_dir = filename[filename.rindex('/') + 1:] if '/' in filename else filename
+            
+            with open(output_dir, 'w') as f:
                 f.write(output.replace('\\n', ''))
             
         except Exception as exc:
