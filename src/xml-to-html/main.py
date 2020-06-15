@@ -25,7 +25,7 @@ def main(input_dir, output_dir, remove_header=True):
     xslt = etree.parse(static + 'teibp.xsl')
     transform = etree.XSLT(xslt)
     
-    files = os.listdir(input_dir) if os.path.isdir(input_dir) else list(input_dir[input_dir.rindex('/') + 1:])
+    files = os.listdir(input_dir) if os.path.isdir(input_dir) else [input_dir[input_dir.rindex('/') + 1:]]
     input_dir = input_dir[:input_dir.rindex('/') + 1]
     
     for filename in files:
@@ -71,6 +71,9 @@ def main(input_dir, output_dir, remove_header=True):
                     if exc.errno != errno.EEXIST:
                         raise
             
+            if output_dir == '.':
+                output_dir = './'
+
             with open(output_dir + filename, 'w') as f:
                 f.write(output.replace('\\n', ''))
             
@@ -83,5 +86,5 @@ if __name__ == '__main__':
     if len(sys.argv) > 2:
         main(sys.argv[1], sys.argv[2], remove_header=('--remove-header' in sys.argv))
     else:
-        print('É necessário fornecer ao menos o caminho de entrada e saída para o script!')
+        print('É necessário fornecer para o script ao menos o caminho de entrada e saída!')
         print('python main.py <input> <output> <optional-arguments>')
