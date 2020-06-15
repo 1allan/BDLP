@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:aoidos="https://aoidos.ufsc.br/ns/1.0">
+	<teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Broquéis</title>
+        <author>Cruz e Sousa</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name xml:id="AM">Adiel Mittmann</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <distributor>Stichotheque</distributor>
+        <availability status="free">
+          <p>Domínio público.</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Documento codificado a partir da <ref target="#nupill">edição do NUPILL</ref>, que foi baseada na <ref target="#avenida">edição da Avenida</ref>, à qual não tive acesso.  Existe uma edição de 1893 na <ref target="#brasiliana">Brasiliana</ref>.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl xml:id="nupill">
+          <title>Broquéis</title>
+          <author>Cruz e Sousa</author>
+          <publisher>NUPILL</publisher>
+          <date>2018</date>
+          <ref target="https://www.literaturabrasileira.ufsc.br/documentos/?id=142664"/>
+        </bibl>
+        <bibl xml:id="avenida">
+          <title>Obra completa</title>
+          <author>João da Cruz e Sousa</author>
+          <publisher>Avenida</publisher>
+          <pubPlace>Jaraguá do Sul</pubPlace>
+          <date>2008</date>
+        </bibl>
+        <bibl xml:id="brasiliana">
+          <title>BROQUEIS</title>
+          <author>CRUZ E SOUZA</author>
+          <publisher>Magalhães e Cia.</publisher>
+          <date>1893</date>
+          <ref target="https://digital.bbm.usp.br/handle/bbm/3901"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+	<text xml:lang="pt" aoidos:poet="Bocage">
+		<front>
+			<div type="foreword">
+				<p>A que se ajunta o episódio, ao mesmo assumpto, do immortal <name>Luiz de Camões.</name>
+				</p>
+			</div>
+			<opener>
+				<argument rend="inspired">Com a licença da Meza do Desembargo do Paço.</argument>
+				<lg>
+					<l>As Filhas do Mondego a morte escura</l>
+					<l>Longo tempo, chorando, memorarão.</l>
+					<l>Camões, Lusíad. Cant. 3.</l>
+				</lg>
+			</opener>
+		</front>
+		<body>
+			<div type="part" aoidos:unit="y">
+				<head>A ULINA, SONETO.</head>
+				<lg>
+					<l>Da miseranda Inês o caso triste,</l>
+					<l>Nos tristes sons que a magoa desafina,</l>
+					<l>Envia o terno Elmano á terna Ulina,</l>
+					<l>Em cujos olhos seu prazer consiste.</l>
+				</lg>
+				<lg>
+					<l>Paixão que se a sentir não lhe resiste</l>
+					<l>Nem nos brutos sertões Alma ferina,</l>
+					<l>Beleza funestou quase divina,</l>
+					<l>De que a memória em lágrimas existe.</l>
+				</lg>
+				<lg>
+					<l>Lê, suspira, meu Bem, vendo um composto</l>
+					<l>De raras perfeições aniquilado</l>
+					<l>Por mãos do Crime, à Natureza oposto.</l>
+				</lg>
+				<lg>
+					<l>Tu és cópia de Inês, encanto amado,</l>
+					<l>Tu tens seu coração, tu tens seu rosto…</l>
+					<l>Ah! Defendam-te os Céus de ter seu Fado.</l>
+				</lg>
+			</div>
+			<div type="part" aoidos:unit="y">
+				<head>CANTATA.</head>
+				<lg>
+					<l>Longe do caro Esposo Inês formosa</l>
+					<l style="margin-left:2em;">Na margem do Mondego,</l>
+					<l>As amorosas faces aljofrava</l>
+					<l style="margin-left:2em;">De mavioso pranto.</l>
+					<l>Os melindrosos, cândidos Penhores</l>
+					<l style="margin-left:2em;">Do Tálamo furtivo,</l>
+					<l>Os Filhinhos gentis, imagem dela,</l>
+					<l>No regaço da Mãe serenos gozam</l>
+					<l style="margin-left:2em;">O sono da Inocência.</l>
+					<l>Coro subtil de alígeros Favónios,</l>
+					<l style="margin-left:2em;">Que os ares embrandece,</l>
+					<l style="margin-left:2em;">Ora enlevado afaga</l>
+					<l>Com as plumas azuis o Par mimoso,</l>
+					<l style="margin-left:2em;">Ora, solto, inquieto</l>
+					<l>Em leda travessura, em doce brinco,</l>
+					<l style="margin-left:2em;">Pela Amante saudosa,</l>
+					<l>Pelos tenros Meninos se reparte,</l>
+					<l>E com ténue murmúrio vai prender-se</l>
+					<l>Das áureas tranças nos anéis brilhantes.</l>
+					<l>Primavera louçã, Quadra macia</l>
+					<l style="margin-left:2em;">Da ternura, e das flores,</l>
+					<l>Que à bela Natureza o seio esmaltas,</l>
+					<l>Que no prazer de Amor ao Mundo apuras</l>
+					<l style="margin-left:2em;">O prazer da existência,</l>
+					<l style="margin-left:2em;">Tu de Inês lacrimosa</l>
+					<l>As mágoas não distrais com teus encantos.</l>
+					<l>Debalde o Rouxinol, cantor de amores,</l>
+					<l>Nos versos naturais os sons varia,</l>
+					<l>O límpido Mondego em vão serpeia</l>
+					<l>C'um benigno sussurro, entre boninas</l>
+					<l>De lustroso matiz, almo perfume;</l>
+					<l>Em vão se doira o Sol de luz mais viva,</l>
+					<l>Os Céus de mais pureza em vão se adornam</l>
+					<l style="margin-left:2em;">Por divertir-te, ó Castro:</l>
+					<l>Objetos de alegria Amor enjoam</l>
+					<l style="margin-left:2em;">Se Amor é desgraçado.</l>
+					<l>A meiga voz dos zéfiros, do rio</l>
+					<l style="margin-left:2em;">Não te convida o sono:</l>
+					<l style="margin-left:2em;">Só de já fatigada</l>
+					<l>Na luta de amargosos pensamentos,</l>
+					<l style="margin-left:2em;">Cerras, misera, os olhos;</l>
+					<l>Mão não ha para ti, para os Amantes</l>
+					<l style="margin-left:2em;">Sono plácido, e mudo;</l>
+					<l>Não dorme a fantasia, Amor não dorme:</l>
+					<l>Ou gratas ilusões, ou negros sonhos</l>
+					<l>Assomando na ideia, espertam, rompem</l>
+					<l style="margin-left:2em;">O silêncio da Morte.</l>
+					<l>Ah! Que fausta Visão de Inês se apossa!</l>
+					<l>Que cena, que espetáculo assombroso</l>
+					<l>A paixão lhe afigura aos olhos d'alma!</l>
+					<l>Em marmóreo salão de altas colunas</l>
+					<l>A Sólio majestoso, e rutilante</l>
+					<l>Junto ao régio Amador se crê subida;</l>
+					<l>Graças de neve a púrpura lhe envolve,</l>
+					<l>Pende augusto Dossel do teto de oiro;</l>
+					<l>Rico Diadema de radioso esmalte</l>
+					<l>Lhe cobre as tranças, mais formosas que ele;</l>
+					<l>Nos luzentes degraus do Trono excelso</l>
+					<l>Pomposos Cortesãos o orgulho acurvam;</l>
+					<l>A Lisonja sagaz lhe adoça os lábios,</l>
+					<l>O Monstro da Política se aterra,</l>
+					<l>E se Inês perseguia, Inês adora.</l>
+					<l style="margin-left:2em;">Ela escuta os extremos,</l>
+					<l>Os vivas populares, vê o Amante</l>
+					<l>Nos olhos estudar-lhe as leis que dita;</l>
+					<l>O prazer a transporta, Amor a encanta;</l>
+					<l>Prêmios, dádivas mil ao Justo, ao Sábio</l>
+					<l style="margin-left:2em;">Magnânima confere,</l>
+					<l>Rainha esquece o que sofreu Vassala:</l>
+					<l>De sublimes ações orna a Grandeza,</l>
+					<l>Felicita os Mortais, do Cetro é digna,</l>
+					<l>Impera em corações… mas Céus! Qu'estrondo</l>
+					<l>O sonho encantador lhe desvanece!</l>
+					<l style="margin-left:2em;">Inês sobressaltada</l>
+					<l>Desperta, e de repente aos olhos turvos</l>
+					<l>Da vistosa ilusão lhe foge o quadro.</l>
+					<l>Ministros do Furor, três vis Algozes,</l>
+					<l>De buídos punhais a destra armada,</l>
+					<l>Contra a bela Infeliz bramindo avançam.</l>
+					<l>Ella grita, ela treme, ela descora,</l>
+					<l>Os Frutos da ternura ao seio aperta,</l>
+					<l>Invocando a piedade, os Céus, o Amante;</l>
+					<l>Mas de mármore aos ais, de bronze ao pranto,</l>
+					<l>Á suave atração da formosura,</l>
+					<l style="margin-left:2em;">Vós, bruto Assassinos,</l>
+					<l>No peito lhe enterrais os ímpios ferros.</l>
+					<l style="margin-left:2em;">Cai nas sombras da Morte</l>
+					<l>A Vítima de Amor, lavada em sangue,</l>
+					<l>As rosas, os jasmins da face amena</l>
+					<l style="margin-left:2em;">Para sempre desbotam.</l>
+					<l>Dos olhos se lhe some o doce lume,</l>
+					<l style="margin-left:2em;">E no fatal momento</l>
+					<l>Balbucia, arquejando: "Esposo, Esposo."</l>
+					<l style="margin-left:2em;">Os tristes Inocentes</l>
+					<l style="margin-left:2em;">À triste Mãe se abraçam,</l>
+					<l>E soltam de agonia inútil choro.</l>
+					<l style="margin-left:2em;">Ao suspiro exalado,</l>
+					<l>Final suspiro da formosa Extinta,</l>
+					<l style="margin-left:2em;">Os Amores acodem.</l>
+					<l>Mostra a Prole de Inês, e a tua, ó Vênus,</l>
+					<l>Igual consternação, e igual beleza:</l>
+					<l>Huns dos outros os cândidos Meninos</l>
+					<l style="margin-left:2em;">Só nas asas diferem,</l>
+					<l>(Que jazem pelo campo em mil pedaços</l>
+					<l>Carcases de marfim, virotes de oiro)</l>
+					<l>Súbito voam dois do Coro alado:</l>
+					<l>Este, raivoso, a demandar vingança</l>
+					<l style="margin-left:2em;">No Tribunal de Jove,</l>
+					<l>Aquele a conduzir o infausto anúncio</l>
+					<l style="margin-left:2em;">Ao descuidado Amante.</l>
+					<l>Nas cem tubas da Fama o grão desastre</l>
+					<l style="margin-left:2em;">Irá pelo Universo:</l>
+					<l>Hão de chorar-te, Inês, na Hircânia os Tigres,</l>
+					<l>No torrado Sertão da Líbia fera</l>
+					<l>As Serpes, os Leões hão de chorar-te.</l>
+					<l>Do Mondego, que atônito recua,</l>
+					<l>Do sentido Mondego as alvas Filhas</l>
+					<l style="margin-left:2em;">Em tropel doloroso</l>
+					<l>Das urnas de cristal eis vem surgindo,</l>
+					<l>Eis, atentas no horror do caso infando,</l>
+					<l>Terríveis maldições dos lábios vibram</l>
+					<l>Aos Monstros infernais, que vão fugindo.</l>
+					<l>Já c’roam de cipreste a Malfadada,</l>
+					<l>E, arrepejando as nítidas madeixas,</l>
+					<l>Lhe urdem saudosas, lúgubres endechas.</l>
+					<l style="margin-left:2em;">Tu, Eco, as decoraste,</l>
+					<l>E, cortadas dos ais, assim ressoam</l>
+					<l>Nos côncavos penedos, que magoam:</l>
+				</lg>
+				<lg>
+					<l>Toldam-se os ares,</l>
+					<l>Murcham-se as flores:</l>
+					<l>Morrei, Amores,</l>
+					<l>Que Inês morreu.</l>
+				</lg>
+				<lg>
+					<l>Misero Esposo,</l>
+					<l>Desata o pranto,</l>
+					<l>Que o teu encanto</l>
+					<l>Já não é teu.</l>
+				</lg>
+				<lg>
+					<l>Sua alma pura</l>
+					<l>Nos Céus se encerra:</l>
+					<l>Triste da Terra</l>
+					<l>Porque a perdeu!</l>
+				</lg>
+				<lg>
+					<l>Contra a cruenta</l>
+					<l>Raiva ferina</l>
+					<l>Face divina</l>
+					<l>Não lhe valeu.</l>
+				</lg>
+				<lg>
+					<l>Tem roto o seio,</l>
+					<l>Tesouro oculto,</l>
+					<l>Bárbaro insulto</l>
+					<l>Se lhe atreveu.</l>
+				</lg>
+				<lg>
+					<l>De dor, e espanto</l>
+					<l>No carro de oiro</l>
+					<l>O Nume loiro</l>
+					<l>Desfaleceu.</l>
+				</lg>
+				<lg>
+					<l>Aves sinistras</l>
+					<l>Aqui piaram,</l>
+					<l>Lobos uivaram,</l>
+					<l>O chão tremeu.</l>
+				</lg>
+				<lg>
+					<l>Toldam-se os ares,</l>
+					<l>Murcham-se as flores:</l>
+					<l>Morrei, Amores,</l>
+					<l>Que Inês morreu.</l>
+				</lg>
+				<closer>
+					FIM DA CANTATA.
+				</closer>
+			</div>
+			<div type="part" aoidos:unit="y">
+				<head>EPISÓDIO DO GRANDE LUIZ DE CAMÕES. À MORTE DE D. INÊS DE CASTRO..</head>
+				<div type="chapter">
+					<head>
+						CXVIII
+						<note place="foot">N. B. Os números das oitavas são relativos ao 3º Canto, de que são extraídas, etc.</note>
+						<note place="foot" resp="AM">Texto r</note>
+					</head>
+					<lg>
+						<l>. . . . . . . . . .</l>
+						<l>O caso triste, e digno de memória,</l>
+						<l>Que do sepulcro os homens desenterra,</l>
+						<l>Aconteceu da miséria, e mesquinha,</l>
+						<l>Que despois de ser morta foi Rainha.</l>
+					</lg>
+				</div>
+				<div type="chapter">
+					<head>CXIX.</head>
+					<lg>
+						<l>Tu só, tu puro Amor, com força crua,</l>
+						<l>Que os corações humanos tanto obriga,</l>
+						<l>Déste causa á molesta morte sua,</l>
+						<l>Como se fora perfida inimiga.</l>
+						<l>Se dizem, fero Amor, que a sede tua,</l>
+						<l>Nem com lagrimas tristes se mitiga,</l>
+						<l>He porque queres aspero, e tyrano,</l>
+						<l>Tuas aras banhar em sangue humano.</l>
+					</lg>
+				</div>
+				<div type="chapter">
+					<head>CXX.</head>
+					<lg>
+						<l>Estavas, linda Ignez, posta em socego,</l>
+						<l>De teus annos colhendo doce fruto,</l>
+						<l>Naquelle engano da alma, lédo, e cego,</l>
+						<l>Que a fortuna naõ deixa durar muito;</l>
+						<l>Nos saudosos campos do Mondego,</l>
+						<l>De teus formosos olhos nunca enxuto,</l>
+						<l>Aos montes ensinando, e ás hervinhas,</l>
+						<l>O nome que no peito escripto tinhas.</l>
+					</lg>
+				</div>
+				<div type="chapter">
+					<head>CXXI.</head>
+					<lg>
+						<l>Do teu Principe alli te respondiam</l>
+						<l>As lembranças que na alma lhe moravam;</l>
+						<l>Que sempre ante seus olhos te traziam,</l>
+						<l>Quando dos teus formosos se apartavam;</l>
+						<l>De noite em doces sonhos que mentiam,</l>
+						<l>De dia em pensamentos que voavam;</l>
+						<l>E quanto em fim cuidava, e quanto via,</l>
+						<l>Eram tudo memorias de alegria.</l>
+					</lg>
+				</div>
+				<div type="chapter">
+					<head>CXXII.</head>
+					<lg>
+						<l>De outras bellas Senhoras, e Princezas,</l>
+						<l>Os desejados thalamos engeita;</l>
+						<l>Que tudo em fim, tu puro Amor, desprezas,</l>
+						<l>Quando hum gesto suave te sujeita.</l>
+						<l>Vendo estas namoradas estranhezas</l>
+						<l>O velho pai sisudo, que respeita</l>
+						<l>O murmurar do povo, e a phantasia</l>
+						<l>Do filho, que casar-se naõ queria:</l>
+					</lg>
+				</div>
+				<div type="chapter">
+					<head>CXXIII.</head>
+					<lg>
+						<l>Tirar Ignez ao Mundo determina,</l>
+						<l>Por lhe tirar o filho que tem preso;</l>
+						<l>Crendo co'o sangue só da morte indina,</l>
+						<l>Matar do firme amor o fogo acceso.</l>
+						<l>Qual furor consentio, que a espada fina,</l>
+						<l>Que pôde sustentar o grande peso</l>
+						<l>Do Furor Mauro, fosse alevantada</l>
+						<l>Contra huma fraca dama delicada!</l>
+					</lg>
+				</div>
+				<div type="chapter">
+					<head>CXXIIII.</head>
+					<lg>
+						<l>Traziam-na os horrificos algozes</l>
+						<l>Ante o Rei, já movido a piedade,</l>
+						<l>Mas o povo com falsas e ferozes</l>
+						<l>Razões á morte crua o persuade.</l>
+						<l>Ella com tristes e piedosas vozes,</l>
+						<l>Sahidas só da mágoa, e saudade</l>
+						<l>Do seu Principe, e filhos, que deixava,</l>
+						<l>Que mais que a propria morte a magoava:</l>
+					</lg>
+				</div>
+				<div type="chapter">
+					<head>CXXV.</head>
+					<lg>
+						<l>Para o Ceo crystallino alevantado</l>
+						<l>Com lagrimas os olhos piedosos;</l>
+						<l>Os olhos, porque as mãos lhe estava atando</l>
+						<l>Hum dos duros ministros rigorosos:</l>
+						<l>E despois nos meninos attentando,</l>
+						<l>Que taõ queridos tinha, e taõ mimosos,</l>
+						<l>Cuja orphandade como mãi temia,</l>
+						<l>Para o avô cruel assi dizia:</l>
+					</lg>
+				</div>
+				<div type="chapter">
+					<head>CXXVI.</head>
+					<lg>
+						<l>Se já nas brutas feras, cuja mente</l>
+						<l>Natura fez cruel de nascimento;</l>
+						<l>E nas aves agrestes, que sómente</l>
+						<l>Nas rapinas aerias tem o intento;</l>
+						<l>Com pequenas crianças vio a gente,</l>
+						<l>Terem taõ piedoso sentimento,</l>
+						<l>Como co'a mãi de Nino já mostráram,</l>
+						<l>E co'os irmãos que Roma edificáram:</l>
+					</lg>
+				</div>
+				<div type="chapter">
+					<head>CXXVII.</head>
+					<lg>
+						<l>Ó tu, que t[~e]es de humano o gesto, e o peito,</l>
+						<l>(Se de humano he matar h[~u]a donzella</l>
+						<l>Fraca, e sem força, só por ter sujeito</l>
+						<l>O coraçaõ a quem soube vencella)</l>
+						<l>A estas criancinhas tem respeito,</l>
+						<l>Pois o naõ t[~e]es á morte escura della:</l>
+						<l>Mova-te a piedade sua, e minha,</l>
+						<l>Pois te naõ move a culpa que naõ tinha.</l>
+					</lg>
+				</div>
+				<div type="chapter">
+					<head>CXXVIII.</head>
+					<lg>
+						<l>E se vencendo a Maura resistencia</l>
+						<l>A morte sabes dar com fogo, e ferro;</l>
+						<l>Sabe tambem dar vida com clemencia</l>
+						<l>A quem para perdê-la naõ fez erro.</l>
+						<l>Mas se to assi merece esta innocencia,</l>
+						<l>Põe-me em perpétuo e misero desterro,</l>
+						<l>Na Scythia fria, ou lá na Libya ardente,</l>
+						<l>Onde em lagrimas viva eternamente.</l>
+					</lg>
+				</div>
+				<div type="chapter">
+					<head>CXXIX.</head>
+					<lg>
+						<l>Põe-me onde se use toda a feridade;</l>
+						<l>Entre leões, e tigres; e verei</l>
+						<l>Se nelles achar posso a piedade</l>
+						<l>Que entre peitos humaos naõ achei.</l>
+						<l>Alli co'o amor intrinseco, e vontade,</l>
+						<l>Naquelle por quem mouro, criarei</l>
+						<l>Estas reliquias suas que aqui viste,</l>
+						<l>Que refrigerio sejam da mãi triste.</l>
+					</lg>
+				</div>
+				<div type="chapter">
+					<head>CXXX.</head>
+					<lg>
+						<l>Queria perdoar-lhe o Rei benino,</l>
+						<l>Movido das palavras que o magôam;</l>
+						<l>Mas o pertinaz povo, e seu destino,</l>
+						<l>Que desta sorte o quiz, lhe naõ perdôam.</l>
+						<l>Arrancam das espadas de aço fino,</l>
+						<l>Os que por bom tal feito alli pregôam.</l>
+						<l>Contra h[~u]a dama, ó peitos carniceiros,</l>
+						<l>Ferozes vos mostrais, e Cavalleiros?</l>
+					</lg>
+				</div>
+				<div type="chapter">
+					<head>CXXXI.</head>
+					<lg>
+						<l>Qual contra a linda moça Policena,</l>
+						<l>Consolaçaõ extrema da mãi velha,</l>
+						<l>Porque á sombra de Achilles a condena,</l>
+						<l>Co'o ferro o duro Pyrrho se aparelha:</l>
+						<l>Mas ella os olhos, com que o ar serena,</l>
+						<l>(Bem como paciente e mansa ovelha)</l>
+						<l>Na misera mãi postos, que endoudece,</l>
+						<l>Ao duro sacrificio se offerece:</l>
+					</lg>
+				</div>
+				<div type="chapter">
+					<head>CXXXII.</head>
+					<lg>
+						<l>Taes contra Ignez os brutos matadores,</l>
+						<l>No colo de alabastro, que sostinha</l>
+						<l>As obras com que amor matou de amores</l>
+						<l>Áquelle que despois a fez Rainha,</l>
+						<l>As espadas banhando, e as brancas flores,</l>
+						<l>Que ella dos olhos seus regadas tinha,</l>
+						<l>Se encarniçavam férvidos, e irosos,</l>
+						<l>No futuro castigo naõ cuidosos.</l>
+					</lg>
+				</div>
+				<div type="chapter">
+					<head>CXXXIII.</head>
+					<lg>
+						<l>Bem puderas, ó Sol, da vista destes,</l>
+						<l>Teus raios apartar aquelle dia,</l>
+						<l>Como da seva mesa de Thyestes,</l>
+						<l>Quando os filhos por maõ de Atreo comia.</l>
+						<l>Vós, ó concavos valles, que pudestes</l>
+						<l>A voz extrema ouvir da boca fria,</l>
+						<l>O nome do seu Pedro que lhe ouvistes,</l>
+						<l>Por muito grande espaço repetistes.</l>
+					</lg>
+				</div>
+				<div type="chapter">
+					<head>CXXXIIII.</head>
+					<lg>
+						<l>Assi como a bonina, que cortada</l>
+						<l>Antes do tempo foi, candida, e bella,</l>
+						<l>Sendo das mãos lascivas maltratada,</l>
+						<l>Da menina que a trouxe na capella,</l>
+						<l>O cheiro traz perdido, e a côr murchada;</l>
+						<l>Tal está morta a pallida donzella,</l>
+						<l>Seccas do rosto as rosas, e perdida</l>
+						<l>A branca e viva côr, co'a doce vida.</l>
+					</lg>
+				</div>
+				<div type="chapter">
+					<head>CXXXV.</head>
+					<lg>
+						<l>As filhas do Mondego a morte escura</l>
+						<l>Longo tempo chorando memoráram;</l>
+						<l>E, por memoria eterna, em fonte pura</l>
+						<l>As lagrimas choradas transformáram:</l>
+						<l>O nome lhe pozeram, que ainda dura,</l>
+						<l>Dos amores de Ignez, que alli passáram.</l>
+						<l>Vede que fresca fonte rega as flores,</l>
+						<l>Que lagrimas saõ agua, e o nome amores.</l>
+					</lg>
+				</div>
+				<div type="chapter">
+					<head>CXXXVI.</head>
+					<lg>
+						<l>Naõ correo muito tempo que a vingança</l>
+						<l>Naõ visse Pedro das mortaes feridas;</l>
+						<l>Que em tomando de Reino a governança,</l>
+						<l>A tomou dos fugidos homicidas:</l>
+						<l>De outro Pedro cruissimo os alcança;</l>
+						<l>Que ambos imigos das humanas vidas,</l>
+						<l>O concerto fizeram duro, e injusto,</l>
+						<l>Que com Lepido, e Antonio fez Augusto.</l>
+					</lg>
+				</div>
+				<closer>FIM DO EPISÓDIO.</closer>
+			</div>
+		</body>
+	</text>
+</TEI>

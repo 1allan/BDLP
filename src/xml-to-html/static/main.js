@@ -20,7 +20,7 @@ if (header) {
 	
 	//Generate indexes
 	document.querySelectorAll('#tei-wrapper head, p.title').forEach(el => {
-		let elementDepth = getElementDepth(el, teiWrapper, 3)
+		let elementDepth = getElementDepth(el, teiWrapper, 2)
 		let a = document.createElement('a')
 		
 		a.innerHTML = el.innerText
