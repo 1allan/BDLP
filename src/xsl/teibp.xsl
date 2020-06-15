@@ -596,4 +596,39 @@
 	<xsl:template match="tei:l[@part='M']"/>
 	<xsl:template match="tei:l[@part='F']"/>
 
+	
+
+
+    <xsl:template match="tei:body">
+        <xsl:copy>
+            <xsl:apply-templates select="@* | node()"/>
+        </xsl:copy>
+		&#160;
+		<foot>
+			<xsl:for-each select="//tei:text//tei:note[@place='foot']">
+				<div>
+					<a class="note"  id="{concat('cit', count(preceding::tei:note))}" href="{concat('#cit', count(preceding::tei:note), 'return')}">
+					[<xsl:value-of select="count(preceding::tei:note)"/>] ↑
+					</a>
+					<span>
+						<xsl:value-of select="."/>
+						<xsl:if test="@resp">
+							<xsl:variable name="rsp" select="@resp"/>
+			
+							(<xsl:value-of select="//tei:respStmt/tei:resp"/> - <xsl:value-of select="//tei:respStmt/tei:name[@xml:id=$rsp]"/>)
+						</xsl:if>
+					</span>
+				</div>
+			</xsl:for-each>
+		</foot>
+    </xsl:template>
+
+	<xsl:template match="//tei:text//tei:note[@place='foot']">
+		<xsl:variable name="pos" select="concat('#cit', count(preceding::tei:note))"/>
+				
+		<a class="note" id="{concat('cit', count(preceding::tei:note), 'return')}" href="{$pos}">
+			[<xsl:value-of select="count(preceding::tei:note)"/>] <xsl:value-of select="position"/>
+		</a>
+	</xsl:template>
+	
 </xsl:stylesheet>
