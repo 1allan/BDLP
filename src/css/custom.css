@@ -58,7 +58,7 @@ bibl > tei-title {
 }
 
 div > head {
-	font-size: 150%;
+	font-size: 110%;
 	text-indent: 0;
 	margin-top: 2em;
 }
@@ -282,7 +282,7 @@ l[type="dialogue"] row part, empty-cell { display: table-cell }
 l[type="dialogue"] part:first-child { min-width: 100px; }
 
 a.note {
-	font-size: .65em;
+	font-size: 8pt;
 	color: mediumblue;
 }
 
