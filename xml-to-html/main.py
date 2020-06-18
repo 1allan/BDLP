@@ -20,7 +20,7 @@ def replace(string, blacklist):
     return string
 
 
-def main(input_dir, output_dir, remove_header=True):
+def main(input_dir, output_dir):
     static_files = load_static_files()
     xslt = etree.parse(static + 'teibp.xsl')
     transform = etree.XSLT(xslt)
@@ -40,7 +40,7 @@ def main(input_dir, output_dir, remove_header=True):
             for element in newdom.iter():
                 tag = element.tag[element.tag.index('}') + 1:]
                 
-                if tag == 'header' and remove_header:
+                if tag == 'header' or tag == 'footer':
                     element.getparent().remove(element)
 
                 if tag == 'head' and 'type' not in element.attrib:
@@ -90,7 +90,7 @@ def main(input_dir, output_dir, remove_header=True):
 
 if __name__ == '__main__':
     if len(sys.argv) > 2:
-        main(sys.argv[1], sys.argv[2], remove_header=('--remove-header' in sys.argv))
+        main(sys.argv[1], sys.argv[2])
     else:
         print('É necessário fornecer para o script ao menos o caminho de entrada e saída!')
         print('python main.py <input> <output> <optional-arguments>')
