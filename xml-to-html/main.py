@@ -24,10 +24,16 @@ def main(input_dir, output_dir):
     static_files = load_static_files()
     xslt = etree.parse(static + 'teibp.xsl')
     transform = etree.XSLT(xslt)
+
+    try:
+        os.makedirs(output_dir)
+    except FileExistsError:
+        pass
     
     if os.path.isdir(input_dir):
         files = os.listdir(input_dir)
-        input_dir = input_dir[:input_dir.rindex('/') + 1]
+        if input_dir[-1] != '/':
+            input_dir += '/'
     else:
         files = [input_dir]
         input_dir = ''
@@ -42,7 +48,7 @@ def main(input_dir, output_dir):
                 
                 if tag == 'header' or tag == 'footer':
                     element.getparent().remove(element)
-
+                    
                 if tag == 'head' and 'type' not in element.attrib:
                     element.tag = element.tag.replace(tag, 'p')
                     element.attrib['class'] = 'title'
@@ -67,22 +73,11 @@ def main(input_dir, output_dir):
                 
             output = str(etree.tostring(newdom, method="html", pretty_print=True), 'utf-8')
             filename = filename.replace('.xml', '.html')
-
-            if not os.path.exists(output_dir):
-                try:
-                    os.makedirs(os.path.dirname(output_dir))
-                except OSError as exc:
-                    if exc.errno != errno.EEXIST:
-                        raise
-            
-            if output_dir == '.':
-                output_dir = './'
-
             filename = filename[filename.rindex('/') + 1:] if '/' in filename else filename
             
-            with open(output_dir + filename, 'w') as f:
+            with open(output_dir + '/' + filename, 'w') as f:
                 f.write(output.replace('\\n', ''))
-            
+        
         except Exception as exc:
             print(filename + ' failed')
             print(exc, '\n')

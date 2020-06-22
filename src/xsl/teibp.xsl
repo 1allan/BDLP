@@ -598,7 +598,7 @@
 
 	
 
-
+	<!-- Format footnotes -->
     <xsl:template match="tei:body">
         <xsl:copy>
             <xsl:apply-templates select="@* | node()"/>
@@ -615,7 +615,7 @@
 						<xsl:if test="@resp">
 							<xsl:variable name="rsp" select="@resp"/>
 			
-							(<xsl:value-of select="//tei:respStmt/tei:resp"/> - <xsl:value-of select="//tei:respStmt/tei:name[@xml:id=$rsp]"/>)
+							(<xsl:value-of select="//tei:respStmt[tei:name[@xml:id=$rsp]]/tei:resp"/> - <xsl:value-of select="//tei:respStmt/tei:name[@xml:id=$rsp]"/>)
 						</xsl:if>
 					</span>
 				</div>
