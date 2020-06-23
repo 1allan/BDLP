@@ -1,5 +1,7 @@
-import os, sys
+import os, sys, re
 from lxml import etree
+
+from util.constants import HTML_TAGS
 
 static = './static/'
 
@@ -11,13 +13,6 @@ def load_static_files():
             output[static + d] = f.read()
     
     return output
-
-
-def replace(string, blacklist):
-    for key, value in blacklist.items():
-        if key in string:
-            string = string.replace(key, value)
-    return string
 
 
 def main(input_dir, output_dir):
@@ -43,22 +38,39 @@ def main(input_dir, output_dir):
             dom = etree.parse(input_dir + filename)
             newdom = transform(dom)
 
-            for element in newdom.iter():
+            tei_tags = []
+            for element in newdom.xpath('//*'):
                 tag = element.tag[element.tag.index('}') + 1:]
                 
-                if tag == 'header' or tag == 'footer':
+                if tag == 'body':
+                    element.attrib['class'] = ''
+                
+                if tag in ('header', 'script', 'footer'):
                     element.getparent().remove(element)
 
                 if tag == 'head' and 'type' not in element.attrib:
-                    element.tag = element.tag.replace(tag, 'p')
-                    element.attrib['class'] = 'title'
+                    element.tag = element.tag.replace(tag, 'div')
+                    element.attrib['class'] = 'head'
 
-                if tag == 'script' and 'src' in element.attrib:
-                    src = static + element.attrib['src'][element.attrib['src'].rindex('/') + 1:]
-                    if src in static_files:
-                        element.text = f"\n {static_files[src]} \n"
-                        element.attrib.pop('src')
+                if element.text == None:
+                    element.text = ' '
                 
+                if tag not in HTML_TAGS or tag in ('title'):
+                    if tag not in tei_tags:
+                        tei_tags.append(tag)
+                    element.attrib['class'] = tag
+                    element.tag = element.tag.replace(tag, 'div')
+            
+            for key, value in static_files.items():
+                if key[key.rindex('.') + 1:] == 'css':
+                    for tag in tei_tags:
+                        pattern = re.compile(f'\b{tag}\b')
+                        print(static_files[key])
+                        static_files[key] = re.sub(pattern, f'.{tag}', value)
+                        print(static_files[key])
+            
+            for element in newdom.xpath('//*'):
+                tag = element.tag[element.tag.index('}') + 1:]
                 if tag == 'link':
                     href = static + element.attrib['href'][element.attrib['href'].rindex('/') + 1:]
                     if href in static_files and href[href.rindex('.') + 1:] == 'css':
@@ -66,29 +78,14 @@ def main(input_dir, output_dir):
                         element.text = f"\n {static_files[href]} \n"
                         element.attrib.clear()
                         element.attrib['type'] = 'text/css'
-
-
-                if element.text == None:
-                    element.text = ' '
                 
             output = str(etree.tostring(newdom, method="html", pretty_print=True), 'utf-8')
             filename = filename.replace('.xml', '.html')
-
-            if not os.path.exists(output_dir):
-                try:
-                    os.makedirs(os.path.dirname(output_dir))
-                except OSError as exc:
-                    if exc.errno != errno.EEXIST:
-                        raise
-            
-            if output_dir == '.':
-                output_dir = './'
-
             filename = filename[filename.rindex('/') + 1:] if '/' in filename else filename
             
-            with open(output_dir + filename, 'w') as f:
+            with open(output_dir + '/' + filename, 'w') as f:
                 f.write(output.replace('\\n', ''))
-            
+        
         except Exception as exc:
             print(filename + ' failed')
             print(exc, '\n')
