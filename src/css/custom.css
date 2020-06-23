@@ -296,17 +296,17 @@ foot span {
 }
 
 /* html files style */
-TEI p.title {
+TEI div.title {
 	display: block;
 	font-family: Arvo, sans-serif;
 	font-weight: normal;
 }
 
-div[type="part"] > p.title {
+div[type="part"] > div.title {
 	font-size: 1.3em
 }
 
-div > p.title {
+div > div.title {
 	font-size: 1em;
 	text-indent: 0;
 	margin-top: 2em;

@@ -597,7 +597,6 @@
 	<xsl:template match="tei:l[@part='F']"/>
 
 	
-
 	<!-- Format footnotes -->
     <xsl:template match="tei:body">
         <xsl:copy>

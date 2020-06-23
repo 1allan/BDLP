@@ -2,3 +2,4 @@
 *.test.*
 /src/html/*
 !/src/html/.gitkeep
+__pycache__
