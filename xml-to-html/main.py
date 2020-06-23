@@ -24,10 +24,16 @@ def main(input_dir, output_dir):
     static_files = load_static_files()
     xslt = etree.parse(static + 'teibp.xsl')
     transform = etree.XSLT(xslt)
+
+    try:
+        os.makedirs(output_dir)
+    except FileExistsError:
+        pass
     
     if os.path.isdir(input_dir):
         files = os.listdir(input_dir)
-        input_dir = input_dir[:input_dir.rindex('/') + 1]
+        if input_dir[-1] != '/':
+            input_dir += '/'
     else:
         files = [input_dir]
         input_dir = ''
