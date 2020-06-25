@@ -629,4 +629,22 @@
 		</a>
 	</xsl:template>
 	
+	<!-- Generate index -->
+	<xsl:template match="//tei:TEI//tei:head">
+		<head id="title{count(preceding::tei:head)}"><xsl:value-of select="./text()"/></head>
+	</xsl:template>
+
+	<xsl:template match="//tei:TEI//tei:text">
+		<div id="index">
+			<xsl:for-each select="//tei:text//tei:head">
+				<a href="#title{position() - 1}" data-depth="{count(ancestor::*) - 3}"><xsl:value-of select="./text()"/></a>
+			</xsl:for-each>
+		</div>
+
+        <xsl:copy>
+            <xsl:apply-templates select="@* | node()"/>
+        </xsl:copy>
+	</xsl:template>
+
+
 </xsl:stylesheet>

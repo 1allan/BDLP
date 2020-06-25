@@ -61,6 +61,4 @@ if (header) {
 	})
 }
 
-window.addEventListener('load', () => {
-	document.body.classList.remove('hidden')
-})
+document.getElementById('index').remove()

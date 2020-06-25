@@ -283,7 +283,7 @@ l[type="dialogue"] part:first-child { min-width: 100px; }
 
 a.note {
 	font-size: 8pt;
-	color: mediumblue;
+	color: #3636DB;
 }
 
 
@@ -293,6 +293,15 @@ foot a.note {
 
 foot span {
 	font-size: .8em
+}
+
+#index a {
+	display: block;
+	color: #3636DB;
+}
+
+#index a:hover {
+	text-decoration: underline;
 }
 
 /* html files style */
