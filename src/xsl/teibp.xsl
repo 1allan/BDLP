@@ -631,7 +631,10 @@
 	
 	<!-- Generate index -->
 	<xsl:template match="//tei:TEI//tei:head">
-		<head id="title{count(preceding::tei:head)}"><xsl:value-of select="./text()"/></head>
+		<xsl:copy>
+            <xsl:attribute name="id">title<xsl:value-of select="count(preceding::tei:head)"/></xsl:attribute>
+            <xsl:apply-templates select="@* | node()"/>
+		</xsl:copy>
 	</xsl:template>
 
 	<xsl:template match="//tei:TEI//tei:text">

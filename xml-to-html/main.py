@@ -1,95 +1,103 @@
 import os, sys, re
+from os.path import isfile, isdir, join
 from lxml import etree
 
 from util.constants import HTML_TAGS
 
-static = './static/'
+as_dir = lambda d: d + '/' if d[-1] != '/' else d
 
-def load_static_files():
-    output = dict()
-    
-    for d in os.listdir(static):
-        with open(static + d, 'r') as f:
-            output[static + d] = f.read()
-    
+def load_static(dir) -> dict:
+    dir = as_dir(dir)
+    if isdir(dir):
+        output = dict()
+        for file in os.listdir(dir):
+            with open(dir + file, 'r') as f:
+                output[file] = f.read()
+    else:
+        print('Diretório de arquivos estáticos é inválido!')
+        return
     return output
 
 
-def main(input_dir, output_dir):
-    static_files = load_static_files()
-    xslt = etree.parse(static + 'teibp.xsl')
+def main(input_dir, output_dir, static_dir='./static'):
+    static_dir = as_dir(static_dir)
+    static_files = load_static(static_dir)
+    xslt = etree.parse(static_dir + 'teibp.xsl')
     transform = etree.XSLT(xslt)
 
+    # This could be a function to treat all paths :thinking:
+    xmls = None
+    xmls_path = ''
+    if isdir(input_dir):
+        xmls = [f for f in os.listdir(input_dir) if isfile(join(input_dir, f))]
+        xmls_path = as_dir(input_dir)
+    else:
+        xmls_path = input_dir[:input_dir.rindex('/') + 1]
+        xmls = [input_dir[input_dir.rindex('/') + 1:]]
+
+    output_dir = as_dir(output_dir)
     try:
         os.makedirs(output_dir)
     except FileExistsError:
         pass
-    
-    if os.path.isdir(input_dir):
-        files = os.listdir(input_dir)
-        if input_dir[-1] != '/':
-            input_dir += '/'
-    else:
-        files = [input_dir]
-        input_dir = ''
-    
-    for filename in files:
+
+    for xml in xmls:
         try:
-            dom = etree.parse(input_dir + filename)
+            dom = etree.parse(xmls_path + xml)
             newdom = transform(dom)
 
-            tei_tags = []
+            links = list()
+            tags_blacklist = list()
             for element in newdom.xpath('//*'):
-                tag = element.tag[element.tag.index('}') + 1:]
+                tag_name = element.tag[element.tag.index('}') + 1:]
                 
-                if tag == 'body':
+                if tag_name == 'body':
                     element.attrib['class'] = ''
                 
-                if tag in ('header', 'script', 'footer'):
+                if tag_name in ('header', 'script', 'footer'):
                     element.getparent().remove(element)
                     
-                if tag == 'head' and 'type' not in element.attrib:
-                    element.tag = element.tag.replace(tag, 'div')
+                if tag_name == 'head' and 'type' not in element.attrib:
+                    element.tag = 'span'
                     element.attrib['class'] = 'head'
 
                 if element.text == None:
                     element.text = ' '
                 
-                if tag not in HTML_TAGS or tag in ('title'):
-                    if tag not in tei_tags:
-                        tei_tags.append(tag)
-                    element.attrib['class'] = tag
-                    element.tag = element.tag.replace(tag, 'div')
-            
-            for key, value in static_files.items():
-                if key[key.rindex('.') + 1:] == 'css':
-                    for tag in tei_tags:
-                        pattern = re.compile(f'\b{tag}\b')
-                        print(static_files[key])
-                        static_files[key] = re.sub(pattern, f'.{tag}', value)
-                        print(static_files[key])
-            
-            for element in newdom.xpath('//*'):
-                tag = element.tag[element.tag.index('}') + 1:]
-                if tag == 'link':
-                    href = static + element.attrib['href'][element.attrib['href'].rindex('/') + 1:]
-                    if href in static_files and href[href.rindex('.') + 1:] == 'css':
-                        element.tag = element.tag.replace(tag, 'style')
-                        element.text = f"\n {static_files[href]} \n"
-                        element.attrib.clear()
-                        element.attrib['type'] = 'text/css'
-                
-            output = str(etree.tostring(newdom, method="html", pretty_print=True), 'utf-8')
-            filename = filename.replace('.xml', '.html')
-            filename = filename[filename.rindex('/') + 1:] if '/' in filename else filename
-            
-            with open(output_dir + '/' + filename, 'w') as f:
-                f.write(output.replace('\\n', ''))
-        
-        except Exception as exc:
-            print(filename + ' failed')
-            print(exc, '\n')
+                if tag_name not in HTML_TAGS or tag_name in ('title', 'head'):
+                    if tag_name not in tags_blacklist:
+                        tags_blacklist.append(tag_name)
+                    
+                    element.attrib['class'] = tag_name
+                    element.tag = 'span'
 
+                if tag_name == 'link':
+                    href = element.attrib['href']
+                    if href[href.rindex('/') + 1:] in static_files.keys():
+                        links.append(element)
+
+            for file in static_files:
+                if file[file.rindex('.') + 1:] == 'css':
+                    for t in tags_blacklist:
+                        hm = static_files[file]
+                        static_files[file] = re.sub(r'(?<![-.])\b{}\b(?!-)'.format(t), r'span.' + t, static_files[file])
+
+            for l in links:
+                href = l.attrib['href']
+                href = href[href.rindex('/') + 1:]
+                l.tag = 'style'
+                l.text = f"\n {static_files[href]} \n"
+                l.attrib.clear()
+                l.attrib['type'] = 'text/css'
+            
+            output = str(etree.tostring(newdom, method="html", pretty_print=True), 'utf-8')
+            html = xml.replace('.xml', '.html')
+            
+            with open(output_dir + '/' + html, 'w') as f:
+                f.write(output)
+
+        except Exception as exc:
+            print('OOF! ', exc) 
 
 if __name__ == '__main__':
     if len(sys.argv) > 2:
