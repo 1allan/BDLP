@@ -33,7 +33,7 @@ def main(input_dir, output_dir, static_dir='./static'):
         xmls_path = as_dir(input_dir)
     else:
         xmls_path = input_dir[:input_dir.rindex('/') + 1] if '/' in input_dir else './'
-        xmls = [input_dir[input_dir.rindex('/') + 1:]]
+        xmls = [input_dir[input_dir.rindex('/') + 1:]] if '/' in input_dir else [input_dir]
 
     output_dir = as_dir(output_dir)
     try:

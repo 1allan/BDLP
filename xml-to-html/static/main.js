@@ -19,7 +19,7 @@ if (header) {
 	header.classList.add('active')
 	
 	//Generate indexes
-	document.querySelectorAll('#tei-wrapper head, p.title').forEach(el => {
+	document.querySelectorAll('#tei-wrapper head, span.head').forEach(el => {
 		let elementDepth = getElementDepth(el, teiWrapper, 2)
 		let a = document.createElement('a')
 		
