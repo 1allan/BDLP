@@ -608,14 +608,14 @@
 					<a class="note"  id="{concat('cit', count(preceding::tei:note))}" href="{concat('#cit', count(preceding::tei:note), 'return')}">
 					[<xsl:value-of select="count(preceding::tei:note)"/>] ↑
 					</a>
-					<span>
+					<div>
 						<xsl:value-of select="."/>
 						<xsl:if test="@resp">
 							<xsl:variable name="rsp" select="@resp"/>
 			
 							(<xsl:value-of select="//tei:respStmt[tei:name[@xml:id=$rsp]]/tei:resp"/> - <xsl:value-of select="//tei:respStmt/tei:name[@xml:id=$rsp]"/>)
 						</xsl:if>
-					</span>
+					</div>
 				</div>
 			</xsl:for-each>
 		</foot>
