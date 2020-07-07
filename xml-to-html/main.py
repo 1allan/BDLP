@@ -50,6 +50,10 @@ def main(input_dir, output_dir, static_dir=join(dirname(__file__), 'static')):
             tags_blacklist = list()
             for element in newdom.xpath('//*'):
                 tag_name = element.tag[element.tag.index('}') + 1:]
+
+                if tag_name == 'head' and 'type' in element.attrib.keys():
+                    element.attrib.pop('type')
+                    continue
                 
                 if tag_name == 'body':
                     element.attrib['class'] = ''
@@ -57,10 +61,6 @@ def main(input_dir, output_dir, static_dir=join(dirname(__file__), 'static')):
                 if tag_name in ('header', 'script', 'footer'):
                     element.getparent().remove(element)
                     
-                if tag_name == 'head' and 'type' not in element.attrib:
-                    element.tag = 'span'
-                    element.attrib['class'] = 'head'
-
                 if element.text == None:
                     element.text = ' '
                 
