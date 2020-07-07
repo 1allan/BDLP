@@ -1,5 +1,5 @@
 import os, sys, re
-from os.path import isfile, isdir, join
+from os.path import isfile, isdir, join, dirname
 from lxml import etree
 
 from util.constants import HTML_TAGS
@@ -19,7 +19,7 @@ def load_static(dir) -> dict:
     return output
 
 
-def main(input_dir, output_dir, static_dir='./static'):
+def main(input_dir, output_dir, static_dir=join(dirname(__file__), 'static')):
     static_dir = as_dir(static_dir)
     static_files = load_static(static_dir)
     xslt = etree.parse(static_dir + 'teibp.xsl')
