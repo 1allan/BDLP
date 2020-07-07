@@ -56,7 +56,8 @@ def main(input_dir, output_dir, static_dir=join(dirname(__file__), 'static')):
                     continue
                 
                 if tag_name == 'body':
-                    element.attrib['class'] = ''
+                    if 'class' in element.attrib.keys():
+                        element.attrib.pop('class')
                 
                 if tag_name in ('header', 'script', 'footer'):
                     element.getparent().remove(element)
@@ -69,7 +70,7 @@ def main(input_dir, output_dir, static_dir=join(dirname(__file__), 'static')):
                         tags_blacklist.append(tag_name)
                     
                     element.attrib['class'] = tag_name
-                    element.tag = 'span'
+                    element.tag = 'div'
 
                 if tag_name == 'link':
                     href = element.attrib['href']
@@ -80,7 +81,7 @@ def main(input_dir, output_dir, static_dir=join(dirname(__file__), 'static')):
                 if file[file.rindex('.') + 1:] == 'css':
                     for t in tags_blacklist:
                         hm = static_files[file]
-                        static_files[file] = re.sub(r'(?<![-.])\b{}\b(?!-)'.format(t), r'span.' + t, static_files[file])
+                        static_files[file] = re.sub(r'(?<![-.])\b{}\b(?!-)'.format(t), r'div.' + t, static_files[file])
 
             for l in links:
                 href = l.attrib['href']
@@ -97,7 +98,7 @@ def main(input_dir, output_dir, static_dir=join(dirname(__file__), 'static')):
                 f.write(output)
 
         except Exception as exc:
-            print('OOF! ', exc) 
+            print('Error: ', exc) 
 
 if __name__ == '__main__':
     if len(sys.argv) > 2:
