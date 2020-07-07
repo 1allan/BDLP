@@ -292,6 +292,7 @@ foot a.note {
 }
 
 foot div {
+	display: flex;
 	font-size: .8em
 }
 
