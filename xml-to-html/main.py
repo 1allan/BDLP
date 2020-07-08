@@ -46,6 +46,13 @@ def main(input_dir, output_dir, static_dir=join(dirname(__file__), 'static')):
             dom = etree.parse(xmls_path + xml)
             newdom = transform(dom)
 
+            body = newdom.find('{http://www.w3.org/1999/xhtml}body')
+            head = newdom.find('{http://www.w3.org/1999/xhtml}head')
+            
+            meta = etree.fromstring('<meta name="Generator" content="TEI2HTML"> </meta>')
+            meta.tag = '{http://www.w3.org/1999/xhtml}' + meta.tag
+            head.append(meta)
+            
             links = list()
             tags_blacklist = list()
             for element in newdom.xpath('//*'):
@@ -73,6 +80,7 @@ def main(input_dir, output_dir, static_dir=join(dirname(__file__), 'static')):
                     element.tag = 'div'
 
                 if tag_name == 'link':
+                    body.append(element)
                     href = element.attrib['href']
                     if href[href.rindex('/') + 1:] in static_files.keys():
                         links.append(element)
