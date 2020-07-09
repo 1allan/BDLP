@@ -319,7 +319,8 @@
 
 			<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Oxygen:300,400"/>
 			<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700"/>
-			<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto" />
+			<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto"/>
+			<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Arvo:400,700,400italic,700italic|Gentium+Book+Basic:400,400italic,700,700italic"/>
 			<link id="maincss" rel="stylesheet" type="text/css" href="{$teibpcss}"/>
 			<link id="customcss" rel="stylesheet" type="text/css" href="{$customcss}"/>
 			<link id="mediaqueries" rel="stylesheet" type="text/css" href="{$mediaqueries}"/>
