@@ -25,7 +25,6 @@ def main(input_dir, output_dir, static_dir=join(dirname(__file__), 'static')):
     xslt = etree.parse(static_dir + 'teibp.xsl')
     transform = etree.XSLT(xslt)
 
-    # This could be a function to treat all paths :thinking:
     xmls = None
     xmls_path = ''
     if isdir(input_dir):
