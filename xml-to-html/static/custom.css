@@ -8,6 +8,8 @@ a, a:visited, a:hover {
 }
 
 #tei-wrapper {
+	box-sizing: content-box;
+	font-family: 'Gentium Book Basic';
 	max-width: 40em;
 	background-color: #fff;
 	padding: 5em;
@@ -15,6 +17,12 @@ a, a:visited, a:hover {
 	margin-right: auto;
 	margin-top: 5em;
 	margin-bottom: 1em;
+
+	font-weight: 400 !important;
+	color: #292929 !important;
+	font-size: 18px !important;
+	line-height: normal !important;
+	text-align: left !important;
 }
 
 #tei-wrapper p {
