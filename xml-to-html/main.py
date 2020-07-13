@@ -76,19 +76,19 @@ def main(input_dir, output_dir, static_dir=join(dirname(__file__), 'static')):
                         tags_blacklist.append(tag_name)
                     
                     element.attrib['class'] = tag_name
-                    element.tag = 'div'
+                    element.tag = 'span'
 
                 if tag_name == 'link':
                     body.append(element)
                     href = element.attrib['href']
                     if href[href.rindex('/') + 1:] in static_files.keys():
                         links.append(element)
-
+            
             for file in static_files:
                 if file[file.rindex('.') + 1:] == 'css':
                     for t in tags_blacklist:
                         hm = static_files[file]
-                        static_files[file] = re.sub(r'(?<![-.])\b{}\b(?!-)'.format(t), r'div.' + t, static_files[file])
+                        static_files[file] = re.sub(r'(?<![-.#])\b{}\b(?!-)'.format(t), r'span.' + t, static_files[file])
 
             for l in links:
                 href = l.attrib['href']
