@@ -19,11 +19,14 @@ if (header) {
 	header.classList.add('active')
 	
 	//Generate indexes
-	document.querySelectorAll('#tei-wrapper head, p.title').forEach(el => {
-		let elementDepth = getElementDepth(el, teiWrapper, 2)
+	document.querySelectorAll('#tei-wrapper head, span.head').forEach(el => {
+		let elementDepth = getElementDepth(el, teiWrapper, 3)
 		let a = document.createElement('a')
+		let clone = el.cloneNode(true)
 		
-		a.innerHTML = el.innerText
+		clone.querySelectorAll('*').forEach(child => child.remove())
+		
+		a.innerHTML = clone.textContent
 		a.setAttribute('data-depth', elementDepth)
 		a.addEventListener('click', ev => {
 			let href = location.href
@@ -61,6 +64,4 @@ if (header) {
 	})
 }
 
-window.addEventListener('load', () => {
-	document.body.classList.remove('hidden')
-})
+document.getElementById('index').remove()

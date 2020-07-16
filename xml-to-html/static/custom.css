@@ -1,8 +1,3 @@
-@font-face {
-	font-family: 'Roboto Mono';
-	src: url(../fonts/Roboto_Mono/RobotoMono-Regular.ttf);
-}
-
 html {
 	background-color: #999;
 }
@@ -13,6 +8,8 @@ a, a:visited, a:hover {
 }
 
 #tei-wrapper {
+	box-sizing: content-box;
+	font-family: 'Gentium Book Basic';
 	max-width: 40em;
 	background-color: #fff;
 	padding: 5em;
@@ -20,6 +17,12 @@ a, a:visited, a:hover {
 	margin-right: auto;
 	margin-top: 5em;
 	margin-bottom: 1em;
+
+	font-weight: 400 !important;
+	color: #292929 !important;
+	font-size: 18px !important;
+	line-height: normal !important;
+	text-align: left !important;
 }
 
 #tei-wrapper p {
@@ -58,7 +61,7 @@ bibl > tei-title {
 }
 
 div > head {
-	font-size: 150%;
+	font-size: 110%;
 	text-indent: 0;
 	margin-top: 2em;
 }
@@ -232,7 +235,7 @@ l {
 }
 
 opener, closer, [rend="inspired"], argument[rend="translatedFrom"] {
-	font-family: 'Roboto Mono', serif;
+	font-family: 'Roboto', serif;
 	font-size: .7em;
 }
 
@@ -282,8 +285,8 @@ l[type="dialogue"] row part, empty-cell { display: table-cell }
 l[type="dialogue"] part:first-child { min-width: 100px; }
 
 a.note {
-	font-size: .65em;
-	color: mediumblue;
+	font-size: 8pt;
+	color: #3636DB;
 }
 
 
@@ -291,22 +294,32 @@ foot a.note {
 	font-size: .7em
 }
 
-foot span {
+foot div {
+	display: flex;
 	font-size: .8em
 }
 
+#index a {
+	display: block;
+	color: #3636DB;
+}
+
+#index a:hover {
+	text-decoration: underline;
+}
+
 /* html files style */
-TEI p.title {
+TEI div.title {
 	display: block;
 	font-family: Arvo, sans-serif;
 	font-weight: normal;
 }
 
-div[type="part"] > p.title {
+div[type="part"] > div.title {
 	font-size: 1.3em
 }
 
-div > p.title {
+div > div.title {
 	font-size: 1em;
 	text-indent: 0;
 	margin-top: 2em;

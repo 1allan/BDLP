@@ -68,8 +68,7 @@
 	<xsl:template match="/" name="htmlShell" priority="99">
 			<html>
 			<xsl:call-template name="htmlHead"/>
-			<style>.hidden { display: hidden; opacity: 0 }</style>
-			<body class="hidden">
+			<body>
 				<header>
 					<a class="logo-bdlp" href="https://www.literaturabrasileira.ufsc.br/?locale=pt_BR">BDLP</a>
 					<nav>
@@ -320,7 +319,8 @@
 
 			<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Oxygen:300,400"/>
 			<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700"/>
-			<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto" />
+			<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto"/>
+			<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Arvo:400,700,400italic,700italic|Gentium+Book+Basic:400,400italic,700,700italic"/>
 			<link id="maincss" rel="stylesheet" type="text/css" href="{$teibpcss}"/>
 			<link id="customcss" rel="stylesheet" type="text/css" href="{$customcss}"/>
 			<link id="mediaqueries" rel="stylesheet" type="text/css" href="{$mediaqueries}"/>
@@ -595,5 +595,60 @@
 	</xsl:template>
 	<xsl:template match="tei:l[@part='M']"/>
 	<xsl:template match="tei:l[@part='F']"/>
+
+	
+	<!-- Format footnotes -->
+    <xsl:template match="tei:body">
+        <xsl:copy>
+            <xsl:apply-templates select="@* | node()"/>
+        </xsl:copy>
+		&#160;
+		<foot>
+			<xsl:for-each select="//tei:text//tei:note[@place='foot']">
+				<div>
+					<a class="note"  id="{concat('cit', count(preceding::tei:note))}" href="{concat('#cit', count(preceding::tei:note), 'return')}">
+					[<xsl:value-of select="count(preceding::tei:note)"/>] ↑
+					</a>
+					<div>
+						<xsl:value-of select="."/>
+						<xsl:if test="@resp">
+							<xsl:variable name="rsp" select="@resp"/>
+			
+							(<xsl:value-of select="//tei:respStmt[tei:name[@xml:id=$rsp]]/tei:resp"/> - <xsl:value-of select="//tei:respStmt/tei:name[@xml:id=$rsp]"/>)
+						</xsl:if>
+					</div>
+				</div>
+			</xsl:for-each>
+		</foot>
+    </xsl:template>
+
+	<xsl:template match="//tei:text//tei:note[@place='foot']">
+		<xsl:variable name="pos" select="concat('#cit', count(preceding::tei:note))"/>
+				
+		<a class="note" id="{concat('cit', count(preceding::tei:note), 'return')}" href="{$pos}">
+			[<xsl:value-of select="count(preceding::tei:note)"/>] <xsl:value-of select="position"/>
+		</a>
+	</xsl:template>
+	
+	<!-- Generate index -->
+	<xsl:template match="//tei:TEI//tei:head">
+		<xsl:copy>
+            <xsl:attribute name="id">title<xsl:value-of select="count(preceding::tei:head)"/></xsl:attribute>
+            <xsl:apply-templates select="@* | node()"/>
+		</xsl:copy>
+	</xsl:template>
+
+	<xsl:template match="//tei:TEI//tei:text">
+		<div id="index">
+			<xsl:for-each select="//tei:text//tei:head">
+				<a href="#title{position() - 1}" data-depth="{count(ancestor::*) - 3}"><xsl:value-of select="./text()"/></a>
+			</xsl:for-each>
+		</div>
+
+        <xsl:copy>
+            <xsl:apply-templates select="@* | node()"/>
+        </xsl:copy>
+	</xsl:template>
+
 
 </xsl:stylesheet>
