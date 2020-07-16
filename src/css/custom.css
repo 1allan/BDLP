@@ -220,6 +220,7 @@ footer {
 	flex-direction: column;
 	justify-content: space-evenly;
 	align-items: center;
+	text-align: center;
 	height: 80px;
 	margin-bottom: 10px;
 	border: none;
