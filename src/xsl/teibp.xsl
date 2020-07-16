@@ -71,7 +71,11 @@
 			<body>
 				<header>
 					<a class="logo-bdlp" href="https://www.literaturabrasileira.ufsc.br/?locale=pt_BR">BDLP</a>
-					<nav>
+					<nav>	
+						<div id="download-button" class="menu-button">
+							<a href="./" download="">Baixar texto</a>
+							<span></span>
+						</div>
 						<div id="index-button" class="menu-button open">
 							<span class="line top"></span>
 							<span class="line middle"></span>

@@ -183,6 +183,31 @@ header nav {
 	transition: 300ms;
 }
 
+#download-button {
+	position: relative;
+	z-index: 99;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 600;
+	color: #808080;
+}
+
+#download-button:hover {
+	color: black;
+}
+
+#download-button > span {
+	position: absolute;
+	top: 70%;
+	left: 0;
+	width: 100%;
+	transition: 300ms;
+}
+
+#download-button:hover span {
+	top: 90%;
+	border: 1px solid #66D37E
+}
+
 #index-button {
 	height: 35px;
 	width: 35px;
