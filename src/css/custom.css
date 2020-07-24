@@ -66,14 +66,17 @@ div > head {
 	margin-top: 2em;
 }
 
+opener {
+	display: block;	
+}
+
 closer {
 	text-align: right;
 	display: block;	
 }
 
-opener {
-	text-indent: 6em;
-	display: block;	
+opener, closer, [rend="inspired"], argument[rend="translatedFrom"] {
+	margin-left: 6em;
 }
 
 #index-menu {
@@ -193,6 +196,7 @@ header nav {
 
 #download-button:hover {
 	color: black;
+	cursor: pointer
 }
 
 #download-button > span {
@@ -260,11 +264,6 @@ l {
 	text-indent: -30%;
 }
 
-opener, closer, [rend="inspired"], argument[rend="translatedFrom"] {
-	font-family: 'Roboto', serif;
-	font-size: .7em;
-}
-
 [rend="inspired"], argument[rend="translatedFrom"] {
 	font-size: .85em;
 }
@@ -279,10 +278,6 @@ quote::before, quote::after {
 
 quote l {
 	text-indent: -16%;
-}
-
-salute {
-	text-indent: 13%;
 }
 
 epigraph bibl {
@@ -349,4 +344,12 @@ div > div.title {
 	font-size: 1em;
 	text-indent: 0;
 	margin-top: 2em;
+}
+
+respStmt {
+	display: none
+}
+
+role {
+	font-weight: bold;
 }
