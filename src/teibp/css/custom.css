@@ -7,6 +7,10 @@ a, a:visited, a:hover {
 	text-decoration: none;
 }
 
+teiHeader {
+	border-bottom: 2px solid #999;
+}
+
 #tei-wrapper {
 	box-sizing: content-box;
 	font-family: 'Gentium Book Basic';
@@ -352,4 +356,12 @@ respStmt {
 
 role {
 	font-weight: bold;
+}
+
+sp * {
+	margin: 0
+}
+
+sp :last-child {
+	margin-bottom: 1em
 }
