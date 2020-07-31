@@ -70,6 +70,11 @@ div > head {
 	margin-top: 2em;
 }
 
+head {
+	text-transform: uppercase;
+	font-weight: 600 !important
+}
+
 opener {
 	display: block;	
 }
@@ -280,14 +285,6 @@ quote::before, quote::after {
 	content: ''
 }
 
-quote l {
-	text-indent: -16%;
-}
-
-epigraph bibl {
-	text-indent: 19%;
-}
-
 div[type="part"] > head:first-child {
 	border-bottom: 1px solid #999
 }
@@ -364,4 +361,8 @@ sp * {
 
 sp :last-child {
 	margin-bottom: 1em
+}
+
+div[type="act"] > head {
+	border-bottom: 1px solid
 }

@@ -663,11 +663,12 @@
     </xsl:template>
 
 	<!-- Format sp tags for theater texts -->
-	<xsl:template match="tei:TEI/tei:text//tei:sp">
+	<xsl:template match="//tei:sp">
+		<xsl:variable name="roleID" select="translate(./@who, '#', '')"/>
 		<xsl:copy>
 			<xsl:value-of 
 				select="translate(
-					//tei:role[@xml:id=translate(./@who, '#', '')],
+					//tei:role[@xml:id=$roleID],
                     'abcdefghijklmnopqrstuvwxyzàèìòùáéíóúýâêîôûãñõäëïöüÿåæœçðø',
                     'ABCDEFGHIJKLMNOPQRSTUVWXYZÀÈÌÒÙÁÉÍÓÚÝÂÊÎÔÛÃÑÕÄËÏÖÜŸÅÆŒÇÐØ'
 				)"
