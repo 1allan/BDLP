@@ -64,4 +64,8 @@ if (header) {
 	})
 }
 
+// Removes teibp.xsl generated index, so it appears only in the HTML version
 document.getElementById('index').remove()
+
+// Prevents page from FOUC
+document.body.onload = () => document.body.removeAttribute('class')
