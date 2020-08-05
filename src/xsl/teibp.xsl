@@ -78,7 +78,7 @@
     <xsl:template match="/" name="htmlShell" priority="99">
         <html>
             <xsl:call-template name="htmlHead"/>
-            <body>
+            <body class="anti-fouc">
                 <header>
                     <a class="logo-bdlp" href="https://www.literaturabrasileira.ufsc.br/?locale=pt_BR">BLPL</a>
                     <nav>	

@@ -2,6 +2,11 @@ html {
 	background-color: #999;
 }
 
+.anti-fouc {
+	display: none;
+	opacity: 0;
+}
+
 .uppercased { text-transform: uppercase }
 
 a, a:visited, a:hover {
