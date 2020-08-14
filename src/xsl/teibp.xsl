@@ -104,6 +104,9 @@
                 <script type="text/javascript" src="{$teibpJS}"></script>
                 <script type="text/javascript" src="{$mainJS}"></script>
                 <script type="text/javascript" src="{$downloadJS}"></script>
+                <div id="device-alert">
+                    <span>Para uma melhor legibilidade, recomendamos mudar a orientação do dispositivo!</span>
+                </div>
             </body>
         </html>
     </xsl:template>

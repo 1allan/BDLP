@@ -378,3 +378,8 @@ text div > div > head { font-size: 21px }
 text div > div > div > head { font-size: 16px }
 text div > div > div > div > head { font-size: 16px }
 text div > div > div > div > div > head { font-size: 16px }
+
+titleStmt > author:not(:last-child) {
+	margin-bottom: 5px;
+	padding-bottom: 0;
+}
