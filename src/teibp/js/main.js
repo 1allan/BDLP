@@ -31,6 +31,10 @@ if (header) {
 	})
 }
 
+setTimeout(() => {
+	document.querySelector('#device-alert').style.opacity = 0
+}, 5500)
+
 // Removes teibp.xsl generated index, so it appears only in the HTML version
 document.getElementById('index').remove()
 
