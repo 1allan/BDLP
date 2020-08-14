@@ -356,7 +356,7 @@ div > div.title {
 	margin-top: 2em;
 }
 
-respStmt, tei-title[type="short"], pb {
+respStmt, tei-title[type="short"], pb, milestone[unit="page"] {
 	display: none
 }
 
