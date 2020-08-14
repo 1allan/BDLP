@@ -1,5 +1,7 @@
 html {
 	background-color: #999;
+	scroll-behavior: smooth;
+	scroll-padding: 80px;
 }
 
 .anti-fouc {
@@ -9,7 +11,7 @@ html {
 
 .uppercased { text-transform: uppercase }
 
-a, a:visited, a:hover {
+a, a:link, a:visited, a:hover {
 	color: inherit;
 	text-decoration: none;
 }

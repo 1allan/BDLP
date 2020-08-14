@@ -92,9 +92,7 @@
                             <span class="line bottom"></span>
                         </div>
                     </nav>
-                    <div id="index-menu">
-                        <h1>Índice</h1>
-                    </div>
+                    <xsl:call-template name="indexMenu"/>
                 </header>
                 <xsl:if test="$includeToolbox = true()">
                     <xsl:call-template name="teibpToolbox"/>
@@ -561,6 +559,17 @@
             </xsl:call-template>
             <xsl:apply-templates select="@* | node()"/>
         </xsl:copy>
+    </xsl:template>
+
+    <xsl:template match="//header/div[id='index-menu']" name="indexMenu">
+        <div id="index-menu">
+            <h1>Índice</h1>
+            <xsl:for-each select="//tei:text//tei:head">
+                <a href="#title{position() - 1}" data-depth="{count(ancestor::*) - 3}">
+                    <xsl:value-of select="./text()"/>
+                </a>
+            </xsl:for-each>
+        </div>
     </xsl:template>
 
     <!-- format theater speeches -->
