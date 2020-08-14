@@ -1,0 +1,2481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:aoidos="https://aoidos.ufsc.br/ns/1.0" xmlns:st="https://gitlab.com/stichotheque/ns/1.0">
+  <teiHeader>
+    <fileDesc st:status="C">
+      <titleStmt>
+        <title>Pimentões</title>
+        <author>Olavo Bilac</author>
+        <author>Guimarães Passos</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name xml:id="SM">Samanta Maia</name>
+        </respStmt>
+        <respStmt>
+          <resp>Further encoded by</resp>
+          <name xml:id="AM">Adiel Mittmann</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <distributor>Stichotheque</distributor>
+        <availability status="free">
+          <p>Domínio público.</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note resp="#SM">A Samanta fez a edição em XML a partir de um <ref target="#pdf">PDF</ref> do NUPILL, cuja origem primeira é desconhecida.</note>
+        <note resp="#AM">Coloquei o arquivo no formato da Stichotheque e fiz pequenas correções.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl xml:id="pdf">
+          <title>Pimentões</title>
+          <author>Puff &amp; Puck</author>
+          <date>1897</date>
+          <publisher>Companhia Typographica do Brazil</publisher>
+          <pubPlace>Invalidos 93</pubPlace>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="pt" aoidos:poet="Olavo Bilac e Guimarães Passos" st:duplicates="ok">
+    <body>
+      <div type="poem">
+        <head>CONTO</head>
+        <lg>
+          <l>Clarinha, à mamãe, chorosa,</l>
+          <l>Conta o que lhe aconteceu:</l>
+          <l>“Eu ia silenciosa...</l>
+          <l>Um homem me apareceu...</l>
+        </lg>
+        <lg>
+          <l>Estava deserta a estrada,</l>
+          <l>E não passava ninguém...</l>
+          <l>Parei, pálida e assustada:</l>
+          <l>Ele parara também...</l>
+        </lg>
+        <lg>
+          <l>Houve um silencio de morte,</l>
+          <l>Um espanto entre nós dois...</l>
+          <l>Depois... como ele era forte...</l>
+          <l>E eu era fraca... depois...”</l>
+        </lg>
+        <lg>
+          <l>“Clara! você me consome!</l>
+          <l>(Brada a velha com furor)</l>
+          <l>Declare-me já o nome,</l>
+          <l>O nome do sedutor!”</l>
+        </lg>
+        <lg>
+          <l>“Não sei...” E, no seu desgosto,</l>
+          <l>Na sua atrapalhação,</l>
+          <l>Chora... “Porém, viu-lhe o rosto?</l>
+          <l>Viu o rosto do vilão?”</l>
+        </lg>
+        <lg>
+          <l>“Não vi! tudo estava escuro...</l>
+          <l>Escuro... não vi!... não sei!</l>
+          <l>E demais, n’aquele apuro,</l>
+          <l>Não foi p’ra o rosto que olhei...”</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>PRESENTE DE ANOS</head>
+        <lg>
+          <l>Diz à mulher o Vicente:</l>
+          <l>— “Tu não achas, meu amor,</l>
+          <l>Que hoje, anos do professor,</l>
+          <l>Devemos dar-lhe um presente?”</l>
+        </lg>
+        <lg>
+          <l>— “Com certeza, ele é tão bom,</l>
+          <l>Trata tão bem o Juquinha...</l>
+          <l>Já era lembrança minha,</l>
+          <l>Mandarmos, que é do bom tom.”</l>
+        </lg>
+        <lg>
+          <l>— “Que deve ser? Vamos, fala:</l>
+          <l>Um bom livro, alguma joia,</l>
+          <l>Aquele quadro de Goya,</l>
+          <l>Um cachimbo, uma bengala...?”</l>
+        </lg>
+        <lg>
+          <l>E discutem, todo o almoço,</l>
+          <l>Que presente deve ser;</l>
+          <l>E já, de tanto escolher,</l>
+          <l>Vão formando um alvoroço.</l>
+        </lg>
+        <lg>
+          <l>Juquinha, que escuta quieto,</l>
+          <l>Tão tola e simples questão,</l>
+          <l>P’ra acabar a discussão,</l>
+          <l>Apresenta este projeto:</l>
+        </lg>
+        <lg>
+          <l>— “Nada de presentes finos.</l>
+          <l>Deem cousa que mate a fome:</l>
+          <l>Que ele é tão pobre, que come</l>
+          <l>Nas panelas dos meninos.”</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>ORLANDO FURIOSO</head>
+        <lg>
+          <l>Chamava-se Lagartixo</l>
+          <l>Um homem, que, a noite inteira,</l>
+          <l>Puxava na companheira</l>
+          <l>Pancada de criar bicho.</l>
+        </lg>
+        <lg>
+          <l>Deus sabe como ele dava</l>
+          <l>E como ela recebia;</l>
+          <l>Quanto mais ela gritava,</l>
+          <l>Tanto mais ele batia.</l>
+        </lg>
+        <lg>
+          <l>Acode um vizinho aos gritos,</l>
+          <l>Mas a pancada não para;</l>
+          <l>A mulher mostra os cambitos,</l>
+          <l>O marido esconde a cara.</l>
+        </lg>
+        <lg>
+          <l>— “Basta! Já ’stá bem batida!...</l>
+          <l>Vizinho, não seja mau...”</l>
+          <l>— “Vá tratar de sua vida</l>
+          <l>Que ela gosta do meu pau.”</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>ANOMALIA</head>
+        <lg>
+          <l><choice><orig>Herr Francofish</orig><seg>Er Francofiz</seg></choice> é polaco;</l>
+          <l>É portuguesa a Manoela:</l>
+          <l>Mas do <choice><orig>Francofish</orig><seg>Francofiz</seg></choice> o fraco</l>
+          <l>É falar a língua dela.</l>
+        </lg>
+        <lg>
+          <l>Ela, sendo portuguesa,</l>
+          <l>Fala polaco, bravia:</l>
+          <l>E não há quem, com franqueza,</l>
+          <l>Explique essa anomalia.</l>
+        </lg>
+        <lg>
+          <l>Pois, que mania é aquela,</l>
+          <l>Que atroz costume é aquele,</l>
+          <l>De ele usar da língua dela,</l>
+          <l>E ela usar da língua dele?...</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>APUROS</head>
+        <lg>
+          <l>Que desastrado, o Gamboa!</l>
+          <l>Em toda a parte onde estava</l>
+          <l>Alguma peça pregava</l>
+          <l>À sua própria pessoa.</l>
+        </lg>
+        <lg>
+          <l>De uma vez, num baile, tanto,</l>
+          <l>Tanto bebeu esse amigo,</l>
+          <l>Que, vendo a cousa em perigo,</l>
+          <l>Disparou, buscando um canto...</l>
+        </lg>
+        <lg>
+          <l>E, achando aberta uma porta,</l>
+          <l>Barafusta, sem demora,</l>
+          <l>Quando dá com uma senhora,</l>
+          <l>Que diz, de vergonha morta:</l>
+        </lg>
+        <lg>
+          <l>— “Como põe aqui o pé?</l>
+          <l>Isto é p’ra nós reservado...”</l>
+          <l>E o Gamboa, encalistrado,</l>
+          <l>Responde: — “Isto também é.”</l>
+        </lg>
+        <lg>
+          <l>E se ele tinha razão</l>
+          <l>Que o diga quem nunca um dia,</l>
+          <l>No estado em que ele se via,</l>
+          <l>Fez das tripas coração.</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>PANCADARIA</head>
+        <lg>
+          <l>José casou com Maroca,</l>
+          <l>E Antônio casou com Fina;</l>
+          <l>Foi cada um p’ra a sua toca</l>
+          <l>Numa alegria divina.</l>
+        </lg>
+        <lg>
+          <l>No primeiro mês, abraços,</l>
+          <l>Beijos, venturas, carinhos...</l>
+          <l>E andavam, dados os braços,</l>
+          <l>E eram as casas dous ninhos.</l>
+        </lg>
+        <lg>
+          <l>Depois, arrufos e brigas;</l>
+          <l>E tedio em cada consorte...</l>
+          <l>E ai! ambas as raparigas</l>
+          <l>Tiveram a mesma sorte:</l>
+        </lg>
+        <lg>
+          <l>E ambos, com faria guerreira,</l>
+          <l>Tiveram ira profunda:</l>
+          <l>José dava na primeira,</l>
+          <l>E o outro dava... na segunda.</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>APERTO</head>
+        <lg>
+          <l>— “Meu velho, conto contigo,</l>
+          <l>Estou desgraçado, Mello:</l>
+          <l>Tu vais perder um amigo:</l>
+          <l>Vou me bater em duelo.”</l>
+        </lg>
+        <lg>
+          <l>— “Como assim?” — “Tu já vais ver:</l>
+          <l>Entro em casa (que infeliz!)</l>
+          <l>E encontro minha mulher</l>
+          <l>Nos braços do Zé Luiz...</l>
+        </lg>
+        <lg>
+          <l>Que fazer? Que desgraçado!</l>
+          <l>Mello, que destino cru!</l>
+          <l>Estou aqui, ‘stou furado,</l>
+          <l>Já ‘stou com o pé no Caju.”</l>
+        </lg>
+        <lg>
+          <l>— “Sê filósofo, disfarça,</l>
+          <l>E não mostres cara triste!</l>
+          <l>Não tens jeito para a farsa?</l>
+          <l>Pois finge que nada viste...”</l>
+        </lg>
+        <lg>
+          <l>— “É muito bom dizer isto,</l>
+          <l>Com isto muitos fugiram;</l>
+          <l>Porém eu, valha-me Cristo!</l>
+          <l>Não posso... que eles me viram!”</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>O SINAL</head>
+        <lg>
+          <l>Tinha uma pinta na coxa</l>
+          <l>A mulher do Nicolau:</l>
+          <l>Ela gorda, era uma trouxa,</l>
+          <l>Ele magro — um varapau.</l>
+        </lg>
+        <lg>
+          <l>A mulher era de truz,</l>
+          <l>O marido era um bocó;</l>
+          <l>Por qualquer cousa, Jesus!</l>
+          <l>Havia forrobodó.</l>
+        </lg>
+        <lg>
+          <l>A vizinhança tremia</l>
+          <l>Quando a mulher se enfunava,</l>
+          <l>O Nicolau se escondia,</l>
+          <l>Ela saía... e pintava...</l>
+        </lg>
+        <lg>
+          <l>Um dia ficou sozinho</l>
+          <l>Nicolau aos prantos e ais,</l>
+          <l>Triste como um bacorinho...</l>
+          <l>A mulher não voltou mais.</l>
+        </lg>
+        <lg>
+          <l>Pôs anúncios nas gazetas,</l>
+          <l>Foi ao chefe de polícia,</l>
+          <l>Ouviu mentiras e tretas,</l>
+          <l>Mas ninguém lhe deu notícia.</l>
+        </lg>
+        <lg>
+          <l>Até que um sujeito mau,</l>
+          <l>P’ra vê-lo ficar na tinta,</l>
+          <l>Diz-lhe: “Vi-a, Nicolau:</l>
+          <l>Conheci-a pela pinta.”</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>ELES</head>
+        <lg>
+          <l>Zé Fidelis? nunca vi</l>
+          <l>Homem de tal coração;</l>
+          <l>Nunca falava de si,</l>
+          <l>Porém era um rapagão.</l>
+        </lg>
+        <lg>
+          <l>Viu a Lola. Lola, ao vê-lo,</l>
+          <l>Ficou, como se diz, tonta.</l>
+          <l>Ela frisava o cabelo...</l>
+          <l>Ele, galhardo, na ponta...</l>
+        </lg>
+        <lg>
+          <l>Ela não era franzina;</l>
+          <l>Ele era Hércules; mas</l>
+          <l>Ficou na espinha a menina,</l>
+          <l>Ficou na espinha o rapaz.</l>
+        </lg>
+        <lg>
+          <l>Ela perdeu o apetite;</l>
+          <l>Ele também... Ora, em suma,</l>
+          <l>Nenhum responde a um convite,</l>
+          <l>Nenhum vai a parte alguma.</l>
+        </lg>
+        <lg>
+          <l>Que tens, Fidelis, na bola?</l>
+          <l>Lola, é bom que te reveles...</l>
+          <l>Ele culpa a pobre Lola,</l>
+          <l>Ela culpa o Zé Fidélis.</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>UM INCÊNDIO</head>
+        <lg>
+          <l>Incendiou-se o <choice><orig>Ravot</orig><seg>Ravô</seg></choice>,</l>
+          <l>E diziam no Pascoal:</l>
+          <l>— O fogo não respeitou</l>
+          <l>Aquele belo pombal.</l>
+        </lg>
+        <lg>
+          <l>As suíças do Viana,</l>
+          <l>Cheias de mágoa e de dor,</l>
+          <l>Pingavam pranto e suor</l>
+          <l>Ou antes — caldo de cana.</l>
+        </lg>
+        <lg>
+          <l>Disse um tipo, na perua,</l>
+          <l>Passando pela calçada:</l>
+          <l>— Que aconteceu n’esta rua?</l>
+          <l>Que cheiro de pomba assada!</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>CONTO DO VIGÁRIO</head>
+        <lg>
+          <l>Disse o vigário à Maria:</l>
+          <l>“Aos rapazes petulantes</l>
+          <l>“Não ouça! e séria se ponha,</l>
+          <l>“Maria, seja mais fria!</l>
+          <l>“Maria, não tenha amantes!</l>
+          <l>“Maria, tome vergonha!</l>
+        </lg>
+        <lg>
+          <l>“Se precisa de um amigo</l>
+          <l>“Que a escute, aconselhe, escude,</l>
+          <l>“Proteja, anime e socorra,</l>
+          <l>“Maria... conte comigo!</l>
+          <l>“Sou padre, tenho virtude...</l>
+          <l>“Sou velho e tenho pachorra...”</l>
+        </lg>
+        <lg>
+          <l>Muito séria e recolhida,</l>
+          <l>Ouve-o ela, ponto por ponto,</l>
+          <l>E logo diz: “que fadário!</l>
+          <l>“Ou estou muito iludida,</l>
+          <l>“Ou, seu vigário, o seu conto</l>
+          <l>“É um conto do vigário!”</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>INDIGESTÃO</head>
+        <lg>
+          <l>Linda como a madrugada,</l>
+          <l>Cheirosa como um rosal,</l>
+          <l>Rita, faceira e enfeitada,</l>
+          <l>Foi à missa do Natal.</l>
+        </lg>
+        <lg>
+          <l>Depois da missa, passeio,</l>
+          <l>Com o Juca, ferrador...</l>
+          <l>Ceiam leitão com recheio,</l>
+          <l>Beijam-se, faliam de amor.</l>
+        </lg>
+        <lg>
+          <l>Que noite quente e bonita!</l>
+          <l>Que regalo para os dois!</l>
+          <l>Mas que mudança na Rita,</l>
+          <l>Logo dous meses depois!</l>
+        </lg>
+        <lg>
+          <l>Desejos extravagantes...</l>
+          <l>Ora a rir, ora a chorar...</l>
+          <l>Não trabalha como d’antes...</l>
+          <l>Põe-se a engordar... a engordar.</l>
+        </lg>
+        <lg>
+          <l>Diz a mãe: “Tu, com certeza,</l>
+          <l>Tiveste uma indigestão...</l>
+          <l>Tu abusaste da mesa:</l>
+          <l>Comeste muito leitão...”</l>
+        </lg>
+        <lg>
+          <l>Rita cora, ao ouvir isto:</l>
+          <l>Pois bem sabe que, afinal,</l>
+          <l>Depois do Natal de Cristo,</l>
+          <l>Vai haver outro Natal...</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>NA CHUVA</head>
+        <lg>
+          <l>Cai aqui, cai acolá,</l>
+          <l>Um pobre chuva, coitado,</l>
+          <l>Num frade de pedra — bá!</l>
+          <l>Quase fica espedaçado.</l>
+        </lg>
+        <lg>
+          <l>Sobe-lhe o sangue a cabeça,</l>
+          <l>Saca o estoque, incontinente,</l>
+          <l>E contra o frade começa</l>
+          <l>A brandi-lo, impenitente.</l>
+        </lg>
+        <lg>
+          <l>Oh! que tremenda batalha!</l>
+          <l>— “Como este ladrão é duro!</l>
+          <l>Deve ter cota de malha...</l>
+          <l>É por isso que o não furo...</l>
+        </lg>
+        <lg>
+          <l>E investe, e bate, e se arrisca</l>
+          <l>Com tamanha valentia,</l>
+          <l>Que até salta uma faísca</l>
+          <l>Da pedra que ele agredia.</l>
+        </lg>
+        <lg>
+          <l>Então, sem perder a linha,</l>
+          <l>Calma-se o bêbedo, e, logo,</l>
+          <l>Mete o estoque na bainha:</l>
+          <l>— “O cão traz arma de fogo.”</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>À TOUT SEIGNEUR</head>
+        <lg>
+          <l>’Stava reunido o conselho,</l>
+          <l>Eu não sei bem por que foi</l>
+          <l>Mas saiu um rolo velho...</l>
+          <l>Talvez a questão do boi.</l>
+        </lg>
+        <lg>
+          <l>Foi o diabo — ditérios,</l>
+          <l>Pilhérias, descomposturas;</l>
+          <l>Saíram à luz mistérios,</l>
+          <l>Clarearam cousas escuras.</l>
+        </lg>
+        <lg>
+          <l>E a tal crescendo atingiu,</l>
+          <l>Que ouviu aquele salão</l>
+          <l>Cousa que nunca se ouviu.</l>
+          <l>Antes dessa ocasião.</l>
+        </lg>
+        <lg>
+          <l>— Pedaço de besta! — Burro!</l>
+          <l>— Põe uns óculos de couro!</l>
+          <l>— Vai para a escola, casmurro!</l>
+          <l>— Vai tu para o matadouro!</l>
+        </lg>
+        <lg>
+          <l>E a luta seguia infrene...</l>
+          <l>Mas alguém, cheio de si,</l>
+          <l>Perguntou com ar solene:</l>
+          <l>— “Então eu não estou aqui?”</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>DOR DE VIÚVA</head>
+        <lg>
+          <l>Tendo o marido doente,</l>
+          <l>A Maroca dos Apitos</l>
+          <l>Com o Bom Jesus dos Aflitos</l>
+          <l>Pegou-se, chorosa e crente.</l>
+        </lg>
+        <lg>
+          <l>Foi uma novena cheia,</l>
+          <l>Que, ao terminar, deixou pena;</l>
+          <l>Tinha musica a novena</l>
+          <l>E, depois de tudo, ceia.</l>
+        </lg>
+        <lg>
+          <l>Era toda casa incenso;</l>
+          <l>A capela sempre acesa.</l>
+          <l>Nunca se viu tanta reza,</l>
+          <l>Nem amor tão forte, eu penso.</l>
+        </lg>
+        <lg>
+          <l>Mas, contudo foi pior...</l>
+          <l>O marido da Maroca,</l>
+          <l>Em meio da festa, espoca,</l>
+          <l>E lá vai para melhor.</l>
+        </lg>
+        <lg>
+          <l>E a mulher, que o pranto cede</l>
+          <l>Aos outros, dizia aos gritos:</l>
+          <l>— “Meu Bom Jesus dos Aflitos</l>
+          <l>Fazes mais do que se pede.”</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>NO VERÃO</head>
+        <lg>
+          <l>O Gregório d’Assumpção,</l>
+          <l>Disse um dia desses: — “Parto</l>
+          <l>E vou procurar um quarto</l>
+          <l>Numa casa de pensão.”</l>
+        </lg>
+        <lg>
+          <l>E foi. Bateu todo o Rio,</l>
+          <l>Esteve no Riachuelo,</l>
+          <l>No beco do Cotovelo,</l>
+          <l>Na rua do Lavradio,</l>
+        </lg>
+        <lg>
+          <l>Porém na rua do Cano</l>
+          <l>Encontrou uma casinha,</l>
+          <l>Mas só perto da cozinha</l>
+          <l>É que achou quarto, o magano.</l>
+        </lg>
+        <lg>
+          <l>Foi um grande falatório,</l>
+          <l>Por nada o quis alugar.</l>
+          <l>— “Mas é bom, tem muito ar</l>
+          <l>Este quarto, seu Gregório.”</l>
+        </lg>
+        <lg>
+          <l>— “Não só não é pitoresco,</l>
+          <l>Como é pequeno e é imundo;</l>
+          <l>Eu cá não desprezo um fundo,</l>
+          <l>Mas aqui não entra fresco.”</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>O VÍSPORA</head>
+        <lg>
+          <l>A mesa era grande, tanto</l>
+          <l>Que por melhor que eu a pinte,</l>
+          <l>Não creem que em cada cauto</l>
+          <l>Cabiam perto de vinte.</l>
+        </lg>
+        <lg>
+          <l>Jogam pares; cada moço</l>
+          <l>Tem ao lado uma menina,</l>
+          <l>E jogam num alvoroço,</l>
+          <l>Que ninguém com o jogo atina.</l>
+        </lg>
+        <lg>
+          <l st:symbols="ok">— <choice><orig>“32!”</orig><seg>“Trinta e dois”</seg></choice> — “Silêncio!...” — “Diga!</l>
+          <l>Que pedra saiu agora?”</l>
+          <l>— “Cala a boca, rapariga!”</l>
+          <l>— “Nunca joguei tão caipora!”</l>
+        </lg>
+        <lg>
+          <l>— Vispora! — exclama um sujeito;</l>
+          <l>Mas, passada a exclamação,</l>
+          <l>Encosta na mesa o peito,</l>
+          <l>Dorme em cima do cartão.</l>
+        </lg>
+        <lg>
+          <l>Um velho em frente, um velhote,</l>
+          <l>Barbado, um velho sisudo,</l>
+          <l>(É preciso que se note),</l>
+          <l>O velho percebeu tudo.</l>
+        </lg>
+        <lg>
+          <l>O sujeito o cobre mama</l>
+          <l>E em breve, ó tu que me lês,</l>
+          <l>— “Vispora!” outra vez exclama,</l>
+          <l>E o velho diz: — “Outra vez?!...”</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>VELHO CONTO</head>
+        <lg>
+          <l>Rita, mocinha faceira,</l>
+          <l>Passeia com o namorado;</l>
+          <l>E, descendo uma ladeira,</l>
+          <l>Dá um tombo desastrado.</l>
+        </lg>
+        <lg>
+          <l>Que tombo! quase desmaia...</l>
+          <l>E o noivo, que o tombo aterra,</l>
+          <l>Vê cousas, por sob a saia,</l>
+          <l>Mais do Céu do que da Terra.</l>
+        </lg>
+        <lg>
+          <l>Nem acode a levantá-la:</l>
+          <l>Contempla, mira, remira,</l>
+          <l>Fica tonto, perde a falia,</l>
+          <l>Bate palmas e suspira.</l>
+        </lg>
+        <lg>
+          <l>Levanta-se ela sozinha...</l>
+          <l>Vendo do moço a surpresa,</l>
+          <l>Murmura, rindo, a Ritinha:</l>
+          <l>“Viu a minha ligeireza?”</l>
+        </lg>
+        <lg>
+          <l>E ele logo: “Sim, senhora!</l>
+          <l>Vi... mas sem que suspeitasse</l>
+          <l>Que aquilo que vi de fora</l>
+          <l>Também assim se chamasse...”</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>A VOZ DO SANGUE</head>
+        <lg>
+          <l>Matou Courado a paixão</l>
+          <l>Que o trazia sucumbido,</l>
+          <l>Entregando o coração</l>
+          <l>À Alexandrina Balão,</l>
+          <l>Que o recebeu por marido.</l>
+        </lg>
+        <lg>
+          <l>Depois de um bom par de meses</l>
+          <l>De pensar e mais pensar</l>
+          <l>E discutir muitas vezes,</l>
+          <l>Os referidos fregueses</l>
+          <l>Abalaram do lugar.</l>
+        </lg>
+        <lg>
+          <l>Não os viu Deus com bom olho,</l>
+          <l>Pois se um filho rechonchudo</l>
+          <l>Deu-lhes, era o tal pimpolho,</l>
+          <l>Além de tudo, caolho,</l>
+          <l>E mudo, acima de tudo.</l>
+        </lg>
+        <lg>
+          <l>Conrado, que o filho adora,</l>
+          <l>Nana-o, beija-o, mexe, vira,</l>
+          <l>Debalde suspira e chora,</l>
+          <l>— Palavra não sai p’ra fora,</l>
+          <l>Palavra alguma lhe tira.</l>
+        </lg>
+        <lg>
+          <l>Volta ao lugar do casório,</l>
+          <l>E, logo, das nuvens cai;</l>
+          <l>Pois, ao ver no consistório</l>
+          <l>Da igreja o padre Libório,</l>
+          <l>Diz a criança: — “Papai!”</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>MISSA DO GALO</head>
+        <lg>
+          <l>Saiu de casa pimpão</l>
+          <l>Seu Anacleto Possolo,</l>
+          <l>Com uma garrafa na mão;</l>
+          <l>E levava a tiracolo</l>
+          <l>O famoso violão.</l>
+        </lg>
+        <lg>
+          <l>Saiu no belo descante,</l>
+          <l>E deveras que era belo.</l>
+          <l>Ia alegre, ia chibante</l>
+          <l>Ouvir missa no Castelo,</l>
+          <l>Que lá estava a sua amante.</l>
+        </lg>
+        <lg>
+          <l>Entrou na venda da esquina,</l>
+          <l>Temperou a voz no gole,</l>
+          <l>Gingou a canela fina,</l>
+          <l>E já vai de passo mole,</l>
+          <l>Já não canta: desafina.</l>
+        </lg>
+        <lg>
+          <l>E tais cousas berra tolo,</l>
+          <l>Que lhe aparece uma troça;</l>
+          <l>Num ápice arma-se um rolo,</l>
+          <l>Ferve o pau, a cousa engrossa,</l>
+          <l>Vão presos todos num bolo.</l>
+        </lg>
+        <lg>
+          <l>Só hoje acabou a festa.</l>
+          <l>Anacleto está de molho;</l>
+          <l>Livre um só braço lhe resta,</l>
+          <l>Trouxe de menos um olho,</l>
+          <l>E um galo de mais... na testa.</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>ATENUANTE</head>
+        <lg>
+          <l>O Loduvino peludo,</l>
+          <l>Gatuno mui conhecido,</l>
+          <l>Era um cabra cabeçudo,</l>
+          <l>Disposto a tudo: atrevido,</l>
+          <l>Metia a cabeça em tudo.</l>
+        </lg>
+        <lg>
+          <l>E não era sem razão</l>
+          <l>Que da cabeça do tal</l>
+          <l>Falava a população;</l>
+          <l>Cabeça descomunal,</l>
+          <l>Respeitada e com razão.</l>
+        </lg>
+        <lg>
+          <l>Pois sabendo o ratoneiro</l>
+          <l>Que na casa da vizinha,</l>
+          <l>Que tinha muito dinheiro,</l>
+          <l>Quase junto do terreiro</l>
+          <l>O muro um buraco tinha,</l>
+        </lg>
+        <lg>
+          <l>De noite a cabeça empurra,</l>
+          <l>Sua, mas não dá cavaco.</l>
+          <l>Seu pensamento é a burra;</l>
+          <l>Levasse embora uma surra,</l>
+          <l>Não saía do buraco.</l>
+        </lg>
+        <lg>
+          <l>E foi pilhado em flagrante,</l>
+          <l>Correu lépida a notícia;</l>
+          <l>Apitou-se num instante,</l>
+          <l>E lá se foi o tratante</l>
+          <l>Pelo cós, para a polícia.</l>
+        </lg>
+        <lg>
+          <l>Sua defesa começa,</l>
+          <l>E, para atenuar a falta,</l>
+          <l>Para se livrar da peça,</l>
+          <l>— Dizia o grande peralta.</l>
+          <l>Que só metera a cabeça.</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>ÔNUS DO OFÍCIO</head>
+        <lg>
+          <l>Quando Chico sapateiro</l>
+          <l>Pôs na rua o lesto pé,</l>
+          <l>Entrou lépido e ligeiro</l>
+          <l>Na sua tenda o José.</l>
+        </lg>
+        <lg>
+          <l>“Que quer?” — a mulher do Chico</l>
+          <l>C’um sorriso perguntou,</l>
+          <l>— Porque o José, homem rico,</l>
+          <l>Bem soube onde foi que entrou...</l>
+        </lg>
+        <lg>
+          <l>“Botinas, minha senhora!”</l>
+          <l>Ela mexe, ela remexe,</l>
+          <l>Anda de dentro p’ra fora,</l>
+          <l>Cheia de quero e me deixe.</l>
+        </lg>
+        <lg>
+          <l>Ele pega-lhe no braço,</l>
+          <l>Ela disfarça e sorri...</l>
+          <l>— “A i! não posso dar um passo...</l>
+          <l>Tire-me esta bota aqui.”</l>
+        </lg>
+        <lg>
+          <l>E quando ela se aproxima,</l>
+          <l>Ele, entregando-lhe o pé,</l>
+          <l>Dá-lhe um beijo. Logo em cima</l>
+          <l>Entra o Chico: — “Seu José!”</l>
+        </lg>
+        <lg>
+          <l>— “Que isso? grande atrevido!”</l>
+          <l>Responde o José. — “Não notas</l>
+          <l>Que eu estou aqui metido</l>
+          <l>Arranjando um par de botas?”</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>A PROTETORA</head>
+        <lg>
+          <l>Diz Anna Felicidade:</l>
+          <l>“Como vejo nos jornais,</l>
+          <l>Fundou-se uma Sociedade</l>
+          <l>Protetora de Animais.”</l>
+        </lg>
+        <lg>
+          <l>Isso diz e olha o marido...</l>
+          <l>E ele diz: — “Que bela sorte!</l>
+          <l>Há tanto animal perdido,</l>
+          <l>Condenado à fome e à morte.</l>
+        </lg>
+        <lg>
+          <l>E ela, rindo às gargalhadas:</l>
+          <l>“Pensa você, infeliz,</l>
+          <l>Que acabarão as touradas?</l>
+          <l>Você não sabe o que diz!</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>CORNÉLIO</head>
+        <lg>
+          <l>Era casado um gabola</l>
+          <l>Com um pancadão de mulher,</l>
+          <l>Que lhe punha tonta a bola</l>
+          <l>Por isso que eu vou dizer:</l>
+        </lg>
+        <lg>
+          <l>Cornélio (era este o seu nome)</l>
+          <l>Em triste jejum vivia</l>
+          <l>Porque embora tendo fome,</l>
+          <l>Nem um bocado comia.</l>
+        </lg>
+        <lg>
+          <l>Todo o mundo assegurava</l>
+          <l>Sua pesada abstinência,</l>
+          <l>E Cornélio tolerava</l>
+          <l>Tudo com santa paciência.</l>
+        </lg>
+        <lg>
+          <l>E a mulher sempre mais bela,</l>
+          <l>Cornélio com mais jejum,</l>
+          <l>Quando vem, sem mais aquela,</l>
+          <l>Um filhinho, apenas um.</l>
+        </lg>
+        <lg>
+          <l>Cornélio a todos se gaba,</l>
+          <l>Cornélio é todo pimpão.</l>
+          <l>(Quase que esta história acaba</l>
+          <l>Como a da gralha e o pavão).</l>
+        </lg>
+        <lg>
+          <l>Dizia Cornélio: — “Vamos,</l>
+          <l>Que têm agora a dizer?”</l>
+          <l>E eles: — “Nós não duvidamos</l>
+          <l>Nunca da tua mulher.”</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>QUANTOS?</head>
+        <lg>
+          <l>“Nós temos como vizinhos</l>
+          <l>(Dizia Antônio a Manuel)</l>
+          <l>Um bando de coitadinhos</l>
+          <l>Que não têm mulher fiel...”</l>
+        </lg>
+        <lg>
+          <l>“Muito me contas, com padre!</l>
+          <l>Mas, sem contigo contar,</l>
+          <l>Porque respeito a comadre,</l>
+          <l>Quantos podes acusar?</l>
+        </lg>
+        <lg>
+          <l>Brada o Manuel revoltado:</l>
+          <l>“Sem contar comigo?! que?</l>
+          <l>Antônio! tome cuidado!</l>
+          <l>Não me provoque você!”</l>
+        </lg>
+        <lg>
+          <l>“Perdão! (diz o outro). O que digo</l>
+          <l>Já não te pode ofender:</l>
+          <l>Mesmo contando contigo</l>
+          <l>Quantos cucos pode haver?...”</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>CONTO</head>
+        <lg>
+          <l>Casa-se Aninha. Acabada</l>
+          <l>A festa, finda a função,</l>
+          <l>Fica ela triste e assustada,</l>
+          <l>Com um frio no coração.</l>
+        </lg>
+        <lg>
+          <l>Diz a madrinha: — “Entra, filha</l>
+          <l>Para o quarto... Pois então!?...”</l>
+          <l>Mas ela (que maravilha!)</l>
+          <l>Bate o pé, e diz que não.</l>
+        </lg>
+        <lg>
+          <l>Vão chamar o pai de Aninha...</l>
+          <l>Chega o pai, que é bonachão:</l>
+          <l>“Vamos! entra, minha filha!</l>
+          <l>Cumpre a tua obrigação!”</l>
+        </lg>
+        <lg>
+          <l>E ela: — “Papai se estivesse</l>
+          <l>Na minha situação...”</l>
+          <l>E o velho, que empalidece:</l>
+          <l>“Ah! eu não entrava, não!”</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>CONSCIÊNCIA</head>
+        <lg>
+          <l>O nosso amigo Mateus</l>
+          <l>Um dia se decidiu,</l>
+          <l>A roupa de ver a Deus</l>
+          <l>Escovou, pô-la e saiu.</l>
+        </lg>
+        <lg>
+          <l>Era demais! Quem atura</l>
+          <l>Tal desmoralização?</l>
+          <l>Não era tão caradura,</l>
+          <l>(E o homem tinha razão).</l>
+        </lg>
+        <lg>
+          <l>“Aqui estou, senhor juiz,</l>
+          <l>Eu sou casado com um raio.</l>
+          <l>Eu pago o mal que não fiz.</l>
+          <l>Casado d’aqui não saio.”</l>
+        </lg>
+        <lg>
+          <l>O juiz Mateus encara,</l>
+          <l>E o acha um homem de truz,</l>
+          <l>Não se lhe via na cara</l>
+          <l>Que carregava uma cruz.</l>
+        </lg>
+        <lg>
+          <l>“Porém que provas alega</l>
+          <l>Para o divórcio? A razão?...”</l>
+          <l>O Mateus as mãos esfrega</l>
+          <l>E diz, com a cara no chão:</l>
+        </lg>
+        <lg>
+          <l>“Quer melhor? Essa senhora,</l>
+          <l>Por quem agora me humilho,</l>
+          <l>Seu juiz, bota pr’a fora</l>
+          <l>Todos os anos um filho.”</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>REGA</head>
+        <lg>
+          <l>A mulher do Zé Vicente,</l>
+          <l>Formoso ninho de encantos,</l>
+          <l>Muito dengosa e indolente,</l>
+          <l>Andava constantemente</l>
+          <l>A espreguiçar-se nos cantos.</l>
+        </lg>
+        <lg>
+          <l>“Vai trabalhar, mandriona!”</l>
+          <l>Bradava o marido mau,</l>
+          <l>Saltando nela, a tapona,</l>
+          <l>Fazendo-a ver uma fona,</l>
+          <l>Com grandes sovas de pau.</l>
+        </lg>
+        <lg>
+          <l>Com tanto e tanto levar,</l>
+          <l>Ela a emendar-se se exorta,</l>
+          <l>Resolvida a trabalhar,</l>
+          <l>Numa noite de luar,</l>
+          <l>Lá foi com o Mateus à horta...</l>
+        </lg>
+        <lg>
+          <l>Já tinham cantado os galos,</l>
+          <l>— Como ela tomara emenda! —</l>
+          <l>Quando o Zé foi encontrá-los:</l>
+          <l>— A moça a regar-lhe os talos,</l>
+          <l>O outro a regar-lhe a fazenda!</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>FIASCO</head>
+        <lg>
+          <l>Mestre Isidoro Pacheco,</l>
+          <l>(De alfaiate e não de escola)</l>
+          <l>Era um sujeito alto, seco,</l>
+          <l>Pelintra e muito gabola</l>
+        </lg>
+        <lg>
+          <l>Vivia com uma viúva</l>
+          <l>E pr’a agradá-la trazia</l>
+          <l>A roupa como uma luva,</l>
+          <l>E a cabeça luzidia.</l>
+        </lg>
+        <lg>
+          <l>Pacholava o Isidoro,</l>
+          <l>Levava uma hora no espelho,</l>
+          <l>(Queria arranjar namoro</l>
+          <l>O sem vergonha do velho).</l>
+        </lg>
+        <lg>
+          <l>E gabava-se o tal pulha</l>
+          <l>De ser um lince perfeito,</l>
+          <l>Que só enfiava agulha,</l>
+          <l>Dizia, de fundo estreito.</l>
+        </lg>
+        <lg>
+          <l>A viúva para oprimi-lo,</l>
+          <l>Um dia, diante de gente,</l>
+          <l>Apanhando-o mui tranquilo,</l>
+          <l>Disse-lhe tranquilamente:</l>
+        </lg>
+        <lg>
+          <l>“Pacheco toma esta linha,</l>
+          <l>Que hoje também vou coser,</l>
+          <l>E n’esta agulha fininha</l>
+          <l>Enfia-a, que eu quero ver.”</l>
+        </lg>
+        <lg>
+          <l>Pacheco põe mãos à obra,</l>
+          <l>Pacheco não dá cavaco,</l>
+          <l>Mas ou muito a linha dobra</l>
+          <l>Ou ele não vê buraco.</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>A CARÉSTIA</head>
+        <lg>
+          <l>Ontem dizia o Joaquim</l>
+          <l>(E com que dor o dizia!):</l>
+          <l>“Eu nunca vi cousa assim!</l>
+          <l>Que tremenda carestia!...</l>
+          <l>Vejam-me só este pão:</l>
+          <l>Não chega nem pr’a uma mosca!</l>
+          <l>Não há remédio senão</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>CASTIGO</head>
+        <lg>
+          <l>“Não sabes? dizia a Anita,</l>
+          <l>A nossa boa Chiquita</l>
+          <l>Vai se casar em abril,</l>
+          <l>Mas que pena! ela tão linda,</l>
+          <l>Comete uma asneira infinda,</l>
+          <l>Foi sempre muito infantil...”</l>
+        </lg>
+        <lg>
+          <l>“Com quem casa?” “Ora eu te digo,</l>
+          <l>Com o Gregório, aquele amigo</l>
+          <l>Do Bonifácio Ferrão.</l>
+          <l>Que antipático sujeito,</l>
+          <l>Mal encarado sem jeito,</l>
+          <l>Um verdadeiro tipão!”</l>
+        </lg>
+        <lg>
+          <l>“Realmente, que destino,</l>
+          <l>Com franqueza não atino,</l>
+          <l>Este mundo tem enganos!</l>
+          <l>Mas casa mesmo? Não creio,</l>
+          <l>Que o Gregório, além de feio,</l>
+          <l>É um sujeito entrado em anos.”</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>CONTO</head>
+        <lg>
+          <l>Depois da festa acabada,</l>
+          <l>Depois da noiva em menores,</l>
+          <l>Entrou para a alcova o Flores,</l>
+          <l>Mais mole do que uma empada.</l>
+        </lg>
+        <lg>
+          <l>No chambre traz uma caixa</l>
+          <l>Pesadinha de <choice><orig>bijoux</orig><seg>biju</seg></choice>:</l>
+          <l>E, tomando o braço nu</l>
+          <l>Da noiva, diz-lhe em voz baixa:</l>
+        </lg>
+        <lg>
+          <l>“Para aqui esta pulseira!</l>
+          <l>Para o teu dedo, isto aqui...</l>
+          <l>— Que belo anel!” E Lili</l>
+          <l>Espera a joia terceira,</l>
+        </lg>
+        <lg>
+          <l>Que não demora em verdade.</l>
+          <l>Pescoço, braços, orelha,</l>
+          <l>Dedos, tudo nela espelha...</l>
+          <l>Porém à morosidade</l>
+        </lg>
+        <lg>
+          <l>Do Flores, que fica a olhar,</l>
+          <l>Diz ela, em tom compungido</l>
+          <l>“Eu quero ver, meu marido,</l>
+          <l>Cada cousa em seu lugar!”</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>A PRONTIDÃO</head>
+        <lg>
+          <l>Dona Quitéria, escutando,</l>
+          <l>Presa de estranha emoção,</l>
+          <l>Que as tropas, aquartelando,</l>
+          <l>Estavam de prontidão,</l>
+          <l>Disse ao pacato marido:</l>
+          <l>“Segue o exemplo, fracalhão!</l>
+          <l>“Só tu, Pafúncio querido,</l>
+          <l>“Não ficas de prontidão!”</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>O CASAMENTO</head>
+        <lg>
+          <l>Vai casar um velho torto</l>
+          <l>Com uma menina faceira,</l>
+          <l>“Por que é que faz essa asneira,</l>
+          <l>Quando já está quase morto?”</l>
+        </lg>
+        <lg>
+          <l>“Porque quero ter um filho!</l>
+          <l>Quero ser pai!” Malicioso,</l>
+          <l>Acode o Thomaz Pampilho</l>
+          <l>Com um sorriso venenoso:</l>
+        </lg>
+        <lg>
+          <l>Não pense n’esse tropeço</l>
+          <l>Sossegue! fique tranquilo!</l>
+          <l>A sua noiva conheço:</l>
+          <l>Não é capaz de traí-lo!</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>VELHO CONTO</head>
+        <lg>
+          <l>Encontraram-se em viagem</l>
+          <l>Rapaz novo e velho gasto,</l>
+          <l>Ambos na mesma estalagem</l>
+          <l>Dormiram, feito o repasto.</l>
+        </lg>
+        <lg>
+          <l>Dormiram na mesma cama.</l>
+          <l>O velho na cama quente</l>
+          <l>Sonha, e nos sonhos exclama:</l>
+          <l>— “Jesus! <choice><orig>S.</orig><seg>São</seg></choice> Bento! serpente</l>
+        </lg>
+        <lg>
+          <l>Mas não me foges, socorro!</l>
+          <l>Estás aqui na minha mão,</l>
+          <l>Ou tu morres ou eu morro;</l>
+          <l>Porém não me foges, não!”</l>
+        </lg>
+        <lg>
+          <l>O rapaz solta um tal berro</l>
+          <l>Que o velho acorda. — “Que é, moço?</l>
+          <l>— “Então eu cá sou de ferro?”</l>
+          <l>— “Mas é duro como um osso!”</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>O CONTRÁRIO</head>
+        <lg>
+          <l>Namora Pafúncio Amaro</l>
+          <l>A Rita da Conceição;</l>
+          <l>E passa as noites em claro</l>
+          <l>Na rua, a tocar violão...</l>
+          <l>Mas sai-lhe o namoro caro!</l>
+        </lg>
+        <lg>
+          <l>Porque, um dia, o desgraçado</l>
+          <l>Tocava, — quando choveu:</l>
+          <l>Ficou Pafúncio molhado,</l>
+          <l>Espirrou, quase morreu,</l>
+          <l>Constipado e resfriado...</l>
+        </lg>
+        <lg>
+          <l>Diz ele a bela: “Ó tormento</l>
+          <l>“D’esta vida! vê que horror:</l>
+          <l>“Causa do meu sofrimento!</l>
+          <l>“Por causa do teu amor,</l>
+          <l>“Tomei um resfriamento...”</l>
+        </lg>
+        <lg>
+          <l>E ela: “Que triste fadário!</l>
+          <l>“Nunca vi bobo maior!</l>
+          <l>“Deixa esse caso ordinário!</l>
+          <l>“Olha: seria pior</l>
+          <l>“Que apanhasses o... contrário!</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>O MISTÉRIO</head>
+        <lg>
+          <l>O Joaquim é alto e grosso;</l>
+          <l>E casou com a Joaquina,</l>
+          <l>Que é mais magra do que um osso,</l>
+          <l>Magra, baixa, pequenina.</l>
+        </lg>
+        <lg>
+          <l>Casaram. E toda a gente,</l>
+          <l>Depois de aturado estudo,</l>
+          <l>Confessa que o continente</l>
+          <l>É menor que o conteúdo.</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>VELHO CONTO</head>
+        <lg>
+          <l>Não cria no hipnotismo</l>
+          <l>O Nicolau de Assumpção,</l>
+          <l>E dizia com cinismo</l>
+          <l>Que quem crê não tem razão.</l>
+        </lg>
+        <lg>
+          <l>Mas um dia um seu amigo</l>
+          <l>A certa casa o levou,</l>
+          <l>Onde, para seu castigo,</l>
+          <l>Uma sessão encontrou.</l>
+        </lg>
+        <lg>
+          <l>Que sonâmbula supimpa!</l>
+          <l>Diz cousas do arco da velha,</l>
+          <l>Faz cousa bonita e limpa,</l>
+          <l>Parece até que tem telha.</l>
+        </lg>
+        <lg>
+          <l>O Nicolau se adianta,</l>
+          <l>E, com a descrença em que vai,</l>
+          <l>Tosse, ri-se, a voz levanta</l>
+          <l>E diz: — “Onde está meu pai?”</l>
+        </lg>
+        <lg>
+          <l>A sonâmbula procura...</l>
+          <l>Procura... procura... e diz:</l>
+          <l>— “Seu pai ’stá na Cascadura</l>
+          <l>No botequim do Luiz.”</l>
+        </lg>
+        <lg>
+          <l>Nicolau grita: “— Eu não disse?”</l>
+          <l>Ora, não lhes digo eu</l>
+          <l>Que o hipnotismo é uma tolice!</l>
+          <l>Meu pai, sabem? já morreu...”</l>
+        </lg>
+        <lg>
+          <l>Presta a sonâmbula ouvido</l>
+          <l>E volve: “Ninguém o estranhe:</l>
+          <l>Quem morreu foi o marido</l>
+          <l>Da senhora sua mãe.”</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>TEMPERATURA</head>
+        <lg>
+          <l>Mais macambuzio que aflito,</l>
+          <l>Mais intrigado que triste,</l>
+          <l>Sai de casa o Benedito,</l>
+          <l>Anda, volta e não resiste,</l>
+        </lg>
+        <lg>
+          <l>Entra feito, como um fuso,</l>
+          <l>Num consultório: — “Doutor,</l>
+          <l>Desculpe-me... estou confuso</l>
+          <l>Mas faça sempre o favor,</l>
+        </lg>
+        <lg>
+          <l>Explique-me esse mistério:</l>
+          <l>Eu sou casado há trinta anos</l>
+          <l>Sou homem, como vê, sério,</l>
+          <l>Mas tem a vida uns enganos...</l>
+        </lg>
+        <lg>
+          <l>Minha mulher é supimpa,</l>
+          <l>Muito meiga, muito boa,</l>
+          <l>Muito dócil, muito limpa,</l>
+          <l>E é dessas que não tem proa.</l>
+        </lg>
+        <lg>
+          <l>Quando eu a vejo de frente</l>
+          <l>Até me parece fria,</l>
+          <l>Mas é mais que o inferno quente,</l>
+          <l>Quando de costas me espia.</l>
+        </lg>
+        <lg>
+          <l>Pela frente é uma geleira,</l>
+          <l>Até maleitas me faz,</l>
+          <l>E é como uma frigideira</l>
+          <l>Dentro do fogo, por traz.”</l>
+        </lg>
+        <lg>
+          <l>O doutor olha-o, sereno,</l>
+          <l>Mas a explicar não se anima</l>
+          <l>Como em tão curto terreno,</l>
+          <l>É tão diferente o clima.</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>GATO ESCONDIDO</head>
+        <lg>
+          <l>O Quedes é como um louco</l>
+          <l>Nos dias de carnaval,</l>
+          <l>E não se diverte pouco,</l>
+          <l>Constipa-se, fica rouco,</l>
+          <l>Sai fora do natural.</l>
+        </lg>
+        <lg>
+          <l>Primeiro ensaia-se em casa,</l>
+          <l>Inventa pilhérias, grita,</l>
+          <l>E quente, como uma brasa,</l>
+          <l>Apanha a primeira vasa</l>
+          <l>E lá vai todo catita.</l>
+        </lg>
+        <lg>
+          <l>Mas ontem voltou tristonho,</l>
+          <l>Não quis falar com ninguém,</l>
+          <l>Não comeu sequer um sonho;</l>
+          <l>Vendo-o a mulher tão bisonho,</l>
+          <l>Diz-lhe —: “Que é que você tem?</l>
+        </lg>
+        <lg>
+          <l>‘Stá macambuzio, pensando,</l>
+          <l>Não bebe vinho, não come...”</l>
+          <l>— “Pois se fui no baile entrando,</l>
+          <l>Nem falei, foram gritando</l>
+          <l>Logo todos o meu nome?!...”</l>
+        </lg>
+        <lg>
+          <l>— “Foi tua a culpa” — “Foi minha?</l>
+          <l>Foi minha culpa, então?” — “Foi”</l>
+          <l>— “Então o povo adivinha?</l>
+          <l>Explica-me isto, Joaninha...”</l>
+          <l>— “Tu te vestiste de boi...”</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>CONTO</head>
+        <lg>
+          <l>Joaquina, já moribunda,</l>
+          <l>Jaz, ameaçada de morte:</l>
+          <l>Ardendo em febre profunda,</l>
+          <l>Não há vinho que a conforte.</l>
+        </lg>
+        <lg>
+          <l>Chega o padre: “Filha minha!</l>
+          <l>Para a Graça merecer,</l>
+          <l>Vá rezando a ladainha...</l>
+          <l>Começa a se arrepender?”</l>
+        </lg>
+        <lg>
+          <l>“De que, padre?” — “Dos pecados.</l>
+          <l>Entregue à ira divina</l>
+          <l>Todos os seus namorados!”</l>
+          <l>Triste, suspira a Joaquina:</l>
+        </lg>
+        <lg>
+          <l>“Ai! padre! não fale à toa...</l>
+          <l>Não aumente a minha dor!</l>
+          <l>Há de agora uma pessoa</l>
+          <l>Amaldiçoar o amor?”</l>
+        </lg>
+        <lg>
+          <l>“Por certo! No último dia,</l>
+          <l>Lembre-se... O diabo, se a pilha...</l>
+          <l>Amor é patifaria,</l>
+          <l>Filha! arrependa-se, filha!”</l>
+        </lg>
+        <lg>
+          <l>“A i! padre! por que é malvado?!</l>
+          <l>Quero morrer no meu tom...</l>
+          <l>Venha cá! se isto é pecado,</l>
+          <l>Que importa? ao menos é bom!”</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>VELHO CONTO</head>
+        <lg>
+          <l>Casou-se com uma viúva</l>
+          <l>Um Fuão de tal Mattoso,</l>
+          <l>Que era um grandíssimo chuva,</l>
+          <l>Que era muito vicioso.</l>
+        </lg>
+        <lg>
+          <l>Na noite do casamento</l>
+          <l>Era só pr’a o garçom: “Abra!”</l>
+          <l>Bebeu mais do que um jumento,</l>
+          <l>Ou antes — do que uma cabra.</l>
+        </lg>
+        <lg>
+          <l>E quando foi para a alcova,</l>
+          <l>Não acertou com a porta,</l>
+          <l>Parecia uma pacova,</l>
+          <l>Ai! que olhos de cabra morta!...</l>
+        </lg>
+        <lg>
+          <l>E a pobre da noiva em pranto,</l>
+          <l>Vendo o marido sem tino,</l>
+          <l>De um canto para outro canto,</l>
+          <l>Como um badalo de sino,</l>
+        </lg>
+        <lg>
+          <l>Num ai! triste, que resume</l>
+          <l>Seu viver desiludido,</l>
+          <l>Diz-lhe: “Já vens com o costume</l>
+          <l>Do meu defunto marido!”</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>DEPOIS</head>
+        <lg>
+          <l>Ele dizia: “Só penso</l>
+          <l>Que inda pode, meu amor,</l>
+          <l>O nosso prazer imenso</l>
+          <l>Custar-te tamanha dor...”</l>
+        </lg>
+        <lg>
+          <l>E ela: “Não tenhas cuidado!</l>
+          <l>Se eu sofrer é porque quis:</l>
+          <l>Porém fica descansado</l>
+          <l>Que eu nos partos sou feliz!</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>RITINHA</head>
+        <lg>
+          <l>Ritinha, menina bela,</l>
+          <l>Que não faz nada por mal,</l>
+          <l>Namora pela janela,</l>
+          <l>Namora pelo quintal!</l>
+        </lg>
+        <lg>
+          <l>Prega-lhe o pai uma sova,</l>
+          <l>Que a põe de cama a chorar</l>
+          <l>E quase a conduz à cova.</l>
+          <l>E diz o velho a berrar:</l>
+        </lg>
+        <lg>
+          <l>“Arre! agora, felizmente,</l>
+          <l>Quero ver se inda és capaz</l>
+          <l>De namorar pela frente</l>
+          <l>E namorar por detrás!”</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>CAUTELA</head>
+        <lg>
+          <l>Maria do Sacramento</l>
+          <l>Ficou viúva. E inda chora,</l>
+          <l>Quando se lembra do Bento</l>
+          <l>E da ventura de outrora...</l>
+        </lg>
+        <lg>
+          <l>Mas, um belo dia, o Antônio,</l>
+          <l>Que fica pálido ao vê-la,</l>
+          <l>Vai propor-lhe matrimônio,</l>
+          <l>E diz para convencê-la:</l>
+        </lg>
+        <lg>
+          <l>“Olhe! Eu e o Bento vivemos</l>
+          <l>Sem inveja, ou briga, ou magoa</l>
+          <l>E em tudo nos parecemos</l>
+          <l>Como duas gotas d’água!”</l>
+        </lg>
+        <lg>
+          <l>A viúva escuta e hesita...</l>
+          <l>Mas, cautelosa, ao seu lado,</l>
+          <l>Murmura a comadre Rita:</l>
+          <l>“Comadre, tome cuidado...”</l>
+        </lg>
+        <lg>
+          <l>“Quem sabe se o Antônio mente?</l>
+          <l>Conheço tanto velhaco!...</l>
+          <l>Quer casar? Experimente...</l>
+          <l>Não compre nabos em saco!”</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>PRETENDENTE</head>
+        <lg>
+          <l>O Rego saiu voando,</l>
+          <l>À procura de um emprego,</l>
+          <l>E entrou como um fuso o Rego</l>
+          <l>Em casa de um venerando</l>
+        </lg>
+        <lg>
+          <l>Chefe político que era,</l>
+          <l>Entre os grandes funcionários,</l>
+          <l>Um dos mais extraordinários,</l>
+          <l>Um trunfo, um dégas, um cuéra,</l>
+        </lg>
+        <lg>
+          <l>E já puxa a campainha,</l>
+          <l>E já lá vem o porteiro,</l>
+          <l>Que, vendo o Rego lampreiro,</l>
+          <l>Cousa nenhuma adivinha,</l>
+        </lg>
+        <lg>
+          <l>(O que ali levava o Rego</l>
+          <l>Era pedir proteção,</l>
+          <l>Pedir recomendação</l>
+          <l>Para obter qualquer emprego).</l>
+        </lg>
+        <lg>
+          <l>— “O conselheiro?” — “Senhor,</l>
+          <l>Há três minutos, apenas,</l>
+          <l>Acabaram-se-lhe as penas:</l>
+          <l>Rendeu a alma ao Criador.”</l>
+        </lg>
+        <lg>
+          <l>— “Que perda horrível! (murmura</l>
+          <l>O Rego, com a mão no peito)</l>
+          <l>Nunca houve homem tão perfeito...</l>
+          <l>Morre uma grande figura.”</l>
+        </lg>
+        <lg>
+          <l>Mas pisando o patamar,</l>
+          <l>Dizia com convicção:</l>
+          <l>— “Vim pedir-lhe proteção...</l>
+          <l>E ele me deixa o lugar.”</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>CONSCIÊNCIA</head>
+        <lg>
+          <l>Como estivesse já à porta</l>
+          <l>Da casa dos cinquenta anos,</l>
+          <l>Já menos viva que morta,</l>
+          <l>Já cheia de desenganos,</l>
+          <l>Já feia, já murcha e torta,</l>
+        </lg>
+        <lg>
+          <l>Foi Clara ao confessionário,</l>
+          <l>E todas as culpas suas</l>
+          <l>Contou ao santo vigário,</l>
+          <l>Que ouviu tantas cousas cruas,</l>
+          <l>Que as apontou no diário.</l>
+        </lg>
+        <lg>
+          <l>Deu-lhe penitencia e disse:</l>
+          <l>— “Ouvi os pecados seus</l>
+          <l>(Que foi como os nunca ouvisse),</l>
+          <l>Seus dias dedique a Deus,</l>
+          <l>Deixe de fazer tolice.”</l>
+        </lg>
+        <lg>
+          <l>Diz a beata: — “Muito bem.</l>
+          <l>Adeus minhas alegrias!</l>
+          <l>Não quero ver mais ninguém,</l>
+          <l>A Deus darei os meus dias,</l>
+          <l>E as noites, meu padre... a quem?</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>QUOD CESARI...</head>
+        <lg>
+          <l>Fora Cândido homem duro,</l>
+          <l>Feroz sebastianista,</l>
+          <l>Porém já estava maduro,</l>
+          <l>Já tinha abaixado a crista.</l>
+        </lg>
+        <lg>
+          <l>No tempo da mocidade</l>
+          <l>Fora um pelintra de truz,</l>
+          <l>Mas hoje, que iniquidade!</l>
+          <l>Anda seboso... Jesus...!</l>
+        </lg>
+        <lg>
+          <l>Sabe às vezes sem gravata,</l>
+          <l>Outras vezes sem chapéu,</l>
+          <l>Tem ares de patarata,</l>
+          <l>Parece que já morreu.</l>
+        </lg>
+        <lg>
+          <l>Mas outro dia, que graça!</l>
+          <l>Um amigo o caso viu,</l>
+          <l>E contou-me esta chalaça</l>
+          <l>Que de tal porco saiu.</l>
+        </lg>
+        <lg>
+          <l>Estava ele num salão,</l>
+          <l>Como sempre relaxado,</l>
+          <l>Cândido mole e poltrão,</l>
+          <l>Todo desabotoado.</l>
+        </lg>
+        <lg>
+          <l>— “Que é isso, seu conselheiro?</l>
+          <l>Disse-lhe alguém de repente,</l>
+          <l>Ou ponha-se no terreiro,</l>
+          <l>Ou tome modo de gente.”</l>
+        </lg>
+        <lg>
+          <l>— “Eu, diz ele, é que pergunto</l>
+          <l>Se é alguma inovadela</l>
+          <l>Nas casas que há defunto</l>
+          <l>Trazer-se aberta a janela?”</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>NA HORA DA MORTE</head>
+        <lg>
+          <l>Porfirio Chichorro Lessa,</l>
+          <l>Foi em vida, embarcadiço,</l>
+          <l>Pouca gente o conheceu;</l>
+          <l>Mas esta história começa</l>
+          <l>No dia em que ele morreu,</l>
+          <l>Ou que esteve para isso.</l>
+        </lg>
+        <lg>
+          <l>Sentindo-se moribundo,</l>
+          <l>Chamou a mulher: — “Camila”</l>
+          <l>(E preso nos braços seus)</l>
+          <l>“Eu quero, deixando o mundo,</l>
+          <l>Morrer na graça de Deus,</l>
+          <l>Com a consciência tranquila.</l>
+        </lg>
+        <lg>
+          <l>Pobres somos, porém graças</l>
+          <l>Que sempre fomos honrados.</l>
+          <l>Agora, que morro eu,</l>
+          <l>Com o que te deixo bem passas,</l>
+          <l>Aquilo que não for meu</l>
+          <l>Entrega aos donos, coitados.”</l>
+        </lg>
+        <lg>
+          <l>— “Virgem Maria, Porfirio!</l>
+          <l>Calma essa cabeça tua,</l>
+          <l>Que já miolo não tem,</l>
+          <l>Pois se eu te ouvisse o delírio,</l>
+          <l>Tu verias já, meu bem,</l>
+          <l>Meus filhos todos na rua”</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>UM DESTINO</head>
+        <lg>
+          <l>José dizia a João:</l>
+          <l>“Tu não paras um instante</l>
+          <l>“Numa deliberação!</l>
+          <l>“Queres ser negociante,</l>
+        </lg>
+        <lg>
+          <l>“Industrial, jornalista,</l>
+          <l>“Agricultor, advogado,</l>
+          <l>“Médico, pintor, artista,</l>
+          <l>“Sacerdote, magistrado!</l>
+        </lg>
+        <lg>
+          <l>“E assim, cansado, a suar,</l>
+          <l>“E tudo fazendo às pressas,</l>
+          <l>“Nunca podes acabar</l>
+          <l>“Tantas cousas que começas...</l>
+        </lg>
+        <lg>
+          <l>Diz o João: “Já sei disto!</l>
+          <l>“Já sei disto! é o diabo!</l>
+          <l>“Eu insisto, insisto, insisto,</l>
+          <l>“Insisto em vão, não acabo!</l>
+        </lg>
+        <lg>
+          <l>“Já é destino! que quer?</l>
+          <l>“Valha-me <choice><orig>S.</orig><seg>S'nhor</seg></choice> Zacarias!</l>
+          <l>“A minha própria mulher</l>
+          <l>“Diz-me isto todos os dias.</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>ELA</head>
+        <lg>
+          <l>Maria tem vinte amantes!</l>
+          <l>Uns tortos, outros direitos;</l>
+          <l>Todos eles são galantes,</l>
+          <l>Todos vivem satisfeitos...</l>
+        </lg>
+        <lg>
+          <l>Mulher de recursos fartos!</l>
+          <l>Como é que esta impenitente,</l>
+          <l>Tendo no corpo dous quartos,</l>
+          <l>Dá pousada a tanta gente?</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>IDENTIDADE</head>
+        <lg>
+          <l>Dous irmãos eu nunca vi</l>
+          <l>Que se parecessem tanto</l>
+          <l>Como o Juca Bem-te-vi,</l>
+          <l>E o Pedro Pereira Canto</l>
+        </lg>
+        <lg>
+          <l>Cousa fora do comum!</l>
+          <l>Não eram dous, eram bis,</l>
+          <l>A cara de qualquer um</l>
+          <l>Era... como o povo diz...</l>
+        </lg>
+        <lg>
+          <l>Ao vê-los juntos, o povo</l>
+          <l>Exclamava: — “não distingo:</l>
+          <l>São como um ovo e outro ovo</l>
+          <l>Ou d’água um pingo e outro pingo.”</l>
+        </lg>
+        <lg>
+          <l>Até dizem que o Pereira</l>
+          <l>Teve disso a melhor prova,</l>
+          <l>Num dia de bebedeira</l>
+          <l>Levando uma grande sova,</l>
+        </lg>
+        <lg>
+          <l>Que vinha p’ra o Bem-te-vi;</l>
+          <l>Mas, de facto, a parecença</l>
+          <l>Era tal, que eu conto aqui</l>
+          <l>Um caso de graça imensa:</l>
+        </lg>
+        <lg>
+          <l>Uma vez, num dia santo,</l>
+          <l>Por não ter o que fazer,</l>
+          <l>Voltando p’ra casa, o Canto</l>
+          <l>Dá com o Juca com a mulher.</l>
+        </lg>
+        <lg>
+          <l>— “Bem-te-vi!” Ela “Meu bem!”</l>
+          <l>Juca a linha não perdeu:</l>
+          <l>— “Que é isso, repare bem,</l>
+          <l>Diga: qual dos dous sou eu?”</l>
+        </lg>
+        <lg>
+          <l>O Canto de boca aberta</l>
+          <l>Olha-o, olha-se e depois</l>
+          <l>Vai-se... O pobre não acerta</l>
+          <l>A saber qual é dos dous.</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>OPINIÕES</head>
+        <lg>
+          <l>Um filósofo dizia</l>
+          <l>A um seu amigo querido,</l>
+          <l>Que jamais compreendia</l>
+          <l>Como um amante queria</l>
+          <l>Sempre o gozo repetido.</l>
+        </lg>
+        <lg>
+          <l>— “É um abuso! E eu sempre vejo</l>
+          <l>A mesma cousa gozada</l>
+          <l>Ter sempre maior desejo.</l>
+          <l>Pois se o beijo é o mesmo beijo,</l>
+          <l>O beijo não vale nada...</l>
+        </lg>
+        <lg>
+          <l>Onde está a novidade?</l>
+          <l>O que li ontem foi, hoje é.</l>
+          <l>Falo com sinceridade:</l>
+          <l>Não compreendo a vontade...</l>
+          <l>Você que diz, seu José?”</l>
+        </lg>
+        <lg>
+          <l>Diz o outro: — “Seu Raymundo,</l>
+          <l>Cada qual tem sua norma</l>
+          <l>De gozar por este mundo:</l>
+          <l>A mesma cousa no fundo,</l>
+          <l>É diferente na forma”.</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>A ALICE</head>
+        <lg>
+          <l>Silva Lisboa, marujo,</l>
+          <l>Preto e desertor da Armada,</l>
+          <l>Entrou em casa de um cujo,</l>
+          <l>Como se fosse criada.</l>
+        </lg>
+        <lg>
+          <l>Serviu banho às sinhazinhas,</l>
+          <l>Como uma serva qualquer;</l>
+          <l>E tinha seios, e anquinhas,</l>
+          <l>E ademanes de mulher.</l>
+        </lg>
+        <lg>
+          <l>Dengoso, imberbe e faceiro,</l>
+          <l>E belo, apesar de escuro,</l>
+          <l>Namorou muito copeiro,</l>
+          <l>Fez escalar muito muro.</l>
+        </lg>
+        <lg>
+          <l>Pintou a manta esta Alice</l>
+          <l>E, enfim, é lastima só</l>
+          <l>Que de serva não servisse</l>
+          <l>Ao nosso doutor Deiró...</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>A ELEIÇÃO</head>
+        <lg>
+          <l>José, natural das Ilhas,</l>
+          <l>Que fala cerrado e grosso,</l>
+          <l>Disse anteontem para as filhas:</l>
+          <l>“Votem-me o diavo do almoço!</l>
+        </lg>
+        <lg>
+          <l>“Beijam se andam mais depressa!</l>
+          <l>“Bamos! preciso cumer,</l>
+          <l>“Porque a eleição já cumeça;</l>
+          <l>“Quero cumprir meu deber!”</l>
+        </lg>
+        <lg>
+          <l>A amasia dele, mulata,</l>
+          <l>Acode: “Que é, seu Zezinho?</l>
+          <l>“Jesus! este home me mata...</l>
+          <l>“Porque é que sai tão cedinho?!”</l>
+        </lg>
+        <lg>
+          <l>E o Zé, palpando a barriga:</l>
+          <l>“Tenho pressa d’almuçar!</l>
+          <l>“Saiva bocê, rapariga,</l>
+          <l>“Que o seu home bai botar!”</l>
+        </lg>
+        <lg>
+          <l>E ela: “Você botar? iche!...</l>
+          <l>“Seu Zezinho, tome nota!</l>
+          <l>“Não caia n’algum espiche:</l>
+          <l>“Há tanto tempo não bota!...”</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>CONTO</head>
+        <lg>
+          <l>Zé Borrasca, embarcadiço,</l>
+          <l>Que não tem medo da morte,</l>
+          <l>Parte, e sem chorar por isso,</l>
+          <l>Chorando deixa a consorte.</l>
+        </lg>
+        <lg>
+          <l>Cruza terra e oceanos,</l>
+          <l>Correndo perigos mil,</l>
+          <l>E, ao fim de dous longos anos,</l>
+          <l>Chega de volta ao Brasil.</l>
+        </lg>
+        <lg>
+          <l>Chega pronto a dar abraços,</l>
+          <l>E beijos... Mas, espantado,</l>
+          <l>Acha, da mulher nos braços,</l>
+          <l>Um bebê gordo e corado.</l>
+        </lg>
+        <lg>
+          <l>“Senhora!” — e no olhar o brilho</l>
+          <l>Tem de um Otelo feroz...</l>
+          <l>“A quem pertence este filho,</l>
+          <l>Senhora?” — E treme-lhe a voz.</l>
+        </lg>
+        <lg>
+          <l>Chora a sogra... A mulher chora</l>
+          <l>Mas Borrasca não descansa:</l>
+          <l>“Senhora! fale, senhora!</l>
+          <l>Quem é o pai da criança?!”</l>
+        </lg>
+        <lg>
+          <l>Responde a mulher aos brados,</l>
+          <l>Mostrando o filhinho nu:</l>
+          <l>“Pois se nós somos casados,</l>
+          <l>Ó Borrasca! o pai és tu...”</l>
+        </lg>
+        <lg>
+          <l>“Eu, senhora? mente! mente!</l>
+          <l>Nem esta cousa tem jeito!</l>
+          <l>Dous anos estive ausente</l>
+          <l>Da minha pátria e do leito!...”</l>
+        </lg>
+        <lg>
+          <l>E ela: “Existem tais enganos!</l>
+          <l>Tantos enganos já vi!...</l>
+          <l>Quem sabe se lá os anos</l>
+          <l>Não são mais longos que aqui?...</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>FESTAS</head>
+        <lg>
+          <l>Gregório não é bocó,</l>
+          <l>Como pensa muita gente,</l>
+          <l>Anda galante e contente,</l>
+          <l>E trata-se a pão de ló.</l>
+        </lg>
+        <lg>
+          <l>Dá-se com muitos doutores,</l>
+          <l>E entre os seus familiares</l>
+          <l>Conta alguns comendadores,</l>
+          <l>Ministros e militares.</l>
+        </lg>
+        <lg>
+          <l>Ele os amigos não poupa,</l>
+          <l>E não perde ocasião,</l>
+          <l>E lhes garanto que não</l>
+          <l>Mete prego sem estopa.</l>
+        </lg>
+        <lg>
+          <l>Hoje bem cedo ele estava</l>
+          <l>Já de rosa na lapela</l>
+          <l>E não corria, voava,</l>
+          <l>Que canela, a i! que canela...</l>
+        </lg>
+        <lg>
+          <l>Em casa do conselheiro</l>
+          <l>Bate Gregório — “Quem é?”</l>
+          <l>— “Sou eu” e pé ante pé,</l>
+          <l>Sobe Gregório ligeiro.</l>
+        </lg>
+        <lg>
+          <l>— “Seja bem-vindo o amigo,</l>
+          <l>Que rosto formoso e ledo!</l>
+          <l>Você vem falar comigo?</l>
+          <l>Que quer de manhã tão cedo?”</l>
+        </lg>
+        <lg>
+          <l>— “É boa! quer pôr-me a panos?</l>
+          <l>Saiba sem mais falatório,</l>
+          <l>Que d’esta casa o Gregório</l>
+          <l>Veio desfrutar os anos.”</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>A SUSPEITA</head>
+        <lg>
+          <l>De que a Genoveva o trai</l>
+          <l>João Maria tem notícia;</l>
+          <l>Brama, arrepela-se, sai,</l>
+          <l>E vai queixar-se à polícia.</l>
+        </lg>
+        <lg>
+          <l>Chega, esbaforido e tonto;</l>
+          <l>E conta, desesperado,</l>
+          <l>O caso, ponto por ponto...</l>
+          <l>Pergunta-lhe o delegado:</l>
+        </lg>
+        <lg>
+          <l>“Mas não pode declarar</l>
+          <l>Quando, senhor João Maria,</l>
+          <l>Começou a suspeitar</l>
+          <l>Que sua esposa o traía?”</l>
+        </lg>
+        <lg>
+          <l>“Ah! eu sou homem de ronha!</l>
+          <l>Logo suspeitei do engano,</l>
+          <l>Quando vi que a sem-vergonha</l>
+          <l>Me dava um filho por ano...”</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>COUSAS</head>
+        <lg>
+          <l>Naquela casa do morro,</l>
+          <l>Pintadinhá de amarelo,</l>
+          <l>Vivia Aninha Chichorro.</l>
+          <l>Seu marido, o Florisbelo,</l>
+          <l>Ciumento como um cachorro,</l>
+          <l>Tinha urna cara de Otelo.</l>
+        </lg>
+        <lg>
+          <l>A ver-lhe a infidelidade,</l>
+          <l>Preferia vê-la morta!</l>
+          <l>— E quando vinha à cidade,</l>
+          <l>Descendo a ladeira torta,</l>
+          <l>Lá deixava em liberdade</l>
+          <l>Quatro cães de fila à porta</l>
+        </lg>
+        <lg>
+          <l>Mas a casa tinha fundos...</l>
+          <l>Sempre se engana a prudência</l>
+          <l>De maridos furibundos!</l>
+          <l>Rosnava a maledicência</l>
+          <l>Que... — São desígnios profundos</l>
+          <l>Da Divina Providência!</l>
+        </lg>
+        <lg>
+          <l>E o Florisbelo, coitado,</l>
+          <l>De ciúmes consumido,</l>
+          <l>Vivia tonto e enganado:</l>
+          <l>Pois era (pobre marido!)</l>
+          <l>Pela frente respeitado,</l>
+          <l>Mas pelos fundos traído.</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>NO DIA DE FINADOS</head>
+        <lg>
+          <l>Ninguém, como eu, ama os hábitos</l>
+          <l>Velhos e as velhas usanças...</l>
+          <l>N’este tristíssimo dia,</l>
+          <l>Todos vão ao cemitério:</l>
+          <l>Homens, mulheres, crianças,</l>
+          <l>Ninguém falta à romaria.</l>
+        </lg>
+        <lg>
+          <l>Também tenho uma necrópole!</l>
+          <l>Vou comprar ramos de flores!</l>
+          <l>Também tenho os meus finados...</l>
+          <l>E vou, com os olhos em lágrimas,</l>
+          <l>Visitar os meus credores,</l>
+          <l>Os meus credores amados...</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>CONSOLO</head>
+        <lg>
+          <l>Dizia o Manoel Mindelo</l>
+          <l>Homem de haveres e sério,</l>
+          <l>Fulo e arrancando o cabelo,</l>
+          <l>Com cara de cemitério:</l>
+        </lg>
+        <lg>
+          <l>“Vejam isto! vejam só</l>
+          <l>Que destino desumano!</l>
+          <l>Sendo pobre como Jó,</l>
+          <l>Nasce-me um filho por ano!”</l>
+        </lg>
+        <lg>
+          <l>Responde-lhe o Zé das Quinas</l>
+          <l>“O’ Manoel! mágoas à rua!</l>
+          <l>Porque é que tu te amofinas,</l>
+          <l>Quando a culpa não é tua?”</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>NO TRIBUNAL</head>
+        <lg>
+          <l>Ao tribunal comparece</l>
+          <l>Manoel Fera, malfeitor,</l>
+          <l>Cuja vida se conhece,</l>
+          <l>Negra e pejada de horror.</l>
+        </lg>
+        <lg>
+          <l>Ouve o libelo terrível,</l>
+          <l>Sem sequer pestanejar:</l>
+          <l>Logo depois, impassível,</l>
+          <l>Diz que deseja falar.</l>
+        </lg>
+        <lg>
+          <l>— Fale, diz o presidente.</l>
+          <l>“Eu declaro ao tribunal</l>
+          <l>Que confirmo plenamente</l>
+          <l>Toda a acusação formal.</l>
+        </lg>
+        <lg>
+          <l>Nada nego! não há meio:</l>
+          <l>Assaltei, matei, roubei!</l>
+          <l>Mas o meu crime mais feio</l>
+          <l>É outro que só eu sei...”</l>
+        </lg>
+        <lg>
+          <l>Diz um jurado em voz alta:</l>
+          <l>“Isto custa a acreditar!</l>
+          <l>Diga: qual foi essa falta?”</l>
+          <l>“Ter me deixado apanhar...”</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>CAIPORISMO</head>
+        <lg>
+          <l>Morava o <choice><orig>Dr.</orig><seg>Doutor</seg></choice> Deiró,</l>
+          <l>Mesmo ao lado do Marreco:</l>
+          <l>Este deixava o caneco</l>
+          <l>Para beber água só</l>
+        </lg>
+        <lg>
+          <l>Na quartinha do Doutor,</l>
+          <l>Que, por mais que se escamasse,</l>
+          <l>Não achava o bebedor,</l>
+          <l>Nem quem do dito falasse.</l>
+        </lg>
+        <lg>
+          <l>Chegou, porém, triste dia,</l>
+          <l>Em que o Marreco, bebendo,</l>
+          <l>Foi de gozo adormecendo,</l>
+          <l>E o Deiró também dormia.</l>
+        </lg>
+        <lg>
+          <l>Que beber abençoado!</l>
+          <l>Mas foi a sede tão rija,</l>
+          <l>Que o Marreco foi pegado</l>
+          <l>Com a boca na botija.</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>DE CADEIRA</head>
+        <lg>
+          <l>Foi nas últimas touradas...</l>
+          <l>A postos os amadores;</l>
+          <l>De senhoras e senhores</l>
+          <l>Cheias as arquibancadas...</l>
+        </lg>
+        <lg>
+          <l>Num camarote ele e ela</l>
+          <l>Aplaudem. Um grito rouco</l>
+          <l>Se escuta: foi o Tinoco</l>
+          <l>Que quebrou uma costela!</l>
+        </lg>
+        <lg>
+          <l>Que sustos! que reboliço!</l>
+          <l>Ela espauta-se. Ele, sério,</l>
+          <l>Murmura com ar funéreo:</l>
+          <l>“Eu esperava por isso!</l>
+        </lg>
+        <lg>
+          <l>O touro é bicho bondoso...</l>
+          <l>Mas basta que alguém o irrite!</l>
+          <l>Passado certo limite,</l>
+          <l>Ei-lo medonho e furioso...”</l>
+        </lg>
+        <lg>
+          <l>E ela sorrindo, brejeira,</l>
+          <l>Diz-lhe, pálida, ao ouvido:</l>
+          <l>“Não duvido! não duvido!</l>
+          <l>Você falia de cadeira...”</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>ENIGMA</head>
+        <lg>
+          <l>Cena de uma hospedaria:</l>
+          <l>Chegaram um belo dia,</l>
+          <l>Todos cobertos de pó,</l>
+          <l>Um frade o um soldado. E, pois,</l>
+          <l>Sendo a casa cheia, os dois</l>
+          <l>Dormem numa cama só.</l>
+        </lg>
+        <lg>
+          <l>Faz tal barulho o fradeco</l>
+          <l>Que o outro diz: — “seu marreco,</l>
+          <l>Veja se quer se calar.”</l>
+          <l>O frade à queixa se furta,</l>
+          <l>Diz-lhe: — “eu tenho a pele curta,</l>
+          <l>Não posso os olhos fechar.”</l>
+        </lg>
+        <lg>
+          <l>Silencio. Mas de repente</l>
+          <l>Qualquer cousa o frade sente</l>
+          <l>E, sobressaltado, exclama:</l>
+          <l>— “Que é isso, por minha vida?</l>
+          <l>— “Eu tenho a pele comprida,</l>
+          <l>Quase não caibo na cama.”</l>
+        </lg>
+        <lg>
+          <l>A pele ao frade cresceu?</l>
+          <l>À praça diminuiu?</l>
+          <l>Qual foi dos dous que cedeu?</l>
+          <l>Qual foi dos dous que dormiu?</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>A CURA</head>
+        <lg>
+          <l>Doente a Rita Pascoala,</l>
+          <l>De febre perniciosa,</l>
+          <l>Manda o doutor sujeitá-la</l>
+          <l>A dieta rigorosa:</l>
+        </lg>
+        <lg>
+          <l>“Não me coma carne assada,</l>
+          <l>Nem frangos de cabidela!</l>
+          <l>Tome caldos e mais nada!</l>
+          <l>Não coma frutas! cautela!”</l>
+        </lg>
+        <lg>
+          <l>Piora a Rita, piora,</l>
+          <l>E o doutor a desengana...</l>
+          <l>E chora a doente, chora,</l>
+          <l>Diz que quer comer banana...</l>
+        </lg>
+        <lg>
+          <l>O marido não resiste,</l>
+          <l>E ao capricho se sujeita:</l>
+          <l>“Se tem de morrer a triste,</l>
+          <l>Morra ao menos satisfeita...”</l>
+        </lg>
+        <lg>
+          <l>Milagre! Salva-se a Rita!</l>
+          <l>Contra a febre e a morte luta,</l>
+          <l>E engorda, e fica bonita,</l>
+          <l>E vive, — graças à fruta!</l>
+        </lg>
+        <lg>
+          <l>E, agora a fruta abençoa,</l>
+          <l>E afirma constantemente,</l>
+          <l>Que uma cousa, quando é boa,</l>
+          <l>Só pode dar vida à gente...</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>BAIXO PROFUNDO</head>
+        <lg>
+          <l>Contou-me este caso o Arouca,</l>
+          <l>Que é um homem cabeçudo:</l>
+          <l>“Tu podes garantir tudo</l>
+          <l>Que sair da minha boca!</l>
+        </lg>
+        <lg>
+          <l>Eu entrei com tanta fúria,</l>
+          <l>Que não sei bem onde entrei,</l>
+          <l>Se foi numa casa espúria,</l>
+          <l>Se num palácio... não sei.</l>
+        </lg>
+        <lg>
+          <l>Mas cousas vão, cousas vêm,</l>
+          <l>E a brincadeira começa;</l>
+          <l>Francamente eu não sei bem</l>
+          <l>Onde estava com a cabeça.</l>
+        </lg>
+        <lg>
+          <l>Com certeza já não tinha...</l>
+          <l>Porque sentei-me sem ver,</l>
+          <l>N’outra cabeça (adivinha</l>
+          <l>Se de homem, se de mulher...)</l>
+        </lg>
+        <lg>
+          <l>E tão alheio ao que via,</l>
+          <l>Tão fora de mim (que bruto!)</l>
+          <l>Que no meio da folia,</l>
+          <l>De repente, que é que escuto?</l>
+        </lg>
+        <lg>
+          <l>— Vê lá se de assento trocas.</l>
+          <l>(Era este o seu estribilho)</l>
+          <l>Olha que tu me sufocas!</l>
+          <l>Por quem és, ergue-te, filho!”</l>
+        </lg>
+        <lg>
+          <l>E entre risadas confessa</l>
+          <l>O meu bom amigo Auroca,</l>
+          <l>Que a voz d’aquela cabeça</l>
+          <l>Saiu pela sua boca.</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>VELHA ANEDOTA</head>
+        <lg>
+          <l>Às vezes (não é pagode!)</l>
+          <l>Cheias as hospedarias,</l>
+          <l>Sem achar camas vazias,</l>
+          <l>Cada um dorme como pode...</l>
+        </lg>
+        <lg>
+          <l>Foi no Paraguai... Durante</l>
+          <l>A campanha, um general</l>
+          <l>Resigna-se a dormir mal;</l>
+          <l>Vai dormir com o ajudante.</l>
+        </lg>
+        <lg>
+          <l>Dormem... como a guerra cansa!</l>
+          <l>Que horror! que fadiga enorme!</l>
+          <l>— E cada um dos dous dorme,</l>
+          <l>Dorme como uma criança...</l>
+        </lg>
+        <lg>
+          <l>De manhã, salta contente</l>
+          <l>O general ancião.</l>
+          <l>E, cheio de admiração,</l>
+          <l>Diz: “Que é isto, seu tenente?</l>
+        </lg>
+        <lg>
+          <l>“Veja só a minha espada!</l>
+          <l>“Que bela, que rija, filho!</l>
+          <l>“Nunca a vi com tanto brilho!</l>
+          <l>“Nem tão pouco enferrujada!”</l>
+        </lg>
+        <lg>
+          <l>E o outro, perdendo a linha:</l>
+          <l>“Perdão, <choice><orig>S.</orig><seg>Senhor</seg></choice> general!</l>
+          <l>“Não leve o que digo a mal...</l>
+          <l>Porém... essa espada é a minha!”</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>A BORDO</head>
+        <lg>
+          <l>Foi um dia um grande vaso</l>
+          <l>Que num bom dia partiu,</l>
+          <l>E lá foi lampeiro; e o caso</l>
+          <l>É que ninguém mais o viu.</l>
+        </lg>
+        <lg>
+          <l>Não receia o irado oceano,</l>
+          <l>Não receia o vento: o mar</l>
+          <l>Trata-o bem: ele abre o pano</l>
+          <l>Sempre, sempre a navegar.</l>
+        </lg>
+        <lg>
+          <l>Doce é o céu à noite; ao dia</l>
+          <l>Brando é o vento, doce é o céu...</l>
+          <l>Parecia, parecia</l>
+          <l>Que todo o mundo era seu.</l>
+        </lg>
+        <lg>
+          <l>Eis em uma pedra — bumba!</l>
+          <l>Bate o casco... que foi? Mau!...</l>
+          <l>E em todo o vaso retumba</l>
+          <l>Esta voz: — “foi num calhau!</l>
+        </lg>
+        <lg>
+          <l>Comandante! comandante!</l>
+          <l>Calma, vamos, toca, atrás!</l>
+          <l>E ninguém vai p’ra adiante,</l>
+          <l>E ninguém sabe o que faz.</l>
+        </lg>
+        <lg>
+          <l>E o marujo: — “Que me parta</l>
+          <l>Um raio, se um dia eu vi</l>
+          <l>Esta pedra aqui na carta!”</l>
+          <l>— Pudera! Se ela está aqui!...”</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>DESEJO DE SER MÃE</head>
+        <lg>
+          <l>Jurava dona Maria</l>
+          <l>(Que quase morreu de parto,</l>
+          <l>Ao ter o seu filho quarto)</l>
+          <l>Que em outra não cairia.</l>
+        </lg>
+        <lg>
+          <l>Ouvindo-a, dona Ramona,</l>
+          <l>De sessenta anos de idade,</l>
+          <l>Às saudades se abandona</l>
+          <l>Da antiga felicidade:</l>
+        </lg>
+        <lg>
+          <l>“Só faliam assim os fartos!</l>
+          <l>A i! que eu não possa, coitada!</l>
+          <l>Ainda estar arriscada</l>
+          <l>A ter trezentos mil partos!”</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>AMICUS CERTUS</head>
+        <lg>
+          <l>O José como caixeiro,</l>
+          <l>Era o que se diz— um alho;</l>
+          <l>Muito amigo do dinheiro,</l>
+          <l>Muito amigo do trabalho.</l>
+        </lg>
+        <lg>
+          <l>Com economiazinhas</l>
+          <l>Trazia ao dedo um farol,</l>
+          <l>Dormia com as galinhas,</l>
+          <l>Acordava antes do sol.</l>
+        </lg>
+        <lg>
+          <l>Chamou-o um dia o patrão:</l>
+          <l>— “Seu José, você merece,</l>
+          <l>Pela sua correção,</l>
+          <l>Particular interesse.</l>
+        </lg>
+        <lg>
+          <l>Vou lhe dar, repare bem,</l>
+          <l>A minha melhor partilha:</l>
+          <l>É sócio deste armazém</l>
+          <l>E é noivo de minha filha.”</l>
+        </lg>
+        <lg>
+          <l>Salta o José de contente,</l>
+          <l>Não cabe em si o José,</l>
+          <l>Ri-se, chora, vai p’ra frente,</l>
+          <l>Volta, gira num só pé...</l>
+        </lg>
+        <lg>
+          <l>— “Mas, escute, ela é bonita,</l>
+          <l>E’ rica, amada dos pais,</l>
+          <l>Mas, José, cousa esquisita...</l>
+          <l>Só aquilo... não tem mais.”</l>
+        </lg>
+        <lg>
+          <l>O José se desvanece,</l>
+          <l>E diz com ar bonachão:</l>
+          <l>— “Oh! por quem é, meu patrão</l>
+          <l>Ainda que ela tivesse...”</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>VELHO CONTO</head>
+        <lg>
+          <l>Caiu para traz o Arruda,</l>
+          <l>Sem dar acordo de si,</l>
+          <l>E foi um Deus nos acuda,</l>
+          <l>Espanto assim nunca vi.</l>
+        </lg>
+        <lg>
+          <l>Veio o médico vizinho,</l>
+          <l>Examina-o com cuidado.</l>
+          <l>E logo, num instantinho,</l>
+          <l>Passa da morte o atestado.</l>
+        </lg>
+        <lg>
+          <l>Choros, gritos, faniquitos,</l>
+          <l>Padres, velas, cantochão,</l>
+          <l>E metem, todos aflitos,</l>
+          <l>O defunto no caixão.</l>
+        </lg>
+        <lg>
+          <l>A viúva o corpo lhe vela,</l>
+          <l>Chorando como um bezerro,</l>
+          <l>(Quem viu magoa como aquela?)</l>
+          <l>Lá vai a sair o enterro.</l>
+        </lg>
+        <lg>
+          <l>Mas Arruda (olha que espanto!)</l>
+          <l>Abre os olhos, falia e diz,</l>
+          <l>E diz p’ra mulher em pranto:</l>
+          <l>— “‘Stou vivo! Como és feliz!”</l>
+        </lg>
+        <lg>
+          <l>Encara-o a viúva sentida</l>
+          <l>E, com as lágrimas no rosto:</l>
+          <l>— “Que vida, meu Deus, que vida!</l>
+          <l>Sempre hás de me dar desgosto!”</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>DISCUSSÃO</head>
+        <lg>
+          <l>“Em todos os sacramentos</l>
+          <l>Os santos óleos estão...”</l>
+          <l>Num dos seus belos momentos</l>
+          <l>Dizia o Pedro Tristão.</l>
+        </lg>
+        <lg>
+          <l>“Em baptismo, crisma, morte,</l>
+          <l>Casamento...” Acode o Leite:</l>
+          <l>“Não fale assim d’esta sorte:</l>
+          <l>No casamento é azeite.”</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>ENGROSSAMENTO</head>
+        <lg>
+          <l>Lili, ura anjo, um alfenim,</l>
+          <l>Veio à luz no mês das flores,</l>
+          <l>Mas quem moça viu assim,</l>
+          <l>Com tantos adoradores?</l>
+        </lg>
+        <lg>
+          <l>Todos a querem; mas todos</l>
+          <l>Um mês depois vão embora;</l>
+          <l>Todos louvam os seus modos,</l>
+          <l>Porém, casar... Passa fora!</l>
+        </lg>
+        <lg>
+          <l>E ela cada vez parece</l>
+          <l>Que fica mais vaporosa;</l>
+          <l>Come, diz quem a conhece,</l>
+          <l>Apenas folhas de rosa...</l>
+        </lg>
+        <lg>
+          <l>Porém Lili de repente,</l>
+          <l>Não engorda; mas o facto,</l>
+          <l>É que avoluma na frente</l>
+          <l>E atrás fica como um prato.</l>
+        </lg>
+        <lg>
+          <l>Vem o doutor: — “Doutor, diga!</l>
+          <l>Que tem ela?” — “Sente dores?”</l>
+          <l>— “Não!” — “Então, a rapariga...</l>
+          <l>Tem muitos engrossadores...”</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <head>O DILEMA</head>
+        <lg>
+          <l>O marido da Vicência,</l>
+          <l>Que mora em cima de mim,</l>
+          <l>Tenham santa paciência,</l>
+          <l>É cousa muito ruim...</l>
+        </lg>
+        <lg>
+          <l>Que barulho! Todo o dia</l>
+          <l>Ela diz que se despenca</l>
+          <l>Da janela. Que arrelia!</l>
+          <l>E ele dá-lhe pau em penca.</l>
+        </lg>
+        <lg>
+          <l>“Vizinho, eu berro, perdoe-a,</l>
+          <l>Vizinho, não seja mau!”.</l>
+          <l>— Não conhece esta saloia,</l>
+          <l>Esta fúria...” E lá vai pau.</l>
+        </lg>
+        <lg>
+          <l>Não durmo com tanto rolo,</l>
+          <l>Com tanta, tanta pancada!</l>
+          <l>Outro dia eles, num bolo,</l>
+          <l>Rebolaram pela escada...</l>
+        </lg>
+        <lg>
+          <l>Não senhor! eu já não acho</l>
+          <l>Que assim continue! pois,</l>
+          <l>Ou eles vêm cá p’ra baixo,</l>
+          <l>Ou vou p’ra cima dos dois.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>
