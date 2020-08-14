@@ -356,7 +356,7 @@ div > div.title {
 	margin-top: 2em;
 }
 
-respStmt {
+respStmt, tei-title[type="short"], pb {
 	display: none
 }
 
@@ -373,8 +373,8 @@ sp :last-child {
 }
 
 div[type="act"] > head { border-bottom: 1px solid #999 }
-text div > head { font-size: 27px }
-text div > div > head { font-size: 22px }
+text div > head { font-size: 25px }
+text div > div > head { font-size: 21px }
 text div > div > div > head { font-size: 16px }
-text div > div > div > div > head { font-size: 9px }
-text div > div > div > div > div > head { font-size: 11px }
+text div > div > div > div > head { font-size: 16px }
+text div > div > div > div > div > head { font-size: 16px }
