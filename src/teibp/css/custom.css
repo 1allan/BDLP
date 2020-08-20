@@ -1,3 +1,8 @@
+@font-face {  
+	font-family: Arvo;
+	src: url(../../fonts/Arvo/Arvo-Bold.ttf);
+}
+
 html {
 	background-color: #999;
 	scroll-behavior: smooth;
@@ -302,10 +307,6 @@ div[type="poem"] > head:first-child {
 	font-size: 100%
 }
 
-div[type="poem"] {
-	margin-bottom: 15%;
-}
-
 l[type="dialogue"] {
 	display: table;
 	padding-left: 2.5%;
@@ -343,7 +344,10 @@ foot div {
 TEI div.title {
 	display: block;
 	font-family: Arvo, sans-serif;
-	font-weight: normal;
+}
+
+head, titleStmt {
+	font-weight: 400 !important;
 }
 
 div[type="part"] > div.title {
@@ -382,4 +386,8 @@ text div > div > div > div > div > head { font-size: 16px }
 titleStmt > author:not(:last-child) {
 	margin-bottom: 5px;
 	padding-bottom: 0;
+}
+
+div[type="poem"] > head {
+	font-size: 21px
 }

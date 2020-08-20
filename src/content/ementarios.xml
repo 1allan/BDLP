@@ -1,0 +1,3480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:aoidos="https://aoidos.ufsc.br/ns/1.0" xmlns:st="https://gitlab.com/stichotheque/ns/1.0">
+  <teiHeader>
+    <fileDesc st:status="C">
+      <titleStmt>
+        <title>Ementário</title>
+        <author>Gustavo Teixeira</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name xml:id="SM">Samanta Maia</name>
+        </respStmt>
+        <respStmt>
+          <resp>Further encoded by</resp>
+          <name xml:id="AM">Adiel Mittmann</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <distributor>Stichotheque</distributor>
+        <availability status="free">
+          <p>Domínio público.</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note resp="#SM">Texto digitado a partir do PDF da <ref target="#maré">edição de 1908</ref>, sem usar OCR.</note>
+        <note resp="#AM">O PDF do livro que está na BLPL veio da Brasiliana, mas não é mais possível encontrá-lo lá.</note>
+        <note resp="#AM">Pequenas alterações feitas para ficar no formato da Stichotheque.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl xml:id="maré">
+          <title>EMENTARIO</title>
+          <author>GUSTAVO TEIXEIRA</author>
+          <date>1908</date>
+          <publisher>Typographia Maré &amp; C.</publisher>
+          <pubPlace>S. PAULO</pubPlace>
+          <ref target="https://www.literaturabrasileira.ufsc.br/documentos/?id=150160"/>
+          <ref xml:id="pb" target="blpl/31592-1908-gustavo_teixeira-ementário.pdf"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="pt" st:duplicates="ok">
+    <body>
+      <div type="part">
+        <head>AMOR</head>
+        <div type="poem">
+          <head>A MORTE DE PETRÔNIO</head>
+          <div type="section">
+            <head>Sobre uma página do QUO VADIS?</head>
+            <lg>
+              <pb n="25" edRef="#pb"/>
+              <l>O triclínio é um jardim. Coroados de rosas,</l>
+              <l>Na fofez dos coxins de purpurinas cores,</l>
+              <l>Os convivas, pompeando as togas ondulosas,</l>
+              <l>Rendilham frases delicadas como flores...</l>
+              <l>Cai do teto uma chuva ebriante de violetas.</l>
+              <l>Dos globos de cristal azul da Alexandria </l>
+              <l>Partem flechas de luz, transluminosas setas,</l>
+              <l>Que avivam o clarão da iriante pedraria.</l>
+              <l>A baixela resplende em brilhos d’oiro acesa</l>
+              <l>Entre folhas de mirto e entrelaçadas heras</l>
+              <l>Que enfeitam vernalmente a luculana mesa.</l>
+              <l>As ancilas liriais — cheirosas primaveras — </l>
+              <l>Ungem de nardo e mirra os pés dos convidados,</l>
+              <l>Mostrando os seios nus e o cabelo desnastro</l>
+              <l>Capazes de prender os deuses enlevados</l>
+              <l>Com fulvos fios d’oiro em postes de alabastro...</l>
+              <l>Matinal alegria os rostos ilumina.</l>
+              <l>Das ânforas de prata aos cálices radiantes</l>
+              <pb n="26" edRef="#pb"/>
+              <l>Jorra o espumante Cós, que os ânimos domina,</l>
+              <l>Borbulhando à feição das fontes murmurantes.</l>
+              <l>Chocam-se, espaço a espaço, as primorosas taças</l>
+              <l>Em que fulgem astrais incrustações de gemas,</l>
+              <l>E, entre sons de cristais e cintilantes graças,</l>
+              <l>Petrônio faz à Eunícia as confissões extremas...</l>
+              <l>Brilham opalas ricamente facetadas</l>
+              <l>Dando beijos de luz no alvor das jovens belas,</l>
+              <l>E é tal a irradiação das joias abrasadas</l>
+              <l>Que a gente cuida estar no Olimpo entre as estrelas!</l>
+              <l>A todos causa assombro o fausto régio, insano;</l>
+              <l>Das iguarias sobe o capitoso aroma:</l>
+              <l>Pois os raros festins do artista soberano</l>
+              <l>Rebaixam os festins do Imperador de Roma!</l>
+              <l>Petrônio atrai as atenções da sala toda</l>
+              <l>Comentando, risonho, as corridas, a luta</l>
+              <l>Dos gladiadores, os escândalos e a moda</l>
+              <l>Com toques de ironia alfinetante e arguta.</l>
+              <l>O vinho pouco a pouco os cérebros inflama,</l>
+              <l>E em meio da palestra, oculta num gracejo,</l>
+              <l>Zumbe ferinamente a abelha do epigrama!</l>
+              <l>Soa de quando em vez a música de um beijo</l>
+              <l>Deposta na maciez de um colo alabastro...</l>
+              <l>Petrônio, ao derramar o Cós, que murmurinha,</l>
+              <l>(E a mão — cacho de anéis — flameja como um astro!)</l>
+              <l>Anuncia que bebe em honra da rainha</l>
+              <l>De Chipre a mais egrégia e antiga divindade;</l>
+              <l>Faz um sinal, e logo as cítaras sonoras</l>
+              <l>Vibram acompanhando a orfeica suavidade;</l>
+              <l>Das vozes festivais como um rumor de auroras...</l>
+              <l>Movendo com os quadris de redondez graciosa,</l>
+              <l>Dançarinas, vestindo estofos transparentes,</l>
+              <l>Bailam, deixando ver, como botões de rosa,</l>
+              <l>Os bicos de rubi dos seios lactescentes...</l>
+              <l>Depois um adivinho egípcio toma um vaso</l>
+              <l>E faz as predições dos trâmites da vida,</l>
+              <l>Que para alguns é um sol quase a esmaiar no ocaso, </l>
+              <l>— Pela coloração cambiante da bebida...</l>
+              <l>Petrônio no coxim da Síria o torso apruma</l>
+              <l>E murmura: — “Aceitai, amigos, em lembrança</l>
+              <l>Deste dia, que o amor, como um jasmim, perfuma,</l>
+              <pb n="27" edRef="#pb"/>
+              <l>A taça em que bebeis numa cordial folgança!”</l>
+              <l>E fazendo faiscar a taça de Mirrena,</l>
+              <l>Que do arco-íris ostenta os lúcidos reflexos,</l>
+              <l>Firme qual justo ao fim da provação terrena, </l>
+              <l>Continua perante os áulicos perplexos:</l>
+              <l>— “Eis a taça com que, neste feliz instante,</l>
+              <l>À rainha de Chipre eu saúdo. Em verdade</l>
+              <l>Ninguém lhe tocará com os lábios doravante,</l>
+              <l>Nas libações em honra a uma outra divindade!”</l>
+              <l>E no fino mosaico ainda polvilhado</l>
+              <l>De açafrão, acendendo um riso de vitória,</l>
+              <l>Em partículas quebra o mimo arcoirizado</l>
+              <l>Que tanta vez ergueu como um troféu de glória!</l>
+              <l>Ante o pasmo geral, Petrônio, a rir, prossegue:</l>
+              <l>— “Dos males a velhice é o mais amargo e sério:</l>
+              <l>Mas, antes que com o seu cortejo infando chegue,</l>
+              <l>Vou transpor o limiar do nebuloso império...</l>
+              <l>Mas quero divertir-me ainda ao som de um hino,</l>
+              <l>De Eunícia contemplar as formas harmoniosas,</l>
+              <l>E, fechando a sorrir o livro do destino,</l>
+              <l>Adormecer sonhando entre formas e rosas!</l>
+              <l>Eu já me despedi do sátiro”. — E, tirando</l>
+              <l>De sob o seu coxim de púrpura uma carta,</l>
+              <l>Petrônio a lê, o seu efeito prelibando,</l>
+              <l>Homérico e triunfal como um herói de Esparta!</l>
+            </lg>
+          </div>
+          <div type="section">
+            <head>DE PETRÔNIO A CÉSAR</head>
+            <lg>
+              <l>— “Sei que teu nobre coração espera</l>
+              <l>“Por mim com impaciência a todo o instante,</l>
+              <l>“Que só minha presença é que pudera</l>
+              <l>“Iluminar teu lívido semblante;</l>
+              <l>“Que tu, que de favores me cumulas, </l>
+              <l>“Me nomearas prefeito com agrado</l>
+              <l>“E Tigelinus guardados de mulas,</l>
+              <l>“Para o que pelos deuses foi criado.</l>
+              <l>“Mas desculpa-me, César! Eu te juro</l>
+              <l>“Pelos manes de Sêneca e Agripina</l>
+              <l>“Que embalde ver-te sem horror procuro:</l>
+              <l>“Um invencível nojo me domina!</l>
+              <l>“Passada a juventude, o mundo é findo:</l>
+              <pb n="28" edRef="#pb"/>
+              <l>“A vida — série de emoções supremas — </l>
+              <l>“É um tesoiro do qual, amando e rindo,</l>
+              <l>“Já extrai as mais preciosas gemas...</l>
+              <l>“Há na existência cousas que eu não posso</l>
+              <l>“Aturar por mais tempo: é-me impossível!</l>
+              <l>“Todas as taças do viver de moço</l>
+              <l>“Já esgotei num gozo inconcebível.</l>
+              <l>“Não vás pensar que me afligiu o incêndio</l>
+              <l>“Da orgulhosa cidade das colinas,</l>
+              <l>“Que cobriste de opróbrio e vilipêndio</l>
+              <l>“E transformaste num montão de ruínas.</l>
+              <l>“Que importa a mim que só produzas mortes,</l>
+              <l>“Que despedaces corações humanos</l>
+              <l>“E para as sombras do Érebo deportes</l>
+              <l>“Os mais conspícuos cidadãos romanos?</l>
+              <l>“Não! ó neto de Cronos! Outros atos</l>
+              <l>“Não se podiam esperar de Nero,</l>
+              <l>“A não ser o extermínio, assassinatos:</l>
+              <l>“Não! de ti outras cousas não espero!</l>
+              <l>“Mas, escutar mais anos o teu canto,</l>
+              <l>“A dura voz de pífano rachado,</l>
+              <l>“Ver o teu ventre de causar espanto</l>
+              <l>“Girar na dança pírrica agitado;</l>
+              <l>“E ver-te recitar com indecência</l>
+              <l>“As estrofes banais de tua lavra,</l>
+              <l>“São cousas que eu não posso com paciência</l>
+              <l>“Nem mais um dia suportar. Palavra!</l>
+              <l>“Para livrar-me de torturas tantas</l>
+              <l>“Eu vou dormir em púrpuras imerso.</l>
+              <l>“Roma tapa os ouvidos quando cantas</l>
+              <l>“E chama-te imbecil todo o universo.</l>
+              <l>“Eu, que tenho apurados os sentidos,</l>
+              <l>“Por tua causa enrubescer não quero:</l>
+              <l>“Antes ouvir os rábidos latidos</l>
+              <l>“Do furioso tricéfalo Cerbero!</l>
+              <l>“Envenena, mas cítara não toques!</l>
+              <l>“Incendeia cidades, mas não cantes!</l>
+              <l>“Mata, mas com teus versos não provoques</l>
+              <l>“Irreprimíveis risos humilhantes!</l>
+              <l>“Goza saúde, dá festins de sangue</l>
+              <l>“Àqueles que, ao te ver, dobram os joelhos:</l>
+              <pb n="29" edRef="#pb"/>
+              <l>“— Tais são os votos que eu, Petrônio, exangue,</l>
+              <l>“Faço ao enviar-te os últimos conselhos...”</l>
+            </lg>
+            <lg>
+              <l>Tremem todos! A carta infunde horror funéreo!</l>
+              <l>Parece que estão vendo um fantasma gorgôneo!...</l>
+              <l>Menos doeria a Nero a destruição do Império</l>
+              <l>Que essa declaração sincera de Petrônio.</l>
+              <l>O Árbitro da elegância então estende o braço</l>
+              <l>Ao esculápio que abre a veia: flui o sangue</l>
+              <l>Deixando no coxim um mais vermelho traço,</l>
+              <l>Enquanto Eunícia, que lhe ampara a fronte langue,</l>
+              <l>Balbucia: “— Senhor, julgaste que eu seria</l>
+              <l>Capaz de abandonar-te? Ainda que me fosse</l>
+              <l>Oferecido o Império eu não hesitaria</l>
+              <l>Em seguir-te. Ao teu lado a morte será doce!”</l>
+              <l>Nenhum receio agita a inveja das Camenas</l>
+              <l>Que afronta sem temor do Tártaro o castigo,</l>
+              <l>E Petrônio, abraçando a ebúrnea flor de Atenas,</l>
+              <l>Segreda com ternura extrema: — “Vem comigo...”</l>
+              <l>E do braço de Eunícia, aberto a um golpe, ardente</l>
+              <l>O sangue vai manando em fios de escarlata:</l>
+              <l>A um novo aceno de Petrônio, suavemente</l>
+              <l>Harpejam em surdina as cítaras de prata...</l>
+              <l>Num timbre festival soa de manso um hino</l>
+              <l>Do rouxinol de Téos, do meio Anacreonte,</l>
+              <l>E, lânguido, a sorrir, o esteta peregrino</l>
+              <l>Se apóia à loira grega unindo fronte a fronte...</l>
+            </lg>
+            <lg>
+              <l>Cala-se a voz dos instrumentos orquestrantes...</l>
+              <l>Despejam os rítons vinhos de Chipre e Samos,</l>
+              <l>Os fâmulos, de pé, com gestos elegantes,</l>
+              <l>Servem frutos do Oriente inda a pender dos ramos.</l>
+              <l>Depois de palestrar alegre e indiferente,</l>
+              <l>Petrônio ordena (porque o vai prostrando o sono)</l>
+              <l>Que lhe liguem a veia. E dorme calmamente,</l>
+              <l>Mais feliz do que um rei na veludez do trono!</l>
+              <l>Ao despertar desata um riso satisfeito,</l>
+              <l>Um riso de ventura, um riso de delícia,</l>
+              <l>Vendo serena, reclinada no seu peito,</l>
+              <l>Como uma grande flor, a cabeça de Eunícia...</l>
+              <l>Gorgeiam novamente as cítaras maviosas</l>
+              <pb n="30" edRef="#pb"/>
+              <l>Numa leve surdina, em cristalino choro,</l>
+              <l>Enquanto brandamente as vozes melodiosas</l>
+              <l>Cantam um hino que é das Piérides um coro.</l>
+              <l>Petrônio, cada vez mais pálido, sonhando</l>
+              <l>Aos acordes finais do cântico apolíneo,</l>
+              <l>Se volta para os seus convivas, elevando</l>
+              <l>Pela vez derradeira a voz num vaticínio:</l>
+              <l>— “Meus amigos, deveis reconhecer que finda</l>
+              <l>Conosco...” e a sua voz expira um harpejo:</l>
+              <l>Mas, num supremo esforço, ao seio aperta ainda</l>
+              <l>A grega escultural... para morrer num beijo!...</l>
+            </lg>
+            <lg>
+              <l>Pela sala em silêncio agora mergulhada,</l>
+              <l>— Como um contínuo aflar de asas de borboletas —</l>
+              <l>Da rede d’oiro presa à abóbada doirada,</l>
+              <l>Continua a cair a chuva de violetas...</l>
+            </lg>
+          </div>
+        </div>
+        <div type="poem">
+          <head>O MEU IDEAL</head>
+          <opener>
+            <epigraph>
+              <cit>
+                <quote>
+                  <lg type="ignore-when-scanning">
+                    <pb n="31" edRef="#pb"/>
+                    <l><hi>Meninas, lindas meninas,</hi></l>
+                    <l><hi>Qual de vós é o meu ideal?</hi></l>
+                  </lg>
+                </quote>
+                <bibl>NOBRE.</bibl>
+              </cit>
+            </epigraph>
+          </opener>
+          <lg>
+            <l>Quando a tarde com o hálito fumoso</l>
+            <l>Estende pelos vales e montanhas</l>
+            <l>Um turbilhão de túnicas estranhas,</l>
+            <l>De clâmides de tule vaporoso;</l>
+            <l>E vão fluindo as opalinas fontes</l>
+            <l>Do ventre mastodôntico dos montes,</l>
+            <l>Num soluçar de límpidos violinos;</l>
+            <l>E em coro harpejam as aragens mansas</l>
+            <l>Como uma chusma de almas de crianças</l>
+            <l>Murmurando segredos cristalinos;</l>
+            <l>E no beiral dos ninhos</l>
+            <l>Gorjeiam passarinhos</l>
+            <l>Como os doirados sonhos fulgurantes,</l>
+            <l>Os ninhos virginais</l>
+            <l>Que passam pelas almas dos amantes</l>
+            <l>Cantando madrigais:</l>
+            <l>— Eu vou cismar no artístico terraço,</l>
+            <l>Sob a vasta agonia do sol posto,</l>
+            <l>Vendo as nuvens correrem pelo espaço</l>
+            <l>Como as gotas de pranto por meu rosto!</l>
+            <pb n="32" edRef="#pb"/>
+            <l>E penso então na flor dos meus desejos,</l>
+            <l>Na virgem de contornos de alabastro,</l>
+            <l>Cujo sorriso é um astro</l>
+            <l>De célicos lampejos</l>
+            <l>— Na piedosa Beatriz estremecida</l>
+            <l>Que há de através dos círculos dantescos</l>
+            <l>Do torvo inferno trágico da Vida</l>
+            <l>Num poema de episódios romanescos,</l>
+            <l>Levar-me, alegre como as borboletas</l>
+            <l>No matinal bailado,</l>
+            <l>Por um fofo caminhos de violetas,</l>
+            <l>À Glória de uma alcova de noivado!</l>
+          </lg>
+          <lg>
+            <l>Jamais a vi, mas sei que é bela e casta,</l>
+            <l>Que hei de adorá-la ardentemente... e basta!</l>
+            <l>Seu nome? Não o sei! É um sonho ainda!</l>
+            <l>É uma suave ilusão fascinadora!</l>
+            <l>Mas sei que é loura e linda, muito linda!</l>
+            <l>Mas sei que é linda e loura, muito loura!</l>
+            <l>Tem quinze anos apenas: é uma palma</l>
+            <l>De quinze rosas cujo olor acalma</l>
+            <l>Todas as dores. Seu cabelo, solto</l>
+            <l>Em anéis aromáticos, revolto</l>
+            <l>Lhe rola pela espádua alabastrina</l>
+            <l>Donde se evola dos jasmins o cheiro,</l>
+            <l>E é fino como os fios da neblina</l>
+            <l>E longo como os ramos de um salgueiro...</l>
+            <l>A sua voz de lírica ternura</l>
+            <l>Em que suspira um rouxinol dolente</l>
+            <l>É melodiosa e cheia de doçura</l>
+            <l>Como um planger de cítara gemente!</l>
+            <l>Seus beijos são de mel;</l>
+            <l>É a mais perfeita criatura humana:</l>
+            <l>Casta como Susana,</l>
+            <l>Nobre como Raquel!</l>
+            <l>A sua boca é o rubor das rosas,</l>
+            <l>E o róseo coração,</l>
+            <l>Quente como o verão,</l>
+            <l>É um escrínio de pedras preciosas!</l>
+            <pb n="33" edRef="#pb"/>
+            <l>Tem da açucena a mística pureza,</l>
+            <l>A candidez de um lírio,</l>
+            <l>Colo de cisne, gestos de princesa</l>
+            <l>E a pulcritude das visões do Empíreo.</l>
+            <l>A redondez das pomas recatadas,</l>
+            <l>O talhe da cintura de Afrodite</l>
+            <l>E as régias mãos nevadas</l>
+            <l>São o último limite</l>
+            <l>Da perfeição sonhada pela mente</l>
+            <l>Enfebrecida e ardente</l>
+            <l>De visionário artista</l>
+            <l>Que planeja uma rútila conquista!</l>
+          </lg>
+          <lg>
+            <l>Corpo de estátua! Joia que irradia!</l>
+            <l>Urna de essências! Taça de ambrosia!</l>
+            <l>Hóstia de beijos! Vaso de primores!</l>
+            <l>Buquê de mimos, de estelares lumes, </l>
+            <l>De pérolas e flores,</l>
+            <l>De auroras e perfumes!...</l>
+          </lg>
+          <lg>
+            <l>Onde estará aquela que procuro,</l>
+            <l>Que um dia será minha,</l>
+            <l>O liz nivoso e puro,</l>
+            <l>Frágil como a andorinha,</l>
+            <l>Que embalde chamo, súplice, ajoelhado,</l>
+            <l>E em cujo seio níveo e perfumado</l>
+            <l>Como um craveiro em flor;</l>
+            <l>Repousarei como num céu aberto:</l>
+            <l>— Qual sôfrego viajor</l>
+            <l>Que, na aridez de um áspero deserto,</l>
+            <l>Perseguisse lucífera miragem</l>
+            <l>— Um enxame de brilhos deslumbrantes! —</l>
+            <l>E no meio da tórrida paragem</l>
+            <l>Encontrasse um castelo de diamantes!</l>
+            <pb n="34" edRef="#pb"/>
+            <l>Quando verei o arcanjo estremecido</l>
+            <l>Que o coração espera amargurado,</l>
+            <l>De lágrimas vestido,</l>
+            <l>De espinhos coroado!</l>
+          </lg>
+          <lg>
+            <l>Ela há de vir, a lúcida quimera...</l>
+          </lg>
+          <lg>
+            <l>Guardai, ó Primavera,</l>
+            <l>Canções e flores para o meu noivado!</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>FRÍNIA</head>
+          <lg>
+            <pb n="35" edRef="#pb"/>
+            <l>É uma dócil menina carinhosa</l>
+            <l>— Um assombro de estética divina! —</l>
+            <l>De uma sadia carnação de rosa,</l>
+            <l>Radiosamente loira e alabastrina!</l>
+          </lg>
+          <lg>
+            <l>É tão ingênua como a borboleta</l>
+            <l>Que anda a esvoaçar pelas manhãs de gala,</l>
+            <l>Ora em redor dos tufos de violeta, </l>
+            <l>Ora entre as moitas de cecéns de opala.</l>
+          </lg>
+          <lg>
+            <l>Quando ela fala, a sua voz ridente,</l>
+            <l>De um timbre docemente cristalino,</l>
+            <l>É tão maviosa e musical que a gente</l>
+            <l>Pensa escutar as notas de um violino...</l>
+          </lg>
+          <lg>
+            <l>Se alguém a visse num altar, na igreja,</l>
+            <l>Julgaria estar vendo a virgem Santa.</l>
+            <l>A estrela do pastor pirilampeja</l>
+            <l>Em seu riso que as pérolas suplanta.</l>
+          </lg>
+          <lg>
+            <l>Quando — aos primeiros raios loirejantes</l>
+            <l>Do sol que rasga a teia das neblinas — </l>
+            <l>Ela sai a passeio, as orquestrantes</l>
+            <l>Patativas entoam cavatinas.</l>
+          </lg>
+          <lg>
+            <pb n="36" edRef="#pb"/>
+            <l>Nem uma abelha a melindrar se atreve </l>
+            <l>Essa visão seráfica do Empíreo,</l>
+            <l>Alva, mais alva do que a própria neve,</l>
+            <l>Pura, mais pura do que o próprio lírio!</l>
+          </lg>
+          <lg>
+            <l>Agita-se a frondagem do arvoredo</l>
+            <l>Num jubiloso frêmito de glória,</l>
+            <l>E as flores, murmurando-lhe um segredo,</l>
+            <l>Beijam-lhe a mão acetinada e flórea.</l>
+          </lg>
+          <lg>
+            <l>Segue-a por tudo um coro de gorjeios.</l>
+            <l>No vale os melros — menestréis audazes, —</l>
+            <l>Rendilhando adoráveis galanteios,</l>
+            <l>Oferecem-lhe ramos de lilases.</l>
+          </lg>
+          <lg>
+            <l>Osculam-na as falenas furta-cores,</l>
+            <l>Causando aos cravos pungitivo ciúme.</l>
+            <l>Quando ela foge do vergel, as flores</l>
+            <l>Soltam fundos suspiros de perfume...</l>
+          </lg>
+          <lg>
+            <l>É muito meiga e tímida. Se um ruído</l>
+            <l>Escuta, corre, pávida, ofegante,</l>
+            <l>Rasgando nas roseiras o vestido,</l>
+            <l>Mais veloz do que a célere Atalante.</l>
+          </lg>
+          <lg>
+            <l>Quando ela, o azúleo ambiente ensandalando,</l>
+            <l>Pega em dous leques, doudejante e lesta,</l>
+            <l>Tenho medo que, as asas tatalando,</l>
+            <l>Voe e se perca pelo azul em festa!</l>
+          </lg>
+          <lg>
+            <l>É um gosto vê-la cheia de ternura</l>
+            <l>Amamentando uma boneca eslava</l>
+            <l>De uma expressão de angélica doçura,</l>
+            <l>Olhos cerúleos, cabeleira flava.</l>
+          </lg>
+          <lg>
+            <l>Fala-lhe a rir com a boca muito rente,</l>
+            <l>Ao lácteo seio aperta-a com delírio,</l>
+            <l>E beija-lhe a carinha gracilmente...</l>
+            <l>É a estrela d’Alva acalentando um lírio!</l>
+          </lg>
+          <lg>
+            <pb n="37" edRef="#pb"/>
+            <l>Quando os meus versos, num enlevo, canta,</l>
+            <l>É um rouxinol fazendo a sua prece...</l>
+            <l>Às vezes penso: — “Esta menina é a santa</l>
+            <l>Que num andor de rosas me aparece!”</l>
+          </lg>
+          <lg>
+            <l>Chamei-lhe “minha noiva” certo dia:</l>
+            <l>Ela escondeu as faces esbraseadas...</l>
+            <l>A sua alma é uma alegre cotovia</l>
+            <l>Que anda a ensaiar suavíssimas baladas!</l>
+          </lg>
+          <lg>
+            <l>Por essa Flor que vem desabrochando</l>
+            <l>Cheia do casto aroma da inocência,</l>
+            <l>Irei a minha lira dedilhando</l>
+            <l>Através das batalhas da existência...</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>MILAGRE</head>
+          <lg>
+            <pb n="38" edRef="#pb"/>
+            <l>Em meu batel de velas cor de arminho</l>
+            <l>E flâmulas de seda do Levante,</l>
+            <l>Eu me perdi no pélago marinho,</l>
+            <l>Numa sinistra noite fuzilante.</l>
+          </lg>
+          <lg>
+            <l>No plúmbeo espaço, onde o trovão rugia,</l>
+            <l>Cobrejavam relâmpagos trementes,</l>
+            <l>E, abrindo a guela, o fero mar bramia,</l>
+            <l>Dos escolhos mostrando os sérreos dentes.</l>
+          </lg>
+          <lg>
+            <l>Asas pandas, em trépido balouço, </l>
+            <l>O meu batel pairava, solto e leve,</l>
+            <l>Sobre a espúmea ondulância do marouço,</l>
+            <l>Como um gigânteo pássaro de neve.</l>
+          </lg>
+          <lg>
+            <l>Então eu quis, semianime de susto,</l>
+            <l>Chamar a Virgem, mãe do Lírio loiro,</l>
+            <l>E murmurei teu nome doce e augusto,</l>
+            <l>Que é o sacro harpejo de uma lira d’oiro...</l>
+          </lg>
+          <lg>
+            <l>Nisto — oh! milagre! — emudeceu o vento,</l>
+            <l>Afastara-se as ondas marulhosas,</l>
+            <l>E flamejou escampo o firmamento</l>
+            <l>Num incêndio de pedras preciosas!</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>O LEQUE</head>
+          <lg>
+            <pb n="39" edRef="#pb"/>
+            <l>Quis fazer um presente delicado</l>
+            <l>À Flor cuja saudade me lancina,</l>
+            <l>Como compete a um jovem namorado</l>
+            <l>Que adora uma romântica menina.</l>
+          </lg>
+          <lg>
+            <l>E dei, com uma frase carinhosa,</l>
+            <l>Um leque de varetas de marfim,</l>
+            <l>Nem estojo de seda cor de rosa</l>
+            <l>Que trescalava a sândalo e benjoim.</l>
+          </lg>
+          <lg>
+            <l>No mimo cravejado de diamantes</l>
+            <l>— Asa sutil de plumas rosicleres, —</l>
+            <l>Estava escrito em letras rutilantes:</l>
+            <l>— “Guarda-o com zelo enquanto me quiseres.”</l>
+          </lg>
+          <lg>
+            <l>Anos após, quando transpus a porta</l>
+            <l>Do seu discreto ninho do verão,</l>
+            <l>Entre flores, de branco, achei-a morta,</l>
+            <l>Com o leque aberto sobre o coração!</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>À HORA DA PARTIDA</head>
+          <lg>
+            <pb n="40" edRef="#pb"/>
+            <l>Loira, com seu colar de pedras preciosas,</l>
+            <l>Assoma a aurora a rir ao belveder de rosas...</l>
+            <l>A estrela d’Alva, ansiosa e trêmula, cintila</l>
+            <l>E gradualmente abranda o fogo da pupila.</l>
+            <l>No alto, as nuvens de jaspe, imóveis como tendas,</l>
+            <l>São tálamos reais com baldaquins de rendas...</l>
+            <l>No espelho matinal do azúleo céu de gala</l>
+            <l>Fosforeiam sutis relâmpagos de opala.</l>
+            <l>Como flutuantes véus, retalhos de neblinas</l>
+            <l>— Ondulâncias brumais das vestes matutinas — </l>
+            <l>Se esgarçam, descobrindo a fronte da montanha</l>
+            <l>Que o dia — noivo astral — de beijos d’oiro banha.</l>
+            <l>Trescalam flores. Canta o passaredo em festa...</l>
+            <l>E ah! que destino o meu! numa aurora como esta</l>
+            <l>Ter cheia de ais a boca e os olhos rasos de água!</l>
+            <l>— Ais de abrasante amor, pranto de acerba mágoa!</l>
+            <l>Partir! partir sem ver aquela que amo tanto,</l>
+            <l>Aquela que é da vida o derradeiro encanto,</l>
+            <l>Que tem candor de lis e aroma de verbena!</l>
+            <l>Partir sem lhe apertar a ebúrnea mão pequena</l>
+            <l>— Uma concha floral que para mim encerra</l>
+            <l>Os tesouros do céu e os cabedais da terra, —</l>
+            <l>É pior que morrer bebendo fel, pregado</l>
+            <l>Nos braços de uma cruz, lívido e ensanguentado!...</l>
+          </lg>
+          <lg>
+            <l>Eis-me em frente da alcova azul em que ela mora,</l>
+            <l>Do flóreo camarim em que se esconde a aurora</l>
+            <pb n="41" edRef="#pb"/>
+            <l>Que me floriu a vida e iluminou minh’alma!</l>
+            <l>Ela dorme, a sonhar, virginalmente calma,</l>
+            <l>Como a abelha na rosa e a rosa na folhagem...</l>
+            <l>Esta alcova é um santuário: há dentro linda imagem!</l>
+            <l>Ela dorme e talvez com anjos sonhe! O arcanjo</l>
+            <l>Por quem, cheio de amor e angústia, a lira tanjo,</l>
+            <l>Deve sonhar com o céu, deve sonhar somente</l>
+            <l>Com diáfanas visões de um brilho opalescente!</l>
+            <l>Talvez sua alma envolta em límpidos luares,</l>
+            <l>Vestida de clarões e raios estelares,</l>
+            <l>Corra, — as asas de luz abrindo, alvas e belas, — </l>
+            <l>As ilhas de cristais flamante das estrelas!</l>
+            <l>Como há de ser risonho o sono dela! Um lírio</l>
+            <l>Não dorme assim, não dorme! É um sono azul do Empíreo!</l>
+            <l>Como doce há de ser o arfar daquele seio</l>
+            <l>Que no alvor dos lençóis se oculta com receio</l>
+            <l>(A estrela d’Alva é assim!) da própria luz, das flores</l>
+            <l>Que lhe dão por um beijo uma ânfora de olores!</l>
+            <l>Ah! quem me dera ver o cândido abandono</l>
+            <l>Dessa estrela que dorme um cristalino sono</l>
+            <l>Entre nuvens de arminho e ramos de violeta!</l>
+            <l>Não dorme assim, não dorme, a ingênua borboleta</l>
+            <l>No colo da papoula... O sono da inocência</l>
+            <l>É um vôo para o céu numa espiral de essência...</l>
+            <l>Como deve encantar a sua formosura</l>
+            <l>Na quietude da alcova ainda meio escura,</l>
+            <l>— O cabelo a envolver o torso do alabastro,</l>
+            <l>Nos lábios de carmim uma centelha de astro,</l>
+            <l>As mãos cruzadas sobre o seio que palpita</l>
+            <l>Como o lago que um cisne, alçando o colo, agita!</l>
+            <l>Dorme... Soa de manso o anélito divino</l>
+            <l>Como um cicio doce e tênue de violino...</l>
+            <l>Ela dorme feliz, sonhando e rindo, enquanto</l>
+            <l>Dos meus olhos deriva amargamente o pranto!</l>
+            <l>Ah! se eu pudesse vê-la embora um só momento!</l>
+            <l>Um minuto que fosse! um só... Se o meu lamento</l>
+            <l>Ela ouvisse, talvez meu choro a comovesse</l>
+            <l>E à janela, um instante embora, aparecesse!</l>
+            <l>Talvez aquele rosto encantador e amado,</l>
+            <l>Pela aurora boreal do amor iluminado,</l>
+            <l>Inda uma vez eu visse! inda uma vez! e ainda,</l>
+            <pb n="42" edRef="#pb"/>
+            <l>Vendo aquela feição radiosamente linda,</l>
+            <l>Eu pudesse exclamar: — “Eu te amo! Eu te amo! Eu te amo!</l>
+            <l>“Com uma frase enxuga o pranto que derramo</l>
+            <l>“Para orvalhar-te as mãos que são preciosas flores!</l>
+            <l>“Desprende o teu cabelo e inunda-me de olores!</l>
+            <l>“Põe um favo de mel na minha negra taça!</l>
+            <l>“Faze-me um astro rir nas trevas da desgraça!</l>
+            <l>“Vou padecer demais longe de ti! Por certo</l>
+            <l>“Se fecha para sempre o céu que eu via perto!</l>
+            <l>“Concede-me um olhar, concede-me um sorriso</l>
+            <l>“Para eu dizer no Inferno: — “Eu vim do Paraíso!”— </l>
+            <l>E ela que é de Maria a filha predileta,</l>
+            <l>Que no seio agasalha a frágil borboleta</l>
+            <l>Que encontra a congelar no berço de uma rosa,</l>
+            <l>Talvez chorasse ouvindo a minha voz chorosa!</l>
+            <l>Talvez se enternecesse ouvindo as minhas penas!</l>
+            <l>Se ela por mim chorasse!... uma lágrima apenas!...</l>
+            <l>— Uma gota de orvalho argêntea e pequenina</l>
+            <l>Tremendo no beiral da pálpebra divina...</l>
+            <l>Uma gema... um diamante... um rútilo pingente</l>
+            <l>A luzir, a luzir miraculosamente...</l>
+            <l>Minh’alma iria ao céu nessa gota de pranto,</l>
+            <l aoidos:link="y">Triunfalmente!...</l>
+            <l>mas, não! eu não aspiro tanto!</l>
+            <l>Bastava-me um “adeus” daquela voz tão doce,</l>
+            <l>Tão cheia de ternura e mel como se fosse</l>
+            <l>A voz de rouxinol cantando na agonia...</l>
+          </lg>
+          <lg>
+            <l>Mas, ai! não a verei! Ela repousa. E o dia,</l>
+            <l>Como um imperador, do trono do Levante,</l>
+            <l>Sob um amplo dossel de púrpura brilhante,</l>
+            <l>Pompeando à fronte o sol como um diadema d’oiro,</l>
+            <l>Dos fulvos raios jorra o torrencial tesoiro...</l>
+            <l>Chegou, enfim, o instante horrífico, medonho!</l>
+          </lg>
+          <lg>
+            <l>Adeus, mulher querida! Adeus, extremo sonho!...</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>A ROSEIRA</head>
+          <lg>
+            <pb n="43" edRef="#pb"/>
+            <l>No jardim de Violeta, à despedida,</l>
+            <l>Plantei, num vaso d’oiro, uma roseira,</l>
+            <l>E, cativando a sua mão querida,</l>
+            <l>Disse num tom de mágoa verdadeira:</l>
+          </lg>
+          <lg>
+            <l>“Enquanto o amor com seu sublime encanto</l>
+            <l>“Te encher o olhar de lágrimas preciosas,</l>
+            <l>“Que esta roseira, que de joelhos planto,</l>
+            <l>“Traga sempre uma túnica de rosas...</l>
+          </lg>
+          <lg>
+            <l>Andei por longes terras levantinas,</l>
+            <l>Guardando nalma — escrínio de saudades, — </l>
+            <l>Da sua voz as notas cristalinas,</l>
+            <l>Do seu olhar as doces claridades.</l>
+          </lg>
+          <lg>
+            <l>Quando volvi ao meu país risonho</l>
+            <l>Todo o jardim de flores se cobria:</l>
+            <l>Mas na roseira do meu lindo sonho</l>
+            <l>(Pobre de mim!), nem um botão havia!</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>REMINISCÊNCIAS</head>
+          <lg>
+            <pb n="44" edRef="#pb"/>
+            <l>Fui há dias rever o sítio nemoroso</l>
+            <l>Onde tu me juraste amor, presa em meus braços,</l>
+            <l>E ainda senti pulsar meu coração ansioso</l>
+            <l>Como outrora escutando o ruído dos teus passos.</l>
+          </lg>
+          <lg>
+            <l>A lua, lampejando em lágrimas acesa,</l>
+            <l>Desfiava em pleno azul o místico rosário,</l>
+            <l>Difundindo por tudo a agônica tristeza</l>
+            <l>Que bebera no olhar da Virgem no Calvário.</l>
+          </lg>
+          <lg>
+            <l>Todo o jardim estava em flor como o deixamos,</l>
+            <l>Mas pairava por tudo um grande desconforto.</l>
+            <l>Horas e horas vaguei sob os floridos ramos</l>
+            <l>Como Jesus por entre as oliveiras do Horto!</l>
+          </lg>
+          <lg>
+            <l>O orvalho, que afogava as brancas açucenas,</l>
+            <l>Luzia como o pranto em pálpebras humanas,</l>
+            <l>Os cravos, espalmando as pétalas serenas,</l>
+            <l>Tinham a cor triunfal das púrpuras romanas.</l>
+          </lg>
+          <lg>
+            <l>O jasmineiro abria os flóculos de neve</l>
+            <l>Como um solto colar de congelados beijos...</l>
+            <l>Parecia-me ouvir no choro da aura leve</l>
+            <l>Da tua voz celeste os últimos arpejos!</l>
+          </lg>
+          <lg>
+            <pb n="45" edRef="#pb"/>
+            <l>Do veludo oriental das melindrosas flores,</l>
+            <l>Da boca juvenil das nacaradas rosas</l>
+            <l>Subia incensalmente um hálito de olores,</l>
+            <l>Uma fluida espiral de essências vaporosas.</l>
+          </lg>
+          <lg>
+            <l>A rosa do Japão, que, ao léu, estremecia</l>
+            <l>À brisa mais sutil que um sopro de criança,</l>
+            <l>Espetada no hastil, sangrando, parecia</l>
+            <l>Um coração suspenso à ponta de uma lança!</l>
+          </lg>
+          <lg>
+            <l>Os eflúvios da noite enchiam-me toda a alma</l>
+            <l>Como enchem uma igreja as vaporais de incenso.</l>
+            <l>Havia no mexer de cada móbil palma</l>
+            <l>As mágoas que no adeus sacode ao longe um lenço...</l>
+          </lg>
+          <lg>
+            <l>E atroz recordação dos claros dias idos</l>
+            <l>— Mar em que o meu batel não encontrava escolhos — </l>
+            <l>À boca me arrancou gemidos e gemidos,</l>
+            <l>Fazendo transbordar os lagos dos meus olhos!...</l>
+          </lg>
+          <lg>
+            <l>Com que saudade agora, a suspirar, me lembro</l>
+            <l>Dos beijos que me deste em horas de delírio!</l>
+            <l>Não te recordas mais? Sorria em flor setembro...</l>
+            <l>Pobre sonho! não teve a duração de um lírio!</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>CONSOLADO</head>
+          <lg>
+            <pb n="46" edRef="#pb"/>
+            <l>Nunca mais te ouvirei as aliciantes falas, </l>
+            <l rend="indent">Branco cisne taful </l>
+            <l>Nem terei o hidromel dos beijos com que embalas</l>
+            <l rend="indent">A alma num berço azul!</l>
+          </lg>
+          <lg>
+            <l>Nunca mais te unirei ao peito em doce abraço</l>
+            <l rend="indent">Sob os astrais faróis!</l>
+            <l>O meu castelo veio abaixo num fracasso</l>
+            <l rend="indent">De estrelas e de sóis.</l>
+          </lg>
+          <lg>
+            <l>Tudo está findo, tudo! Adeus, miragem linda!</l>
+            <l rend="indent">Adeus, loira ilusão!</l>
+            <l>Adeus... porque hei de amar em breve outras ainda...</l>
+            <l rend="indent">Não morre o coração...</l>
+          </lg>
+          <lg>
+            <l>Quantas mulheres tenho amado! Quinze ou vinte!</l>
+            <l rend="indent">Só vinte? Muito mais!</l>
+            <l>E todas, como tu, brilharam num requinte </l>
+            <l rend="indent">De graças virginais.</l>
+          </lg>
+          <lg>
+            <l>Natália, Dulce, Ester, Lavínia, Fúlvia, Ofélia</l>
+            <l rend="indent">— Flores do meu jardim — </l>
+            <l>De bocas de papoula e colos de camélia</l>
+            <l rend="indent">E pomas de jasmim...</l>
+          </lg>
+          <lg>
+            <pb n="47" edRef="#pb"/>
+            <l>Primeiramente amei uma mulher por ano,</l>
+            <l rend="indent">Depois — uma por mês,</l>
+            <l>E a todas consagrei o mesmo afeto insano:</l>
+            <l rend="indent">A ti maior, talvez...</l>
+          </lg>
+          <lg>
+            <l>Quem perde uma ilusão ridente nada perde:</l>
+            <l rend="indent">Pois outras ilusões</l>
+            <l>Se abrem no coração, que é uma roseira verde</l>
+            <l rend="indent">Coberta de botões!</l>
+          </lg>
+
+        </div>
+        <div type="poem">
+          <head>SÓ</head>
+          <lg>
+            <pb n="48" edRef="#pb"/>
+            <l>Avança lentamente ó préstito da Noite,</l>
+            <l>A treva ondula desdobrando véus mortuários.</l>
+            <l>A rajada, que vibra o sibilante açoite,</l>
+            <l>Povoa o espaço de soluços funerários.</l>
+          </lg>
+          <lg>
+            <l>Preso na escuridão deste aposento mudo,</l>
+            <l>Escuto vozes funerais, prantos doridos...</l>
+            <l>Como sofro! Minh’alma é um lírio de veludo</l>
+            <l>Que se desfolha em melancólicos gemidos!</l>
+          </lg>
+          <lg>
+            <l>Às vezes, como um ai de sangue, de repente</l>
+            <l>Surge, entre nuvens, a verônica da lua,</l>
+            <l>E, entre névoas, de pronto, oculta o disco algente,</l>
+            <l>Da extrema réstia recolhendo a espada nua.</l>
+          </lg>
+          <lg>
+            <l>Que frio siberiano as carnes me congela!</l>
+            <l>Que sorte hedionda me encarcera e me acorrenta </l>
+            <l>Neste exílio feral onde essa imagem bela</l>
+            <l>Não me sorri, não me conforta, não me alenta!</l>
+          </lg>
+          <lg>
+            <l>Quanto me dói ouvir o flébil murmurinho</l>
+            <l>Das casuarinas, num assalto de desejo,</l>
+            <l>Sem ti, sem teu amor, sem teu olhar, sozinho,</l>
+            <l>Sem teu calor, sem teu perfume, sem teus beijos!</l>
+          </lg>
+          <lg>
+            <pb n="49" edRef="#pb"/>
+            <l>Quem me dera, no horror desta noite de julho,</l>
+            <l>Ver-te ao meu lado, como outrora, suave e langue,</l>
+            <l>Com brados de alegria abafando o marulho</l>
+            <l>Dos vagalhões atropelados do meu sangue!</l>
+          </lg>
+          <lg>
+            <l>Quem me dera cingir-te o corpo alabastrino</l>
+            <l>De ninfa grega com as algemas dos meus braços,</l>
+            <l>E da boca arrancar-te um cântico divino</l>
+            <l>Pedindo beijos, suplicando mais abraços!</l>
+          </lg>
+          <lg>
+            <l>Ah! se eu pudesse, haurindo o teu aroma ebriante,</l>
+            <l>Colher um lírio no jardim desse alvo colo,</l>
+            <l>E enrolar-me no véu do teu cabelo ondeante</l>
+            <l>Como no linho dos lençóis que me enrolo!...</l>
+          </lg>
+          <lg>
+            <l>Mas preciso calar o coração que chora,</l>
+            <l>Porque estás longe, em terra estranha, em outro clima...</l>
+            <l>Como é triste sonhar nas trevas com a aurora!</l>
+            <l>Que desventura pode haver que mais oprima?</l>
+          </lg>
+          <lg>
+            <l>E a Noite, que caminha, estuda o passo aéreo,</l>
+            <l>E a névoa cresce, e o vento ulula, e o frio corta,</l>
+            <l>Enquanto eu abro nalma — eterno cemitério — </l>
+            <l>A sepultura da esperança há muito morta!...</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>IMORTAL</head>
+          <lg>
+            <pb n="50" edRef="#pb"/>
+            <l>Na gelada necrópole do Olvido,</l>
+            <l>Onde jazem aquelas que adorei,</l>
+            <l>Quis sepultar o arcanjo estremecido</l>
+            <l>Que tanta vez nos braços apertei!</l>
+          </lg>
+          <lg>
+            <l>Dentro de uma sombria sepultura,</l>
+            <l>Amortalhada num espúmeo véu,</l>
+            <l>Coloquei-a calcando a terra dura</l>
+            <l>Sobre o pequeno esquife cor do céu.</l>
+          </lg>
+          <lg>
+            <l>Mas — oh! destino infando! — nesse instante,</l>
+            <l>Sacudindo a mortalha no caixão,</l>
+            <l>Como a filha de Jairo, deslumbrante</l>
+            <l>Ela se ergueu envolta num clarão!...</l>
+          </lg>
+          <lg>
+            <l>Debalde heroico, o choro da alma ouvindo,</l>
+            <l>Enterro-a e digo: — “Até que enfim, Senhor!”</l>
+            <l>Ela abandona o túmulo, sorrindo,</l>
+            <l>Ressuscitada pelo meu amor!</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>HORAS DE SONO</head>
+          <lg>
+            <pb n="51" edRef="#pb"/>
+            <l>Todos os dias, quando o sol empalidece</l>
+            <l>E expira em prantos d’oiro, amortalhado em rosas,</l>
+            <l>A minh’alma suspira, a minh’alma estremece,</l>
+            <l>Procurando abraçar figuras vaporosas!</l>
+          </lg>
+          <lg>
+            <l>Subo ao mirante e só, haurindo o cheiro intenso</l>
+            <l>Dos laranjais em flor, trazido pela aragem,</l>
+            <l>Embebo no horizonte um mesto olhar imenso,</l>
+            <l>A sonhar, a sonhar com feminina imagem!</l>
+          </lg>
+          <lg>
+            <l>De manso estranha mágoa o coração me invade</l>
+            <l>Por me sentir tão só! tão só... Então padeço,</l>
+            <l>E enche-me os olhos de água uma cruel saudade</l>
+            <l>De alguém que eu nunca vi, de alguém que eu não conheço!</l>
+          </lg>
+          <lg>
+            <l>Para me distrair, fumo de instante a instante, </l>
+            <l>Seguindo a ondulação do fumo no ar perdido:</l>
+            <l>Mas até nesse frouxo e brúmeo véu flutuante</l>
+            <l>Parece-me que vejo as rendas de um vestido!</l>
+          </lg>
+          <lg>
+            <l>Agita-me um desejo avassalante e forte</l>
+            <l>De amar alguém que seja a flor das criaturas,</l>
+            <l>Com um amor capaz de me trazer a morte,</l>
+            <l>Para servir de exemplo às gerações futuras!</l>
+          </lg>
+          <lg>
+            <pb n="52" edRef="#pb"/>
+            <l>Abrasa-me uma febre, uma vontade ardente</l>
+            <l>De apertar contra o seio uma lirial menina</l>
+            <l>E beijar silenciosa e apaixonadamente</l>
+            <l>A sua boca em flor, vermelha, e pequenina!</l>
+          </lg>
+          <lg>
+            <l>E sonho... Ouço uma voz que balbucia a medo...</l>
+            <l>Queixumes de mulher ungidos de meiguice...</l>
+            <l>E palavras de amor ciciadas em segredo,</l>
+            <l>E frases celestiais que nunca ninguém disse!</l>
+          </lg>
+          <lg>
+            <l>Não sei donde me vem, como um presente d’oiro,</l>
+            <l>Um delicado, um fino aroma de violeta...</l>
+            <l>Não, não é de violeta: é de um cabelo loiro!</l>
+            <l>É o perfume sutil nas tranças de Julieta!...</l>
+          </lg>
+          <lg>
+            <l>E, só, meu coração plange como uma lira,</l>
+            <l>Até que a noite esfolha os goivos da tristeza,</l>
+            <l>E a estrela do pastor fulgura qual safira</l>
+            <l>Na láctea veludez de um colo de princesa...</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>A SAUDADE</head>
+          <opener>
+            <epigraph>
+              <cit>
+                <quote>A saudade é um fugaz aroma de violetas...</quote>
+                <bibl>E. DE CASTRO.</bibl>
+              </cit>
+            </epigraph>
+          </opener>
+          <lg>
+            <pb n="53" edRef="#pb"/>
+            <l>No discreto jardim, entre florais caçoulas,</l>
+            <l>Fitando o Ocaso, que era um campo de papoulas,</l>
+            <l>Eu meditava ao pé do repuxo orvalhante</l>
+            <l>Que faz de um pingo de água um rútilo diamante, </l>
+            <l>Arrancando do seio um lamento dorido</l>
+            <l>Como de uma harpa d’oiro um músico gemido...</l>
+            <l>Sangrando de tristeza, em lágrimas boiando,</l>
+            <l>Meu coração pulsava exulcerado quando</l>
+            <l>Descubro uma mulher vestida de violetas</l>
+            <l>Que exalam, entreabrindo as roxas caçoletas,</l>
+            <l>Um perfume sutil de sonhos desfolhados...</l>
+            <l>São astros a chorar seus olhos angustiados,</l>
+            <l>Seus olhos tristes como as horas de agonia!</l>
+            <l>Tem ares de Belquisse e feições de Maria;</l>
+            <l>O seu leve rumor, que é mágica surdina,</l>
+            <l>Parece o sussurrar da aragem vespertina</l>
+            <l>Brincando entre jasmins... Contemplo-a embevecido.</l>
+            <l>Nisto a excelsa visão, num harmonioso ruído,</l>
+            <l>Pousa em meu ombro, a mão de nítido alabastro</l>
+            <l>Onde chispam anéis de fulvos brilhos de astros,</l>
+            <l>E muda, — como quem, num dia de amargura,</l>
+            <l>Coloca uma coroa em uma sepultura, —</l>
+            <l>Desata sobre mim o seu cabelo loiro</l>
+            <pb n="54" edRef="#pb"/>
+            <l>— “Quem és tu? — perguntei: — arcanjo, deusa ou fada?</l>
+            <l>“De que azúlea mansão, de que auroral morada</l>
+            <l>“Vieste? Dize, visão talvez do céu descida</l>
+            <l>“Para levar-me à astral Jerusalém querida!</l>
+            <l>— “Eu sou a divindade a que tu rendes culto,</l>
+            <l>“— Volveu-me a aparição: — do teu olhar me oculto</l>
+            <l>“Para não avivar dessa alma ardente as dores</l>
+            <l>“— Um ramo que perdeu inda em botão as flores...</l>
+            <l>“Sou a deusa do altar cujas imagens belas</l>
+            <l>“São aquelas que amaste, as cândidas donzelas</l>
+            <l>“Que passaram por ti cobrindo-te de rosas,</l>
+            <l>“Fazendo-te sonhar cousas maravilhosas:</l>
+            <l>“Cidades de cristal de atênica beleza,</l>
+            <l>“Castelos d’oiro e prata e pórfiro e turquesa</l>
+            <l>“Por diáfanos vitrais bebendo claridade</l>
+            <l>“E desafiando o Azul com seus torreões de jade!</l>
+            <l>“São aquelas que outrora, em versos rendilhados,</l>
+            <l>“Vestiste de oiropéis, de púrpura e brocados,</l>
+            <l>“De espúmeos brocatéis, de arcoirisadas lhamas,</l>
+            <l>“De escumilhas brumais e vaporosas tramas,</l>
+            <l>“E cujo ebúrneo colo, — alvo como a inocência</l>
+            <l>“De um bogari que encerra uma ânfora de olência, — </l>
+            <l>“Cobriste de rocais de pérolas radiantes,</l>
+            <l>“— Dessas que saem da alma em chuvas cintilantes...</l>
+          </lg>
+          <lg>
+            <l>“Quando na solidão, cheio de desconforto,</l>
+            <l>“Evocas as visões de um grande sonho morto,</l>
+            <l>“Eu faço desfilar pela tua alma em fora</l>
+            <l>“As humanas cecéns de voz de mel, sonora,</l>
+            <l>“Formas de jaspe, olhar de seda, boca breve,</l>
+            <l>“Dos seios a pompear o lindo par de neve!</l>
+            <l>“Brancos lírios do céu! Crianças adoráveis!</l>
+            <l>“Auroras virginais de dias inefáveis!</l>
+          </lg>
+          <lg>
+            <l>“À hora em que se fecha o malmequer do Poente,</l>
+            <l>“E as sombras vesperais vão silenciosamente</l>
+            <l>“Subindo em ronda alada a ravina dos montes</l>
+            <l>“Donde deriva o pranto opálico das fontes,</l>
+            <l>“E em que a mágoa abemola o canto dos pastores</l>
+            <l>“E palpita em segredo o coração das flores;</l>
+            <l>“À hora em que o planger das virações nas franças</l>
+            <pb n="55" edRef="#pb"/>
+            <l>“Tem a suave inflexão das vozes das crianças,</l>
+            <l>“E entre finos frouxéis, na tepidez do ninho,</l>
+            <l>“Balbucia a oração da tarde o passarinho;</l>
+            <l>“Ness’hora de um ferir de seta cariciosa</l>
+            <l>“Em que a primeira estrela, ingênua e vergonhosa,</l>
+            <l>“Aparece a tremer, baixando o olhar doirado,</l>
+            <l>“Como a noiva ao entrar na alcova do noivado:</l>
+            <l>“— Eu te levo ao meu templo eternamente aberto</l>
+            <l>“Onde de encontro ao seio imáculo te aperto,</l>
+            <l>“Mostrando-te uma a uma as formosas imagens</l>
+            <l>“Que te enlevaram como um brilho de miragens,</l>
+            <l>“Deixando-te a gemer no Gólgota da Vida,</l>
+            <l>“Vendo esfumar-se ao longo a Terra Prometida!...</l>
+          </lg>
+          <lg>
+            <l>Com passos de veludo a Noite vinha. Ardia</l>
+            <l>Na amplitude do céu esparsa pedraria.</l>
+            <l>E com o estema irial de branda claridade</l>
+            <l>O vulto feminil da mística Saudade,</l>
+            <l>Que em rimas cristaliza as lágrimas dos poetas,</l>
+            <l>Afastou-se deixando um rastro de violetas...</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>DOUS AMORES</head>
+          <lg>
+            <pb n="56" edRef="#pb"/>
+            <l>Um duplo e grande amor me abrasa e me alucina</l>
+            <l>E me faz suspirar por férvidos abraços:</l>
+            <l>Adoro uma Frinéia e uma gentil menina,</l>
+            <l>E tenho o coração partido em doUs pedaços!</l>
+          </lg>
+          <lg>
+            <l>Quando vejo a Raquel quero ver outra logo,</l>
+            <l>E a que está longe chamo em delirantes brados,</l>
+            <l>E não posso romper as cadeias de fogo</l>
+            <l>Que em forças iguais me prendem de dois lados.</l>
+          </lg>
+          <lg>
+            <l>Como um náufrago, luto entre parcéis, sem norte,</l>
+            <l>E entre os dois pólos ardo em padecer eterno!</l>
+            <l>Uma é a visão da Vida, outra é a visão da Morte!</l>
+            <l>Uma desceu do Céu, outra subiu do Inferno!</l>
+          </lg>
+          <lg>
+            <l>Se pela mão direita o arcanjo me segura,</l>
+            <l>Logo o gênio do Mal por outra mão me pega,</l>
+            <l>E minh’alma, a tremer, fica na noite escura,</l>
+            <l>Vacilando, a tatear, como uma pomba cega!</l>
+          </lg>
+          <lg>
+            <l>Uma é a dócil Beatriz a cujos pés eu caio,</l>
+            <l>Outra a diva pagã, a voluptuosa hetere;</l>
+            <l>O riso de uma é um astro, o riso de outra é um raio:</l>
+            <l>Uma ilumina e aquece, outra atordoa e fere.</l>
+          </lg>
+          <lg>
+            <pb n="57" edRef="#pb"/>
+            <l>Uma escuta o estridor da borrascosa tromba</l>
+            <l>Pedindo à Virgem Mãe que a ampare por piedade,</l>
+            <l>Outra afronta o ciclone e dos perigos zomba</l>
+            <l>Com sorrisos triunfais de ardende claridade.</l>
+          </lg>
+          <lg>
+            <l>A primeira aprecia as harpas, os violinos, </l>
+            <l>A lira, o cravo, o piano e a cítara sonora,</l>
+            <l>Os enxames de sons etéreos, cristalinos,</l>
+            <l>Que parecem sair da boca de uma aurora!</l>
+          </lg>
+          <lg>
+            <l>Aprecia as canções, as líricas sonatas,</l>
+            <l>Que são torrentes de ais de uma alma lacrimosa,</l>
+            <l>As vibrações sutis, árias, mandolinatas,</l>
+            <l>Palestrina, Môzar, Belini e Cimarosa.</l>
+          </lg>
+          <lg>
+            <l>A segunda prefere as músicas de guerra,</l>
+            <l>A fanfarra marcial de bélicos fragores,</l>
+            <l>A trombeta, o clarim, o pífano que berra,</l>
+            <l>O címbalo, o atabale, os sistros e os tambores;</l>
+          </lg>
+          <lg>
+            <l>Apraz-lhe mais ouvir as marchas militares,</l>
+            <l>Os rufos de um adufe e os sons das castanholas</l>
+            <l>Que estridulosamente, em chocalhantes pares,</l>
+            <l>Cascavelam febris nas mãos das espanholas.</l>
+          </lg>
+          <lg>
+            <l>Os olhos de uma têm a luminosidade</l>
+            <l>De uma aurora de abril cheia de pombas mansas,</l>
+            <l>São quietos lagos onde em viva alacridade</l>
+            <l>Em batéis de cristas passeiam esperanças...</l>
+          </lg>
+          <lg>
+            <l>Os olhos de outra, sob os lúgubres presságios</l>
+            <l>Das sobrancelhas, são Estiges pavorosas</l>
+            <l>Feitas para colher, na angústia dos naufrágios,</l>
+            <l>Dos sonhos juvenis as lindas naus pomposas!</l>
+          </lg>
+          <lg>
+            <l>Uma adora os jasmins de acariciante aroma,</l>
+            <l>As violetas, que são o seu maior tesoiro,</l>
+            <l>E os lírios cor de luz que prende à flava coma</l>
+            <l>— Borboletas dormindo em uma nuvem d’oiro...</l>
+          </lg>
+          <lg>
+            <pb n="58" edRef="#pb"/>
+            <l>Outra — a dália, a papoula, a rosa que embalsama</l>
+            <l>Todo um templo, ostentando as graças coloridas,</l>
+            <l>E os cravos purpurais de pétalas de chama,</l>
+            <l>Que são os corações das mortas Margaridas.</l>
+          </lg>
+          <lg>
+            <l>De uma o cabelo crespo é uma aloirada sombra,</l>
+            <l>Outra nas tranças tem os noturnais negrores.</l>
+            <l>O colo da primeira é uma cheirosa alfombra,</l>
+            <l>O colo da segunda é um espinhal com flores.</l>
+          </lg>
+          <lg>
+            <l>A primeira é a criança ingênua e alabastrina,</l>
+            <l>Um sonho de Murilo, um tipo de aquarela,</l>
+            <l>A vaporosa Ofélia, a castelã franzina,</l>
+            <l>Gracilmente lirial e lirialmente bela!</l>
+          </lg>
+          <lg>
+            <l>A segunda é uma flor carnívora e robusta</l>
+            <l>Que seduz com o perfume e com os espinhos mata,</l>
+            <l>A suntuosa Laís de uma lama de Locusta,</l>
+            <l>A Pompéia fatal de instintos de pirata.</l>
+          </lg>
+          <lg>
+            <l>Uma no coração precioso tem miríades</l>
+            <l>De estrelas e o pudor da bíblica Susana,</l>
+            <l>Outra — a crueza atroz da bárbara Herodíades</l>
+            <l>Que fez calar de João a língua soberana.</l>
+          </lg>
+          <lg>
+            <l>Uma é pudica e tem um ar de quem padece,</l>
+            <l>Outra — de uma amazona o arrojo formidando.</l>
+            <l>A voz de uma recorda uma serena prece,</l>
+            <l>A voz de outra recorda um grito de comando.</l>
+          </lg>
+          <lg>
+            <l>Uma faz orações, outra solta blasfêmias,</l>
+            <l>Uma atrai com a bondade, outra com as formas nuas.</l>
+            <l>Os seios de uma são duas estrelas gêmeas,</l>
+            <l>Os seios de outra são duas marfíneas luas...</l>
+          </lg>
+          <lg>
+            <l>Assim, vivo a lutar sem calma, a todo instante,</l>
+            <l>Com este duplo amor, numa ânsia sem limite,</l>
+            <l>Entre a meiga Vestal e a pérfida Bacante,</l>
+            <l>Entre a Virgem Maria e Vênus Afrodite!</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>LEDA</head>
+          <lg>
+            <pb n="59" edRef="#pb"/>
+            <l>Só, na mudez claustral da câmara discreta,</l>
+            <l>Triste, eu pensava em Leda... Uma angústia secreta</l>
+            <l>Abalava-me todo, exulcerante e forte,</l>
+            <l>Como abala um arbusto o furacão do norte;</l>
+            <l>E, fora, o inverno, que é da terra o pesadelo,</l>
+            <l>Chorava aperolando as lágrimas de gelo...</l>
+          </lg>
+          <lg>
+            <l>Sobre a mesa, onde estudo e onde escrevera os versos</l>
+            <l>Que relia em segredo, olhos em prato imersos,</l>
+            <l>— Estrofes onde aquela inolvidável morta,</l>
+            <l>Cuja saudade ainda o coração me corta,</l>
+            <l>Fulgura para sempre envolta em brilhos d’oiro</l>
+            <l>Como em nicho de prata um lindo arcanjo loiro; — </l>
+          </lg>
+          <lg>
+            <l>Sobre a mesa, onde havia aljôfares de pranto,</l>
+            <l>Eu abrira de novo o flóreo escrínio santo</l>
+            <l>Onde — tempo feliz! — eu, cheio de cautela,</l>
+            <l>Guardava, ébrio de amor, tudo o que vinha dela:</l>
+            <l>Bilhetes aromais, velinos perfumados,</l>
+            <l>Folhas de malva, um leque e outros mimos sagrados.</l>
+          </lg>
+          <lg>
+            <l>De tudo se evolava uma espiral de essência,</l>
+            <l>Um hálito floral, uma sombra de olência,</l>
+            <l>Como de um coração um íntimo queixume</l>
+            <l>Quando a saudade acende o cristalino lume!</l>
+            <l>E, como outrora, eu via o lótus de virtude</l>
+            <l>Da ofélica beleza em toda a plenitude.</l>
+          </lg>
+          <lg>
+            <pb n="60" edRef="#pb"/>
+            <l>Tinha presente ali o angélico retrato</l>
+            <l>Que ela, ainda criança ingênua, com recato</l>
+            <l>Me dera, a palpitar, em hora de ternura:</l>
+            <l>Era a mesa feição de uma radiante alvura!</l>
+            <l>Era a graça de abril na candidez de um lírio!</l>
+            <l>Por isso eu a adorei com febre e com delírio!</l>
+          </lg>
+          <lg>
+            <l>E, ao pensar na cecém de mística fragrância</l>
+            <l>Que amei desde a manhã edênica da infância</l>
+            <l>Até a hora fatal em que a tragou a cova,</l>
+            <l>Sinto que a minha dor acerba se renova!</l>
+            <l>E, para o céu erguendo os lacrimantes olhos,</l>
+            <l>Fiz esta invocação tristíssima, de giolhos:</l>
+          </lg>
+          <lg>
+            <l>“— Alma que habitas hoje a pátria azul da Glória,</l>
+            <l>“Livre das provações da humana trajetória,</l>
+            <l>“Colhendo nos jardins de luz do Paraíso</l>
+            <l>“Coroas de jasmins da cor do teu sorriso;</l>
+            <l>“Alma que tanto amei, alma impoluta e linda,</l>
+            <l>“Recorda-te de mim que te amo tanto ainda!</l>
+          </lg>
+          <lg>
+            <l>“Tu que foste no mundo o meu supremo sonho,</l>
+            <l>“A estrela do meu céu, o meu ideal risonho,</l>
+            <l>“O meu excelso orgulho, a fonte em que eu bebia</l>
+            <l>“Urnas de inspiração, ânforas de alegria;</l>
+            <l>“Tu que punhas no olhar clarões de plenilúnio</l>
+            <l>“Para me iluminar nos dias de infortúnio;</l>
+          </lg>
+          <lg>
+            <l>“Tu que com as róseas mãos banias meu desgosto</l>
+            <l>“Enxugando-me sempre as lágrimas do rosto,</l>
+            <l>“E trazias minh’alma, a rir matinalmente,</l>
+            <l>“Dentro do hostiário azul de uma ilusão ridente,</l>
+            <l>“— Deixa por um momento a Bem-aventurança</l>
+            <l>“E vem dar-me num beijo um raio de esperança!</l>
+          </lg>
+          <lg>
+            <l>“Escuta o meu gemido! Escuta a minha prece!</l>
+            <l>“Deixa um instante o Céu! Desce do Empíreo! Desce!</l>
+            <l>“Meu anjo tutelar, minha noiva querida,</l>
+            <l>“Atende! atende! Traze um bálsamo à ferida</l>
+            <l>“Cancerosa que escondo a padecer sem calma!</l>
+            <l>“Tem piedade de mim! Tem pena de minh’alma!</l>
+          </lg>
+          <lg>
+            <pb n="61" edRef="#pb"/>
+            <l>“Não ouves os meus ais? Não vês como padeço?</l>
+            <l>“Não te lembras de mim que de ti não me esqueço?</l>
+            <l>“Em vão levanto ansioso os braços anelantes</l>
+            <l>“Para esse corpo ideal, que eu apertava dantes,</l>
+            <l>“Bebendo o teu aroma, entre ósculos de brasa</l>
+            <l>“Cujo rumor lembrava um brando ruflo de asa!</l>
+          </lg>
+          <lg>
+            <l>“Não vês como, alta noite, a solução, procuro</l>
+            <l>“Por ti, que estás tão longe! e, sôfrego, murmuro</l>
+            <l>“Teu nome que é um perfume etéreo de violeta?</l>
+            <l>“Se não tens asas, pede a alguma borboleta</l>
+            <l>“Que t’as empreste: assim tu chegarás mais cedo</l>
+            <l>“Para me consolar neste áspero degredo!</l>
+          </lg>
+          <lg>
+            <l>“Alma adorada e pulcra, alma adorada e branca,</l>
+            <l>“Aparece uma vez! só uma vez! Arranca</l>
+            <l>“Os espinhos que estão cravados no meu peito!</l>
+            <l>“Espírito querido, espírito perfeito,</l>
+            <l>“Ouve as notas febris e mestas dos meus hinos</l>
+            <l>“Cheios de angústia como um choro de violinos!...</l>
+          </lg>
+          <lg>
+            <l>“Se é dado a quem partiu desta mansão de dores</l>
+            <l>“Volve à terra ingrata onde plantou mil flores,</l>
+            <l>“Presta ouvido ao clamor de um mísero que chora!</l>
+            <l>“Deixa a Estância onde a vida é uma irisada aurora,</l>
+            <l>“E vem, astro de amor, com toda a claridade,</l>
+            <l>“Brilhar num coração que morre de saudade!...” — </l>
+          </lg>
+          <lg>
+            <l>Nisto, perto de mim, que sofro e choro ainda,</l>
+            <l>Vislumbro uma figura estranhamente linda</l>
+            <l>Numa ondulância azul de luminosa bruma,</l>
+            <l>Que tudo em derredor enluara e perfuma;</l>
+            <l>E duas mãos de jaspe, e duas mãos pequenas;</l>
+            <l>Destacam-se à feição de fluidas açucenas...</l>
+          </lg>
+          <lg>
+            <l>De linha em linha, um rosto ideal, que me deslumbra,</l>
+            <l>Alveja gracilmente em meio da penumbra</l>
+            <l>— Um rosto angelical que um nimbo d’oiro envolve,</l>
+            <l>E a diáfana visão, que o meigo olhar me volve,</l>
+            <l>Aos poucos se transmuda, aos poucos se transforma,</l>
+            <l>E claramente assume a feminina forma.</l>
+          </lg>
+          <lg>
+            <pb n="62" edRef="#pb"/>
+            <l>Circundam-lhe o recacho as vestes ondulantes</l>
+            <l>Que lhe caem aos pés em folhos neblinantes,</l>
+            <l>Cobertas de botões de gemas incendiadas</l>
+            <l>E pulverizações de estrelas trituradas.</l>
+            <l>Pelo esplendor astral que a fronte lhe reveste,</l>
+            <l>Vê-se que ela baixou da habitação celeste.</l>
+          </lg>
+          <lg>
+            <l>O seu loiro cabelo ondeante se desata</l>
+            <l>Em móbeis caracóis, em fúlgida cascata</l>
+            <l>Pelos ombros de estátua ebúrnea que caminha</l>
+            <l>Com o donaire do cisne e a graça de andorinha.</l>
+            <l>É uma gota de luz ardendo numa rosa...</l>
+          </lg>
+          <lg>
+            <l>— “Leda! Leda!” — aos seus pés caindo, balbucio:</l>
+            <l>Ela, que vê desta alma o pélago sombrio,</l>
+            <l>Roçando sem rumor o tapete, desliza</l>
+            <l>Como quem, a sonhar, fofez de nuvens pisa,</l>
+            <l>E, beijando-me a fronte e apertando-me ao seio,</l>
+            <l>Fala-me numa voz mais doce que um gorjeio:</l>
+          </lg>
+          <lg>
+            <l>— “Julgas que te esqueci? Quando a alma fugitiva </l>
+            <l>“Sai da torre de argila em que viveu cativa,</l>
+            <l>“Leva, como uma sombra, uma eternal saudade</l>
+            <l>“Que a segue pelo azul sem fim da Imensidade</l>
+            <l>“E a faz — pomba veloz que entre as estrelas erra — </l>
+            <l>“Volver o olhar a tudo o que adorou na terra.</l>
+          </lg>
+          <lg>
+            <l>“A alma conserva sempre o santo relicário</l>
+            <l>“Das afeições, e guarda em lúcido ementário</l>
+            <l>“De páginas de luz — recordações de tudo:</l>
+            <l>“De um beijo, de um olhar, de uns braços de veludo,</l>
+            <l>“De um sítio, de uma flor, de uma sutil fragrância,</l>
+            <l>“De um lenço, a sacudir adeuses à distância!</l>
+          </lg>
+          <lg>
+            <l>“Desde que desatei os liames da matéria </l>
+            <l>“E tomei esta forma impalpável, etérea,</l>
+            <l>“Pensas que se acabou o amor que eu te votava</l>
+            <l>“E que me transformou em tua meiga escrava?</l>
+            <l>“No entanto quanta vez o próprio seio firo</l>
+            <l>“Ouvindo a invocação que fazes num suspiro!</l>
+          </lg>
+          <lg>
+            <pb n="63" edRef="#pb"/>
+            <l>“Quando dormes, ao pé de ti, calada, velo,</l>
+            <l>“Apertando-te as mãos, beijando-te o cabelo</l>
+            <l>“Com ternura de irmã e carinho de noiva;</l>
+            <l>“Com um sopro dissipo a névoa que te engoiva</l>
+            <l>“A fronte, a qual, outrora, a permutar blandícias,</l>
+            <l>“Eu veludosamente enchia de carícias!</l>
+          </lg>
+          <lg>
+            <l>“Nas noites hibernais, de um frio que congela,</l>
+            <l>“Quando a brusca rajada, escancarando a goela,</l>
+            <l>“Pragueja fora como um Hércules possesso,</l>
+            <l>“Eu do cabelo faço um manto fofo e espesso</l>
+            <l>“Para cobrir-te, e insuflo um pouco de quentura</l>
+            <l>“Nesse corpo que sofre a mais cruel tortura.</l>
+          </lg>
+          <lg>
+            <l>“Se estás, enfermo, então — solícita enfermeira — </l>
+            <l>“Dias e dias passo a tua cabeceira</l>
+            <l>“Como uma borboleta ao pé de um lírio doente!</l>
+            <l>“E com fervor suplico ao Deus Onipotente</l>
+            <l>“Que aclare os olhos teus — olhos de negros cílios</l>
+            <l>“Que já foram dois sóis iluminando idílios!...</l>
+          </lg>
+          <lg>
+            <l>“Num plaustro de cristal puxado por dois sonhos,</l>
+            <l>“Eu ascendo contigo aos páramos risonhos</l>
+            <l>“Onde soa a harmonia orfeica das esferas,</l>
+            <l>“Que tremeluzem como enxames de quimeras,</l>
+            <l>“Girando na amplidão, no círculo traçado</l>
+            <l>“Para as evoluções do sideral bailado.</l>
+          </lg>
+          <lg>
+            <l>“De outros mundos te mostro a iriante maravilha</l>
+            <l>“Enquanto, muito acima, o sol flamante brilha</l>
+            <l>“Contemplando em redor as estrelas de rastros</l>
+            <l>“— Nabucodonosor da Babilônia de astros...</l>
+            <l>“E penetras assim em reinos deslumbrantes</l>
+            <l>“Onde há mares de mel e serras de diamantes!</l>
+          </lg>
+          <lg>
+            <l>“Quando a sós, no cairel de hiante precipício,</l>
+            <l>“Estás a resvalar, de pronto, sem bulício,</l>
+            <l>“Eu acudo e te amparo às bordas da voragem;</l>
+            <l>“E pela asperidão dantesca da paragem</l>
+            <l>“Eu caminho ao teu lado, entre alcantis a prumo,</l>
+            <l>“Durante a viagem toda a dirigir-te o rumo.</l>
+          </lg>
+          <lg>
+            <pb n="64" edRef="#pb"/>
+            <l>“Não ouves, muita vez, no rugitar do vento</l>
+            <l>“Um grito de agonia, um fúnebre lamento</l>
+            <l>“De uma lira a planger? Sou eu que, visitando</l>
+            <l>“Este canto da terra em que vivi amando,</l>
+            <l>“Pranteio sobre o pó de uma ilusão saudosa</l>
+            <l>“Que a morte desfolhou como um botão de rosa!... </l>
+          </lg>
+          <lg>
+            <l>“Mas desponta a manhã. Chama-me o olhar da aurora.</l>
+            <l>“Não chores mais! Espera! Eu te amo como outrora!</l>
+            <l>“Vou para o Céu... Adeus!...” — Disse nem leve harpejo,</l>
+            <l>E, dando-me na fronte o derradeiro beijo,</l>
+            <l>Evaporou-se... Nesse instante, em glória, o dia</l>
+            <l>À porta de coral do Oriente aparecia...</l>
+          </lg>
+        </div>
+      </div>
+      <div type="part">
+        <head>AQUARELAS</head>
+        <div type="poem">
+          <head>O ARANHOL</head>
+          <lg>
+            <pb n="67" edRef="#pb"/>
+            <l>Entre bromélias, junto à quérula torrente</l>
+            <l>Que do plaino em que habito um longo trato banha,</l>
+            <l>Num contínuo labor, uma operosa aranha</l>
+            <l>Fia o rico enxoval de noiva, sutilmente.</l>
+          </lg>
+          <lg>
+            <l>O tecido brumal, que nunca se emaranha,</l>
+            <l>É feito de um só fio, um tênue fio albente,</l>
+            <l>Que vai, de volta em volta, ininterruptamente,</l>
+            <l>Tramando o brocatel de contextura estranha...</l>
+          </lg>
+          <lg>
+            <l>Quando o sol se levanta enviando olhares d’oiro</l>
+            <l>E a aranha, distendendo a fibra, no tesoiro</l>
+            <l>Da renda leve embala as ilusões radiosas,</l>
+          </lg>
+          <lg>
+            <l>Na teia, que filtrando orvalho, oscila e pende,</l>
+            <l>A luz, que se refrange em cada gota, acende</l>
+            <l>Uma aurora boreal de pedras preciosas!</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>A CONCHA</head>
+          <lg>
+            <pb n="68" edRef="#pb"/>
+            <l>É oriunda do Mar Jônio. Entre as areias de ouro</l>
+            <l>Da praia, — onde, espumando, a vaga de safira</l>
+            <l>Guirlandas de corais e algas em feixe atira, — </l>
+            <l>Achei-a e guardo-a como o avaro o seu tesouro.</l>
+          </lg>
+          <lg>
+            <l>Seu murmúrio parece ora o rumor de um choro,</l>
+            <l>Ora o mesto planger de uma queixosa lira!</l>
+            <l>Entre as valvas, sangrando, um coração suspira</l>
+            <l>Pela amplitude azul do equóreo sumidouro...</l>
+          </lg>
+          <lg>
+            <l>Ouvindo-a, eu me transporto à líquida morada</l>
+            <l>Das nereidas, e vejo Anfitrite puxada</l>
+            <l>Na grande concha irial de fúlgidos matizes;</l>
+          </lg>
+          <lg>
+            <l>Vejo delfins, tritões, ninfas de pomas cheias,</l>
+            <l>E escuto a doce voz das últimas sereias</l>
+            <l>E o profundo clamor dos nautas infelizes!</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>AS ESTÁTUAS</head>
+          <lg>
+            <pb n="69" edRef="#pb"/>
+            <l>No jardim do castelo, em majestosa fila,</l>
+            <l>Quedam marmoreamente as estátuas radiantes;</l>
+            <l>O orvalho matinal, que, rútilo, cintila,</l>
+            <l>À cabeça lhes forma estemas de brilhantes.</l>
+          </lg>
+          <lg>
+            <l>São os filhos da Grécia heróica. Entre bacantes,</l>
+            <l>Sileno empunha a taça e Minerva, tranquila,</l>
+            <l>A égide opõe a Amor, que as setas coruscantes</l>
+            <l>Da aljava arranca, sempre em vão, para feri-la.</l>
+          </lg>
+          <lg>
+            <l>Riem ninfas gentis de olhos claros, serenos,</l>
+            <l>E cisma Apolo, o deus que em época remota</l>
+            <l>Dominou gerações e gerações de helenos!</l>
+          </lg>
+          <lg>
+            <l>E Adonis, cujo olhar não há pincel que imite,</l>
+            <l>Conserva na pupila eternamente imota</l>
+            <l>A nostalgia azul dos tempos de Afrodite...</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>AURORA</head>
+          <lg>
+            <pb n="70" edRef="#pb"/>
+            <l>Lento e lento, começa a migração da treva</l>
+            <l>Que deixa um rastro cor de cinza em cada furna,</l>
+            <l>E gradualmente rompe a grande paz noturna</l>
+            <l>O rumor que da terra aberta em flor se eleva.</l>
+          </lg>
+          <lg>
+            <l>Dos colibris acorda a iriada e plúmea leva,</l>
+            <l>Pelos jardins bebendo aromas de urna em urna.</l>
+            <l>A jalde luz, que enxota as sombras da cafurna,</l>
+            <l>Nas nuvens pinturiza um arrebol que enleva.</l>
+          </lg>
+          <lg>
+            <l>Sob um arco triunfal de flavescentes flores,</l>
+            <l>Surge a Aurora sorrindo arcangelicamente,</l>
+            <l>Solto o cabelo astral de flavos esplendores;</l>
+          </lg>
+          <lg>
+            <l>E a estrela da manhã, de um esplendor de gala,</l>
+            <l>Palpita no seu colo, iluminando o Oriente,</l>
+            <l>Como num seio de oiro um coração de opala...</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>A ÁGUIA</head>
+          <lg>
+            <pb n="71" edRef="#pb"/>
+            <l>Asas de ponta a ponta abertas no Infinito,</l>
+            <l>Quase roçando o Azul, já das estrelas rente,</l>
+            <l>A águia, no surto audaz, como os titãs do mito,</l>
+            <l>Tenta escalar o Céu, fitando o sol de frente.</l>
+          </lg>
+          <lg>
+            <l>E, sussurrando, solta o belicoso grito,</l>
+            <l>Que é a nota de um clarim vibrando heroicamente,</l>
+            <l>Quando, vermelho, o sol, o leão flamicrinito,</l>
+            <l>Rola, sangrando luz, no boqueirão do Poente.</l>
+          </lg>
+          <lg>
+            <l>No ventre dos bulcões, onde se apinham raios,</l>
+            <l>Crava as garras de ferro e entre as nuvens marinha,</l>
+            <l>Indo as asas fechar nos cimos himalaios.</l>
+          </lg>
+          <lg>
+            <l>E, acima do homem vil, que anda a gemer de rastros,</l>
+            <l>No pináculo dorme o sono de rainha,</l>
+            <l>Tendo por trono — a Terra, e por diadema — os astros!</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>VENEZA</head>
+          <opener>
+            <salute>A uma veneziana</salute>
+          </opener>
+          <lg>
+            <pb n="72" edRef="#pb"/>
+            <l>Nos teus olhos astrais de um brilho de turquesa,</l>
+            <l>Que às horas do sol posto a nostalgia empana,</l>
+            <l>Como no Golfo azul, retrata-se a Veneza</l>
+            <l>Dos tempos medievais, suntuosa e soberana.</l>
+          </lg>
+          <lg>
+            <l>O Adriático ondula e a vaga espuma... Ufana,</l>
+            <l>Passeia oblonga nau latina com nobreza.</l>
+            <l>Nas praças e canais a vida veneziana</l>
+            <l>Circula como o sangue em veias de princesa...</l>
+          </lg>
+          <lg>
+            <l>Esses olhos sem par encerram maravilhas!</l>
+            <l>Mirantes, catedrais, castelãs, parques, ilhas</l>
+            <l>E palácios ducais, — tudo neles se espelha!</l>
+          </lg>
+          <lg>
+            <l>Tudo: o mar onde um barco assoma e um outro foge</l>
+            <l>E os bronzes, e os painéis, e as gôndolas, e o Doge</l>
+            <l>Envolto na triunfal dalmática vermelha!</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>MARINHA</head>
+          <lg>
+            <pb n="73" edRef="#pb"/>
+            <l>Asas soltas à luz que os amplos céus alaga,</l>
+            <l>Voam garças reais de alvinitentes plumas.</l>
+            <l>A aragem que palpita, acariciando a vaga, </l>
+            <l>Murmurinha de leve entre frouxéis de espumas.</l>
+          </lg>
+          <lg>
+            <l>Arrogantes galeões de velas cor das brumas</l>
+            <l>Manobram, mar a dentro, em rumo de áurea plaga.</l>
+            <l>Bóiam conchas de opala e de orlas tírias: umas</l>
+            <l>De voz mansa de idílio, outras de voz pressaga.</l>
+          </lg>
+          <lg>
+            <l>Um mareante senil, que o estranho clima tosta,</l>
+            <l>Contempla a soluçar, de um penhasco da costa,</l>
+            <l>Os espúmeos lençóis que a mareta desfralda.</l>
+          </lg>
+          <lg>
+            <l>E no ocaso, o diadema em chispas agitando,</l>
+            <l>Expira o sol, num beijo olímpico arrancando</l>
+            <l>Aos glaucos vagalhões coriscos de esmeralda...</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>CLEÓPATRA</head>
+          <lg>
+            <pb n="74" edRef="#pb"/>
+            <l>Sob o pálio de um céu broslado de cambiantes,</l>
+            <l>A galera real, de tírias velas tesas,</l>
+            <l>Avança rio adentro, arfando de riquezas,</l>
+            <l>Cheia de um resplendor de pedras coruscantes.</l>
+          </lg>
+          <lg>
+            <l>Sob um dossel de biso, entre espirais ebriantes</l>
+            <l>De um incenso, a escultural princesa das princesas</l>
+            <l>Cisma... Remos de prata, à flor das correntezas</l>
+            <l>Deixam móbeis jardins de bolhas trepidantes...</l>
+          </lg>
+          <lg>
+            <l>Soluçam harpas de oiro às mãos de ancilas belas.</l>
+            <l>Branda aragem enfuna a púrpura das velas</l>
+            <l>E à tona da água alveja um espumoso friso.</l>
+          </lg>
+          <lg>
+            <l>E a Náiade do Egito, ao ver a frota ingente</l>
+            <l>De Marco Antônio, ri, levando, unicamente,</l>
+            <l>Contra as lanças de Roma a graça de um sorriso...</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>CÉLIA</head>
+          <lg>
+            <pb n="75" edRef="#pb"/>
+            <l>É meiga como Rute e loira como Ofélia</l>
+            <l>E tem uma expressão de Mater Dolorosa!</l>
+            <l>No entanto é alegre como uma andorinha! Impele-a </l>
+            <l>Para o folguedo a sua idade descuidosa.</l>
+          </lg>
+          <lg>
+            <l>O seu nome do céu tão bem lhe fica — Célia!</l>
+            <l>Assume um ar de mãe feliz quando, amorosa,</l>
+            <l>Carrega uma boneca alva como camélia</l>
+            <l>— Uma aurora embalando o sono de uma rosa...</l>
+          </lg>
+          <lg>
+            <l>Quando a boneca chora, a mãe que se desvela,</l>
+            <l>Acalentando-a, canta uma canção tão bela</l>
+            <l>Que a gente cuida estar cantando um coração!</l>
+          </lg>
+          <lg>
+            <l>Com mãos de seda amima a filha impertinente</l>
+            <l>E dá-lhe de mamar, mostrando ingenuamente</l>
+            <l>As hóstias de jasmins dos seios em botão...</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>GALATÉIA</head>
+          <lg>
+            <pb n="76" edRef="#pb"/>
+            <l>Do bloco de Carrara, alvo e sem jaça, a arranco</l>
+            <l>A golpes de cinzel! Ei-la de pé — perna</l>
+            <l>Sustendo o torso grego, a mão no seio branco — </l>
+            <l>Como Vênus pompeando a formosura eterna!</l>
+          </lg>
+          <lg>
+            <l>Em meus lábios fulgura um claro riso franco!</l>
+            <l>Dei à estátua com o sangue a vida sempiterna,</l>
+            <l>E serpentinamente a cingem, flanco a flanco,</l>
+            <l>Flóreas veias azuis como uma sombra interna.</l>
+          </lg>
+          <lg>
+            <l>Na pupila uma flama, áurea e vivaz, palpita...</l>
+            <l>Presa a um raio de luz, a minh’alma gravita</l>
+            <l>Na divina atração do mármore perfeito!</l>
+          </lg>
+          <lg>
+            <l>Estático me ajoelho: e, súbito, num choro,</l>
+            <l>A Galatéia acorda, e o amor, que lhe infla o peito,</l>
+            <l>Pelos olhos rebenta em catadupas de ouro!</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>A UM POETA</head>
+          <lg>
+            <pb n="77" edRef="#pb"/>
+            <l>Na pompa de uma frase engasta a imagem viva</l>
+            <l>Como num aranhol de vaporosa trama!</l>
+            <l>Invoca a inspiração! Em teu auxílio chama</l>
+            <l>Os deuses imortais da Grécia primitiva!</l>
+          </lg>
+          <lg>
+            <l>Para a Julieta que te enleva e te cativa,</l>
+            <l>Colhe jasmins no campo azul que a aurora inflama!</l>
+            <l>Que a rima, sacudindo as asas cor de chama,</l>
+            <l>Cante como num ramo em flor a patativa!</l>
+          </lg>
+          <lg>
+            <l>Prende com fios d’oiro a idéia esquiva e ingrata!</l>
+            <l>Faze a estrofe vibrar como um clarim de prata</l>
+            <l>Ao fim de uma batalha a proclamar vitória!</l>
+          </lg>
+          <lg>
+            <l>Enche de sangue a veia orfeônica do verso</l>
+            <l>E de clarões boreais o estilo nobre e terso,</l>
+            <l>— Que em breve alcançarás as púrpuras da Glória!</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>OUVINDO O TEU PIANO</head>
+          <lg>
+            <pb n="78" edRef="#pb"/>
+            <l>De tecla em tecla o piano em flébeis notas vibra:</l>
+            <l>Em cada lento acorde uma saudade plange!</l>
+            <l>Meu coração de chofre estala fibra a fibra,</l>
+            <l>Como se recebesse o golpe de um alfange!</l>
+          </lg>
+          <lg>
+            <l>Em meu olhar, que todo um infinito abrange,</l>
+            <l>Uma gota de pranto argêntea se equilibra...</l>
+            <l>Chora o piano... É o rumor que faz uma falange</l>
+            <l>Angelical que voa e em pleno azul se libra!</l>
+          </lg>
+          <lg>
+            <l>Nessa gama feral de angústias e estertores,</l>
+            <l>Vejo Ofélia passar amortalhada em flores</l>
+            <l>Na corrente que a embala, ondulando, ondulando...</l>
+          </lg>
+          <lg>
+            <l>Tu revelas assim dos mortos os segredos!</l>
+            <l>Pois sob a compressão dos teus jasmíneos dedos</l>
+            <l>A alma de Palestrina estorce-se pranteando!</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>MANHÃ NA ROÇA</head>
+          <lg>
+            <pb n="79" edRef="#pb"/>
+            <l>Como Vênus pisando a espuma de onda em onda,</l>
+            <l>Deixa a Aurora a fofez do leito de sultana.</l>
+            <l>O arvoredo farfalha. Em pranto, áurea e redonda,</l>
+            <l>Se oculta a derradeira estrela há pouco ufana.</l>
+          </lg>
+          <lg>
+            <l>Em grupos mugem bois ao longo da savana;</l>
+            <l>Sobe o fumo da choça; um melro as ares sonda,</l>
+            <l>No arroio, que por entre as árvores dimana,</l>
+            <l>Remam gansos, de leve, em silenciosa ronda.</l>
+          </lg>
+          <lg>
+            <l>As corujas ferais, em agoureiras levas,</l>
+            <l>Debatem-se na luz em procura das trevas.</l>
+            <l>Do rebanho que bale ouve-se a voz morfanha.</l>
+          </lg>
+          <lg>
+            <l>E a Aurora, colorindo as nuvens ondulosas,</l>
+            <l>Desce, lenta, a sorrir, a encosta da montanha,</l>
+            <l>Com o estema de chama e a túnica de rosas...</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>MEIA NOITE</head>
+          <lg>
+            <pb n="80" edRef="#pb"/>
+            <l>Penso... Na solidão da rua adormecida</l>
+            <l>Vasqueja dos lampiões o funerário lume.</l>
+            <l>De espaço a espaço, a lua assoma entre o negrume</l>
+            <l>Das nuvens — com a feição da branca Margarida.</l>
+          </lg>
+          <lg>
+            <l>No rendilhado templo, onde, em manhã florida,</l>
+            <l>Me embriagou de Frínia o tépido perfume,</l>
+            <l>Pia uma estrige. O vento é um fúnebre queixume.</l>
+            <l>Há um brusco ramalhar de frondes na avenida.</l>
+          </lg>
+          <lg>
+            <l>Nest’hora de pavor e dúvidas sombrias,</l>
+            <l>De pactos infernais, de assombros e magias,</l>
+            <l>Eu faço ao mudo céu sacrílegas perguntas!</l>
+          </lg>
+          <lg>
+            <l>Exacerba-me o sangue a dor que não se acalma,</l>
+            <l>E sinto desfilar pelo silêncio da alma</l>
+            <l>O cortejo feral das ilusões defuntas!</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>NATAL DE FRÍNIA</head>
+          <lg>
+            <pb n="81" edRef="#pb"/>
+            <l>Um ano mais! Um ano! Um mimo de fulgores</l>
+            <l>Que recebes de seda e rendas entre os nastros!</l>
+            <l>Mais uma rosa aberta em um buquê de flores!</l>
+            <l>Mais uma estrela a rir numa coroa de astros!</l>
+          </lg>
+          <lg>
+            <l>Hoje que de casaca os teus adoradores</l>
+            <l>Se curvam aos teus pés da cor dos alabastros,</l>
+            <l>Permite que eu também, em versos incolores,</l>
+            <l>Te saúdo, mas não — como os demais — de rastros.</l>
+          </lg>
+          <lg>
+            <l>Sou pobre, não possuo anéis de pedras raras,</l>
+            <l>Nem oiro, brocatéis, mas, como tu me animas</l>
+            <l>Com os olhos claros, quis beijar-te as mãos preclaras.</l>
+          </lg>
+          <lg>
+            <l>E com a alma a dançar numa alegria franca,</l>
+            <l>Trouxe para o teu colo este colar de rimas</l>
+            <l>E para o teu cabelo uma camélia branca!</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>FUGITIVA</head>
+          <lg>
+            <pb n="82" edRef="#pb"/>
+            <l>Adeus! Já não és minha e me não amas! Nunca </l>
+            <l>Em tua alma floriu um sentimento nobre!</l>
+            <l>A dor de te perder a própria voz me trunca,</l>
+            <l>Mas, vai! deixa que a nau sem bússola soçobre!</l>
+          </lg>
+          <lg>
+            <l>Meu coração, que o teu olhar de espinhos junca,</l>
+            <l>Se estorce e plange como um sino triste dobre.</l>
+            <l>Do meu castelo azul fizeste uma espelunca</l>
+            <l>De um asceta infeliz, de um miserando pobre!</l>
+          </lg>
+          <lg>
+            <l>Vai, andorinha!... Chega entre boreais rajadas</l>
+            <l>O inverno que faz voar os pássaros dispersos,</l>
+            <l>E veste de neblina as loiras alvoradas.</l>
+          </lg>
+          <lg>
+            <l>Mas, embora de mim e do meu pranto mofes,</l>
+            <l>Hás de sempre escutar o choro dos meus versos,</l>
+            <l>Há de seguir-te sempre um séquito de estrofes!</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>NO DECLÍNIO</head>
+          <lg>
+            <pb n="83" edRef="#pb"/>
+            <l>Quando o tempo fugaz, que passa como o vento,</l>
+            <l>Te engrinaldar de neve e te engelhar o rosto,</l>
+            <l>Hás de volver o olhar, mais triste que um lamento,</l>
+            <l>Para o passado envolto em sombras de sol posto.</l>
+          </lg>
+          <lg>
+            <l>Como um lento viajor que do ápice nevoento</l>
+            <l>De alto monte contempla o caminho transposto,</l>
+            <l>Ficarás a cismar... E nesse atroz momento</l>
+            <l>Há de pungir-te o seio o acúleo de um desgosto!</l>
+          </lg>
+          <lg>
+            <l>Teu velho coração, desiludido e exausto,</l>
+            <l>Vendo o inútil fulgor das púrpuras do fausto,</l>
+            <l>Há de então palpitar numa aflição suprema!</l>
+          </lg>
+          <lg>
+            <l>E talvez com pesar, num círculo de abrolhos,</l>
+            <l>Tu te lembres de mim, numa saudade extrema,</l>
+            <l>Com suspiros na boca e lágrimas nos olhos!</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>CONFISSÃO</head>
+          <lg>
+            <pb n="84" edRef="#pb"/>
+            <l>Já que não posso mais trazer oculto nalma</l>
+            <l>Este amor, que há de ser a cruz do meu martírio,</l>
+            <l>E que eu, tentando em vão mostrar firmeza e calma,</l>
+            <l>Revelo em cada olhar mais triste do que um círio,</l>
+          </lg>
+          <lg>
+            <l>Perdoa, meu amor, perdoa! Embora a palma</l>
+            <l>Não logre de alcançar a tua mão que é um lírio,</l>
+            <l>Hei de sempre abençoar teu riso que me ensalma!</l>
+            <l>Hei de sempre beijar-te a sombra com delírio!</l>
+          </lg>
+          <lg>
+            <l>Cobre-me a palidez do mesto Nazareno</l>
+            <l>Quando, silêncio impondo ao coração cativo,</l>
+            <l>Contemplo o teu perfil de castelã do Reno!</l>
+          </lg>
+          <lg>
+            <l>Bem quisera esconder o amor que me consome,</l>
+            <l>Mas como? se a anunciá-la a todo instante eu vivo</l>
+            <l>Pelo tremor da voz ao murmurar teu nome!</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>HORAS NEGRAS</head>
+          <lg>
+            <pb n="85" edRef="#pb"/>
+            <l>Noite. Na escuridão soturna do meu quarto,</l>
+            <l>Penso em ti, meu amor! Lá fora, o furacão </l>
+            <l>Urra como um ciclope e açoita o cedro que, harto</l>
+            <l>E farfalhante, agita a copa na amplidão.</l>
+          </lg>
+          <lg>
+            <l>Sem ilusões, da vida há muitos anos farto,</l>
+            <l>Sinto que mais me pesa agora o coração!</l>
+            <l>Cheio de angústia, à porta a fronte quase parto</l>
+            <l>Quando estoura no espaço a bomba de um trovão.</l>
+          </lg>
+          <lg>
+            <l>Contra a janela, em fúria, investe a ventania</l>
+            <l>Bramindo como um leão nas vascas da agonia,</l>
+            <l>Raios batem-se em duelo... Ouço lamentos... ais...</l>
+          </lg>
+          <lg>
+            <l>Que noite fria!... E eu só, chorando num delírio</l>
+            <l>Por esse corpo em flor, mais branco do que um lírio,</l>
+            <l>Que não apertarei nos braços nunca mais!</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>CORAÇÃO DEFUNTO</head>
+          <lg>
+            <pb n="86" edRef="#pb"/>
+            <l>Crianças virginais de bocas perfumadas</l>
+            <l>Como os rosais em flor, como o coral das rosas,</l>
+            <l>Anjos de asas de arminho, humanas alvoradas</l>
+            <l>De voz de rouxinol e tranças ondulosas:</l>
+          </lg>
+          <lg>
+            <l>Não tenteis reviver as ilusões doiradas</l>
+            <l>Do meu passado azul sepulto entre mimosas!</l>
+            <l>Dentro desta alma envolta em névoas condensadas</l>
+            <l>Já nem um sonho agita as plumas luminosas!</l>
+          </lg>
+          <lg>
+            <l>Por que vindes cantar neste sepulcro às bordas</l>
+            <l>Onde só vêm pousar noturnas borboletas?</l>
+            <l>Quem logrará tanger um bandolim sem cordas</l>
+          </lg>
+          <lg>
+            <l>Debalde me volveis dulcíssimos olhares!</l>
+            <l>Pois neste coração, onde esfolhais violetas,</l>
+            <l>Reina o inverno glacial das solidões polares!</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>LAR DE LUTO</head>
+          <lg>
+            <pb n="87" edRef="#pb"/>
+            <l>Era um ninho e tornou-se um túmulo esta casa</l>
+            <l>Desde o dia em que a meiga irmã das açucenas,</l>
+            <l>Fazendo ouvir em torno um leve ruflo de asa,</l>
+            <l>Emudeceu, cruzando ao peito as mãos pequenas!</l>
+          </lg>
+          <lg>
+            <l>Embebido no Azul o olhar, que a angústia abrasa,</l>
+            <l>A mãe, a pobre mãe, mártir de eternas penas,</l>
+            <l>Dores, que cristaliza em lágrimas, transvasa...</l>
+            <l>Cortam-me o coração estas cruciantes cenas!</l>
+          </lg>
+          <lg>
+            <l>Desde que a aurora abria o frouxo cortinado</l>
+            <l>Do Oriente, ela trazia o lar iluminado</l>
+            <l>Pelo raio de sol do riso astral que tinha!</l>
+          </lg>
+          <lg>
+            <l>Dos lírios que plantou teceram-lhe a capela...</l>
+            <l>Nunca mais há de vir colher jasmins aquela</l>
+            <l>Que se foi para o Céu num vôo de andorinha!</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>VISÕES</head>
+          <opener>
+            <salute>Às meninas que amei</salute>
+          </opener>
+          <lg>
+            <pb n="88" edRef="#pb"/>
+            <l>Ó vós que na manhã de minha mocidade</l>
+            <l>Reduzistes a pó as minhas esperanças,</l>
+            <l>Por que vindes por entre as névoas da saudade</l>
+            <l>Derramar em minh’alma o perfume das tranças?</l>
+          </lg>
+          <lg>
+            <l>Ó flores que trazeis o olor da virgindade</l>
+            <l>E risos matinais em bocas de crianças,</l>
+            <l>Deixai-me, enfim, em paz na minha soledade</l>
+            <l>Apascentando o meu rebanho de lembranças!...</l>
+          </lg>
+          <lg>
+            <l>Mas se agora vos punge a dor do louco amante</l>
+            <l>Que via em vosso olhar a estrela do Levante</l>
+            <l>E ouvia a canção em vossa ebriante voz:</l>
+          </lg>
+          <lg>
+            <l>Quando em breve eu fechar os olhos entre círios,</l>
+            <l>Pagai-me em bogaris, crisântemos e lírios,</l>
+            <l>As santas ilusões que desfolhei por vós!</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>OS TRIUNFADORES</head>
+          <div type="section">
+            <head>ALEXANDRE</head>
+            <head>I</head>
+            <lg>
+              <pb n="89" edRef="#pb"/>
+              <l>Num sonho excelso, com o olhar o mundo abarcas:</l>
+              <l>E partes, num tropel de atletas e gigantes,</l>
+              <l>Ásia a fora, quebrando o cetro dos monarcas</l>
+              <l>E brechando brutais muralhas de elefantes!</l>
+            </lg>
+            <lg>
+              <l>Ficam por todo o Oriente as indeléveis marcas</l>
+              <l>Das patas dos corcéis. As falanges brilhantes, </l>
+              <l>Que Marte impele e Zeus protege, amealham arcas</l>
+              <l>De ouro e prata e montões de pedras coruscantes.</l>
+            </lg>
+            <lg>
+              <l>Oferecem-te o amor as princesas mais belas!</l>
+              <l>Perfumam-te os jardins da rica Babilônia!</l>
+              <l>Comes pavões da Média em rútilas baixelas!</l>
+            </lg>
+            <lg>
+              <l>De sátrapas e reis quebras o jugo fero...</l>
+              <l>Para os feitos cantar-te, água da Macedônia,</l>
+              <l>Só tem cordas a teorba olímpica de Homero!</l>
+            </lg>
+          </div>
+          <div type="section">
+            <head>ANÍBAL</head>
+            <head>II</head>
+            <lg>
+              <pb n="90" edRef="#pb"/>
+              <l>Em Sagunto recebe a água lustral da glória:</l>
+              <l>E, caminho da Itália, o gênio de Cartago,</l>
+              <l>Entre avalanches, presto, os Alpes vinga, o estrago</l>
+              <l>Espalhando através da longa trajetória.</l>
+            </lg>
+            <lg>
+              <l>Carregado de anéis e pompas de vitória,</l>
+              <l>De bucinas marciais num estridor pressago,</l>
+              <l>Lá vai! Por onde passa um borbulhante lago</l>
+              <l>De sangue deixa, abrindo um sulco astral na História!</l>
+            </lg>
+            <lg>
+              <l>Firme, o Cartaginês, aríete dos aríetes,</l>
+              <l>Passeia entre um fulgor de escâmeos capacetes,</l>
+              <l>De armaduras de bronze e lanças rutilantes...</l>
+            </lg>
+            <lg>
+              <l>Cônsules e legiões de assombro semimortas</l>
+              <l>Triunfantemente leva até de Roma às portas,</l>
+              <l>A patas de corcéis e trombas de elefantes!</l>
+            </lg>
+          </div>
+          <div type="section">
+            <head>CÉSAR</head>
+            <head>III</head>
+            <lg>
+              <pb n="91" edRef="#pb"/>
+              <l>Por sobre as Gálias solta as águias belicosas,</l>
+              <l>Transpõe o Reno e invade a inóspita Bretanha...</l>
+              <l>Muralhas não detêm suas legiões gloriosas</l>
+              <l>Que pisam nobremente orgulhos de montanha!</l>
+            </lg>
+            <lg>
+              <l>Podem setas zunir! Pode raivar a sanha</l>
+              <l>Dos bárbaros sem conta! As hostes vitoriosas</l>
+              <l>No sinistro fragor da pertinaz campanha,</l>
+              <l>Colhem para coroá-lo imarcescíveis rosas!</l>
+            </lg>
+            <lg>
+              <l>Estremece o inimigo assim que lhe ouve o passo;</l>
+              <l>No torvelim da luta a sua espada brilha</l>
+              <l>Furando corações de heróis de peitos de aço.</l>
+            </lg>
+            <lg>
+              <l>Por degraus de lauréis sobe ao sonhado sólio,</l>
+              <l>E Roma, que o seu vulto enche de maravilha,</l>
+              <l>Eleva o triunfador de Munda ao Capitólio!</l>
+            </lg>
+          </div>
+          <div type="section">
+            <head>BONAPARTE</head>
+            <head>IV</head>
+            <lg>
+              <pb n="92" edRef="#pb"/>
+              <l>Entre o crebro estridor das músicas de guerra,</l>
+              <l>Como um raio, percorre os campos de batalha,</l>
+              <l>E, terror das nações, abala toda a Terra</l>
+              <l>Com urros de canhão e estrondos de metralha.</l>
+            </lg>
+            <lg>
+              <l>Quando, de gládio em punho, o Corso passa, aterra,</l>
+              <l>E ao clamor dos clarins o pânico se espalha!</l>
+              <l>Da Holanda à Rússia, entre ais, choros e pragas, erra.</l>
+              <l>Dando aos corvos festins de opípara mortualha.</l>
+            </lg>
+            <lg>
+              <l>Desde as três colossais pirâmides do Egito</l>
+              <l>— Arcas de tradições, assombros de granito, — </l>
+              <l>Veio aos seus pés curvando o alto orgulho realengo.</l>
+            </lg>
+            <lg>
+              <l>Viena, Berlim, Moscou guardam vivaz memória</l>
+              <l>Do semideus que tem, para perpétua glória,</l>
+              <l>Os troféus de Wagram e os louros de Marengo...</l>
+            </lg>
+          </div>
+        </div>
+      </div>
+      <div type="part">
+        <head>CAMBIANTES</head>
+        <div type="poem">
+          <head>A UM CONQUISTADOR</head>
+          <lg>
+            <pb n="95" edRef="#pb"/>
+            <l>Ó coração de bronze, ó coração de hiena,</l>
+            <l>Irmão de Átila e Nero — o bárbaro e o incendiário — </l>
+            <l>Que transformais a Terra em uma vasta arena</l>
+            <l>Com o pulso de um ciclope e a fúria de um corsário,</l>
+            <l>Deixai florir a Paz, que Deus assim o ordena!</l>
+            <l>Basta de horrores, basta, abutre sanguinário!</l>
+          </lg>
+          <lg>
+            <l>É horrível este quadro: — Um campo de batalha.</l>
+            <l>A toques de clarins troa a fuzilaria</l>
+            <l>Seguida do clamor sinistro da metralha</l>
+            <l>Que dizima esquadrões, até que a noite fria,</l>
+            <l>Vendo morrer titãs que não terão mortalha,</l>
+            <l>Para cobri-los, abre a túnica sombria!</l>
+          </lg>
+          <lg>
+            <l>Partem numa esfuziada as pontiagudas balas</l>
+            <l>Furando corações, rompendo carnes quentes;</l>
+            <l>Refulgem lanças mais brilhantes do que opalas</l>
+            <l>No insano marulhar das cóleras frementes,</l>
+            <l>E, bêbadas de sangue, as bem dispostas alas</l>
+            <l>Envolvem o inimigo em roscas de serpentes.</l>
+          </lg>
+          <lg>
+            <l>Enquanto parte um crânio o gládio de um Mavorte,</l>
+            <l>Fulmínea bala ultriz vara um pulmão. O embate</l>
+            <l>É cada vez mais fero, é cada vez mais forte.</l>
+            <l>Lembra o circo de Roma a arena do combate!</l>
+            <l>E, convivas brutais do bacanal da Morte,</l>
+            <l>Com tigrino furor cada legião se bate!</l>
+          </lg>
+          <lg>
+            <pb n="96" edRef="#pb"/>
+            <l>Veem-se atletas no pó, nos últimos arrancos,</l>
+            <l>Procurando vibrar o golpe derradeiro.</l>
+            <l>O canhão, que ribomba e roda aos solavancos,</l>
+            <l>Dos estilhaços cospe o fúlvido chuveiro,</l>
+            <l>E, bolhando, a manar dos seios e dos flancos</l>
+            <l>Dos soldados, o sangue ensopa o campo inteiro.</l>
+          </lg>
+          <lg>
+            <l>Nitrem caracolando indômitos cavalos</l>
+            <l>As patas atolando em poças purpurinas;</l>
+            <l>Outros com fúria tal que já não há domá-los,</l>
+            <l>Exalando um vapor candente das narinas,</l>
+            <l>Voam como dragões saltando fojos, valos,</l>
+            <l>Levando erguidas como uma bandeira as crinas!</l>
+          </lg>
+          <lg>
+            <l>O morteiro escancara a goela flamejante</l>
+            <l>E — num crebro estrugir de brônzeas gargalhadas</l>
+            <l>Capazes de aterrar homérico gigante, — </l>
+            <l>Clangora vomitando as bombas inflamadas,</l>
+            <l>E, — como um bafo ruivo, — o fumo espiralante,</l>
+            <l>Resfolegando, expele em nuvens condensadas.</l>
+          </lg>
+          <lg>
+            <l>Lusbélico, sabá! Dantesco pandemônio!</l>
+            <l>A pólvora explodindo espalha nuvens pretas.</l>
+            <l>Passeia a Morte a rir de braços com o Demônio...</l>
+            <l>E entre as cintilações das brancas baionetas</l>
+            <l>Estridulam febris, num júbilo gorgôneo,</l>
+            <l>Tambores e clarins, fanfarras e trombetas!</l>
+          </lg>
+          <lg>
+            <l>Dos braços voam mãos como bizarras flores</l>
+            <l>Arrancadas do hastil. Corcéis pisam entranhas</l>
+            <l>De moribundos já cobertos de livores,</l>
+            <l>De heróis a estertorar em convulsões estranhas!</l>
+            <l>A orquestra funeral de armíssonos clangores</l>
+            <l>Faz tremer de pavor as águias das montanhas!</l>
+          </lg>
+          <lg>
+            <l>Finda a batalha. Em ronda, os execráveis corvos</l>
+            <l>Descem a desolhar mortos e agonizantes</l>
+            <l>Que se estorcem no horror dos desesperos torvos,</l>
+            <l>Com as hirtas mãos cobrindo os lívidos semblantes,</l>
+            <l>— Enquanto vós, falcão, sem peias, sem estorvos,</l>
+            <l>Rejubilais envolto em púrpuras brilhantes!</l>
+          </lg>
+          <lg>
+            <pb n="97" edRef="#pb"/>
+            <l>As vossas mãos cruéis, as vossas mãos ferinas</l>
+            <l>São garras de Satã! A vossa trajetória</l>
+            <l>E assinalada por devastações e ruínas.</l>
+            <l>Vede: gotejam sangue os louros da vitória!</l>
+            <l>As almas cor da aurora, as almas cristalinas</l>
+            <l>Desmaiam ao clarão fatal da vossa glória!</l>
+          </lg>
+          <lg>
+            <l>No lar, que era um jardim de alegrias doiradas,</l>
+            <l>Cheio de colibris e borboletas mansas,</l>
+            <l>Onde o amor arrulhava idílicas baladas</l>
+            <l>E eram cravos a rir as bocas das crianças,</l>
+            <l>— Fizeste penetrar a Morte às gargalhadas</l>
+            <l>Por entre um refulgir de espadas e de lanças!</l>
+          </lg>
+          <lg>
+            <l>Contemplai um momento as virgens lacrimosas</l>
+            <l>Que no auge do pesar que o seio lhes apua</l>
+            <l>Levantam para o céu as frontes angustiosas,</l>
+            <l>Enquanto o coração crucificado estua!</l>
+            <l>Nessas faces de neve onde floriam rosas</l>
+            <l>Se estende a palidez ofélica da lua!</l>
+          </lg>
+          <lg>
+            <l>Como contrista ver as cândidas meninas</l>
+            <l>Sem o amparo, ó broquel dos paternais desvelos,</l>
+            <l>Expostas da luxúria às garras libertinas!</l>
+            <l>Misérrimas! Só têm, embora caiam gelos,</l>
+            <l>Para a nudez velar das formas peregrinas</l>
+            <l>A nuvem aromal e fofa dos cabelos!...</l>
+          </lg>
+          <lg>
+            <l>Sobre essa fronte o olhar do Criador dardeja</l>
+            <l>Um duro raio hostil de um brilho funerário.</l>
+            <l>Nada poupa esse gládio argênteo que lampeja:</l>
+            <l>Nem a cruz em que sofre o Mártir do Calvário!</l>
+            <l>Erguei os olhos, vede: O sol, que relampeja,</l>
+            <l>É um coração que sangra envolto num sudário!</l>
+          </lg>
+          <lg>
+            <l>Searas, jardins em flor de aroma rescendente,</l>
+            <l>Templos de Buda e Cristo e de Mafoma e Brahma,</l>
+            <l>Pompas esculturais de mármore luzente,</l>
+            <l>Joias de arte que a luz, que é um beijo de astro, inflama</l>
+            <l>— Tudo, tudo destruís inexoravelmente</l>
+            <l>A tiros de canhão, a vômitos de chama!</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>SER CONDOR</head>
+          <lg>
+            <pb n="98" edRef="#pb"/>
+            <l>Ser condor! Espalmar as asas rumorosas</l>
+            <l>Nas manhãs de cristal, em pleno azul da esfera,</l>
+            <l>Para onde ascende solto o espírito das rosas</l>
+            <l>Que abre com as róseas mãos a rósea primavera;</l>
+          </lg>
+          <lg>
+            <l>Viajar da aurora à noite, errar de monte em monte,</l>
+            <l>Num vôo de dragão, cheio de heroicidade,</l>
+            <l>Saudar primeiro o sol que assoma o horizonte</l>
+            <l>Como um rubim jorrando intensa claridade;</l>
+          </lg>
+          <lg>
+            <l>Perlustrar, divagando, as mais remotas zonas</l>
+            <l>Da Atlântida, passeando o olhar por cousas grandes;</l>
+            <l>Pela manhã lavar as plumas no Amazonas</l>
+            <l>E à tarde adormecer no píncaro dos Andes;</l>
+          </lg>
+          <lg>
+            <l>Subir! subir! subir! A cúpula celeste</l>
+            <l>Quase roçando, ver o sideral tesoiro,</l>
+            <l>E trazer a plumosa e estrepidante veste</l>
+            <l>Cheia de áscuas de sol e de centelhas d’oiro;</l>
+          </lg>
+          <lg>
+            <l>As asas colossais de rijo espanejando</l>
+            <l>Sobre o vermelho mar dos campos de batalha,</l>
+            <l>Ver rolar esquadrões no embate formidando</l>
+            <l>Entre uivos de clarins e roncos de metralha;</l>
+          </lg>
+          <lg>
+            <pb n="99" edRef="#pb"/>
+            <l>Ouvir o crocitar frenético do vento</l>
+            <l>Sem medo, sem temor, sem sustos, sem desmaios,</l>
+            <l>E entre alas de bulcões cruzar o firmamento</l>
+            <l>Rechaçando no surto um batalhão de raios;</l>
+          </lg>
+          <lg>
+            <l>Zombar dos vendavais e do trovão que aterra</l>
+            <l>— Raucíssono tambor que crebramente rufa — </l>
+            <l>E, as garras encrespando, um cântico de guerra</l>
+            <l>Lançar ao furacão que torvelinha e bufa;</l>
+          </lg>
+          <lg>
+            <l>Muito acima pairar dos pântanos do Vício,</l>
+            <l>Dos horizontes sempre achando as portas francas,</l>
+            <l>E sonhar no cairel de um cavo precipício</l>
+            <l>Nos macios frouxéis das fofas nuvens brancas;</l>
+          </lg>
+          <lg>
+            <l>Viver longe do horror das cóleras humanas</l>
+            <l>Torvas como o grasnar famélico dos corvos?</l>
+            <l>Só, às vezes, pousar no colmo das choupanas</l>
+            <l>Onde não rugem nunca os desesperos torvos;</l>
+          </lg>
+          <lg>
+            <l>Amar o colibri por ser mimoso e belo,</l>
+            <l>O lírio — por ser casto, a pomba — por ser mansa;</l>
+            <l>Ter garras para as mãos que vibram o cutelo</l>
+            <l>E bico afiado como a ponta de uma lança;</l>
+          </lg>
+          <lg>
+            <l>Escorraçar a estrige e os mochos agoureiros</l>
+            <l>Que andam a gargalhar na cruz das sepulturas</l>
+            <l>Onde se abrem, sangrando em flores, nos canteiros,</l>
+            <l>Os rubros corações das lácteas virgens puras;</l>
+          </lg>
+          <lg>
+            <l>Como um audaz titã, ansioso de conquistas,</l>
+            <l>Asas abertas, fronte erguida, olhar chispante,</l>
+            <l>Vingar do Chimborazo as arrogantes cristas,</l>
+            <l>Na glória ascensional de um vôo espiralante;</l>
+          </lg>
+          <lg>
+            <l>Por cima de mameis, hortos, rechãs e pampas,</l>
+            <l>Planuras e vergéis, léguas de mole alfombra,</l>
+            <l>Florestas de torreões e coruchéus e campas,</l>
+            <l>Atravessar deixando apenas uma sombra;</l>
+          </lg>
+          <lg>
+            <pb n="100" edRef="#pb"/>
+            <l>Em busca de outro clima, em busca de outros ares,</l>
+            <l>Num fragor de tufão, vertiginosamente</l>
+            <l>Arrojar-me através do torvelim dos mares</l>
+            <l>Que ameaçam devorar, urrando, o Continente:</l>
+          </lg>
+          <lg>
+            <l>Eis a excelsa ilusão que o cérebro me inflama,</l>
+            <l>Os icários ideais que há muito me consomem!...</l>
+            <l>Quem me dera asas ter para fugir da lama</l>
+            <l>A que me trazem preso estas algemas de homem!</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>JESUS</head>
+          <lg>
+            <pb n="101" edRef="#pb"/>
+            <l>Ó casto Lis da Galiléia! quando,</l>
+            <l>Sob o peso da cruz do teu fadário,</l>
+            <l>Ferindo os pés, gemendo e soluçando,</l>
+            <l>Tropeçavas na encosta do Calvário,</l>
+          </lg>
+          <lg>
+            <l>O Homem cruel, o monstro sanguinário,</l>
+            <l>Tripudiava em teu pranto, gargalhando!</l>
+            <l>E tu julgavas — pobre visionário! — </l>
+            <l>Que a alvorada do Amor vinha raiando!</l>
+          </lg>
+          <lg>
+            <l>Em vão lutaste com o dragão do Vício</l>
+            <l>E consumaste o heroico Sacrifício!</l>
+            <l>Que conseguiste com teu sangue, Mestre?</l>
+          </lg>
+          <lg>
+            <l>É sempre a mesma a turba odiosa e fútil</l>
+            <l>Que te insultou na penedia alpestre</l>
+            <l>E te manchou a túnica inconsútil!</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>À DOR</head>
+          <lg>
+            <pb n="102" edRef="#pb"/>
+            <l>Ó Dor, ó velha imperatriz do mundo,</l>
+            <l>Que a gente arrasta como brônzea carga,</l>
+            <l>Maldita sejas! Teu olhar profundo</l>
+            <l>É o pesadelo desta vida amarga!</l>
+          </lg>
+          <lg>
+            <l>Foge de mim, fantasma tremebundo!</l>
+            <l>Arranca-me este espículo da ilharga!</l>
+            <l>O rosto em vão de lágrimas inundo:</l>
+            <l>A tua mão de espinhos não me larga!</l>
+          </lg>
+          <lg>
+            <l>Por castelos, choupanas e casebres,</l>
+            <l>Bebendo sangue e produzindo febres,</l>
+            <l>Passas deixando o rastro nauseabundo.</l>
+          </lg>
+          <lg>
+            <l>Os corações te amaldiçoam... Quando</l>
+            <l>Há de ter fim o teu reinado infando,</l>
+            <l>Ó Dor, ó velha imperatriz do mundo?</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>A UM AVARENTO</head>
+          <lg>
+            <pb n="103" edRef="#pb"/>
+            <l>Enxotas do portal o esquálido mendigo</l>
+            <l>Que pelo amor de Deus te pede caridade!</l>
+            <l>Nunca vestiste em nu e nunca deste abrigo</l>
+            <l>À viuvez sem amparo e à mísera orfandade!</l>
+          </lg>
+          <lg>
+            <l>Guarda o teu ouro, os teus milhões ensanguentados!</l>
+            <l>Quando a morte cruzar as tuas mãos inermes,</l>
+            <l>Tu, que sempre negaste um pão aos desgraçados,</l>
+            <l>Irás saciar a gula a cem legiões de vermes!</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>TUIUTI</head>
+          <lg>
+            <pb n="104" edRef="#pb"/>
+            <l>Rompe a batalha. Estrídulas trombetas,</l>
+            <l>Crebros clarins, fanfarras e tambores,</l>
+            <l>Numa orquestra de rábidos clamores,</l>
+            <l>Clangoram entre as fúmeas nuvens pretas.</l>
+          </lg>
+          <lg>
+            <l>Coruscam lampejantes baionetas,</l>
+            <l>Troa a metralha em bélicos furores,</l>
+            <l>E, como um bando de triunfais condores,</l>
+            <l>Pendões esvoaçam... Rangem as carretas.</l>
+          </lg>
+          <lg>
+            <l>Com a fúria do pampeiro, o formidando</l>
+            <l>Osório, envolto num clarão, soltando</l>
+            <l>O impávido corcel, da morte em face,</l>
+          </lg>
+          <lg>
+            <l>Passa brandindo o gládio de gigante,</l>
+            <l>Como se fosse um gênio que passasse</l>
+            <l>Montado num cometa flamejante!</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>A TEMPESTADE</head>
+          <lg>
+            <pb n="105" edRef="#pb"/>
+            <l>Conglomeradas no alto, a combinar o instante</l>
+            <l>Em que à terra darão o ataque, as nuvens pretas</l>
+            <l>Caminham pelo espaço em marcha balouçante,</l>
+            <l>Como um bando invasor que avança triunfante</l>
+            <l>Entre rolos de pó e toques de cornetas.</l>
+          </lg>
+          <lg>
+            <l>Brame longinquamente a voz estertorosa</l>
+            <l>Do trovão assustando a Natureza em calma.</l>
+            <l>O colibri suplica um agasalho á rosa</l>
+            <l>Que o aninha, entrefechando as pétalas, piedosa,</l>
+            <l>No casto seio como um sonho dentro da alma.</l>
+          </lg>
+          <lg>
+            <l>Relâmpagos febris de flâmea cauda, ariscos,</l>
+            <l>Dão punhaladas d’oiro... Em súbitos desmaios. </l>
+            <l>Num fúlvido painel de traços e de riscos,</l>
+            <l>Cobrejam pelo céu exames de coriscos,</l>
+            <l>E estoirazes bulcões vomitam fulvos raios...</l>
+          </lg>
+          <lg>
+            <l>Tamborilando, grosso, o temporal desaba, </l>
+            <l>Vergastando de rijo os visos da montanha;</l>
+            <l>O coqueiral sacode as palmas verdes na aba</l>
+            <l>Do monte, onde, á feição de um crânio, a terra acaba,</l>
+            <l>E onde o inverno desdobra a neblinal bretanha.</l>
+          </lg>
+          <lg>
+            <pb n="106" edRef="#pb"/>
+            <l>E o furacão ribomba. As folhas do arvoredo</l>
+            <l>Despencam-se bailando em vôo trepidante.</l>
+            <l>Os pombos nos casais escondem-se com medo,</l>
+            <l>E<hi> </hi>ajoelham-se a rezar as flores em segredo</l>
+            <l>Pelo espírito azul de um melro agonizante!</l>
+          </lg>
+          <lg>
+            <l>A floresta se estorce em convulsões de morte</l>
+            <l>Num macabro clamor de monstros enjaulados;</l>
+            <l>E os ventos que a bufar, com pulso hercúleo e forte,</l>
+            <l>Espancam dos chorões a lúrida coorte,</l>
+            <l>— São maltas de satãs malhando condenados...</l>
+          </lg>
+          <lg>
+            <l>A fonte musical do píncaro da serra,</l>
+            <l>Que trazia no seio um rouxinol cantando,</l>
+            <l>Borbulha, e ferve, e espuma, e corcoveia, e berra,</l>
+            <l>Impelindo, os calhaus que do álveo desenterra</l>
+            <l>Com a fúria de um corcel que foge relinchando.</l>
+          </lg>
+          <lg>
+            <l>Abrindo socavões, cavando algares, rugem, </l>
+            <l>Como rios de sangue, as crespas enxurradas;</l>
+            <l>Tomados de pavor, os bois no campo mugem</l>
+            <l>Quando os roucos trovões raucíssonos estrugem</l>
+            <l>Num clangor de canhão varrendo barricadas!</l>
+          </lg>
+          <lg>
+            <l>As choças e os palhais, no embate fragoroso,</l>
+            <l>Tombam entre um clamor de almas de mágoa cheias.</l>
+            <l>Os pinheiros senis de aspecto doloroso,</l>
+            <l>Erguendo espectralmente o galhame nodoso,</l>
+            <l>Semelham colossais espinhas de baleias...</l>
+          </lg>
+          <lg>
+            <l>Das enseadas deixando o bonançoso leito,</l>
+            <l>Onde a idéia tenaz de liberdade incuba,</l>
+            <l>O grande Mar, que embala as velhas naus no peito,</l>
+            <l>Com urros de montanha, em macários desfeito,</l>
+            <l>Leoninamente eriça a espumarenta juba!</l>
+          </lg>
+          <lg>
+            <pb n="107" edRef="#pb"/>
+            <l>Rilhando farelhões e solapando fragas,</l>
+            <l>Busca tomar de assalto os condoreiros montes:</l>
+            <l>E, uivando maldições, vociferando pragas,</l>
+            <l>Transpõe a praia e leva o assombro em suas vagas,</l>
+            <l>Num dantesco tropel de ruivos mastodontes!</l>
+          </lg>
+          <lg>
+            <l>Blindados Leviatãs que arfam com as brônzeas cargas</l>
+            <l>E sulcam bamboleando as vastidões supremas;</l>
+            <l>Couraçados — dragões de asas triunfais e largas, —</l>
+            <l>Tudo — o Mar, vomitando elétricas descargas,</l>
+            <l>Estrinca em suas mãos como um colar de gemas!</l>
+          </lg>
+          <lg>
+            <l>Destroços de galeões — maruja, velas, mastros,</l>
+            <l>Tudo no saque pilha a neptuniana tropa.</l>
+            <l>Tanto estrondo o tufão faz a correr de rastros</l>
+            <l>Como se Deus com o pé brilhante como os astros </l>
+            <l>De encontro ao Novo Mundo arremessasse a Europa!</l>
+          </lg>
+          <lg>
+            <l>E eu, ouvindo o estridor do vendaval, que estala,</l>
+            <l>Fico, triste, a pensar nas frágeis borboletas!</l>
+            <l>E minh’alma infeliz, que foi de Buda, exala</l>
+            <l>Um ai de compaixão dos lírios cor de opala</l>
+            <l>Que se desfolham como as ilusões dos poetas!...</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>CASA PATERNA</head>
+          <lg>
+            <pb n="108" edRef="#pb"/>
+            <l>Da velha casa em que a manhã da vida</l>
+            <l>Passei — conservo uma lembrança exata:</l>
+            <l>Antes de eu vir ao mundo foi erguida</l>
+            <l>Perto da serra, quase ao pé da mata.</l>
+          </lg>
+          <lg>
+            <l>Dá para o sul a frente enegrecida;</l>
+            <l>Ao lado, para um poente de escarlata,</l>
+            <l>Janelas donde, na estação florida,</l>
+            <l>Se aspira o cheiro dos jasmins de prata.</l>
+          </lg>
+          <lg>
+            <l>Perto, o bambual em cujo seio amigo</l>
+            <l>Cantam graúnas, e o pomar antigo</l>
+            <l>Com melros, tiés e gurundis em bando.</l>
+          </lg>
+          <lg>
+            <l>O ribeirão, o cafezal, a horta...</l>
+            <l>Ah! que saudade o coração me corta</l>
+            <l>Do lar querido que deixei chorando!</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>DE VOLTA</head>
+          <lg>
+            <pb n="109" edRef="#pb"/>
+            <l>Eis-me de novo no abençoado abrigo</l>
+            <l>Do sítio umbroso onde brinquei na infância!</l>
+            <l>As flores, desatando-se em fragrância,</l>
+            <l>Me cumprimentam com seu gesto amigo.</l>
+          </lg>
+          <lg>
+            <l>Borboletas e pássaros com ânsia,</l>
+            <l>Com a alegria do bom tempo antigo,</l>
+            <l>Pousam-me no ombro enquanto, a rir, bendigo</l>
+            <l>Esta esquecida, remansosa estância!</l>
+          </lg>
+          <lg>
+            <l>Tudo, ao me ver, de júbilo palpita!</l>
+            <l>Parece até que a abóboda infinita</l>
+            <l>Acendeu as estrelas mais preciosas!</l>
+          </lg>
+          <lg>
+            <l>As montas oferecem-me os regaços...</l>
+            <l>Como vos amo, ó árvores saudosas</l>
+            <l>Que me embalastes muita vez nos braços!</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>NA ROÇA</head>
+          <lg>
+            <pb n="110" edRef="#pb"/>
+            <l>Aqui, após uma batalha rude</l>
+            <l>Em que fiquei desiludido e exausto,</l>
+            <l>Recobro a minha morta juventude</l>
+            <l>E os sonhos d’oiro, como o Doutor Fausto.</l>
+          </lg>
+          <lg>
+            <l>Deixei do Tédio o lôbrego ataúde,</l>
+            <l>E, jubiloso, bebo, de hausto em hausto,</l>
+            <l>O olor das rosas. Volta-me a saúde</l>
+            <l>E me seduz da primavera o fausto.</l>
+          </lg>
+          <lg>
+            <l>Cedo abandono o tépido agasalho</l>
+            <l>Do leito e, exposto ao matutino orvalho,</l>
+            <l>Assisto ao espetáculo da aurora.</l>
+          </lg>
+          <lg>
+            <l>Que doce paz! Que vida rósea a minha</l>
+            <l>Nestas paragens, que Setembro enflora,</l>
+            <l>Donde nunca emigrou uma andorinha!</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>A AGONIA DA ÁRVORE</head>
+          <lg>
+            <pb n="111" edRef="#pb"/>
+            <l>Vai-se uma folha e exalas um lamento...</l>
+            <l>Estranhas cousas no sussurro dizes!</l>
+            <l>Desde que começou teu sofrimento </l>
+            <l>Fogem de ti os pássaros felizes!</l>
+          </lg>
+          <lg>
+            <l>Tu que lutavas com o tufão violento</l>
+            <l>Empedrada nas sólidas raízes,</l>
+            <l>Agora pendes, quase morta, ao vento,</l>
+            <l>Toda cheia de roxas cicatrizes...</l>
+          </lg>
+          <lg>
+            <l>Não te lastimes, árvore sem flores,</l>
+            <l>Erguendo ao céu, em vez da fronde linda</l>
+            <l>Os braços nos extremos estertores!</l>
+          </lg>
+          <lg>
+            <l>Já não tens sombra para os namorados,</l>
+            <l>Mas os teus galhos servirão ainda</l>
+            <l>Para aquecer no inverno os desgraçados!</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>NO CAMPO</head>
+          <lg>
+            <pb n="112" edRef="#pb"/>
+            <l>Vê, meu amor! Da aurora à luz vermelha</l>
+            <l>Chispam milhões de pérolas no campo.</l>
+            <l>Aqui, ali, um tardo pirilampo</l>
+            <l>Apaga a dúbia e pálida centelha.</l>
+          </lg>
+          <lg>
+            <l>Os pintassilgos olham-me de esguelha</l>
+            <l>Quando em teu rosto um longo beijo estampo.</l>
+            <l>Rebrilha o céu radiosamente escampo</l>
+            <l>Que o azúleo espelho côncavo semelha.</l>
+          </lg>
+          <lg>
+            <l>Desponta o sol. Uma avalanche d’oiro</l>
+            <l>Flameja. Zumbe aligero besoiro</l>
+            <l>E ondula a relva que premindo vamos.</l>
+          </lg>
+          <lg>
+            <l>Corre estranho rumor de rosa em rosa:</l>
+            <l>Pois quando passa uma mulher formosa</l>
+            <l>As próprias flores curvam-se nos ramos!</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>NO VALE</head>
+          <lg>
+            <pb n="113" edRef="#pb"/>
+            <l>Como isto é belo! Numa tremulina</l>
+            <l>De que queda em queda, o murmúrio riacho,</l>
+            <l>Que ergue de espuma um trêmulo penacho,</l>
+            <l>Beija a fímbria da saia da colina.</l>
+          </lg>
+          <lg>
+            <l>Farautas e anhos pascem na ravina;</l>
+            <l>Ressoa a avena de um zagal debaixo</l>
+            <l>De uma palmeira que debulha o cacho</l>
+            <l>E abre o feixe de palmas, que se inclina.</l>
+          </lg>
+          <lg>
+            <l>A graça errante de uma borboleta</l>
+            <l>Entre silvas marinha, inquieta, inquieta,</l>
+            <l>Sem se ferir na ponta dos espinhos.</l>
+          </lg>
+          <lg>
+            <l>As árvores são harpas harmoniosas...</l>
+            <l>Enquanto vão desabrochando as rosas,</l>
+            <l>Ouve-se a orquestra matinal dos ninhos!</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>NA VÁRZEA</head>
+          <lg>
+            <pb n="114" edRef="#pb"/>
+            <l>Só, um enlevo, entre as aragens mansas,</l>
+            <l>Da vida esqueço o félico amargume,</l>
+            <l>Sob um ipê, que, sacudindo as franças,</l>
+            <l>Me festeja com bênçãos de perfume.</l>
+          </lg>
+          <lg>
+            <l>Perto, um pássaro estranho, arcoirizado,</l>
+            <l>Preludiando amorosas cantilenas,</l>
+            <l>Pompeia como um príncipe encantado</l>
+            <l>A riqueza cromática das penas.</l>
+          </lg>
+          <lg>
+            <l>Sob uma umbrosa cúpula de folhas,</l>
+            <l>Alta como uma abóbada de igreja,</l>
+            <l>Entre flocosas florações de bolhas,</l>
+            <l>Flui opálea corrente que espumeja;</l>
+          </lg>
+          <lg>
+            <l>E abaixo, entre lisins, cascavelando,                      </l>
+            <l>Enruga a prata no ébano da rocha,                </l>
+            <l>Depois num salto arroja-se, bufando,</l>
+            <l>E em corimbos de espumas desabrocha.</l>
+          </lg>
+          <lg>
+            <l>De pronto um subitâneo reboliço</l>
+            <l>Faz ondular a relva que se dobra,                          </l>
+            <l>E, pondo em fuga um melro assustadiço,         </l>
+            <l>Surde, coleando, uma erradia cobra.</l>
+          </lg>
+          <lg>
+            <pb n="115" edRef="#pb"/>
+            <l>É uma cobra coral de linda escama</l>
+            <l>Precintada de púrpura e de treva;</l>
+            <l>Ao ver seus olhos — dous rubins em chama — </l>
+            <l>Das borboletas voa esparsa a leva.</l>
+          </lg>
+          <lg>
+            <l>De um arrozal maduro o oceano loiro,</l>
+            <l>Que o vento agita e o sol a pino escalda,</l>
+            <l>E harmoniosas ondulâncias d’oiro,</l>
+            <l>Vai-se quebrar num dique de esmeralda...</l>
+          </lg>
+          <lg>
+            <l>Os colibris de plúmulas cambiantes</l>
+            <l>— Solto colar de pedras preciosas, — </l>
+            <l>De surto em surto, em pares doudejantes,</l>
+            <l>Andam com o bico ensanguentando as rosas...</l>
+          </lg>
+          <lg>
+            <l>Pelas copas em flor, entre perfumes</l>
+            <l>De manacás, em variações bizarras,</l>
+            <l>Abafando das pombas os queixumes,</l>
+            <l>Tocam flautins estrídulas cigarras.</l>
+          </lg>
+          <lg>
+            <l>Com seus resmungos bárbaros me assustam</l>
+            <l>Besoiros de bronzeados capacetes,</l>
+            <l>E por capões de mato embarafustam,</l>
+            <l>Lavando à frente os dous hostis floretes.</l>
+          </lg>
+          <lg>
+            <l>O sol com os fulvos raios colorantes</l>
+            <l>Pincela a tez sem mácula das flores,</l>
+            <l>Numa gama de cores deslumbrantes,</l>
+            <l>Que humilha a fantasia dos pintores.</l>
+          </lg>
+          <lg>
+            <l>A orquestração dos pássaros me anima</l>
+            <l>E insufla um sangue novo em minhas veias,</l>
+            <l>E componho a cantar, de rima em rima,</l>
+            <l>Poemas e poemas de encantar sereias!</l>
+          </lg>
+          <lg>
+            <l>Dentro de um sonho o coração se aquieta,</l>
+            <l>Sinto-me bem, sem tédio, sem fadiga,</l>
+            <l>E murmuro num êxtase de poeta:</l>
+            <l>— “Bendita sejas, Natureza amiga!”</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>A TORRENTE</head>
+          <opener>
+            <epigraph>
+              <cit>
+                <quote>
+                  <lg type="ignore-when-scanning">
+                    <pb n="116" edRef="#pb"/>
+                    <l><hi>Da serra azul, onde a palmeira medra,</hi></l>
+                    <l><hi>Onde paira a neblina, se deriva,</hi></l>
+                    <l><hi>Entre abertos lisins de esconsa pedra,</hi></l>
+                    <l><hi>        Um fio de água viva...</hi></l>
+                  </lg>
+                </quote>
+                <bibl>Oliveira</bibl>
+              </cit>
+            </epigraph>
+          </opener>
+          <lg>      
+            <l>No pináculo do monte</l>
+            <l>Onde a tempestade rincha,</l>
+            <l>Brota escassa e tênue fonte</l>
+            <l rend="indent">De sáxea frincha.</l>
+          </lg>
+          <lg>
+            <l>Rompe do adito da penha</l>
+            <l>Por furo aberto a capricho,</l>
+            <l>E, súbito, se despenha</l>
+            <l rend="indent">Em um esguicho.</l>
+          </lg>
+          <lg>
+            <l>Salta e foge num arrulo</l>
+            <l>Num chão onde a relva medra,</l>
+            <l>E desce, de pulo em pulo,</l>
+            <l rend="indent">De pedra em pedra.</l>
+          </lg>
+          <lg>
+            <l>Serpeja entre as móbeis pêndulas</l>
+            <l>Dos intrincados cipós,</l>
+            <l>E passa entre as filipêndulas</l>
+            <l rend="indent">Destra e veloz.</l>
+          </lg>
+          <lg>
+            <pb n="117" edRef="#pb"/>
+            <l>Entre calhaus, palpitando,</l>
+            <l>Susta a carreira, escorrega,</l>
+            <l>E vai tateando... tacteando...</l>
+            <l rend="indent">Como uma cega!</l>
+          </lg>
+          <lg>
+            <l>Logo após a argêntea fita,</l>
+            <l>Encosta abaixo, desdobra,</l>
+            <l>E, rebolando, se agita</l>
+            <l rend="indent">Como uma cobra.</l>
+          </lg>
+          <lg>
+            <l>Pelos túneis de verdura</l>
+            <l>Tirita de luz à míngua,</l>
+            <l>E sai da garganta escura</l>
+            <l rend="indent">Como uma língua...</l>
+          </lg>
+          <lg>
+            <l>Um periquito da serra,</l>
+            <l>Quando mais flameja o sol,</l>
+            <l>Na corrente o bico enterra</l>
+            <l rend="indent">Como um anzol.</l>
+          </lg>
+          <lg>
+            <l>Bebe adiante um tico-tico;</l>
+            <l>No ponto em que mais borbulha</l>
+            <l>O beija-flor crava o bico</l>
+            <l rend="indent">Como uma agulha.</l>
+          </lg>
+          <lg>
+            <l>E a equórea serpe, que vaga</l>
+            <l>Pela ravina, de rojo,</l>
+            <l>Suspira de fraga em fraga,</l>
+            <l rend="indent">De fojo em fojo.</l>
+          </lg>
+          <lg>
+            <l>Chega ao cimo de uma rocha</l>
+            <l>Por entre palmas de avenca:</l>
+            <l>Salta, em lírios desabrocha</l>
+            <l rend="indent">E se despenca...</l>
+          </lg>
+          <lg>
+            <l>Arrebanha afluentes níveos</l>
+            <l>— Mansas cobras de luar</l>
+            <l>Que encontra pelos declívios</l>
+            <l rend="indent">A tiritar.</l>
+          </lg>
+          <lg>
+            <pb n="118" edRef="#pb"/>
+            <l>Engrossa tanto na viagem</l>
+            <l>Que a água de um salto não vingo:</l>
+            <l>Fora a que bebe a folhagem</l>
+            <l rend="indent">De pingo em pingo.</l>
+          </lg>
+          <lg>
+            <l>Sérios perigos arrosta</l>
+            <l>Como um herói frio e calmo,</l>
+            <l>E conquista a longa encosta</l>
+            <l rend="indent">De palmo em palmo.</l>
+          </lg>
+          <lg>
+            <l>Ao vale chega. Que festa!</l>
+            <l>Toda se arrufa de glória!</l>
+            <l>Foi a viagem na floresta</l>
+            <l rend="indent">Uma vitória!</l>
+          </lg>
+          <lg>
+            <l>Detém-se ao pé de uma choça,</l>
+            <l>E, cheia de um santo amor,</l>
+            <l>Oferta uma grande poça</l>
+            <l rend="indent">Ao morador.</l>
+          </lg>
+          <lg>
+            <l>No seio hialino, claro,</l>
+            <l>Esconde uma alma de Buda:</l>
+            <l>Até a flor sem amparo</l>
+            <l rend="indent">A erguer-se ajuda.</l>
+          </lg>
+          <lg>
+            <l>Posto que a turvem bastante,</l>
+            <l>Não leva sombras de mágoa.</l>
+            <l>Jamais negou ao viandante </l>
+            <l rend="indent">Um copo de água!</l>
+          </lg>
+          <lg>
+            <l>Na marcha morosa e tarda</l>
+            <l>Pisam-lhe o dorso espelhento</l>
+            <l>Os bois: inda assim, não guarda</l>
+            <l rend="indent">Ressentimento.</l>
+          </lg>
+          <lg>
+            <l>Salvo em galeras de folhas</l>
+            <l>Tribos de insetos ruins,</l>
+            <l>E, alegre, floresce em bolhas</l>
+            <l rend="indent">Que são jasmins!</l>
+          </lg>
+          <lg>
+            <pb n="119" edRef="#pb"/>
+            <l>Entra num campo: congraça</l>
+            <l>As borboletas de cores</l>
+            <l>Diversas e ansiosa, passa</l>
+            <l rend="indent">Colhendo flores.</l>
+          </lg>
+          <lg>
+            <l>Aqui, ali, uma rosa,</l>
+            <l>Que em perfumes se desmancha,</l>
+            <l>Brinca nas ondas, gloriosa</l>
+            <l rend="indent">Como uma lancha!</l>
+          </lg>
+          <lg>
+            <l>Um sinceiro de alta copa</l>
+            <l>A frouxa cauda de sombra</l>
+            <l>Em suas águas ensopa,</l>
+            <l rend="indent">Rente a uma alfombra.</l>
+          </lg>
+          <lg>
+            <l>Nas ôndulas encrespadas,</l>
+            <l>Da pedraria entre os vãos,</l>
+            <l>As árvores debruçadas</l>
+            <l rend="indent">Lavam as mãos...</l>
+          </lg>
+          <lg>
+            <l>Ora reflete a esmeralda</l>
+            <l>De um tuim, ora um galho arreda</l>
+            <l>E o espúmeo pendão desfralda</l>
+            <l rend="indent">De queda em queda.</l>
+          </lg>
+          <lg>
+            <l>Dança um pouco, e estuga o passo,</l>
+            <l>De neve as margens salpica,</l>
+            <l>E lança-se, espaço a espaço,</l>
+            <l rend="indent">De bica em bica.</l>
+          </lg>
+          <lg>
+            <l>Quando o álveo se torna estreito,</l>
+            <l>Solapa e alue os barrancos,</l>
+            <l>E espreguiça-se no leito</l>
+            <l rend="indent">De seixos brancos...</l>
+          </lg>
+          <lg>
+            <l>E toma alento, descansa</l>
+            <l>Um só minuto, porém:</l>
+            <l>Pois cai num pendor, e avança</l>
+            <l rend="indent">De novo, além!</l>
+          </lg>
+          <lg>
+            <pb n="120" edRef="#pb"/>
+            <l>E sem tino, atropelada,</l>
+            <l>Ladeira abaixo, tropeça,</l>
+            <l>E em desalinho, arrepiada,</l>
+            <l rend="indent">Se ergue depressa.</l>
+          </lg>
+          <lg>
+            <l>Vista de longe, parece</l>
+            <l>Toda vestida de plumas:</l>
+            <l>Pois, cheia de flocos, desce</l>
+            <l rend="indent">Suando espumas!</l>
+          </lg>
+          <lg>
+            <l>Galopa, agitando ao vento</l>
+            <l>A undante crina de opala.</l>
+            <l>Às vezes, no chão pedrento,</l>
+            <l rend="indent">Os pés entala...</l>
+          </lg>
+          <lg>
+            <l>Corre, corre, sem descanço,</l>
+            <l>Riçada, trêmula, audaz,</l>
+            <l>Até que, enfim, num remanso</l>
+            <l rend="indent">Encontra a paz.</l>
+          </lg>
+          <lg>
+            <l>Num tanque em círculo, enorme,</l>
+            <l>De face de porcelana,</l>
+            <l>Deita-se, aninha-se e dorme</l>
+            <l rend="indent">Uma semana.</l>
+          </lg>
+          <lg>
+            <l>Meninas brancas e nuas,</l>
+            <l>De pernas jáspeas, redondas,</l>
+            <l rend="indent">Se banham, sorrindo, em suas </l>
+            <l rend="indent">Macias ondas.</l>
+          </lg>
+          <lg>
+            <l>Um ganso, que se retrata</l>
+            <l>No plácido ancoradoiro,</l>
+            <l>Quebra-lhe o espelho de prata</l>
+            <l rend="indent">Com os remos d’oiro...</l>
+          </lg>
+          <lg>
+            <l>Mas, findo o sono, fremindo,</l>
+            <l>De novo põe-se a viajar</l>
+            <l>De passo em passo, seguindo</l>
+            <l rend="indent">Rumo ao mar...</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>EM ISTAMBUL</head>
+          <lg>
+            <pb n="121" edRef="#pb"/>
+            <l>Para livrar minh’alma da manopla</l>
+            <l>Do Tédio, que a oprimia a todo o instante,</l>
+            <l>Cortei, num brigue, mares de sinopla,</l>
+            <l>Tangendo a lira como um bardo errante.</l>
+          </lg>
+          <lg>
+            <l>Nas longas ruas de Constantinopla,</l>
+            <l>Onde ressoa a guzla suspirante,</l>
+            <l>Cantei às muçulmanas doce copla,</l>
+            <l>E andei de cimitarra e de turbante.</l>
+          </lg>
+          <lg>
+            <l>Amei as mais formosas bizantinas</l>
+            <l>Que, levantando o frouxo véu brumoso,</l>
+            <l>Abaixavam as pálpebras divinas.</l>
+          </lg>
+          <lg>
+            <l>Venci os ódios que o estrangeiro acirra,</l>
+            <l>E vim deixando um rastro perfumoso</l>
+            <l>De nardo e aloés, de sândalo e de mirra...</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>VISÃO NOTURNA</head>
+          <lg>
+            <pb n="122" edRef="#pb"/>
+            <l>Em sonho às vezes volto ao lar. Ansioso,</l>
+            <l>Entro na sala e beijo a mão querida</l>
+            <l>De minha Mãe, que, alegre e comovida,</l>
+            <l>Me abençoa num gesto carinhoso.</l>
+          </lg>
+          <lg>
+            <l>Ouço-lhe a voz saudosa e enternecida</l>
+            <l>De um tom maternalmente melodioso!</l>
+            <l>Minh’alma sente inenarrável gozo</l>
+            <l>Ness’hora que é a melhor de minha vida!</l>
+          </lg>
+          <lg>
+            <l>Vejo depois, com íntima alegria,</l>
+            <l>Minha irmã no jardim colhendo flores</l>
+            <l>Para enfeitar a imagem de Maria.</l>
+          </lg>
+          <lg>
+            <l>Percorro os sítios que eu amei — com ânsia,</l>
+            <l>E ainda aspiro os místicos olores</l>
+            <l>Dos jasmineiros que plantei na infância!</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>BALADILHA</head>
+          <lg>
+            <pb n="123" edRef="#pb"/>
+            <l>A egrégia diva por que ando</l>
+            <l>A suspirar com amargor</l>
+            <l>É um ser olímpico, adorando,</l>
+            <l>Que tem da neve andina a cor</l>
+            <l>— Rosa que vem desabrochando</l>
+            <l>Virginalmente alva e taful,</l>
+            <l>Sob o esplendor de Abril sonhando</l>
+            <l>Com as pompas de uma aurora azul.</l>
+          </lg>
+          <lg>
+            <l>Quando ela exala, palpitando,</l>
+            <l>O aroma — filtro embriagador — </l>
+            <l>Eu, de hausto em hausto, o bebo, arfando,</l>
+            <l>Como um dulcíssimo licor.</l>
+            <l>Amo-a demais! E não sei quando</l>
+            <l>Essa princesa de Istambul</l>
+            <l>A cujos pés vivo chorando,</l>
+            <l>Me volverá o olhar azul!</l>
+          </lg>
+          <lg>
+            <l>Quando se oculta o sol chispando,</l>
+            <l>Encontro, pálido de amor,</l>
+            <l>A Flor do Bósforo cismando,</l>
+            <l>Na mão o rosto sedutor;</l>
+            <l>E assim, de branco, meditando,</l>
+            <l>A muçulmana estrela êxul</l>
+            <l>Recorda um cisne repousando</l>
+            <l>Imoto à flor de um lago azul...</l>
+          </lg>
+          <lg>
+            <l>Humilde curvo-me ao seu mando</l>
+            <l>Como um arbusto ao vento sul:</l>
+            <l>No entanto, ao ver-me soluçando,</l>
+            <l>Apenas move o leque azul!</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>SONHO MORTO</head>
+          <lg>
+            <pb n="124" edRef="#pb"/>
+            <l>O sonho azul que eu vinha acalentando</l>
+            <l>— Uma preciosa dádiva divina —</l>
+            <l>Foi um dia a dia as pétalas cerrando</l>
+            <l>Como um helianto quando o sol declina...</l>
+          </lg>
+          <lg>
+            <l>Adeus, ó lírio de um perfume brando</l>
+            <l>E tez nivosamente alabastrina,</l>
+            <l>Que, o meu torvo pesar balsamisando,</l>
+            <l>Me sorrias na estrela vespertina!</l>
+          </lg>
+          <lg>
+            <l>Doce ilusão crescida na minh’alma!</l>
+            <l>Nunca mais tu virás, por noite calma,</l>
+            <l>Beijar-me o rosto, plácida e radiante!</l>
+          </lg>
+          <lg>
+            <l>E hei de chegar ao meu sombrio outono</l>
+            <l>Sem ter um anjo que no extremo instante</l>
+            <l>Me feche os olhos para o eterno sono!</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>HORAS MORTAS</head>
+          <lg>
+            <pb n="125" edRef="#pb"/>
+            <l>Doze pancadas o relógio bate</l>
+            <l>— Um rosário de contas de lamentos! — </l>
+            <l>Depois silêncio. Estão dormindo os ventos</l>
+            <l>Como titãs cansados do combate.</l>
+          </lg>
+          <lg>
+            <l>Sob o livor da lâmpada, que abate</l>
+            <l>A dúbia chama, tenho pensamentos</l>
+            <l>Sinistros como os corvos agourentos.</l>
+            <l>No peito a dor enterra-me o acicate!</l>
+          </lg>
+          <lg>
+            <l>Debalde tento conciliar o sono</l>
+            <l>Para atenuar o horror desde abandono</l>
+            <l>Em que sucumbo num montão de espinhos!</l>
+          </lg>
+          <lg>
+            <l>Abro a janela. Inda tão longe a aurora!</l>
+            <l>Tudo repousa... Apenas, vale a fora,</l>
+            <l>Cantam as fontes embalando os ninhos...</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>NOITE DE AMOR</head>
+          <lg>
+            <pb n="126" edRef="#pb"/>
+            <l>Quando me deste, pálida, ofegando,</l>
+            <l>O teu primeiro beijo ao fim do dia,</l>
+            <l>No ocaso, envolta em púrpuras, nascia</l>
+            <l>Vésper, doirada e límpida, radiando.</l>
+          </lg>
+          <lg>
+            <l>Cada vez que o meu beijo, fuzilando,</l>
+            <l>Iluminava a câmara sombria,</l>
+            <l>Teu corpo lácteo e açucenal tremia</l>
+            <l>Como um lírio que vem desabrochando...</l>
+          </lg>
+          <lg>
+            <l>Na tua boca de coral zumbia</l>
+            <l>Dos meus desejos o sequioso bando,</l>
+            <l>E o teu colo a violetas rescendia!</l>
+          </lg>
+          <lg>
+            <l>Quando me deste, pálida, ofegando,</l>
+            <l>O último beijo a palpitar, — morria</l>
+            <l>A estrela d’Alva, trêmula, chorando!</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>NOITE DE INVERNO</head>
+          <lg>
+            <pb n="127" edRef="#pb"/>
+            <l>Que frio!... E eu só!... Oh! noite de amargura!</l>
+            <l>Lá fora plange com angústia o vento</l>
+            <l>Desgrenhando o arvoredo, que murmura,</l>
+            <l>De mãos alçadas para o firmamento.</l>
+          </lg>
+          <lg>
+            <l>Meu leito é uma gelada sepultura,</l>
+            <l>O lençol — um sudário... Embalde tento</l>
+            <l>Dormir: o frio cresce e me tortura!...</l>
+            <l>A minh’alma tirita... Que tormento!</l>
+          </lg>
+          <lg>
+            <l>Ah! se ela, cheia de ternura e zelo,</l>
+            <l>De amor vencida, viesse neste instante</l>
+            <l>Envolver-me no manto do cabelo!...</l>
+          </lg>
+          <lg>
+            <l>Loucura minha! A um sonho em vão me aferro!</l>
+            <l>Não mais terei o seu perfume ebriante</l>
+            <l>Neste noturno cárcere de ferro!</l>
+          </lg>
+        </div>
+        <div type="poem">
+          <head>TÂNTALO</head>
+          <opener>
+            <argument><p>Sobre uma página de Coelho Neto</p></argument>
+          </opener>
+          <lg>
+            <pb n="128" edRef="#pb"/>
+            <l>Plenilúnio. As estrelas buliçosas</l>
+            <l>Cintilam docemente, docemente...</l>
+            <l>Entre perfumes de esfolhadas rosas,</l>
+            <l>A bacanal estruge em febre ardente.</l>
+          </lg>
+          <lg>
+            <l>Ancilas gregas, moças da Sicília</l>
+            <l>Tangem harpas e cítaras doiradas,</l>
+            <l>Sonorizando a orgiática vigília</l>
+            <l>Com notas suavemente aveludadas.</l>
+          </lg>
+          <lg>
+            <l>Efebos cantam, fâmulos vozeiam</l>
+            <l>Em derredor da turma de convivas,</l>
+            <l>E, na celeuma lúbrica, pompeiam</l>
+            <l>A robustez das raças primitivas.</l>
+          </lg>
+          <lg>
+            <l>As hetairas doudas, titubeantes,</l>
+            <l>Erguem ritons de bronze de Corinto.</l>
+            <l>Entre confusos gritos luxuriantes</l>
+            <l>Molhando os seios nus de vinho tinto.</l>
+          </lg>
+          <lg>
+            <l>Negros enormes da Numídia tocam</l>
+            <l>Os tamboris. A música arrebata!</l>
+            <l>Mulheres, tontas de volúpia, chocam</l>
+            <l>Os estrídulos tímpanos de prata...</l>
+          </lg>
+          <lg>
+            <pb n="129" edRef="#pb"/>
+            <l>Tintinabulam campainhas de ouro.</l>
+            <l>Formosa Frígia loira como Diana                                   </l>
+            <l>Fere uma lira de macio choro</l>
+            <l>— Mimo de cara tartaruga indiana.</l>
+          </lg>
+          <lg>
+            <l>Lauta mesa de raras iguarias</l>
+            <l>Posta ao luar. É um veio cada vaso.</l>
+            <l>Vem-se pavões da Média, ostras, enguias,</l>
+            <l>Faisões do Egito, pássaros de Phaso,</l>
+          </lg>
+          <lg>
+            <l>Figos de Chelidônia, uvas de Atenas,</l>
+            <l>Petunclos de Metima, ameixas sírias,</l>
+            <l>Tâmaras novas da Thebaida. Plenas</l>
+            <l>De vinho, as taças deitam línguas tírias.</l>
+          </lg>
+          <lg>
+            <l>Espumejam os ciatos. Eróticos</l>
+            <l>Jovens batem os címbios com luxúria;</l>
+            <l>Bebem-se vinhos tépidos e exóticos</l>
+            <l>De Cós, de Samos, de Chiraz, da Etrúria.</l>
+          </lg>
+          <lg>
+            <l>Vasos etruscos voltam das adegas,</l>
+            <l>Corre o falerno olente e rubicundo,</l>
+            <l>Como o sangue, na fúria das refregas,</l>
+            <l>Da ilharga de um atleta moribundo.</l>
+          </lg>
+          <lg>
+            <l>A mirra, nas caçoulas fumegando,</l>
+            <l>Desfaz-se em ondulâncias de perfume...</l>
+            <l>De instante a instante, irrompem, saraivando,</l>
+            <l>Gritos de raiva, apóstrofes de ciúme.</l>
+          </lg>
+          <lg>
+            <l>Os rouxinóis e os melros musicais</l>
+            <l>Trinam alegremente nos aviários,</l>
+            <l>Riçando as penas, leves, saltitantes,</l>
+            <l>Sob o vasto clarão dos lampadários.</l>
+          </lg>
+          <lg>
+            <l>E nos tanques de marmor cipolino</l>
+            <l>Vogam os cisnes — gôndolas de plumas, — </l>
+            <l>Deixando à flor do espelho cristalino</l>
+            <l>Flutuantes bolhas, flutuações de espumas...</l>
+          </lg>
+          <lg>
+            <pb n="130" edRef="#pb"/>
+            <l>Chegam os prisioneiros lusitanos</l>
+            <l>E gauleses tomados em Cartago,</l>
+            <l>Mais possantes que os tigres africanos</l>
+            <l>Que a corça aterram com o bramir pressago.</l>
+          </lg>
+          <lg>
+            <l>Abrem-se as flores da sensualidade!</l>
+            <l>Plena nudez! Palpitam carnes brancas!</l>
+            <l>Como os granizos numa tempestade</l>
+            <l>Estalam beijos pelas bocas francas.</l>
+          </lg>
+          <lg>
+            <l>Cada mulher é um rio de luxúria</l>
+            <l>Onde brincam dous sátiros: os seios,</l>
+            <l>Que, alvoroçados por estranha fúria,</l>
+            <l>O bico entesam em febris anseios.</l>
+          </lg>
+          <lg>
+            <l>Os bárbaros, arfando de lascívia,</l>
+            <l>Pedem com ternos olhos deslumbrados,</l>
+            <l>O manjar de uma carne moça e nívea,</l>
+            <l>Uivando como os lobos esfaimados!</l>
+          </lg>
+          <lg>
+            <l>— “O meu colar de gemas ao mais forte!”</l>
+            <l>Brada Herculano, o gasto sibarita,</l>
+            <l>E a luta infrene cresce num transporte</l>
+            <l>Que o torvelim de uma batalha imita.</l>
+          </lg>
+          <lg>
+            <l>Mais doce agora a música ressoa!</l>
+            <l>Ronca de amor a multidão devassa!</l>
+            <l>A última rosa da última coroa</l>
+            <l>Desfolha-se no Chipre de uma taça...</l>
+          </lg>
+          <lg>
+            <l>Cada qual mais ardente e mais cioso</l>
+            <l>Arrasta para longe uma hetaira:</l>
+            <l>Em cada peito, no apogeu do gozo,</l>
+            <l>Maviosamente um coração suspira!</l>
+          </lg>
+          <lg>
+            <l>Estala o rosmaninho. Sacudidas,</l>
+            <l>As grandes amoreiras rumorejam.</l>
+            <l>Travam-se lutas. Lâminas brunidas,</l>
+            <l>Como argênteos relâmpagos, lampejam.</l>
+          </lg>
+          <lg>
+            <pb n="131" edRef="#pb"/>
+            <l>Herculano de ciúme empalidece!</l>
+            <l>Falta-lhe a força antiga! O miserando</l>
+            <l>Impreca o céu, que, côncavo, parece</l>
+            <l>Um braseiro de opalas flamejando...</l>
+          </lg>
+          <lg>
+            <l>Vêm as essências fortes do Oriente:</l>
+            <l>Pastas afrodisíacas, perfumes</l>
+            <l>Excitantes: mas tudo inutilmente...</l>
+            <l>Não se reacendem apagados lumes!</l>
+          </lg>
+          <lg>
+            <l>As moças e os meninos com desvelo</l>
+            <l>Procuram reavivar-lhe a extinta chama;</l>
+            <l>Untam-lhe o corpo, beijam-lhe o cabelo:</l>
+            <l>Mas nada mais aquela carne inflama!</l>
+          </lg>
+          <lg>
+            <l>E o velho, com feição transfigurada,</l>
+            <l>Foge ao triclínio, cambaleando, iroso,</l>
+            <l>A guedelha de suores empapada</l>
+            <l>— Neblina de um inverno doloroso!</l>
+          </lg>
+          <lg>
+            <l>Apoiado a um mancebo a que se achega,</l>
+            <l>Afaga colos com sensual carícia;</l>
+            <l>Tenta a vida nos lábios de uma grega,</l>
+            <l>Busca amores no seio de uma egípcia.</l>
+          </lg>
+          <lg>
+            <l>A paciência lhe foge! Dilacera</l>
+            <l>O peito e esbofeteia os seus sequazes!</l>
+            <l>Contra a matéria morta vocifera</l>
+            <l>Bramindo como doze satanases!</l>
+          </lg>
+          <lg>
+            <l>— “Antes morresse o espírito!” arquejante,</l>
+            <l>Brada mordendo os pulsos doloridos;</l>
+            <l>Anda, tropeça num casal possante,</l>
+            <l>Pára, escuta as palavras, os gemidos;</l>
+          </lg>
+          <lg>
+            <l>Ri loucamente, aplaude, espreita, espia, </l>
+            <l>E, na explosão do bárbaro despeito,</l>
+            <l>Crava o estilete d’oiro, que irradia,</l>
+            <l>Na carne dos que gozam peito a peito.</l>
+          </lg>
+          <lg>
+            <pb n="132" edRef="#pb"/>
+            <l>As mulheres de súbito, medrosas,</l>
+            <l>Fogem ao velho, palpitas e belas,</l>
+            <l>Acendendo entre as pálpebras mimosas</l>
+            <l>Cintilações gemíferas de estrelas!</l>
+          </lg>
+          <lg>
+            <l>Os instrumentos para longe atiram,</l>
+            <l>E, voluptuosas, ébrias, dissolutas,</l>
+            <l>Rojam-se aos pés dos éfebos... Deliram!...</l>
+            <l>Gemem de gozo os sátiros nas grutas!</l>
+          </lg>
+          <lg>
+            <l>Lácteas donzelas de olhos tentadores</l>
+            <l>Suplicam beijos, beijos e mais beijos,</l>
+            <l>Para apagar os lúbricos ardores,</l>
+            <l>A vermelha flamância dos desejos.</l>
+          </lg>
+          <lg>
+            <l>Herculano, raivoso, o passo incerto,</l>
+            <l>Manda cessar a bacanal fremente:</l>
+            <l>Apenas se ouve o lânguido concerto</l>
+            <l>Dos beijos altos do conúbio ingente!</l>
+          </lg>
+          <lg>
+            <l>Trôpego, o ancião desvia-se dos pares,</l>
+            <l>Foge da “Villa” como de um inferno,</l>
+            <l>Volvendo às gregas cupidos olhares...</l>
+            <l>Em vão! Não pode florescer o inverno!</l>
+          </lg>
+          <lg>
+            <l>Corre, desvaira, e, em frente ao mar, que ofega,</l>
+            <l>Estaca... O mar! o mar também!... A lua,</l>
+            <l>Hetaira do Azul, ao mar se entrega,</l>
+            <l>Se entrega ao mar, como Anfitrite, nua!</l>
+          </lg>
+          <lg>
+            <l>De pé, na rocha — Tântalo sequioso, — </l>
+            <l>Horrendamente lívido e convulso,</l>
+            <l>Vendo-se fora do Éden delicioso,</l>
+            <l>Pragueja e grita, estorcegando o pulso!</l>
+          </lg>
+          <lg>
+            <l>Contra a impotência — humilhação suprema! — </l>
+            <l>Clama num torvo rictus de pagão...</l>
+            <l>— “Antes morresse o espírito!” blasfema:</l>
+            <l>E mergulha no mar como um tritão...</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
