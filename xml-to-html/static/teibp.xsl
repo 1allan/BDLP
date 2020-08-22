@@ -78,10 +78,13 @@
     <xsl:template match="/" name="htmlShell" priority="99">
         <html>
             <xsl:call-template name="htmlHead"/>
-            <body>
+            <body class="anti-fouc">
                 <header>
                     <a class="logo-bdlp" href="https://www.literaturabrasileira.ufsc.br/?locale=pt_BR">BLPL</a>
-                    <nav>	
+                    <nav>
+                        <div id="theme-switch">
+                            <img src="../images/theme-switch.svg" alt="Mudar tema"/>
+                        </div>
                         <div id="download-button" class="menu-button">
                             <a id="download" onclick="return downloadHTML();" download="">Baixar texto</a>
                             <span></span>
@@ -92,9 +95,7 @@
                             <span class="line bottom"></span>
                         </div>
                     </nav>
-                    <div id="index-menu">
-                        <h1>Índice</h1>
-                    </div>
+                    <xsl:call-template name="indexMenu"/>
                 </header>
                 <xsl:if test="$includeToolbox = true()">
                     <xsl:call-template name="teibpToolbox"/>
@@ -106,6 +107,9 @@
                 <script type="text/javascript" src="{$teibpJS}"></script>
                 <script type="text/javascript" src="{$mainJS}"></script>
                 <script type="text/javascript" src="{$downloadJS}"></script>
+                <div id="device-alert">
+                    <span>Para uma melhor legibilidade, recomendamos mudar a orientação do dispositivo!</span>
+                </div>
             </body>
         </html>
     </xsl:template>
@@ -419,7 +423,7 @@
             <span>Powered by <a href="{$teibpHome}">TEI Boilerplate</a>.</span>
             <span>TEI Boilerplate is licensed under a <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.</span>
             <a href="http://creativecommons.org/licenses/by/3.0/">
-                <img alt="Creative Commons License" style="border-width:0;" src="http://i.creativecommons.org/l/by/3.0/80x15.png"/>
+                <img alt="Creative Commons License" style="border-width:0;" src="https://licensebuttons.net/l/by/3.0/80x15.png"/>
             </a>
         </footer>
     </xsl:variable>
@@ -563,6 +567,17 @@
         </xsl:copy>
     </xsl:template>
 
+    <xsl:template match="//header/div[id='index-menu']" name="indexMenu">
+        <div id="index-menu">
+            <h1>Índice</h1>
+            <xsl:for-each select="//tei:text//tei:head">
+                <a href="#title{position() - 1}" data-depth="{count(ancestor::*) - 3}">
+                    <xsl:value-of select="./text()"/>
+                </a>
+            </xsl:for-each>
+        </div>
+    </xsl:template>
+
     <!-- format theater speeches -->
     <xsl:template match="tei:l[@part='I']">
         <l type="dialogue">
@@ -665,14 +680,10 @@
 	<!-- Format sp tags for theater texts -->
 	<xsl:template match="//tei:sp">
 		<xsl:variable name="roleID" select="translate(./@who, '#', '')"/>
+        <div class="uppercased">
+            <xsl:value-of select="//tei:role[@xml:id=$roleID]"/>
+        </div>
 		<xsl:copy>
-			<xsl:value-of 
-				select="translate(
-					//tei:role[@xml:id=$roleID],
-                    'abcdefghijklmnopqrstuvwxyzàèìòùáéíóúýâêîôûãñõäëïöüÿåæœçðø',
-                    'ABCDEFGHIJKLMNOPQRSTUVWXYZÀÈÌÒÙÁÉÍÓÚÝÂÊÎÔÛÃÑÕÄËÏÖÜŸÅÆŒÇÐØ'
-				)"
-			/>
 			<xsl:apply-templates select="@* | node()"/>
 		</xsl:copy>
 	</xsl:template>

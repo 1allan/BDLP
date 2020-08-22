@@ -1,5 +1,6 @@
 const menuButton = document.getElementById('index-button')
 const indexMenu = document.getElementById('index-menu')
+const themeSwitch = document.getElementById('theme-switch')
 const teiWrapper = document.getElementById('tei-wrapper')
 const header = document.querySelector('header') || null
 let url = window.location.href.split('/')
@@ -40,3 +41,7 @@ document.getElementById('index').remove()
 
 // Prevents page from FOUC
 document.body.onload = () => document.body.removeAttribute('class')
+
+themeSwitch.addEventListener('click', () => {
+	teiWrapper.classList.toggle('dark-mode')
+})

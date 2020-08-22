@@ -1,10 +1,28 @@
-html {
-	background-color: #999;
+@font-face {  
+	font-family: Arvo;
+	src: url(../../fonts/Arvo/Arvo-Bold.ttf);
 }
 
-a, a:visited, a:hover {
+html {
+	background-color: #999;
+	scroll-behavior: smooth;
+	scroll-padding: 80px;
+}
+
+.anti-fouc {
+	display: none;
+	opacity: 0;
+}
+
+.uppercased { text-transform: uppercase }
+
+a, a:link, a:visited, a:hover {
 	color: inherit;
 	text-decoration: none;
+}
+
+teiHeader {
+	border-bottom: 2px solid #999;
 }
 
 #tei-wrapper {
@@ -23,10 +41,20 @@ a, a:visited, a:hover {
 	font-size: 18px !important;
 	line-height: normal !important;
 	text-align: left !important;
+
+	transition: 300ms ease;
 }
 
 #tei-wrapper p {
 	text-align: justify;
+}
+
+#tei-wrapper.dark-mode {
+	background: #292929;
+}
+
+#tei-wrapper.dark-mode * {
+	color: white;
 }
 
 titleStmt > tei-title {
@@ -64,6 +92,11 @@ div > head {
 	font-size: 110%;
 	text-indent: 0;
 	margin-top: 2em;
+}
+
+head {
+	text-transform: uppercase;
+	font-weight: 600 !important
 }
 
 opener {
@@ -180,9 +213,12 @@ header nav {
 	margin-right: 40px;
 }
 
+header > nav > div {
+	margin-left: 30px;
+}
+
 .menu-button {
 	cursor: pointer;
-	margin-left: 40px;
 	transition: 300ms;
 }
 
@@ -211,6 +247,26 @@ header nav {
 	top: 90%;
 	border: 1px solid #66D37E
 }
+
+#theme-switch {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100%;
+	cursor: pointer;
+}
+
+
+#theme-switch img {
+	border: none;
+	height: 20px;
+	transition: 300ms ease
+}
+
+#theme-switch:hover img {
+	transform: scale(1.1);
+}
+
 
 #index-button {
 	height: 35px;
@@ -276,24 +332,12 @@ quote::before, quote::after {
 	content: ''
 }
 
-quote l {
-	text-indent: -16%;
-}
-
-epigraph bibl {
-	text-indent: 19%;
-}
-
 div[type="part"] > head:first-child {
 	border-bottom: 1px solid #999
 }
 
 div[type="poem"] > head:first-child {
 	font-size: 100%
-}
-
-div[type="poem"] {
-	margin-bottom: 15%;
 }
 
 l[type="dialogue"] {
@@ -333,7 +377,10 @@ foot div {
 TEI div.title {
 	display: block;
 	font-family: Arvo, sans-serif;
-	font-weight: normal;
+}
+
+head, titleStmt {
+	font-weight: 400 !important;
 }
 
 div[type="part"] > div.title {
@@ -346,10 +393,34 @@ div > div.title {
 	margin-top: 2em;
 }
 
-respStmt {
+respStmt, tei-title[type="short"], pb, milestone[unit="page"] {
 	display: none
 }
 
 role {
 	font-weight: bold;
+}
+
+sp * {
+	margin: 0
+}
+
+sp :last-child {
+	margin-bottom: 1em
+}
+
+div[type="act"] > head { border-bottom: 1px solid #999 }
+text div > head { font-size: 25px }
+text div > div > head { font-size: 21px }
+text div > div > div > head { font-size: 16px }
+text div > div > div > div > head { font-size: 16px }
+text div > div > div > div > div > head { font-size: 16px }
+
+titleStmt > author:not(:last-child) {
+	margin-bottom: 5px;
+	padding-bottom: 0;
+}
+
+div[type="poem"] > head {
+	font-size: 21px
 }
