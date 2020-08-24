@@ -383,3 +383,46 @@ titleStmt > author:not(:last-child) {
 	margin-bottom: 5px;
 	padding-bottom: 0;
 }
+
+div[type="poem"] > head {
+	font-size: 21px
+}
+
+#load-wall {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	z-index: 99999;
+	background: #fff;
+	transition: 1000ms cubic-bezier(1,0,.35,.73);
+}
+
+#load-wall > h2 {
+	font-family: Arvo;
+	font-weight: 100;
+	margin-bottom: 10px
+}
+
+.progress-bar {
+	box-sizing: border-box;
+	position: relative;
+	width: 250px;
+	height: 30px;
+	border: 3px solid #292929
+}
+
+.progress-bar > span {
+	box-sizing: border-box;
+	position: absolute;
+	height: 100%;
+	width: 0;
+	background: #292929;
+	border: 3px solid white;
+	transition: 300ms ease;
+}

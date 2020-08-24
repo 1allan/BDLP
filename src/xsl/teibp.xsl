@@ -77,6 +77,12 @@
 
     <xsl:template match="/" name="htmlShell" priority="99">
         <html>
+            <div id="load-wall">
+                <h2>BDLP</h2>
+                <div class="progress-bar">
+                    <span></span>
+                </div>
+            </div>
             <xsl:call-template name="htmlHead"/>
             <body class="anti-fouc">
                 <header>

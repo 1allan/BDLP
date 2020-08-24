@@ -39,4 +39,17 @@ setTimeout(() => {
 document.getElementById('index').remove()
 
 // Prevents page from FOUC
-document.body.onload = () => document.body.removeAttribute('class')
+document.body.onload = () => {
+	document.body.removeAttribute('class')
+	let loadWall = document.getElementById('load-wall')
+	loadWall.querySelector('.progress-bar span').style.width = '100%'
+	loadWall.style.opacity = '0'
+	setTimeout(() => {
+		loadWall.style.display = 'none'
+	}, 1000)
+	
+}
+
+themeSwitch.addEventListener('click', () => {
+	teiWrapper.classList.toggle('dark-mode')
+})
