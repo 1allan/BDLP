@@ -49,7 +49,3 @@ document.body.onload = () => {
 	}, 1000)
 	
 }
-
-themeSwitch.addEventListener('click', () => {
-	teiWrapper.classList.toggle('dark-mode')
-})
