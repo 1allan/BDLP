@@ -54,7 +54,7 @@
             <xsl:param name="filePrefix" select="'http://dcl.slis.indiana.edu/teibp'"/>
             
     -->
-    <xsl:param name="filePrefix" select="'../teibp'"/>
+    <xsl:param name="filePrefix" select="'..'"/>
 	
     <xsl:param name="teibpcss" select="concat($filePrefix,'/css/teibp.css')"/>
     <xsl:param name="customcss" select="concat($filePrefix,'/css/custom.css')"/>
