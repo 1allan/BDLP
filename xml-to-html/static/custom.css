@@ -1,6 +1,6 @@
 @font-face {  
-	font-family: Arvo;
-	src: url(../../fonts/Arvo/Arvo-Bold.ttf);
+	font-family: Arvo-local;
+	src: url(../fonts/Arvo/Arvo-Bold.ttf);
 }
 
 html {
@@ -248,7 +248,7 @@ header > nav > div {
 	border: 1px solid #66D37E
 }
 
-#theme-switch {
+#theme-switch, #download-button {
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -257,13 +257,13 @@ header > nav > div {
 }
 
 
-#theme-switch img {
+#theme-switch img, #download-button img {
 	border: none;
 	height: 20px;
 	transition: 300ms ease
 }
 
-#theme-switch:hover img {
+#theme-switch:hover img, #download-button:hover img {
 	transform: scale(1.1);
 }
 
@@ -376,7 +376,7 @@ foot div {
 /* html files style */
 TEI div.title {
 	display: block;
-	font-family: Arvo, sans-serif;
+	font-family: Arvo-local, 'Arvo';
 }
 
 head, titleStmt {
