@@ -54,7 +54,7 @@
             <xsl:param name="filePrefix" select="'http://dcl.slis.indiana.edu/teibp'"/>
             
     -->
-    <xsl:param name="filePrefix" select="'../teibp'"/>
+    <xsl:param name="filePrefix" select="'..'"/>
 	
     <xsl:param name="teibpcss" select="concat($filePrefix,'/css/teibp.css')"/>
     <xsl:param name="customcss" select="concat($filePrefix,'/css/custom.css')"/>
@@ -87,12 +87,16 @@
             <body class="anti-fouc">
                 <header>
                     <a class="logo-bdlp" href="https://www.literaturabrasileira.ufsc.br/?locale=pt_BR">BLPL</a>
-                    <nav>	
-                        <div id="download-button" class="menu-button">
-                            <a id="download" onclick="return downloadHTML();" download="">Baixar texto</a>
-                            <span></span>
+                    <nav>
+                        <div id="download-button" class="tooltip bottom" data-content="Baixar o texto">
+                            <a id="download" onclick="return downloadHTML();" download="">
+                                <img src="../images/download.svg" alt="Baixar o texto"/>
+                            </a>
                         </div>
-                        <div id="index-button" class="menu-button open">
+                        <div id="theme-switch" class="tooltip bottom" data-content="Alterar contraste">
+                            <img src="../images/theme-switch.svg" alt="Mudar tema"/>
+                        </div>
+                        <div id="index-button" class="menu-button open tooltip bottom" data-content="Sumário">
                             <span class="line top"></span>
                             <span class="line middle"></span>
                             <span class="line bottom"></span>

@@ -230,6 +230,27 @@ header nav {
 	border: 1px solid #66D37E
 }
 
+#theme-switch, #download-button {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100%;
+	margin-left: 30px;
+	cursor: pointer;
+}
+
+
+#theme-switch img, #download-button img {
+	border: none;
+	height: 23px;
+	transition: 300ms ease
+}
+
+#theme-switch:hover img, #download-button:hover img {
+	transform: scale(1.1);
+}
+
+
 #index-button {
 	height: 35px;
 	width: 35px;
@@ -238,14 +259,14 @@ header nav {
 }
 
 #index-button:hover {
-	transform: scale(1.1)
+	transform: scale(1.05)
 }
 
 .line {
 	position: absolute;
 	height: 3px;
 	width: 90%;
-	background: #000;
+	background: #292929;
 	transition: all cubic-bezier(0.26, 0.1, 0.27, 1.55) 0.35s;
 }
 .top { top: 18% }
@@ -425,4 +446,55 @@ div[type="poem"] > head {
 	background: #292929;
 	border: 3px solid white;
 	transition: 300ms ease;
+}
+.tooltip {
+	position: relative;
+	font-size: 14px !important;
+	font-weight: 100 !important;
+	font-family: "Oxygen", sans-serif !important;
+}
+
+.tooltip::after {
+	background-color: #292929;
+	
+    border-radius: 4px;
+    color: #FFF;
+    display: none;
+    padding: 5px 10px;
+    position: absolute;
+	text-align: center;
+	white-space: nowrap;
+	z-index: 999;
+	transition: all 300ms;
+}
+
+.tooltip.bottom::after {
+    content: attr(data-content);
+    bottom: 0;
+	left: 50%;
+    transform: translate(-50%, calc(100% + 15px));
+}
+
+.tooltip:hover::after {
+	display: block;
+}
+
+.tooltip::before {
+    background-color: #292929;
+    content: ' ';
+    display: none;
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    z-index: 999;
+}
+
+.tooltip:hover::before {
+    display: block;
+}
+
+.tooltip.bottom::before {
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%, calc(100% + 10px)) rotate(45deg);
 }
