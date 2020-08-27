@@ -82,13 +82,15 @@
                 <header>
                     <a class="logo-bdlp" href="https://www.literaturabrasileira.ufsc.br/?locale=pt_BR">BLPL</a>
                     <nav>
-                        <div id="download-button">
-                            <img src="../images/download.svg" alt="Baixar o texto"/>
+                        <div id="download-button" class="tooltip bottom" data-content="Baixar o texto">
+                            <a id="download" onclick="return downloadHTML();" download="">
+                                <img src="../images/download.svg" alt="Baixar o texto"/>
+                            </a>
                         </div>
-                        <div id="theme-switch">
+                        <div id="theme-switch" class="tooltip bottom" data-content="Alterar contraste">
                             <img src="../images/theme-switch.svg" alt="Mudar tema"/>
                         </div>
-                        <div id="index-button" class="menu-button open">
+                        <div id="index-button" class="menu-button open tooltip bottom" data-content="Sumário">
                             <span class="line top"></span>
                             <span class="line middle"></span>
                             <span class="line bottom"></span>
