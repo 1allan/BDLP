@@ -386,6 +386,11 @@ foot div {
 TEI div.title {
 	display: block;
 	font-family: Arvo-local, 'Arvo';
+	border: 1px solid red;
+}
+
+text div > head {
+	font-family: Arvo-local, 'Arvo' !important;
 }
 
 head, titleStmt {
