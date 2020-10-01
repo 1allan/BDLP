@@ -11,7 +11,7 @@ def load_static(dir) -> dict:
     if isdir(dir):
         output = dict()
         for file in os.listdir(dir):
-            with open(dir + file, 'r') as f:
+            with open(dir + file, 'r', encoding='utf8') as f:
                 output[file] = f.read()
     else:
         print('Diretório de arquivos estáticos é inválido!')
