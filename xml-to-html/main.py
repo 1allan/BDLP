@@ -1,4 +1,6 @@
-import os, sys, re
+import os
+import sys
+import re
 from os.path import isfile, isdir, join, dirname
 from lxml import etree
 

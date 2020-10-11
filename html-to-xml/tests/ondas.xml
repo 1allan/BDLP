@@ -1,0 +1,1445 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ondas e Outros Poemas Esparsos</title>
+        <author>Euclides da Cunha</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Obra disponível em formato TEI</p>
+      </publicationStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>BDLP HTML2TEI translator</name>
+        </respStmt>
+    </fileDesc>
+  </teiHeader>
+<text>
+      <div>
+        <p>LITERATURA BRASILEIRA</p>
+        <p> Textos literários em meio eletrônico</p>
+      </div>
+      <div>
+        <p><hi>Ondas e Outros Poemas Esparsos</hi>, de Euclides da Cunha</p>
+      </div>
+      <div>
+        <p>Edição de base:</p>
+      </div>
+      <div>
+        <p>Rio de Janeiro – 1883</p>
+        <p>14 anos de idade</p>
+        <p>Observação fundamental para explicar a série de absurdos que há nestas páginas.</p>
+      </div>
+      <div>
+        <p>Correi, rolai, correi _ ondas sonoras</p>
+        <p>Que à luz primeira, dum futuro incerto,</p>
+        <p>Erguestes-vos assim _ trêmulas, canoras,</p>
+        <p>Sobre o meu peito, um pélago deserto!</p>
+        <p>Correi... rolai _ que, audaz, por entre a treva</p>
+        <p>Do desânimo atroz _ enorme e densa _</p>
+        <p>Minh'alma um raio arroja e altiva eleva</p>
+        <p>Uma senda de luz que diz-se _ Crença!</p>
+        <p>Ide pois _ não importa que ilusória</p>
+        <p>Seja a esp'rança que em vós vejo fulgir...</p>
+        <p>_ Escalai o penhasco ásp'ro da Glória...</p>
+        <p>Rolai, rolai _ às plagas do Porvir!</p>
+      </div>
+      <div>
+        <head>[1883]</head>
+        <div>
+          <p>Eu quero à doce luz dos vespertinos pálidos</p>
+          <p>Lançar-me, apaixonado, entre as sombras das matas</p>
+          <p>_ Berços feitos de flor e de carvalhos cálidos</p>
+          <p>Onde a Poesia dorme, aos cantos das cascatas...</p>
+        </div>
+        <div>
+          <p>Eu quero aí viver _ o meu viver funéreo,</p>
+          <p>Eu quero aí chorar _ os tristes prantos meus...</p>
+          <p>E envolto o coração nas sombras do mistério,</p>
+          <p>Sentir minh'alma erguer-se entre a floresta de Deus!</p>
+        </div>
+        <div>
+          <p>Eu quero, da ingazeira erguida aos galhos úmidos,</p>
+          <p>Ouvir os cantos virgens da agreste patativa...</p>
+          <p>Da natureza eu quero, nos grandes seios túmidos,</p>
+          <p>Beber a Calma, o Bem, a Crença _ ardente a altiva.</p>
+        </div>
+        <div>
+          <p>Eu quero, eu quero ouvir o esbravejar das águas</p>
+          <p>Das asp'ras cachoeiras que irrompem do sertão...</p>
+          <p>E a minh'alma, cansada ao peso atroz das mágoas,</p>
+          <p>Silente adormecer no colo da so'idão...</p>
+        </div>
+      </div>
+      <div>
+        <head>[1883]</head>
+      </div>
+      <div>
+        <head>(Aos padres)</head>
+      </div>
+      <div>
+        <head><hi>Sonnez! sonnez toujours, clairons de la pensée.</hi></head>
+      </div>
+      <div>
+        <head>V. Hugo</head>
+        <div>
+          <p>Ó pálidos heróis! ó pálidos atletas _</p>
+          <p>Que co'a razão sondais a profundez dos Céus _</p>
+          <p>Enquanto do existir no vasto Saara enorme</p>
+          <p>Embalde procurais essa miragem _ Deus!...</p>
+        </div>
+        <div>
+          <p>A postos!... É chegado o dia do combate...</p>
+          <p>_ As frontes levantai do seio das so'idões _</p>
+          <p>E as nossas armas vede _ os cantos e as idéias,</p>
+          <p>E vede os arsenais _ cérebros e corações.</p>
+        </div>
+        <div>
+          <p>De pé... a hora soa... esplêndida a Ciência</p>
+          <p>Com esse elo _ a idéia _ as mentes prende à luz</p>
+          <p>E ateia já, fatal, a rubra lavareda</p>
+          <p>Que vai _ de pé heróis! _ queimar a vossa Cruz...</p>
+        </div>
+        <div>
+          <p>Vos pesa sobre a fronte um passado de sangue.</p>
+          <p>_ A vossa veste negra a muit'alma envolveu!</p>
+          <p>E tendes que pagar _ ah! dívidas tremendas!</p>
+          <p>Ao mundo: João Huss _ e à Ciência: Galileu.</p>
+        </div>
+        <div>
+          <p>Vós sois demais na terra!... e pesa, pesa muito</p>
+          <p>O lívido bordel das almas, das razões,</p>
+          <p>Sobre o dorso do globo _ sabeis _ é o Vaticano,</p>
+          <p>Do qual a sombra faz a noite das nações...</p>
+        </div>
+        <div>
+          <p>Depois... o século expira e... padres, precisamos</p>
+          <p>Da ciência c'o archote _ intérmino, fatal _</p>
+          <p>A vós incendiar _ aos báculos e às mitras,</p>
+          <p>A fim de iluminar-lhe o grande funeral!</p>
+        </div>
+        <div>
+          <p>Já é, já vai mui longa a vossa fria noite,</p>
+          <p>Que em frente à Consciência, soubestes, vis, tecer...</p>
+          <p>Oh treva colossal _ partir-te-á a luz...</p>
+          <p>Oh noite, arreda-te ante o novo alvorecer...</p>
+        </div>
+        <div>
+          <p>Oh vós que a flor da Crença _ esquálidos _ regais</p>
+          <p>Co'as lágrimas cruéis _ dos mártires letais _</p>
+          <p>Vós, que tentais abrir um santuário _ a cruz,</p>
+          <p>Da multidão no seio a golpe de punhais...</p>
+        </div>
+        <div>
+          <p>O passado trazeis de rastro a vossos pés!</p>
+          <p>Pois bem _ vai-se mudar o gemer em rugir _</p>
+          <p>E a lágrima em lava!... ó pálidos heróis,</p>
+          <p>De pé! que conquistar-vos vamos _ o porvir!...</p>
+        </div>
+      </div>
+      <div>
+        <head>[1883]</head>
+        <div>
+          <p>Parece-me que o vejo iluminado.</p>
+          <p>Erguendo delirante a grande fronte</p>
+          <p>_ De um povo inteiro o fúlgido horizonte</p>
+          <p>Cheio de luz, de idéias constelado!</p>
+          <p>De seu crânio vulcão _ a rubra lava</p>
+          <p>Foi que gerou essa sublime aurora</p>
+          <p>_ Noventa e três _ e a levantou sonora</p>
+          <p>Na fronte audaz da populaça brava!</p>
+          <p>Olhando para a história _ um século e a lente</p>
+          <p>Que mostra-me o seu crânio resplandente</p>
+          <p>Do passado através o véu profundo...</p>
+          <p>Há muito que tombou, mas inquebrável</p>
+          <p>De sua voz o eco formidável</p>
+          <p>Estruge ainda na razão do mundo!</p>
+        </div>
+      </div>
+      <div>
+        <head>[1883]</head>
+        <div>
+          <p>Foi a alma cruel das barricadas!</p>
+          <p>Misto e luz e lama!... se ele ria,</p>
+          <p>As púrpuras gelavam-se e rangia</p>
+          <p>Mais de um trono, se dava gargalhadas!...</p>
+        </div>
+        <div>
+          <p>Fanático da luz... porém seguia</p>
+          <p>Do crime as torvas, lívidas pisadas.</p>
+          <p>Armava, à noite, aos corações ciladas,</p>
+          <p>Batia o despotismo à luz do dia.</p>
+        </div>
+        <div>
+          <p>No seu cérebro tremente negrejavam</p>
+          <p>Os planos mais cruéis e cintilavam</p>
+          <p>As idéias mais bravas e brilhantes.</p>
+        </div>
+        <div>
+          <p>Há muito que um punhal gelou-lhe o seio...</p>
+          <p>Passou... deixou na história um rastro cheio</p>
+          <p>De lágrimas e luzes ofuscantes.</p>
+        </div>
+      </div>
+      <div>
+        <head>[1883]</head>
+        <div>
+          <p>Alma inquebrável _ bravo sonhador</p>
+          <p>De um fim brilhante, de um poder ingente,</p>
+          <p>De seu cérebro audaz, a luz ardente</p>
+          <p>É que gerava a treva do Terror!</p>
+        </div>
+        <div>
+          <p>Embuçado num lívido fulgor</p>
+          <p>Su'alma colossal, cruel, potente,</p>
+          <p>Rompe as idades, lúgubre, tremente,</p>
+          <p>Cheia de glórias, maldições e dor!</p>
+        </div>
+        <div>
+          <p>Há muito que, soberba, ess'alma ardida</p>
+          <p>Afogou-se cruenta e destemida</p>
+          <p>_ Num dilúvio de luz: Noventa e três...</p>
+        </div>
+        <div>
+          <p>Há muito já que emudeceu na história</p>
+          <p>Mas ainda hoje a sua atroz memória</p>
+          <p>É o pesado mais cruel dos reis!...</p>
+        </div>
+      </div>
+      <div>
+        <head>[1883]</head>
+      </div>
+      <div>
+        <head><hi>Un discours de Saint-Just donnait tout de suite un caractère terrible au débat...</hi></head>
+      </div>
+      <div>
+        <head>Raffy: <hi>Procès de Louis XVI</hi></head>
+        <div>
+          <p>Quando à tribuna ele se ergueu, rugindo,</p>
+          <p>_ Ao forte impulso das paixões audazes _</p>
+          <p>Ardente o lábio de terríveis frases</p>
+          <p>E a luz do gênio em seu olhar fulgindo,</p>
+        </div>
+        <div>
+          <p>A tirania estremeceu nas bases,</p>
+          <p>De um rei na fronte ressumou, pungindo,</p>
+          <p>Um suor de morte e um terror infindo</p>
+          <p>Gelou o seio aos cortesãos sequazes _</p>
+        </div>
+        <div>
+          <p>Uma alma nova ergueu-se em cada peito,</p>
+          <p>Brotou em cada peito uma esperança,</p>
+          <p>De um sono acordou, firme, o Direito _</p>
+        </div>
+        <div>
+          <p>E a Europa _ o mundo _ mais que o mundo, a França _</p>
+          <p>Sentiu numa hora sob o verbo seu</p>
+          <p>As comoções que em séculos não sofreu!...</p>
+        </div>
+      </div>
+      <div>
+        <head>[1883]</head>
+        <div>
+          <p>Ai! quanta vez _ pendida a fronte fria</p>
+          <p>_ Coberta cedo do cismar p'los rastros _</p>
+          <p>Deixo minh'alma, na asa da poesia,</p>
+          <p>Erguer-se ardente em divinal magia</p>
+          <p>À luminosa solidão dos astros!...</p>
+        </div>
+        <div>
+          <p>Infeliz mártir de fatais amores</p>
+          <p>Se ergue _ sublime _ em colossal anseio,</p>
+          <p>Do alto infinito aos siderais fulgores</p>
+          <p>E vai chorar de terra atroz as dores</p>
+          <p>Lá das estrelas no rosado seio!</p>
+          <p>............................................................................................</p>
+          <p>É nessa hora, companheiro, bela,</p>
+          <p>Que ela a tremer _ no seio da soedade</p>
+          <p>_ Fugindo à noite que a meu seio gela _</p>
+          <p>Bebe uma estrofe ardente em cada estrela,</p>
+          <p>Soluça em cada estrela uma saudade...</p>
+          <p>............................................................................................</p>
+          <p>É nessa hora, a deslizar, cansado,</p>
+          <p>Preso nas sombras de um presente escuro</p>
+          <p>E sem sequer um riso em lábio amado _</p>
+          <p>Que eu choro _ triste _ os risos do passado,</p>
+          <p>Que eu adivinho os prantos do futuro!...</p>
+        </div>
+      </div>
+      <div>
+        <head>[1883]</head>
+      </div>
+      <div>
+        <head>(Ao pé do mar)</head>
+        <div>
+          <p>Seu eu pudesse cantar a grande história,</p>
+          <p>Que envolve ardente o teu viver brilhante!...</p>
+          <p>Filho dos trópicos que _ audaz gigante _</p>
+          <p>Desceste ao túmulo subindo à Glória!...</p>
+        </div>
+        <div>
+          <p>Teu túmulo colossal _ nest'hora eu fito _</p>
+          <p>Altivo, rugidor, sonoro, extenso _</p>
+          <p>O mar!... O mar!... Oh sim, teu crânio imenso _</p>
+          <p>Só podia conter-se _ no infinito...</p>
+        </div>
+        <div>
+          <p>E eu _ sou louco talvez _ mas quando, forte,</p>
+          <p>Em seu dorso resvala _ ardente _ Norte,</p>
+          <p>E ele espumante estruge, brada, grita.</p>
+        </div>
+        <div>
+          <p>E em cada vaga uma canção estoura...</p>
+          <p>Eu _ creio ser tu'alma que, sonora,</p>
+          <p>Em seu seio sem fim _ brava _ palpita!...</p>
+        </div>
+      </div>
+      <div>
+        <head>[29 nov. 1883]</head>
+        <div>
+          <p>Bem como o lótus que abre o seio perfumado</p>
+          <p>Ao doce olhar da estrela esquiva da amplidão</p>
+          <p>Assim também, um dia, a um doce olhar, domado,</p>
+          <p>Abri meu coração.</p>
+        </div>
+        <div>
+          <p>Ah! foi um astro puro e vívido, e fulgente,</p>
+          <p>Que à noite de minh'alma em luz veio romper</p>
+          <p>Aquele olhar divino, aquele olhar ardente</p>
+          <p>De uns olhos de mulher...</p>
+        </div>
+        <div>
+          <p>Escopro divinal _ tecido por auroras _</p>
+          <p>Bem dentro do meu peito, esplêndido, tombou,</p>
+          <p>E nele, altas canções e inspirações ardentes</p>
+          <p>Sublime burilou!</p>
+        </div>
+        <div>
+          <p>Foi ele que a minh'alma em noite atroz, cingida,</p>
+          <p>Ergueu do ideal, um dia, ao rútilo clarão.</p>
+          <p>Foi ele _ aquele olhar que à lágrima dorida</p>
+          <p>Deu-me um berço _ a Canção!</p>
+        </div>
+        <div>
+          <p>Foi ele que ensinou-me as minhas dores frias</p>
+          <p>Em estrofes ardentes, altivo, transformar!</p>
+          <p>Foi ele que ensinou-me a ouvir as melodias</p>
+          <p>Que brilham num olhar...</p>
+        </div>
+        <div>
+          <p>E são seus puros raios, seus raios róseos, santos</p>
+          <p>Envoltos sempre e sempre em tão divina cor,</p>
+          <p>As cordas divinais da lira de meus prantos,</p>
+          <p>D'harpa da minha dor!</p>
+        </div>
+        <div>
+          <p>Sim _ ele é quem me dá o desespero e a calma,</p>
+          <p>O ceticismo e a crença, a raiva, o mal e o bem,</p>
+          <p>Lançou-me muita luz no coração e na alma,</p>
+          <p>Mas lágrimas também!</p>
+        </div>
+        <div>
+          <p>É ele que, febril, a espadanar fulgores,</p>
+          <p>Negreja na minh'alma, imenso, vil, fatal!</p>
+          <p>É quem me sangra o peito _ e me mitiga as dores.</p>
+          <p>É bálsamo e é punhal.</p>
+        </div>
+      </div>
+      <div>
+        <head>A meu amigo E. Jary Monteiro</head>
+        <div>
+          <p>Se vagares um dia nos sertões,</p>
+          <p>Como hei vagado _ pálido, dolente,</p>
+          <p>Em procura de Deus _ da fé ardente</p>
+          <p>Em meio das soidões...</p>
+        </div>
+        <div>
+          <p>Se fores, como eu fui, lá onde a flor</p>
+          <p>Tem do perfume a alma inebriante,</p>
+          <p>Lá onde brilha mais que o diamante</p>
+          <p>A lágrima da dor...</p>
+        </div>
+        <div>
+          <p>Se sondares da selva e entranha fria</p>
+          <p>Aonde dos cipós na relva extensa</p>
+          <p>Noss'alma embala a crença.</p>
+          <p>Se nos sertões vagares algum dia...</p>
+        </div>
+        <div>
+          <p>Companheiro! Hás de vê-la.</p>
+          <p>Hás de sentir a dor que ela derrama</p>
+          <p>Tendo um mistério, aos pés, de um negro drama,</p>
+          <p>Tendo na fronte o raio de uma estrela!...</p>
+        </div>
+        <div>
+          <p>Que vezes a encontrei!... Medrando calma</p>
+          <p>A Deus, entre os espaços</p>
+          <p>No desgraçado, ali tombado, a alma</p>
+          <p>Que tirita, quem sabe?, entre os seus braços.</p>
+        </div>
+        <div>
+          <p>Se a onça vê, lhe oculta a asp'ra, ferrenha</p>
+          <p>Garra, estremece, pára, fita-a, roja-se,</p>
+          <p>Recua trêmula, e fascinada arroja-se,</p>
+          <p>Entre as sombras da brenha!...</p>
+        </div>
+        <div>
+          <p>E a noite, a treva, quando aos céus ascende</p>
+          <p>E acorda lá a luz,</p>
+          <p>Sobre os seus braços frios, frios, nus,</p>
+          <p>_ Tecido de astros em brial estende...</p>
+        </div>
+        <div>
+          <p>Nos gélidos lugares</p>
+          <p>Em que ela se ergue, nunca o raio estala,</p>
+          <p>Nem pragueja o tufão... Hás de encontrá-la</p>
+          <p>Se acaso um dia nos sertões vagares...</p>
+        </div>
+      </div>
+      <div>
+        <head>[maio 1884]</head>
+        <div>
+          <p>"Eu sou fraca e pequena..."</p>
+          <p>Tu me disseste um dia.</p>
+          <p>E em teu lábio sorria</p>
+          <p>Uma dor tão serena,</p>
+        </div>
+        <div>
+          <p>Que em mim se refletia</p>
+          <p>Amargamente amena,</p>
+          <p>A encantadora pena</p>
+          <p>Quem em teus olhos fulgia.</p>
+        </div>
+        <div>
+          <p>Mas esta mágoa, o tê-la</p>
+          <p>É um engano profundo.</p>
+          <p>Faze por esquecê-la:</p>
+          <p>Dos céus azuis ao fundo</p>
+          <p>É bem pequena a estrela...</p>
+          <p>E no entretanto _ é um mundo!</p>
+        </div>
+      </div>
+      <div>
+        <head>[1884]</head>
+      </div>
+      <div>
+        <head>A Sebastião Alves</head>
+        <div>
+          <p>"Eu sou fraca e pequena..."</p>
+          <p>Tu me disseste um dia,</p>
+          <p>E em teu lábio sorria</p>
+          <p>Uma dor tão serena,</p>
+          <p>Que a tua doce pena</p>
+          <p>Em mim se refletia</p>
+          <p>_ Profundamente fria,</p>
+          <p>_ Amargamente amena!...</p>
+          <p>Mas essa mágoa, Stella,</p>
+          <p>De golpe tão profundo,</p>
+          <p>Faz tu por esquecê-la _</p>
+          <p>Das vastidões no fundo</p>
+          <p>_ É bem pequena a estrela _</p>
+          <p>No entanto _ a estrela é um mundo!...</p>
+        </div>
+      </div>
+      <div>
+        <head>[Título anterior: <hi>Álgebra lírica</hi>]</head>
+        <div>
+          <p>Acabo de estudar _ da ciência fria e vã,</p>
+          <p>O gelo, o gelo atroz me gela ainda a mente,</p>
+          <p>Acabo de arrancar a fronte minha ardente</p>
+          <p>Das páginas cruéis de um livro de Bertrand.</p>
+          <p>Bem triste e bem cruel decerto foi o ente</p>
+          <p>Que este Saara atroz _ sem aura, sem manhã,</p>
+          <p>A Álgebra criou _ a mente, a alma mais sã</p>
+          <p>Nela vacila e cai, sem um sonho virente.</p>
+          <p>Acabo de estudar e pálido, cansado,</p>
+          <p>Dumas dez equações os véus hei arrancado,</p>
+          <p>Estou cheio de 'spleen', cheio de tédio e giz.</p>
+          <p>É tempo, é tempo pois de, trêmulo e amoroso,</p>
+          <p>Ir dela descansar no seio venturoso</p>
+          <p>E achar do seu olhar o luminoso X.</p>
+        </div>
+      </div>
+      <div>
+        <head>[1884]</head>
+      </div>
+      <div>
+        <head>[Publicado na <hi>Revista da Família Acadêmica</hi>, n. 1, Rio de Janeiro, novembro de 1887.]</head>
+        <div>
+          <p>Nascera ali _ no limo viridente</p>
+          <p>Dos muros da prisão _ como uma esmola</p>
+          <p>Da natureza a um coração que estiola _</p>
+          <p>Aquela flor imaculada e olente...</p>
+        </div>
+        <div>
+          <p>E 'ele' que fora um bruto, e vil descrente,</p>
+          <p>Quanta vez, numa prece, ungido, cola</p>
+          <p>O lábio seco, na úmida corola</p>
+          <p>Daquela flor alvíssima e silente!...</p>
+        </div>
+        <div>
+          <p>E _ ele _ que sofre e para a dor existe _</p>
+          <p>Quantas vezes no peito o pranto estanca!...</p>
+          <p>Quantas vezes na veia a febre acalma,</p>
+        </div>
+        <div>
+          <p>Fitando aquela flor tão pura e triste!...</p>
+          <p>_ Aquela estrela perfumada e branca,</p>
+          <p>Que cintila na noite de sua alma...</p>
+        </div>
+      </div>
+      <div>
+        <head>[1884?]</head>
+      </div>
+      <div>
+        <head>I</head>
+        <div>
+          <p>Amigo!... estas canções, estas filhas selvagens</p>
+          <p>Das montanhas, da luz, dos céus e das miragens</p>
+          <p>Sem arte e sem fulgor, são um sonoro caos</p>
+          <p>De lágrimas e luz, de plectros bons e maus...</p>
+          <p>Que ruge no meu peito e no meu peito chora,</p>
+          <p>Sem um 'fiat' de amor, sem a divina aurora</p>
+          <p>De um olhar de mulher...</p>
+          <p>perfeitamente o vês,</p>
+          <p>Não sei metrificar, medir, separar pés...</p>
+          <p>_ Pois um beijo tem leis? a um canto um núm'ro guia?</p>
+          <p>Pode moldar-se uma alma às leis da geometria?</p>
+          <p>Não tenho ainda vinte anos.</p>
+          <p>E sou um velho poeta... a dor e os desenganos</p>
+          <p>Sagraram-me mui cedo, a minha juventude</p>
+          <p>É como uma manhã de Londres _ fria e rude...</p>
+          <p>Filho lá dos sertões nas múrmuras florestas,</p>
+          <p>Nesses berços de luz, de aromas, de giestas _</p>
+          <p>Onde a poesia dorme ao canto das cachoeiras,</p>
+          <p>Eu me embrenhava só... as auras forasteiras</p>
+          <p>Me segredavam baixo os cantos do mistério</p>
+          <p>E a floresta sombria era como um saltério,</p>
+          <p>Em cujas vibrações minh'alma _ ébria _ bebia</p>
+          <p>Esse licor de luz e cantos _ a Poesia...</p>
+          <p>Mas, cedo, como um elo atroz de luz e pó</p>
+          <p>Um sepulcro ligara a Deus minh'alma... e só</p>
+          <p>Selvagem, triste e altivo, eu enfrentei o mundo,</p>
+          <p>Fitei-o, então, senti de meu cérebro no fundo</p>
+          <p>Rolar, iluminando a alma e o coração,</p>
+          <p>Com a lágrima primeira _ a primeira canção...</p>
+          <p>Cantei _ porque sofria _ e, amigo, no entretanto,</p>
+          <p>Sofro hoje _ porque canto.</p>
+          <p>Já vês, portanto, em mim esta arte de cantar</p>
+          <p>É um modo de sofrer , é um meio de gozar...</p>
+          <p>Quem há que meça aí de uma lágrima o brilho?</p>
+          <p>Pois erra-se sofrendo?...</p>
+          <p>Eu nunca li Castilho.</p>
+          <p>Detesto francamente esses mestres cruéis</p>
+          <p>Que esmagam uma idéia sob quebrados pés...</p>
+          <p>Que vestem co'um soneto esplêndido, sem erro,</p>
+          <p>Um pensamento torto, encarquilhado e perro,</p>
+          <p>Como um correto fraque às costas de um corcunda!...</p>
+          <p>Oh! sim, quando a paixão o nosso ser inunda,</p>
+          <p>E ferve-nos na artéria, e canta-nos no peito,</p>
+          <p>_ Como dos ribeirões o borbulhoso leito,</p>
+          <p>Parar _ é sublevar _</p>
+          <p>Medir _ é deformar!</p>
+          <p>Por isso amo a Musset e jamais li Boileau.</p>
+        </div>
+        <div>
+          <p>Esse arquiteto audaz do pensamento _ Hugo _</p>
+          <p>Jamais sói refrear o seu verso terrível,</p>
+          <p>Veloce como a luz, como o raio, incoercível!</p>
+          <p>Se a lima o toca, ardente, audaz como um corcel,</p>
+          <p>Às esporas revel,</p>
+          <p>Na página palpita e ferve e freme e estoura</p>
+          <p>Como um raio a vibrar no seio de uma aurora...</p>
+          <p>Que lime-se num verso uma cadência má,</p>
+          <p>Que p'los dedos se contem as sílabas _ vá lá!</p>
+          <p>Mas que um tipão qualquer _ como muitos que eu vejo _</p>
+          <p>Espiche, estique e encolha a tal hora e sem pejo</p>
+          <p>Um desgraçado verso, e, após tanto medir,</p>
+          <p>Torcer, brunir, sovar, limar, polir, polir,</p>
+          <p>No-lo venha a trazer, às pobres das ovelhas,</p>
+          <p>Como um casto 'bijou', feito de sons e luz,</p>
+          <p>Isto revolta e amola...</p>
+          <p>Mas veja ao que conduz</p>
+          <p>O vago rabiscar de uma pena sem norte:</p>
+          <p>Falava-te de Deus, de mim, da estranha sorte</p>
+          <p>Que aniila a poesia _ e acabo num jogral,</p>
+          <p>Num lorpa, num boçal,</p>
+          <p>Que nos recebe a pés, e faz do amor uma arte.</p>
+          <p>Deixemo-lo de parte.</p>
+        </div>
+        <div>
+          <p>Escuta-me, eu teria um imenso prazer</p>
+          <p>Se podendo domar, curvar, forçar, vencer</p>
+          <p>O cér'bro e o coração, fosse este último canto</p>
+          <p>O fim de meu sonhar, de meu cantar, porquanto...</p>
+        </div>
+        <div>
+          <p>Ontem _ quando, soberba, escarnecias</p>
+          <p>Dessa minha paixão _ louca _ suprema</p>
+          <p>E no teu lábio, essa rósea algema,</p>
+          <p>A minha vida _ gélida _ prendias...</p>
+          <p>Eu meditava em loucas utopias,</p>
+          <p>Tentava resolver grave problema...</p>
+          <p>_ Como engastar tua alma num poema?</p>
+          <p>E eu não chorava quanto tu te rias...</p>
+          <p>Hoje, que vivo desse amor ansioso</p>
+          <p>E és minha _ és minha, extraordinária sorte,</p>
+          <p>Hoje eu sou triste sendo tão ditoso!</p>
+          <p>E tremo e choro _ pressentindo _ forte _,</p>
+          <p>Vibrar, dentro em meu peito, fervoroso,</p>
+          <p>Esse excesso de vida _ que é a morte...</p>
+        </div>
+      </div>
+      <div>
+        <head>[1885]</head>
+      </div>
+      <div>
+        <head>Dedicado a Anna da Cunha</head>
+        <div>
+          <p>"Ontem, quanto, soberba, escarnecias</p>
+          <p>Dessa minha paixão, louca, suprema,</p>
+          <p>E no teu lábio, essa rosa da algema,</p>
+          <p>A minha vida, gélida prendias...</p>
+        </div>
+        <div>
+          <p>Eu meditava em loucas utopias,</p>
+          <p>Tentava resolver grave problema...</p>
+          <p>_ Como engastar tua alma num poema?</p>
+          <p>E eu não chorava quando tu te rias...</p>
+        </div>
+        <div>
+          <p>Hoje, que vives desse amor ansioso</p>
+          <p>E és minha, só minha, extraordinária sorte,</p>
+          <p>Hoje eu sou triste, sendo tão ditoso!</p>
+        </div>
+        <div>
+          <p>E tremo e choro, pressentindo, forte</p>
+          <p>Vibrar, dentro em meu peito, fervoroso,</p>
+          <p>Esse excesso de vida, que é a morte..."</p>
+        </div>
+      </div>
+      <div>
+        <head>[10 set. 1890]</head>
+        <div>
+          <p>Eu já não creio mais... sombrio e calmo enfrento</p>
+          <p>_ O lábio ermo da prece, o peito ermo da crença _</p>
+          <p>A estrela _ rubra e imensa</p>
+          <p>De meu destino atroz, aspérrimo e sangrento!...</p>
+          <p>E embora sobre mim flamívoma suspensa</p>
+          <p>Em minh'alma os clarões fatais ela concentre,</p>
+          <p>Eu suporto-lhe bem o flamejante baque</p>
+          <p>_ Altivamente calmo _ entrincheirando-me entre</p>
+          <p>Uma canção de Byron</p>
+          <p>E um cálix de 'cognac'...</p>
+          <p>_ Não há dor que resista ao som de uma risada! _</p>
+          <p>Depois, se me exarcebo!</p>
+          <p>e tremo e choro erguendo a prece à alma magoada,</p>
+          <p>Mais me dói essa dor, mais esse mal é acerbo!</p>
+          <p>Assim _ eu resolvi, indiferente e frio</p>
+          <p>Cheio de orgulho e 'spleen' _ como um banqueiro inglês,</p>
+          <p>Sepultar na ironia o pranto meu sombrio...</p>
+          <p>Por isso quando atroz na triste palidez</p>
+          <p>De minha fronte paira amarga idéia _ eu rio!...</p>
+          <p>E quando pouco a pouco</p>
+          <p>Essa idéia me abate e vence-me alterosa,</p>
+          <p>De amargores repleta _ eu rio como um louco...</p>
+          <p>E se ela ainda dói mais, e forte e tenebrosa</p>
+          <p>Soe ao último ideal da minh'alma anilar,</p>
+          <p>E vencer-me de todo</p>
+          <p>Então _ eu me ergo mais _ e _ desvairado o olhar</p>
+          <p>_ Divinamente doudo _</p>
+          <p>Eu rio, rio muito _ até chorar!...</p>
+        </div>
+      </div>
+      <div>
+        <head>[1886]</head>
+      </div>
+      <div>
+        <head>A Moreira Guimarães</head>
+        <div>
+          <p><hi>Poeta que calcula quando escreve</hi></p>
+          <p><hi>..................................................</hi></p>
+          <p><hi>Que vá poetizar para os conventos.</hi></p>
+          <p>G. Magalhães</p>
+        </div>
+        <div>
+          <p>Colegas. Essas canções _ essas filhas selvagens</p>
+          <p>Das montanhas, da luz, dos céus e das miragens</p>
+          <p>_ Sem arte e sem fulgor _ são um sonoro caos</p>
+          <p>De lágrimas e luz, de plectros bons e maus</p>
+          <p>Que ruge no meu peito e no meu peito chora;</p>
+          <p>Sem um 'fiat' de amor, sem a divina aurora</p>
+          <p>De uns olhos de mulher...</p>
+          <p>Mas tenho vinte e um anos</p>
+          <p>E sou um velho poeta _ a dor e os desenganos</p>
+          <p>Sagraram-me mui cedo; a minha juventude</p>
+          <p>É, como uma manhã de Londres _ fria e rude!</p>
+          <p>_ Filho lá dos sertões _ nas múrmuras florestas,</p>
+          <p>Nesses berços de luz, de aromas e giestas</p>
+          <p>Aonde a poesia dorme ao canto das cachoeiras,</p>
+          <p>Eu me embrenhava só... as auras forasteiras</p>
+          <p>Me segredavam baixo as dulias do mistério</p>
+          <p>E a floresta ruidosa era como um saltério</p>
+          <p>De cujas vibrações meu coração vivia</p>
+          <p>Bebendo esse licor de luzes _ a Poesia!...</p>
+          <p>Mui cedo _ como um elo atroz de luz e pó</p>
+          <p>Um sepulcro ligara a Deus minh'alma... só,</p>
+          <p>_ Selvagem, triste e altivo _ eu enfrentei o mundo</p>
+          <p>Fitei-o e então senti _ de meu cérebro no fundo</p>
+          <p>Rolar _ iluminando a alma e o coração _</p>
+          <p>Com a lágrima primeira, a primeira canção!...</p>
+          <p>Cantei _ porque sofria _ e, veja que no entanto</p>
+          <p>Sofro hoje _ porque canto!...</p>
+          <p>Já vês, portanto: em mim _ isso de versejar _</p>
+          <p>É um modo de sofrer e um meio de gozar</p>
+          <p>E nada mais, palavra!...</p>
+          <p>...Eu nunca li Castilho _</p>
+          <p>Detesto francamente estes mestres cruéis</p>
+          <p>Que esmagam uma idéia entre 'quebrados pés',</p>
+          <p>Que vestem com um soneto _ esplêndido, sem erro _</p>
+          <p>Um pensamento torto, encarquilhado e perro _</p>
+          <p>_ Como um correto 'frac' ao dorso de um corcunda!...</p>
+          <p>Oh!... sim _ quando a paixão o nosso ser inunda</p>
+          <p>E ferve-nos na artéria e canta-nos no peito</p>
+          <p>_ Como dos ribeirões o estrepitante leito _</p>
+          <p>Parar _ é sublevar</p>
+          <p>_ Medir _ é deformar _</p>
+          <p>Por isso amo a Musset e jamais li Boileau!...</p>
+          <p>Esse arquiteto audaz do pensamento _ Hugo _</p>
+          <p>Jamais soe refrear o seu verso invencível</p>
+          <p>Veloz, mais do que a luz _ como o raio _ incoercível!</p>
+          <p>Se a lima o toca _ ardente, audaz como um corcel</p>
+          <p>Às esporas revel</p>
+          <p>Na página palpita _ e corre e brilha e estoura</p>
+          <p>Como um raio a vibrar no seio de uma aurora!...</p>
+          <p>Que a crítica burguesa e honesta me perdoe:</p>
+          <p>Bem sei que isso faz mal _ sei bem que isto lhe dói:</p>
+          <p>Que ela me estigmatise a fronte e em raiva ingente</p>
+          <p>Arroje sobre mim a pecha: decadente!...</p>
+          <p>E vede-me calcar do Pindo as áureas trilhas...</p>
+          <p>Colega!... hão de ser sempre essas canções estranhas</p>
+          <p>Umas selvagens filhas</p>
+          <p>Das miragens, dos céus, da luz e das montanhas!...</p>
+        </div>
+      </div>
+      <div>
+        <head>[Publicado na <hi>Revista da Família Acadêmica</hi>, Rio de Janeiro, jul. 1888. Dedicatória posterior.]</head>
+      </div>
+      <div>
+        <head>A Filinto d'Almeida</head>
+        <div>
+          <p>Era uma idade atroz... forte e grandiosa.</p>
+          <p>Levantando altivíssima a alterosa</p>
+          <p>E fulgurante coma</p>
+          <p>Nas ruínas das nações se erguia Roma...</p>
+          <p>Trágica e má _ das raças quebradas,</p>
+          <p>Das velhas raças de remota história,</p>
+          <p>Afogando a existência, a força e a glória</p>
+          <p>_ Num dilúvio flamívomo de espadas! _</p>
+          <p>Não havia aplacá-la, nem dos perros</p>
+          <p>A queixa vil, nem dos heróis nos ferros;</p>
+          <p>Embalde o pranto acerbo</p>
+          <p>Sufocando, Mitríades, soberbo,</p>
+          <p>Se erguera na Ásia aos rígidos embates</p>
+          <p>De férvidas paixões para, possante,</p>
+          <p>Lançar um trono no bulcão troante</p>
+          <p>Do torvelinho horrível dos combates!</p>
+          <p>Tombara Filopoeme _ altivo o aspeito,</p>
+          <p>Concentrando no velho e frio peito</p>
+          <p>Todo o vigor guerreiro,</p>
+          <p>Todo o heroísmo de um país inteiro...</p>
+          <p>_ E o que passou então foi sublimado _</p>
+          <p>A Grécia, que era morta, morta e escrava,</p>
+          <p>Transmudou-se num túmulo _ heróica e brava _</p>
+          <p>Para guardar seu último soldado...</p>
+          <p>No Egito, o horror dos dramas lutuosos...</p>
+          <p>Rotos, sombrios, pávidos, raivosos,</p>
+          <p>Os últimos heróis</p>
+          <p>Sofriam pela pátria... oh! dor atroz _</p>
+          <p>Oh! dor fatal que o coração adstringes!</p>
+          <p>E passavam, cingindo as velhas clâmides,</p>
+          <p>_ Entre a sombra funérea das pirâmides</p>
+          <p>E o olhar petrificado das esfinges!</p>
+          <p>A Ibéria exangue _ nem sequer o insano</p>
+          <p>Louco gemer do eterno amante _ o Oceano</p>
+          <p>Ouvia, lhe atirando às plantas frias</p>
+          <p>Grandes canções _ vestidas de ardentias...</p>
+          <p>Amante imenso, de um amor profundo,</p>
+          <p>Que mais tarde, grandioso, para erguê-la,</p>
+          <p>_ Não podendo engastá-la numa estrela _</p>
+          <p>Lançou-lhe aos pés _ um mundo!</p>
+          <p>Nos corações as recalcadas penas</p>
+          <p>Doíam sem um só gemido... apenas</p>
+          <p>Numa loucura brava.</p>
+          <p>O Parta palmo a palmo recuava;</p>
+          <p>No terreno sagrado de seus pais;</p>
+          <p>Caía _ como o raio _ fulminando,</p>
+          <p>E morria _ as espadas agitando</p>
+          <p>Como sabem morrer os imortais!</p>
+          <p>Mas de onde vinha esse fatal domínio?</p>
+          <p>Lançai à história o olhar. Vede:</p>
+          <p>Um triclínio.</p>
+          <p>Das taças arrebenta</p>
+          <p>Formidolosa a embriaguez sangrenta...</p>
+          <p>Um truão se ergue: em seu olhar cintila</p>
+          <p>A febre, às vozes doces de um saltério,</p>
+          <p>Ébrio e trôpego dança... Ei-lo Tibério...</p>
+          <p>_Tibério cambaleia _ e o mundo oscila!</p>
+          <p>Foi nessa idade atroz e má, repleta</p>
+          <p>De crimes, que Jesus, incruento atleta _</p>
+          <p>Ergueu como uma aurora,</p>
+          <p>Por entre a multidão, a fronte loura...</p>
+          <p>E nova vida palpitou na terra;</p>
+          <p>Vacilaram os ferros sanguinários</p>
+          <p>Nas manoplas dos rudes legionários;</p>
+          <p>_ Em frente à paz estremeceu _ a guerra...</p>
+          <p>Dissolveram-se em prantos os ressábios</p>
+          <p>Das concentradas dores, e nos lábios</p>
+          <p>Sublime, pairou esse</p>
+          <p>Bafejo ardente da nossa alma... a prece...</p>
+          <p>E livre dessas noites que se somem</p>
+          <p>Ante os fulgores da razão de um justo,</p>
+          <p>O mundo inteiro se soerguendo a custo,</p>
+          <p>Respirava p'la boca de um só homem!</p>
+          <p>Da antiga idade, os deuses combalidos</p>
+          <p>Oscilaram, quebrados, derruídos,</p>
+          <p>Ante o clarão brilhante</p>
+          <p>Daquela consciência rutilante...</p>
+          <p>E, cobardes, num círculo de lanças,</p>
+          <p>Cheios de um grande espanto, vacilaram</p>
+          <p>Os déspotas, torvados... e recuaram</p>
+          <p>Ante um homem cercado de crianças...</p>
+          <p>E quando ele caiu... o mundo antigo,</p>
+          <p>O seu ingrato e trágico inimigo,</p>
+          <p>_ Alucinado e insano _</p>
+          <p>Deslumbrou-se ante um quadro sobre-humano:</p>
+          <p>Aureolava-o ignota claridade...</p>
+          <p>E aquele morto... frio, macerado,</p>
+          <p>Tendo no lábio um riso ensangüentado,</p>
+          <p>Na espádua roxa _ erguia a Humanidade...</p>
+        </div>
+      </div>
+      <div>
+        <head>[1887?]</head>
+      </div>
+      <div>
+        <head>[Título anterior: <hi>Os Holandeses</hi>]</head>
+      </div>
+      <div>
+        <head>(Fragmento)</head>
+        <div>
+          <p>Calabar _ só. Queda-se pensativo. Surge de um recanto do forte.</p>
+          <p>Fr. Manuel Salvador</p>
+          <p>FR. MANUEL _ (à parte) ... Não percamos esta hora.</p>
+          <p>(Alto, a Calabar)</p>
+          <p>Pois acreditas tu que é um leão?</p>
+          <p>(Calabar volta-se, surpreso)</p>
+          <p>Tu és</p>
+          <p>Um cachorro açulado às goelas do holandês!</p>
+          <p>CALABAR _ Padre! de onde surgiste? a que vens? e que queres?</p>
+          <p>E que palavra vil é esta com que feres</p>
+          <p>A quem sempre submisso ouviu a tua voz?</p>
+          <p>FR. MANUEL _ Escuta-me, meu filho... Eu precisava, a sós,</p>
+          <p>Longamente tratar contigo acerca de árdua</p>
+          <p>Empresa; e a situação em que te vês, aguardo-a</p>
+          <p>De muito impaciente...</p>
+          <p>CALABAR _ Tu achas então que é</p>
+          <p>Própria a divagações esta hora _ quando a fé</p>
+          <p>Que propagas e o Deus, o próprio Deus que adoras</p>
+          <p>Tem em roda seis mil espadas vencedoras</p>
+          <p>Do herético holandês... Tu queres gracejar</p>
+          <p>Ante o perigo, padre!?</p>
+          <p>FR. MANUEL _ (tranqüilo) _ Escuta, Calabar:</p>
+          <p>Sabes o que traduz este hábito sombrio?</p>
+          <p>É o túmulo de uma alma! Aqui dentro há mais frio,</p>
+          <p>Mais sombra e mais horror do que nas solidões</p>
+          <p>Dos cemitérios... Ouve: Há fundas aflições</p>
+          <p>De uma agonia atroz, no ser entregue ao duro</p>
+          <p>Martírio de arrastar este farrapo escuro.</p>
+          <p>Sabes tu por acaso avaliar o pavor</p>
+          <p>De alguém que arrasta em vida o próprio túmulo, e a dor</p>
+          <p>De quem cego da vida às galas soberanas</p>
+          <p>É um morto a vagar entre as paixões humanas,</p>
+          <p>Trágico e só 'perinde ao cadáver', só</p>
+          <p>Feito uma sombra vã e desprezível? Oh!</p>
+          <p>Se podes calcular a espantosa tristeza</p>
+          <p>De alguém em frente ao qual, imota, a natureza</p>
+          <p>Não tem voz, nem luz... Se podes idear</p>
+          <p>Sequer a ânsia de alguém destinado a escutar,</p>
+          <p>_ Monótona, a bater, a bater agoureira,</p>
+          <p>A mesma hora a bater durante a vida inteira!</p>
+          <p>Se podes avaliar tão mísero viver</p>
+          <p>E sofrimentos tais, deves compreender</p>
+          <p>Que eu não sei rir sequer, que eu não gracejo nunca!</p>
+        </div>
+      </div>
+      <div>
+        <head>[1887?]</head>
+      </div>
+      <div>
+        <head>E CZARES</head>
+        <div>
+          <p>Os Cézares cruéis,</p>
+          <p>Quando deixam da história a cena gigantéia,</p>
+          <p>Conservam geralmente a linha dos atores,</p>
+          <p>Que embora tenham tido espantosos papéis,</p>
+          <p>Nos quais dura se alteia</p>
+          <p>A desgraça espalhando angústias e terrores,</p>
+          <p>Querem que os acompanhe o aplauso da platéia...</p>
+          <p>Mário penetra em Roma</p>
+          <p>Pela sétima vez erguido ao consulado,</p>
+          <p>Na alma robusta o héróis traz sinistros desejos</p>
+          <p>De vingança, fatais anelos que não doma...</p>
+          <p>Sombrio, alucinado,</p>
+          <p>Não lhe quebram o assomo os eternos lampejos</p>
+          <p>Dos prélios que travou nas lutas do passado:</p>
+          <p>E a espada que fulgiu nas sombras da Germânia</p>
+          <p>Arranca-a em plena insânia,</p>
+          <p>Vibrando-a doidamente _ e doidamente a enterra</p>
+          <p>Em pleno coração da sua grande terra...</p>
+          <p>Mas vê-de-o no desterro...</p>
+          <p>_ Que imensa solidão! que pavoroso estrago! _</p>
+          <p>Velho, proscrito e só!... ninguém à dor lhe assiste.</p>
+          <p>Só lhe é dado rever o alcantilado cerro</p>
+          <p>O vulto enorme e vago</p>
+          <p>Da pátria, além do mar... Dizei-me o que mais triste:</p>
+          <p>As ruínas daquela alma ou as ruínas de Cartago.</p>
+          <p>César trucida a Gália</p>
+          <p>E a Síria e o Egito e a Ibéria... À indômita ambição</p>
+          <p>Não lhe basta, porém, o império vitorioso...</p>
+          <p>Desvaira: vai buscar nos campos de Farsália</p>
+          <p>Os sonhos de Pompeu; e em Tapsos _ glorioso _</p>
+          <p>A energia moral austera de Catão.</p>
+          <p>Triunfou! É feliz! Que importam dissabores</p>
+          <p>Dos rudes lutadores,</p>
+          <p>Feitos comparsas vis desses terríveis dramas,</p>
+          <p>Se Roma está em festa... e a Gália inteira em chamas!</p>
+          <p>No 'forum', certo dia:</p>
+          <p>'Tu quoque, Brute!' Estranho, este grito se ergueu.</p>
+          <p>Tumultua o recinto ante o ato formidável:</p>
+          <p>_ César ferido, o peito em sangue e a fronte fria</p>
+          <p>Vacila, mas o seu</p>
+          <p>Aprumo não destrói. Cai, num tombo impecável,</p>
+          <p>Tragicamente, aos pés das estátuas de Pompeu!</p>
+          <p>Ivã subjuga e prende</p>
+          <p>Ao carro triunfador os povos de dois mundos.</p>
+          <p>Reina, impera _ é o Czar! Sua terrível glória</p>
+          <p>Do pólo enregelado ao Cáucaso se estende.</p>
+          <p>Os Calmucos imundos</p>
+          <p>Cercam-lhe o trono e a vida. E ler-se sua história</p>
+          <p>É ouvir-se a todo instante os rumores profundos,</p>
+          <p>Que irrompem do tropel dos esquadrões bravios</p>
+          <p>Dos tártaros sombrios...</p>
+          <p>_ Imenso tropear que afoga os gritos cavos</p>
+          <p>E as doidas maldições de cem milhões de escravos!</p>
+        </div>
+      </div>
+      <div>
+        <head>[Publicado em <hi>Revista da Família Acadêmica</hi>, Rio de Janeiro, out. 1888.]</head>
+      </div>
+      <div>
+        <head>XII</head>
+        <div>
+          <p><hi>Les beaux yeux sauvent les beaux vers!...</hi></p>
+          <p>V. Hugo</p>
+        </div>
+        <div>
+          <p>Meu pobre coração tão cedo aniquilado</p>
+          <p>Na ardência das paixões _ ó pálida criança _</p>
+          <p>Revive à doce luz do teu olhar magoado</p>
+          <p>E cheio de ilusões, de crenças e esperança</p>
+          <p>Faz o castelo ideal das louras utopias</p>
+          <p>_ Com os brilhos desse olhar e o ouro de tua trança! _</p>
+        </div>
+      </div>
+      <div>
+        <head>*</head>
+        <div>
+          <p>Quando sobre as sombrias</p>
+          <p>Ondas _ vasto o luar esplêndido se espalma</p>
+          <p>De todo o seu negror, arranca as ardentias</p>
+          <p>De teus olhos assim à luz divina e calma</p>
+          <p>Dimanam _ cintilando _ as ilusões e os versos</p>
+          <p>Das sombras de minh'alma...</p>
+          <p>E sonho e canto e rio e me deslumbro... imersos</p>
+          <p>_ No místico luar que sobre mim derramas _</p>
+          <p>Fulguram como sóis meus ideais dispersos!...</p>
+          <p>Fulguram como sóis _ entre sonoras flamas</p>
+          <p>Partindo no meu peito a tétrica penumbra</p>
+          <p>E o silêncio fatal de dolorosos dramas...</p>
+          <p>E tudo hoje ante mim tem luz, tem voz _ deslumbra _</p>
+          <p>Pois _ tal como dos sóis a claridade instila</p>
+          <p>De cada um ideal _ uma canção ressumbra _</p>
+          <p>E em cada uma canção _ o teu olhar cintila...</p>
+        </div>
+      </div>
+      <div>
+        <head>[São Paulo, jan. 1888]</head>
+        <div>
+          <p>Ó minha musa _ imaculada e santa!</p>
+          <p>Deixa um momento os sonhos teus benditos,</p>
+          <p>Despe os teus véus de noiva do Ideal.</p>
+          <p>Deixa-os, despe-os e canta</p>
+          <p>Sobre as ruínas trágicas do mal</p>
+          <p>As almas arruinadas dos malditos!...</p>
+        </div>
+      </div>
+      <div>
+        <head>[188-]</head>
+      </div>
+      <div>
+        <head>São tão remotas as estrelas que, apesar da vertiginosa velocidade da luz, elas se apagam, e continuam a brilhar durante séculos.</head>
+        <div>
+          <p>Morrem os mundos... Silenciosa e escura,</p>
+          <p>Eterna noite cinge-os. Mudas, frias,</p>
+          <p>Nas luminosas solidões da altura</p>
+          <p>Erguem-se, assim, necrópoles sombrias...</p>
+        </div>
+        <div>
+          <p>Mas para nós, di-lo a ciência, além perdura</p>
+          <p>A vida, e expande as rútilas magias...</p>
+          <p>Pelos séculos em fora a luz fulgura</p>
+          <p>Traçando-lhes as órbitas vazias.</p>
+        </div>
+        <div>
+          <p>Meus ideais! extinta claridade _</p>
+          <p>Mortos, rompeis, fantásticos e insanos</p>
+          <p>Da minh'alma a revolta imensidade...</p>
+        </div>
+        <div>
+          <p>E sois ainda todos os enganos</p>
+          <p>E toda a luz, e toda a mocidade</p>
+          <p>Desta velhice trágica aos vinte anos...</p>
+        </div>
+      </div>
+      <div>
+        <head>[1886]</head>
+      </div>
+      <div>
+        <head>"</head>
+        <div>
+          <p>Há nos teus olhos escuros</p>
+          <p>Tantas centelhas, que ao vê-las</p>
+          <p>Penso na treva e nos brilhos</p>
+          <p>Das noites cheias de estrelas...</p>
+          <p>Penso em cousas singulares,</p>
+          <p>Indagando entre delírios:</p>
+          <p>Por que é que os céus inda brilham?</p>
+          <p>Por que não se apaga Sírius?</p>
+        </div>
+      </div>
+      <div>
+        <head>[1888]</head>
+        <div>
+          <p>Eu sou por certo um ente admirável,</p>
+          <p>A quem nenhuma penitência salva.</p>
+          <p>Não tiro o meu chapéu à Divindade...</p>
+          <p>"E dizem que perdi a Estrela-d'alva"...</p>
+          <p>E tão viciado que ainda hoje, à noite,</p>
+          <p>Um pelotão de serafins risonhos,</p>
+          <p>Em pleno 'boulevard' da Via-Láctea,</p>
+          <p>Prendeu-me porque eu estava ébrio... de sonhos!</p>
+          <p>Escândalo no céu. Os santos todos,</p>
+          <p>Perdendo as composturas consagradas,</p>
+          <p>Atiravam-me estrelas, como pedras,</p>
+          <p>E riam-se a bandeiras despregadas.</p>
+          <p>Um desacato escandaloso... e como</p>
+          <p>O Supremo Fiscal, nessa emergência,</p>
+          <p>Não conteve os seráficos garotos,</p>
+          <p>Denunciei à polícia a Providência.</p>
+          <p>Fiz bem. A rixa é velha. Há muito tempo</p>
+          <p>Que eu, o Voltaire e o Comte nem o intento</p>
+          <p>Podemos ter de passear à noite</p>
+          <p>Na grande praça azul do Firmamento.</p>
+          <p>Se o fazemos, apagam-se as lanternas</p>
+          <p>Dos céus, num pronto e momentâneo eclipse,</p>
+          <p>E vemo-nos nas trevas, entre os coices</p>
+          <p>Da besta divinal do Apocalipse!</p>
+          <p>Não vou mais lá, por isso... Mas que importa...</p>
+          <p>Por que falar nesses sucessos tristes?</p>
+          <p>Trancam-me os céus: eu tenho o teu olhar...</p>
+          <p>Nem me faz falta Deus _ pois tu existes!</p>
+        </div>
+        <div>
+          <p>Assim à aldeia volta o da "triste figura"</p>
+          <p>Ao tardo caminhar do Rocinante lento:</p>
+          <p>No arcaboiço dobrado _ um grande desalento,</p>
+          <p>No entrestecido olhar _ uns laivos de loucura...</p>
+        </div>
+        <div>
+          <p>Sonhos, a glória, o amor, a alcantilada altura</p>
+          <p>Do ideal e da Fé, tudo isto num momento</p>
+          <p>A rolar, a rolar, num desmoronamento,</p>
+          <p>Entre os risos boçais do Bacharel e o Cura.</p>
+        </div>
+        <div>
+          <p>Mas, certo, ó D. Quixote, ainda foi clemente</p>
+          <p>Contigo a sorte, ao pôr nesse teu cérebro oco</p>
+          <p>O brilho da Ilusão do espírito doente;</p>
+        </div>
+        <div>
+          <p>Porque há cousa pior: é o ir-se a pouco e pouco</p>
+          <p>Perdendo, qual perdeste, um ideal ardente</p>
+          <p>E ardentes ilusões _ e não se ficar louco!</p>
+        </div>
+      </div>
+      <div>
+        <head>[1890]</head>
+      </div>
+      <div>
+        <head>"</head>
+      </div>
+      <div>
+        <head>A Coelho Neto</head>
+        <div>
+          <p>Que outros adorem vastas capitais</p>
+          <p>Aonde, deslumbrantes,</p>
+          <p>Da Indústria e da Ciência as triunfais</p>
+          <p>Vozes se erguem em mágico concerto;</p>
+          <p>Eu, não; eu prefiro antes</p>
+          <p>As catas desoladoras do deserto,</p>
+          <p>Cheias de sombra, de silêncio e paz...</p>
+          <p>Eu sei que à alma moderna _ alta e feliz,</p>
+          <p>E grande, e iluminada,</p>
+          <p>Não pode sofrear estes febris</p>
+          <p>Assomos curiosos que a endoidecem</p>
+          <p>De ir ver, emocionada,</p>
+          <p>Os milagres da Indústria em Gand ou Essen,</p>
+          <p>E a apoteose do século _ em Paris!</p>
+          <p>Não invejo, porém, os que se vão</p>
+          <p>Buscando, mar em fora,</p>
+          <p>De outras terras a esplêndida visão...</p>
+          <p>Fazem-me mal as multidões ruidosas</p>
+          <p>E eu procuro, nesta hora,</p>
+          <p>Cidades que se ocultam majestosas</p>
+          <p>Na tristeza solene do sertão.</p>
+          <p>Cidades ante as quais são como anãs</p>
+          <p>As Londres, extensíssimas</p>
+          <p>E as Babilônias, Bagdás pagãs;</p>
+          <p>Tão colossais, tão cheias de grandeza,</p>
+          <p>Nas construções amplíssimas,</p>
+          <p>Que as contemplando eu penso na rudeza</p>
+          <p>De uma raça já morta de titãs.</p>
+          <p>E abandonadas... no entretanto, quem</p>
+          <p>As observa, no extremo</p>
+          <p>Dos horizontes afastados, tem</p>
+          <p>O religioso espanto e o extraordinário</p>
+          <p>Êxtase supremo</p>
+          <p>De um muçulmano austero ou de um templário</p>
+          <p>Diante de Meca ou de Jerusalém.</p>
+          <p>Divisa então soberbos coliseus,</p>
+          <p>Templos de forma rara _</p>
+          <p>Amplas mesquitas, vastos mausoléus,</p>
+          <p>E góticas igrejas tão imensas</p>
+          <p>E tão frágeis que para</p>
+          <p>Compreendê-las, cremo-las suspensas</p>
+          <p>Por ignota atração vinda dos céus.</p>
+          <p>No entanto, atulmutuaram multidões</p>
+          <p>Dentro delas outrora;</p>
+          <p>E ao ritmo de esplêndidas canções</p>
+          <p>Levantou-lhes os muros triunfantes</p>
+          <p>Heróica e sonhadora,</p>
+          <p>A coorte febril dos Bandeirantes,</p>
+          <p>Nas marchas triunfais pelos sertões.</p>
+          <p>Mas passaram _ e o sol que tremeu</p>
+          <p>A seus passos, deserto,</p>
+          <p>Revolto e infinito, e como um mausoléu</p>
+          <p>Imenso que pelo sertão se estende...</p>
+          <p>Calcando-o, sentis perto,</p>
+          <p>Um deslizar sinistro de duende:</p>
+          <p>O fantasma de um povo que morreu.</p>
+          <p>Viajantes que rápidos passais</p>
+          <p>Pelas serras de Minas,</p>
+          <p>Vindos de fulgurantes capitais,</p>
+          <p>Evitai as necrópoles sagradas,</p>
+          <p>Passai longe das ruínas,</p>
+          <p>Passai longe das Catas desoladas</p>
+          <p>Cheias de sombra, de tristeza e paz...</p>
+          <p>Campanha, 1895</p>
+        </div>
+      </div>
+      <div>
+        <head>[Publicado em <hi>O Imparcial</hi>, Rio de Janeiro, 20 jan. 1929]</head>
+      </div>
+      <div>
+        <head>A Coelho Neto</head>
+        <div>
+          <p>De um lado o Atlântico e do outro lado as serras</p>
+          <p>Longas, indefinidas, perlongando-o;</p>
+          <p>E aquém das serras nos planaltos largos,</p>
+          <p>Um mundo ainda ignoto! Os rios longos</p>
+          <p>Recortam-na profusos, ora calmos,</p>
+          <p>Volvendo a correnteza imperceptível,</p>
+          <p>Ora cheios, rolando no...</p>
+          <p>O soberbo estridor das cachoeiras...</p>
+          <p>As grandes matas verde-negras vastas</p>
+          <p>... de frutos e de flores</p>
+          <p>Desafiam do azual as pompas todas.</p>
+          <p>Que terra encantadora... Mas enquanto</p>
+          <p>O meu olhar se desatava livre</p>
+          <p>No desafogo dos espaços amplos</p>
+          <p>O ridículo mortal tolhia o passo</p>
+          <p>E imóvel sobre o cerro em que jazíamos</p>
+          <p>Abarcava num gesto o espaço todo:</p>
+          <p>Conforme vês 'a terra é longa e grossa'</p>
+          <p>E atestam na pujança com que surgem</p>
+          <p>A riqueza de um solo incomparável</p>
+          <p>Em que o cultivador sem mais resguardos</p>
+          <p>Com algumas foiçadas e um bocejo</p>
+          <p>Garante o pão à prole e pode dar-se</p>
+          <p>Ao culto sacrossanto da Preguiça.</p>
+          <p>E nada o preocupa: a fauna é frágil,</p>
+          <p>Traiçoeira e cobarde; não há tigres,</p>
+          <p>Régios tigres listrados; nem leões,</p>
+          <p>Nada das formas colossais e rudes</p>
+          <p>Feitas para guardarem, consorciadas,</p>
+          <p>A feridade e a força... Tudo médio</p>
+          <p>Tudo uma redução do que há alhures</p>
+          <p>O elefante é tapir tardo e medroso</p>
+          <p>O tigre de Bengala é a suçuarana</p>
+          <p>Cobarde e fugitiva; o orango bruto</p>
+          <p>É o sagüi famíneo e pulha; e a capivara</p>
+          <p>O hipopótamo esquivo das lagoas...</p>
+          <p>E tudo é médio... a natureza toda</p>
+          <p>Numa mediania inalterável...</p>
+          <p>As mesmas forças naturais que além</p>
+          <p>Rompem em cataclismas formidáveis</p>
+          <p>Criando a Geologia traço estranho</p>
+          <p>De um drama esquiliano, aqui, é calma.</p>
+          <p>Não há vulcões e os mesmos terremotos</p>
+          <p>Que subvertem cidades noutras zonas</p>
+          <p>Amortecem-se inúteis, embatendo</p>
+          <p>Na massa de granito desta terra...</p>
+          <p>As montanhas _ bem vês _ não têm altura</p>
+          <p>As maiores são serros noutras partes</p>
+          <p>Achatam-se alongando-se, alongando-se</p>
+          <p>Se o arrojo de um píncaro que enteste</p>
+          <p>Com o menor dos píncaros nos Alpes...</p>
+          <p>Nas florestas enormes não procures</p>
+          <p>O cedro colossal ou o carvalho</p>
+          <p>Ou o plátano altivo que alevanta</p>
+          <p>Às nuvens uma vida de mil anos,</p>
+          <p>Não lhe permite o surto, o afago, atroz</p>
+          <p>Terrível das lianas, das aráceas,</p>
+          <p>Que os apertam, ... e derrubam</p>
+          <p>De sorte que as florestas como os rios</p>
+          <p>Como a montanha, como a terra toda,</p>
+          <p>São grandes só por um estiramento!...</p>
+          <p>Disse e eu vi pela primeira vez</p>
+          <p>O clarão ideal de uma ironia</p>
+          <p>Dando-lhe ao rosto hílar um tom mais sério.</p>
+          <p>E prosseguiu:</p>
+          <p>Aqui, o grande é o chato!</p>
+          <p>Tudo num plano horizontal é enorme</p>
+          <p>Tudo num plano vertical é mínimo</p>
+          <p>A pedra, o vegetal, e o... e o homem...</p>
+          <p>E repentinamente aquele rosto</p>
+          <p>Onde um ricto sardônico pusera</p>
+          <p>A lonha ideal desse sarcasmo ríspido</p>
+          <p>Que é a mágoa triunfante dos eleitos</p>
+          <p>Pois é a alegria trágica dos fortes,</p>
+          <p>Aquele rosto desmanchou-se todo</p>
+          <p>No desmandibulado destempero</p>
+          <p>De uma risada à-toa.</p>
+          <p>Mal a ouvi</p>
+          <p>Prendeu-me o olhar um quadro nunca visto:</p>
+          <p>Numa clareira, em frente, repontavam</p>
+          <p>Uns homens singulares... que vestidos!</p>
+          <p>Nem clâmides, nem togas, nem</p>
+          <p>Consorciando a candura dos arminhos</p>
+          <p>Com o varonil das púrpuras brilhantes.</p>
+          <p>Pretos. De preto todos no afogado</p>
+          <p>Das vestes ajustadas pelos membros...</p>
+          <p>Vinham calmos; nem gestos sacudidos</p>
+          <p>Nem vozes imperiosas... Passos lentos.</p>
+        </div>
+      </div>
+      <div>
+        <head>Lorena, 1896</head>
+        <div>
+          <p>Quem volta da região assustadora</p>
+          <p>De onde eu venho, revendo, inda na mente,</p>
+          <p>Muitas cenas do drama comovente</p>
+          <p>De guerra despiedada e aterradora.</p>
+        </div>
+        <div>
+          <p>Certo não pode ter uma sonora</p>
+          <p>Estrofe ou canto ou ditirambo ardente</p>
+          <p>Que possa figurar dignamente</p>
+          <p>Em vosso álbum gentil, minha senhora.</p>
+        </div>
+        <div>
+          <p>E quando, com fidalga gentileza</p>
+          <p>Cedestes-me esta página, a nobreza</p>
+          <p>De nossa alma iludiu-vos, não previstes</p>
+        </div>
+        <div>
+          <p>Que quem mais tarde, nesta folha lesse</p>
+          <p>Perguntaria: "Que autor é esse</p>
+          <p>De uns versos tão mal feitos e tão tristes?"</p>
+        </div>
+      </div>
+      <div>
+        <head>1897</head>
+      </div>
+      <div>
+        <head>DE MENDONÇA</head>
+        <div>
+          <p>Em falta de um 'postkarte', iluminura</p>
+          <p>Que enquadre do que penso ou sinto a imagem,</p>
+          <p>Em relevo, na artística moldura</p>
+          <p>De um trecho fugitivo de paisagem _</p>
+          <p>Aí vai, para saudá-lo no remanso</p>
+          <p>De um lar, onde terá digno conchego,</p>
+          <p>Este caboclo, este jagunço manso</p>
+          <p>_ Misto de celta, de tapuia e grego...</p>
+        </div>
+      </div>
+      <div>
+        <head>1903</head>
+      </div>
+      <div>
+        <head>NETO</head>
+        <div>
+          <p>Felizmente</p>
+          <p>Esta fisionomia,</p>
+          <p>De onde ressalta a ríspida expressão</p>
+          <p>Da face de um tapuia, espantadíssima,</p>
+          <p>Hás de achá-la belíssima</p>
+          <p>Porque saberá ver, nitidamente,</p>
+          <p>Com os raios X de tua fantasia,</p>
+          <p>O que os outros não vêem: um coração.</p>
+        </div>
+      </div>
+      <div>
+        <head>1903</head>
+      </div>
+      <div>
+        <head>(Uma página que Dante destruiu)</head>
+        <div>
+          <p>Perto do inferno existe uma paragem</p>
+          <p>Onde cai monótona e ressoa</p>
+          <p>Uma torrente enregelada e dura</p>
+          <p>Sulcando a pedra na erosão eterna.</p>
+          <p>Fomos por ela em fora, lento e lento</p>
+          <p>Vacilantes subindo. Mas no alto</p>
+          <p>Precisamente quando a minha vista</p>
+          <p>Divisava dos céus tão anelados</p>
+          <p>Um fragmento longínquo, vi-me só.</p>
+          <p>Inopinadamente se evadira</p>
+          <p>O bucólico guia que me dera</p>
+          <p>O clarão de sua alma incomparável,</p>
+          <p>Entre as sombras dos giros infernais.</p>
+          <p>Então alucinado, o peito opresso,</p>
+          <p>A fronte em fogo, onde batiam ríspidas</p>
+          <p>As lufadas friíssimas do abismo,</p>
+          <p>Atirei entre os ecos apagados</p>
+          <p>Das vozes do demônio uma súplica:</p>
+          <p>Virgílio. E estas três sílabas belíssimas</p>
+          <p>Rolaram longamente no silêncio</p>
+          <p>Como se no silêncio desabasse</p>
+          <p>Uma falange de cristais partidos.</p>
+          <p>Mas não as repeti: de uma vereda</p>
+          <p>À esquerda, junto ao círculo Judas,</p>
+          <p>Vi que surgiu uma figura estranha,</p>
+          <p>Homem ou gênio, e todo desgracioso</p>
+          <p>Lembrava um sambenito: a fronte nua</p>
+          <p>Escampada e brunida completava</p>
+          <p>A face cheia e lisa sem refegos,</p>
+          <p>Sem um só desses vincos, dessas rugas</p>
+          <p>Que são os golpes do buril do espírito</p>
+          <p>Sobre os blocos de músculos e nervos.</p>
+          <p>Sorria e eu vi seus dentes magníficos</p>
+          <p>Numa expressão alvar. Aproximou-se.</p>
+          <p>Disse-lhe então: Quem sois? Por que acudistes?</p>
+          <p>Quando eu chamei por outro tão diverso?</p>
+          <p>Teme um momo adorável, agitou</p>
+          <p>Num gesto longo de elegância altiva</p>
+          <p>A véstia e o porte erecto e o olhar fulgente</p>
+          <p>E o rosto novamente derramando-se</p>
+          <p>Num riso imbecil e triunfante</p>
+          <p>Volveu pondo-me ao ombro a mão cuidada:</p>
+          <p>"Sou Marcellus Pompônio, 'o purista'</p>
+          <p>O guia que me trouxe, esse Virgílio,</p>
+          <p>Esta ama-seca que apelidas tanto</p>
+          <p>Não me suportaria; eu sou capaz</p>
+          <p>De mostrar solecismos nas "Geórgicas"...</p>
+          <p>Fez bem: fugiu. E tu certo conheces</p>
+          <p>O gênio prodigioso que venceu</p>
+          <p>Certa causa notável, apontando</p>
+          <p>Um erro de gramática nos autos:</p>
+          <p>Sou eu. Sou imortal... Tu és feliz,</p>
+          <p>Lucraste com a troca. Folga, ri,</p>
+          <p>Agradece ao teu Deus e dá-me o braço.</p>
+          <p>Eu vou mostrar o que outrem não faria.</p>
+          <p>Já viste o inferno, vou levar-te agora</p>
+          <p>Ao purgatório e ao céu. Mas antes deles</p>
+          <p>Há uma terra ideal onde domina</p>
+          <p>A santa mediania de virtude</p>
+          <p>E se chama o 'Paraíso dos Medíocres' ".</p>
+          <p>"É ali", disse. E depois me foi levando</p>
+          <p>Por um trilho escarpado. a breve trecho,</p>
+          <p>Vingando um cerro abrupto, tive em frente</p>
+          <p>O mais belo país que eu inda vira</p>
+          <p>Que terra encantadora. O meu olhar</p>
+          <p>Desatou-se folgando na amplitude</p>
+          <p>Dos horizontes vastos onde eternos</p>
+          <p>Fulgores de uma primavera eterna</p>
+          <p>Se revezam co'as noites estreladas.</p>
+        </div>
+      </div>
+      <div>
+        <head>[1903?]</head>
+      </div>
+      <div>
+        <head>[Em que se vê uma mulher, com roupão de banho, lendo numa praia]</head>
+      </div>
+      <div>
+        <head>A Reinaldo Porchat</head>
+        <div>
+          <p>Lê?... Não lê. Aquele ar não é por certo</p>
+          <p>De quem medita. É o ar de quem atrai.</p>
+          <p>E se qualquer de nós, naquelas praias,</p>
+          <p>Aparecesse, quedaria incerto,</p>
+          <p>Sem saber distinguir quem mais nos trai</p>
+          <p>_ Entre a insídia de uma onda ou de um afago</p>
+          <p>Se o velho mar misterioso e vago,</p>
+          <p>Ou esse abismo de roupão e saias!</p>
+        </div>
+      </div>
+      <div>
+        <head>Guarujá, 30 jul. 1904</head>
+        <div>
+          <p>Se acaso uma alma fotografasse</p>
+          <p>de sorte que, nos mesmos negativos,</p>
+          <p>A mesma luz pusesse em traços vivos</p>
+          <p>O nosso coração e a nossa face,</p>
+        </div>
+        <div>
+          <p>E os nossos ideais, e os mais cativos</p>
+          <p>De nossos sonhos... Se a emoção que nasce</p>
+          <p>Em nós, também nas chapas se gravasse,</p>
+          <p>Mesmo em ligeiros traços fugitivos...</p>
+        </div>
+        <div>
+          <p><hi>Meu caro Doutor Praguer!</hi></p>
+          <p>Te assaltaria máxima surpresa,</p>
+          <p>Notando _ deste grupo, bem no meio _</p>
+        </div>
+        <div>
+          <p>Que o mais forte, o mais belo e o mais ardente</p>
+          <p>Destes sujeitos, é, precisamente,</p>
+          <p>O mais triste, o mais pálido e o mais feio...</p>
+        </div>
+      </div>
+      <div>
+        <head>Manaus, 5 fev. 1905</head>
+      </div>
+      <div>
+        <head>FIM</head>
+        <head>Núcleo de Pesquisas em Informática, Literatura e Lingüística</head>
+</text>
+</TEI>
