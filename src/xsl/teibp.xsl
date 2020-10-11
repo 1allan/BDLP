@@ -54,7 +54,7 @@
             <xsl:param name="filePrefix" select="'http://dcl.slis.indiana.edu/teibp'"/>
             
     -->
-    <xsl:param name="filePrefix" select="'../teibp'"/>
+    <xsl:param name="filePrefix" select="'..'"/>
 	
     <xsl:param name="teibpcss" select="concat($filePrefix,'/css/teibp.css')"/>
     <xsl:param name="customcss" select="concat($filePrefix,'/css/custom.css')"/>
@@ -77,22 +77,20 @@
 
     <xsl:template match="/" name="htmlShell" priority="99">
         <html>
-            <div id="load-wall">
-                <h2>BDLP</h2>
-                <div class="progress-bar">
-                    <span></span>
-                </div>
-            </div>
             <xsl:call-template name="htmlHead"/>
             <body class="anti-fouc">
                 <header>
                     <a class="logo-bdlp" href="https://www.literaturabrasileira.ufsc.br/?locale=pt_BR">BLPL</a>
-                    <nav>	
-                        <div id="download-button" class="menu-button">
-                            <a id="download" onclick="return downloadHTML();" download="">Baixar texto</a>
-                            <span></span>
+                    <nav>
+                        <div id="download-button" class="tooltip bottom" data-content="Baixar o texto">
+                            <a id="download" onclick="return downloadHTML();" download="">
+                                <img src="../images/download.svg" alt="Baixar o texto"/>
+                            </a>
                         </div>
-                        <div id="index-button" class="menu-button open">
+                        <div id="theme-switch" class="tooltip bottom" data-content="Alterar contraste">
+                            <img src="../images/theme-switch.svg" alt="Mudar tema"/>
+                        </div>
+                        <div id="index-button" class="menu-button open tooltip bottom" data-content="Sumário">
                             <span class="line top"></span>
                             <span class="line middle"></span>
                             <span class="line bottom"></span>
@@ -342,7 +340,7 @@
             <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Oxygen:300,400"/>
             <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700"/>
             <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto"/>
-            <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Arvo:400,700,400italic,700italic|Gentium+Book+Basic:400,400italic,700,700italic"/>
+            <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Arvo:700,700italic|Gentium+Book+Basic:400,400italic,700,700italic"/>
             <link id="maincss" rel="stylesheet" type="text/css" href="{$teibpcss}"/>
             <link id="customcss" rel="stylesheet" type="text/css" href="{$customcss}"/>
             <link id="mediaqueries" rel="stylesheet" type="text/css" href="{$mediaqueries}"/>
@@ -426,7 +424,7 @@
             <span>Powered by <a href="{$teibpHome}">TEI Boilerplate</a>.</span>
             <span>TEI Boilerplate is licensed under a <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.</span>
             <a href="http://creativecommons.org/licenses/by/3.0/">
-                <img alt="Creative Commons License" style="border-width:0;" src="http://i.creativecommons.org/l/by/3.0/80x15.png"/>
+                <img alt="Creative Commons License" style="border-width:0;" src="https://licensebuttons.net/l/by/3.0/80x15.png"/>
             </a>
         </footer>
     </xsl:variable>

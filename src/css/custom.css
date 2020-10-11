@@ -1,5 +1,10 @@
+@font-face {  
+	font-family: Arvo-local;
+	src: url(../fonts/Arvo/Arvo-Bold.ttf);
+}
+
 html {
-	background-color: #999;
+	background-color: #e8e8e8;
 	scroll-behavior: smooth;
 	scroll-padding: 80px;
 }
@@ -25,6 +30,7 @@ teiHeader {
 	font-family: 'Gentium Book Basic';
 	max-width: 40em;
 	background-color: #fff;
+	box-shadow: 0 0 10px #999;
 	padding: 5em;
 	margin-left: auto;
 	margin-right: auto;
@@ -36,10 +42,20 @@ teiHeader {
 	font-size: 18px !important;
 	line-height: normal !important;
 	text-align: left !important;
+
+	transition: 300ms ease;
 }
 
 #tei-wrapper p {
 	text-align: justify;
+}
+
+#tei-wrapper.dark-mode {
+	background: #292929;
+}
+
+#tei-wrapper.dark-mode * {
+	color: white;
 }
 
 titleStmt > tei-title {
@@ -108,15 +124,15 @@ opener, closer, [rend="inspired"], argument[rend="translatedFrom"] {
 	z-index: 0;
 	padding: 15px 15px 20px 20px;
 	overflow-y: scroll;
-	background: #000;
-	color: #999;
+	background: #E8E8E8;
+	color: #000;
 	transition: 300ms ease;
 }
 
 #index-menu.active { right: 0px }
 
 #index-menu > h1 {
-	color: #999;
+	color: #000;
 	margin: 0;
 	margin-bottom: 15px;
 	font-size: 1.5em;
@@ -144,7 +160,7 @@ a[data-depth="11"] { margin-left: 200px }
 }
 
 #index-menu a:hover {
-	color: #fff;
+	color: #999;
 	transform: scale(1.05);
 }
 
@@ -162,7 +178,7 @@ header {
 	width: 100%;
 	height: 70px;
 	z-index: 999;
-	background: #fff;
+	background: #E8E8E8;
 	box-shadow: 4px 0 5px 0 #999;
 	transition: 300ms ease;
 }
@@ -198,9 +214,12 @@ header nav {
 	margin-right: 40px;
 }
 
+header > nav > div {
+	margin-left: 30px;
+}
+
 .menu-button {
 	cursor: pointer;
-	margin-left: 40px;
 	transition: 300ms;
 }
 
@@ -230,6 +249,35 @@ header nav {
 	border: 1px solid #66D37E
 }
 
+#theme-switch, #download-button {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100%;
+	cursor: pointer;
+}
+
+
+
+#theme-switch img, #download-button img {
+	border: none;
+	height: 20px;
+	transition: 300ms ease
+}
+
+#download-button a {
+	height: 22px;
+}
+
+#download-button img {
+	height: 100%;
+}
+
+#theme-switch:hover img, #download-button:hover img {
+	transform: scale(1.1);
+}
+
+
 #index-button {
 	height: 35px;
 	width: 35px;
@@ -238,14 +286,14 @@ header nav {
 }
 
 #index-button:hover {
-	transform: scale(1.1)
+	transform: scale(1.05)
 }
 
 .line {
 	position: absolute;
 	height: 3px;
 	width: 90%;
-	background: #000;
+	background: #292929;
 	transition: all cubic-bezier(0.26, 0.1, 0.27, 1.55) 0.35s;
 }
 .top { top: 18% }
@@ -302,10 +350,6 @@ div[type="poem"] > head:first-child {
 	font-size: 100%
 }
 
-div[type="poem"] {
-	margin-bottom: 15%;
-}
-
 l[type="dialogue"] {
 	display: table;
 	padding-left: 2.5%;
@@ -342,8 +386,20 @@ foot div {
 /* html files style */
 TEI div.title {
 	display: block;
-	font-family: Arvo, sans-serif;
-	font-weight: normal;
+	font-family: Arvo-local, 'Arvo';
+	border: 1px solid red;
+}
+
+text div > head {
+	font-family: Arvo-local, 'Arvo' !important;
+}
+
+tei-title, head {
+	font-family: Arvo-local, 'Arvo' !important;
+}
+
+head, titleStmt {
+	font-weight: 400 !important;
 }
 
 div[type="part"] > div.title {
@@ -356,7 +412,7 @@ div > div.title {
 	margin-top: 2em;
 }
 
-respStmt {
+respStmt, tei-title[type="short"], pb, milestone[unit="page"] {
 	display: none
 }
 
@@ -373,11 +429,11 @@ sp :last-child {
 }
 
 div[type="act"] > head { border-bottom: 1px solid #999 }
-text div > head { font-size: 27px }
-text div > div > head { font-size: 22px }
+text div > head { font-size: 25px }
+text div > div > head { font-size: 21px }
 text div > div > div > head { font-size: 16px }
-text div > div > div > div > head { font-size: 9px }
-text div > div > div > div > div > head { font-size: 11px }
+text div > div > div > div > head { font-size: 16px }
+text div > div > div > div > div > head { font-size: 16px }
 
 titleStmt > author:not(:last-child) {
 	margin-bottom: 5px;
@@ -388,41 +444,54 @@ div[type="poem"] > head {
 	font-size: 21px
 }
 
-#load-wall {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	flex-direction: column;
-	position: fixed;
-	top: 0;
-	left: 0;
-	width: 100vw;
-	height: 100vh;
-	z-index: 99999;
-	background: #fff;
-	transition: 1000ms cubic-bezier(1,0,.35,.73);
-}
-
-#load-wall > h2 {
-	font-family: Arvo;
-	font-weight: 100;
-	margin-bottom: 10px
-}
-
-.progress-bar {
-	box-sizing: border-box;
+.tooltip {
 	position: relative;
-	width: 250px;
-	height: 30px;
-	border: 3px solid #292929
+	font-size: 14px !important;
+	font-weight: 100 !important;
+	font-family: "Oxygen", sans-serif !important;
 }
 
-.progress-bar > span {
-	box-sizing: border-box;
-	position: absolute;
-	height: 100%;
-	width: 0;
-	background: #292929;
-	border: 3px solid white;
-	transition: 300ms ease;
+.tooltip::after {
+	background-color: #292929;
+	
+    border-radius: 4px;
+    color: #FFF;
+    display: none;
+    padding: 5px 10px;
+    position: absolute;
+	text-align: center;
+	white-space: nowrap;
+	z-index: 999;
+	transition: all 300ms;
+}
+
+.tooltip.bottom::after {
+    content: attr(data-content);
+    bottom: 0;
+	left: 50%;
+    transform: translate(-50%, calc(100% + 15px));
+}
+
+.tooltip:hover::after {
+	display: block;
+}
+
+.tooltip::before {
+    background-color: #292929;
+    content: ' ';
+    display: none;
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    z-index: 999;
+}
+
+.tooltip:hover::before {
+    display: block;
+}
+
+.tooltip.bottom::before {
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%, calc(100% + 10px)) rotate(45deg);
 }

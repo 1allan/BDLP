@@ -13,7 +13,7 @@ def load_static(dir) -> dict:
     if isdir(dir):
         output = dict()
         for file in os.listdir(dir):
-            with open(dir + file, 'r') as f:
+            with open(dir + file, 'r', encoding='utf8') as f:
                 output[file] = f.read()
     else:
         print('Diretório de arquivos estáticos é inválido!')
@@ -103,7 +103,7 @@ def main(input_dir, output_dir, static_dir=join(dirname(__file__), 'static')):
             output = str(etree.tostring(newdom, method="html", pretty_print=True), 'utf-8')
             html = xml.replace('.xml', '.html')
             
-            with open(output_dir + '/' + html, 'w') as f:
+            with open(output_dir + '/' + html, 'w', encoding='utf8') as f:
                 f.write(output)
 
         except Exception as exc:

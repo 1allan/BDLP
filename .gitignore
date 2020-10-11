@@ -1,4 +1,14 @@
 .vscode
+<<<<<<< HEAD
 __pycache__
 .venv/
 tests/
+=======
+*.test.*
+*.test/
+tests/
+/src/html/*
+!/src/html/.gitkeep
+__pycache__
+.venv/
+>>>>>>> master

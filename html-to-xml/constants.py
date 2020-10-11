@@ -48,7 +48,8 @@ a{
 }
 """
 
-TEI_WRAPPER = '''<?xml version="1.0" encoding="UTF-8"?>
+TEI_WRAPPER = '''
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../xsl/teibp.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
