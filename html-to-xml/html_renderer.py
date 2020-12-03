@@ -51,6 +51,7 @@ class HTMLRenderer:
             for element in tree.xpath('//*'):
                 if element.tag == 'a' or (element.text is not None and element.text.upper() == 'ÍNDICE'):
                     element.getparent().remove(element)
+                
 
             s = etree.tostring(tree, method="html", pretty_print=True)
 

@@ -127,6 +127,8 @@ with open(sys.argv[1], 'r', encoding='iso-8859-1') as f:
             title, author = element.text.split(', de ')
         except:
             title = element.text
+        finally:
+            output_string = output_string.replace(f'{element.text}', '')
 
 header = TEI_WRAPPER.replace('[TITLE]', title)
 header = header.replace('[AUTHOR]', author)

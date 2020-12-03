@@ -11,7 +11,8 @@
                 xmlns="http://www.w3.org/1999/xhtml" 
                 xmlns:html="http://www.w3.org/1999/xhtml" 
                 exclude-result-prefixes="xsl tei xd eg fn #default">
-    <xd:doc  scope="stylesheet">
+
+    <xd:doc scope="stylesheet">
         <xd:desc>
             <xd:p>
                 <xd:b>Created on:</xd:b> Nov 17, 2011</xd:p>
@@ -47,15 +48,7 @@
         <text>view page image(s)</text>
     </xsl:param>
     
-    	
-    <!-- parameters for file paths or URLs -->
-    <!-- modify filePrefix to point to files on your own server, 
-            or to specify a relatie path, e.g.:
-            <xsl:param name="filePrefix" select="'http://dcl.slis.indiana.edu/teibp'"/>
-            
-    -->
     <xsl:param name="filePrefix" select="'..'"/>
-	
     <xsl:param name="teibpcss" select="concat($filePrefix,'/css/teibp.css')"/>
     <xsl:param name="customcss" select="concat($filePrefix,'/css/custom.css')"/>
     <xsl:param name="teibpJS" select="concat($filePrefix,'/js/teibp.js')"/>
@@ -72,7 +65,6 @@
                 copied, with some modification, into the HTML document.</xd:p>
         </xd:desc>
     </xd:doc>
-
     <xsl:key name="ids" match="//*" use="@xml:id"/>
 
     <xsl:template match="/" name="htmlShell" priority="99">
@@ -140,7 +132,6 @@
         </xsl:element>
     </xsl:template>
 	
-	
     <xd:doc>
         <xd:desc>
             <xd:p>A hack because JavaScript was doing weird things with &lt;title>, probably due to confusion with HTML title. There is no TEI namespace in the TEI Boilerplate output because JavaScript, or at least JQuery, cannot manipulate the TEI elements/attributes if they are in the TEI namespace, so the TEI namespace is stripped from the output. As far as I know, &lt;title> elsewhere does not cause any problems, but we may need to extend this to other occurrences of &lt;title> outside the Header.</xd:p>
@@ -189,17 +180,7 @@
         </xsl:if>
     </xsl:template>
 	
-	
-
     <xsl:template match="@xml:id">
-        <!-- @xml:id is copied to @id, which browsers can use
-                for internal links.
-        -->
-        <!--
-        <xsl:attribute name="xml:id">
-                <xsl:value-of select="."/>
-        </xsl:attribute>
-        -->
         <xsl:attribute name="id">
             <xsl:value-of select="."/>
         </xsl:attribute>
@@ -248,35 +229,6 @@
         </xsl:copy>
     </xsl:template>
 	
-    <!--
-    <xd:doc xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
-            <xd:desc>
-                    <xd:p>Transforms TEI figure/head to HTML figcaption</xd:p>
-            </xd:desc>
-    </xd:doc>
-    <xsl:template match="tei:figure/tei:head">
-            <figcaption><xsl:apply-templates/></figcaption>
-    </xsl:template>
-    -->
-    <!--
-    <xd:doc xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
-            <xd:desc>
-                    <xd:p>Adds some javascript just before end of root tei element. Javascript sets the
-                            /html/head/title element to an appropriate title selected from the TEI document.
-                            This could also be achieved through XSLT but is here to demonstrate some simple
-                            javascript, using JQuery, to manipulate the DOM containing both html and TEI.</xd:p>
-            </xd:desc>
-    </xd:doc>
-    
-    
-    <xsl:template match="tei:TEI" priority="99">
-            <xsl:element name="{local-name()}">
-                    <xsl:call-template name="addID"/>
-                    <xsl:apply-templates select="@*|node()"/>
-            </xsl:element>
-    </xsl:template>
-    -->
-	
     <xsl:template name="addID">
         <xsl:if test="not(ancestor::eg:egXML)">
             <xsl:attribute name="id">
@@ -311,11 +263,6 @@
         <xsl:variable name="id" select="concat($root,$suffix)"/>
         <xsl:choose>
             <xsl:when test="key('ids',$id)">
-                <!--
-                <xsl:message>
-                        <xsl:value-of select="concat('Found duplicate id: ',$id)"/>
-                </xsl:message>
-                -->
                 <xsl:call-template name="generate-unique-id">
                     <xsl:with-param name="root" select="$root"/>
                     <xsl:with-param name="suffix" select="concat($suffix,'f')"/>
@@ -436,7 +383,6 @@
             <input type="checkbox" id="pbToggle" /> 
             <div>
                 <h3>Themes:</h3>
-
                 <select id="themeBox" onchange="switchThemes(this);">
                     <option value="{$theme.default}" >Default</option>
                     <option value="{$theme.sleepytime}">Sleepy Time</option>
@@ -519,9 +465,6 @@
         </xsl:choose>
     </xsl:template>
 	
-	
-	
-
     <xsl:template match="eg:egXML">
         <xsl:element name="{local-name()}">
             <xsl:apply-templates select="@*"/>
