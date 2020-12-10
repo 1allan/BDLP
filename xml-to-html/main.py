@@ -1,28 +1,31 @@
 import os
 import sys
 import re
+
 from os.path import isfile, isdir, join, dirname
 from lxml import etree
 
-from util.constants import HTML_TAGS
+from util.constants import HTML_TAGS, GENERATOR_TAG, XML_PREFIX
 
-as_dir = lambda d: d + '/' if d[-1] != '/' else d
+
+add_bar = lambda d: d + '/' if d[-1] != '/' else d
+
 
 def load_static(dir) -> dict:
-    dir = as_dir(dir)
+    dir = add_bar(dir)
     if isdir(dir):
         output = dict()
         for file in os.listdir(dir):
             with open(dir + file, 'r', encoding='utf8') as f:
                 output[file] = f.read()
     else:
-        print('Diretório de arquivos estáticos é inválido!')
+        print('Diretório de arquivos estáticos fornecido é inválido!')
         return
     return output
 
 
 def main(input_dir, output_dir, static_dir=join(dirname(__file__), 'static')):
-    static_dir = as_dir(static_dir)
+    static_dir = add_bar(static_dir)
     static_files = load_static(static_dir)
     xslt = etree.parse(static_dir + 'teibp.xsl')
     transform = etree.XSLT(xslt)
@@ -31,12 +34,16 @@ def main(input_dir, output_dir, static_dir=join(dirname(__file__), 'static')):
     xmls_path = ''
     if isdir(input_dir):
         xmls = [f for f in os.listdir(input_dir) if isfile(join(input_dir, f))]
-        xmls_path = as_dir(input_dir)
+        xmls_path = add_bar(input_dir)
     else:
-        xmls_path = input_dir[:input_dir.rindex('/') + 1] if '/' in input_dir else './'
-        xmls = [input_dir[input_dir.rindex('/') + 1:]] if '/' in input_dir else [input_dir]
+        if '/' in input_dir:
+            xmls_path = input_dir[:input_dir.rindex('/') + 1]
+            xmls = [input_dir[input_dir.rindex('/') + 1:]]
+        else:
+            xmls_path = './'
+            xmls = [input_dir]
 
-    output_dir = as_dir(output_dir)
+    output_dir = add_bar(output_dir)
     try:
         os.makedirs(output_dir)
     except FileExistsError:
@@ -47,11 +54,11 @@ def main(input_dir, output_dir, static_dir=join(dirname(__file__), 'static')):
             dom = etree.parse(xmls_path + xml)
             newdom = transform(dom)
 
-            body = newdom.find('{http://www.w3.org/1999/xhtml}body')
-            head = newdom.find('{http://www.w3.org/1999/xhtml}head')
+            body = newdom.find(XML_PREFIX + 'body')
+            head = newdom.find(XML_PREFIX + 'head')
             
-            meta = etree.fromstring('<meta name="Generator" content="TEI2HTML"> </meta>')
-            meta.tag = '{http://www.w3.org/1999/xhtml}' + meta.tag
+            meta = etree.fromstring(GENERATOR_TAG)
+            meta.tag = XML_PREFIX + meta.tag
             head.append(meta)
             
             links = list()
@@ -90,7 +97,10 @@ def main(input_dir, output_dir, static_dir=join(dirname(__file__), 'static')):
                 if file[file.rindex('.') + 1:] == 'css':
                     for t in tags_blacklist:
                         hm = static_files[file]
-                        static_files[file] = re.sub(r'(?<![-.#])\b{}\b(?!-)'.format(t), r'span.' + t, static_files[file])
+                        pattern = r'(?<![-.#])\b{}\b(?!-)'.format(t)
+                        static_files[file] = re.sub(pattern, 
+                                                    r'span.' + t, 
+                                                    static_files[file])
 
             for l in links:
                 href = l.attrib['href']
@@ -100,10 +110,12 @@ def main(input_dir, output_dir, static_dir=join(dirname(__file__), 'static')):
                 l.attrib.clear()
                 l.attrib['type'] = 'text/css'
             
-            output = str(etree.tostring(newdom, method="html", pretty_print=True), 'utf-8')
+            etree_str = etree.tostring(newdom, method="html", 
+                                       pretty_print=True)
+            output = str(etree_str, 'utf-8')
             html = xml.replace('.xml', '.html')
             
-            with open(output_dir + '/' + html, 'w', encoding='utf8') as f:
+            with open(f'{output_dir}/{html}', 'w', encoding='utf8') as f:
                 f.write(output)
 
         except Exception as exc:
@@ -113,5 +125,6 @@ if __name__ == '__main__':
     if len(sys.argv) > 2:
         main(sys.argv[1], sys.argv[2])
     else:
-        print('É necessário fornecer para o script ao menos o caminho de entrada e saída!')
-        print('python main.py <input> <output> <optional-arguments>')
+        print(('É necessário fornecer para o script ao menos o caminho de '
+               'entrada e saída!'))
+        print('python main.py <entrada> <saída> <argumentos-opcionais>')

@@ -1,3 +1,6 @@
+GENERATOR_TAG = '<meta name="Generator" content="TEI2HTML"> </meta>'
+XML_PREFIX = '{http://www.w3.org/1999/xhtml}'
+
 HTML_TAGS = [
     "a",
     "abbr",
