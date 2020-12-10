@@ -4,5 +4,5 @@ Este repositório contém algumas das ferramentas desenvolvidas durante o projet
 
   + `src/`: leitor de arquivos XML normalizados em TEI. 
     - [Homens e Algas](https://www.literaturabrasileira.ufsc.br/documentos/?action=download&id=130253), uma das obras em formatação TEI que, atualmente, podem ser lidas pelo conversor.
-  + `xml-to-html`: ferramenta de conversão de textos XML normalizados em TEI para HTML.
-  + `html-to-xml`: ferramenta de conversão de textos em HTML gerados pelo Microsoft Word para XML.
+  + `xml-to-html/`: ferramenta de conversão de textos XML normalizados em TEI para HTML.
+  + `html-to-xml/`: ferramenta de conversão de textos em HTML gerados pelo Microsoft Word para XML.
