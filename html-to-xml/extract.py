@@ -1,6 +1,9 @@
 import pprint
 import sys
+import glob
+import chardet
 import codecs
+
 from lxml import html
 
 from html_renderer import HTMLRenderer
@@ -76,8 +79,11 @@ def output_head(group):
         output_string += ("\n")
 
 output_string = ''
+rawdata = open(sys.argv[1], 'rb').read()
+FILE_ENCODING = chardet.detect(rawdata)['encoding']
+
 pp = pprint.PrettyPrinter(indent=4)
-hr = HTMLRenderer.load_file(sys.argv[1])
+hr = HTMLRenderer.load_file(sys.argv[1], FILE_ENCODING)
 gf = GroupFinder(hr.box)
 
 left_sum = 0.0
@@ -118,7 +124,7 @@ for group in gf.groups:
 
 title = ''
 author = ''
-with open(sys.argv[1], 'r', encoding='iso-8859-1') as f:
+with open(sys.argv[1], 'r', encoding=FILE_ENCODING) as f:
     string = f.read()
 
     tree = html.fromstring(string)
@@ -153,7 +159,7 @@ if in_div:
     output_string += (f'{" " * 6}</div>\n')
 
 output_string += ("</text>\n</TEI>")
-string = output_string.encode('utf-8').decode('utf-8')
+# string = output_string.encode(FILE_ENCODING).decode('utf-8')
 
 with open(sys.argv[2], 'w', encoding='utf-8') as f:
-    f.write(string)
+    f.write(output_string)

@@ -41,11 +41,11 @@ class HTMLRenderer:
             box["parfmt"] = box["par"]["fmt"]
         box.pop("par", None)
 
-    def load_file(path):
+    def load_file(path, encoding):
         with open(path, 'rb') as f:
             s = f.read()
             s = re.sub(rb"ProductID=\"[^\"]*\"", rb"", s)
-            s = s.decode('utf-8')
+            s = s.decode(encoding)
 
             tree = html.fromstring(s)
             for element in tree.xpath('//*'):
