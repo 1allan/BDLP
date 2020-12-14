@@ -26,7 +26,7 @@ class CSSParser:
                     value = value.replace('!important', '')
                     attrs[name] = value
                 if name == "margin":
-                    values = value.slit()
+                    values = value.split()
                     if len(values) == 1:
                         attrs["margin-top"] = value
                         attrs["margin-bottom"] = value
