@@ -495,3 +495,7 @@ div[type="poem"] > head {
     left: 50%;
     transform: translate(-50%, calc(100% + 10px)) rotate(45deg);
 }
+
+div[type="titlepage"] > p{
+	text-align: center !important;
+}
