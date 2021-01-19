@@ -6,3 +6,5 @@ Este repositório contém algumas das ferramentas desenvolvidas durante o projet
     - [Homens e Algas](https://www.literaturabrasileira.ufsc.br/documentos/?action=download&id=130253), uma das obras em formatação TEI que atualmente podem ser lidas pelo conversor.
   + `xml-to-html/`: ferramenta de conversão de textos XML normalizados em TEI para HTML.
   + `html-to-xml/`: ferramenta de conversão de textos em HTML gerados pelo Microsoft Word para XML. Essa ferramenta foi em grande parte desenvolvida pelo Adiel Mittmann e fui responsável por fazer algumas adaptações.
+
+Mais especificações sobre o projeto no meu [CV Lattes](http://lattes.cnpq.br/9489997699391044)
